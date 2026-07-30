@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THE GLOBAL BRIEF — Intelligence Terminal</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Times+New+Roman&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700;800&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Inter', sans-serif; background-color: #f7f6f2; color: #1e293b; }
+    .serif-title { font-family: 'Times New Roman', Times, serif; }
+    .mono { font-family: 'JetBrains Mono', monospace; }
+    .editorial-card { background-color: #ffffff; border: 1px solid #e2e8f0; }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col">
+
+  <!-- TOP TICKER (KAPALIÇARŞI & BIST BANT) -->
+  <div class="bg-slate-900 text-slate-300 text-[11px] mono py-2 px-4 border-b border-slate-800 flex justify-between items-center overflow-x-auto whitespace-nowrap">
+    <div class="flex items-center gap-6" id="markets-bar">
+      <span class="text-rose-400 font-bold">LIVE MARKETS:</span>
+      <span>Yükleniyor...</span>
+    </div>
+    <div class="text-slate-400 text-[10px]" id="last-updated">Son Güncelleme: --</div>
+  </div>
+
+  <!-- HEADER -->
+  <header class="bg-[#f7f6f2] border-b-2 border-slate-900 px-4 pt-8 pb-6 text-center">
+    <h1 class="text-4xl md:text-6xl font-extrabold text-slate-900 serif-title uppercase italic">THE GLOBAL BRIEF</h1>
+    <p class="text-xs text-slate-600 mt-2 italic font-serif">"Real-time intelligence, Kapalıçarşı FX, and OSINT analysis."</p>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <div class="max-w-7xl mx-auto px-4 py-8 w-full grid grid-cols-1 lg:grid-cols-12 gap-8">
+    <main class="lg:col-span-8 space-y-6">
+      <!-- BRIEFING CARD -->
+      <section class="bg-slate-900 text-slate-100 rounded-xl p-6 shadow-md border border-slate-800">
+        <div class="flex items-center justify-between border-b border-slate-800 pb-3 mb-4">
+          <span class="text-xs mono font-bold text-rose-400 uppercase">JARVIS // LIVE INTELLIGENCE BRIEFING</span>
+          <span class="text-[10px] mono bg-rose-950 text-rose-300 font-bold px-2 py-0.5 rounded">AUTO-UPDATED</span>
+        </div>
+        <h3 id="jarvis-greeting" class="text-base font-bold text-amber-300 mono mb-3">Sistem yükleniyor...</h3>
+        
+        <!-- RED ALERT -->
+        <div class="p-3 bg-rose-950/40 border-l-2 border-rose-500 rounded-r text-slate-200 mb-4">
+          <span class="text-rose-400 font-bold mono text-xs">RED ALERT: </span>
+          <span id="red-alert-text" class="text-xs">Canlı veriler çekiliyor...</span>
+        </div>
+
+        <ul class="space-y-2 text-xs md:text-sm text-slate-300">
+          <li id="bullet-1">• Güncelleniyor...</li>
+          <li id="bullet-2">• Güncelleniyor...</li>
+          <li id="bullet-3">• Güncelleniyor...</li>
+        </ul>
+      </section>
+    </main>
+
+    <aside class="lg:col-span-4">
+      <div class="editorial-card rounded-xl p-5">
+        <h3 class="text-xs mono font-bold text-slate-900 border-b pb-2 mb-3">🏛️ KAPALIÇARŞI & BIST VERİLERİ</h3>
+        <div id="markets-list" class="space-y-2 text-xs font-mono text-slate-700">
+          Yükleniyor...
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <script>
+    async function loadData() {
+      try {
+        const res = await fetch('data.json?t=' + new Date().getTime());
+        const data = await res.json();
+        
+        document.getElementById('jarvis-greeting').innerText = data.briefing.greeting;
+        document.getElementById('red-alert-text').innerText = data.briefing.red_alert;
+        document.getElementById('bullet-1').innerText = "• " + data.briefing.bullet_1;
+        document.getElementById('bullet-2').innerText = "• " + data.briefing.bullet_2;
+        document.getElementById('bullet-3').innerText = "• " + data.briefing.bullet_3;
+        document.getElementById('last-updated').innerText = "Son Güncelleme: " + data.updated_at;
+
+        const m = data.markets;
+        document.getElementById('markets-bar').innerHTML = `
+          <span class="text-rose-400 font-bold">KAPALIÇARŞI / BIST:</span>
+          <span>USD: <strong>${m.usd_try_kapalicarsi}</strong></span>
+          <span>EUR: <strong>${m.eur_try_kapalicarsi}</strong></span>
+          <span>BIST 100: <strong>${m.bist100}</strong></span>
+          <span>ASELSAN: <strong>${m.aselsan}</strong></span>
+        `;
+        document.getElementById('markets-list').innerHTML = `
+          <div class="flex justify-between border-b pb-1"><span>USD/TRY (Kapalıçarşı):</span><strong>${m.usd_try_kapalicarsi}</strong></div>
+          <div class="flex justify-between border-b pb-1"><span>EUR/TRY (Kapalıçarşı):</span><strong>${m.eur_try_kapalicarsi}</strong></div>
+          <div class="flex justify-between border-b pb-1"><span>Gram Altın (Kapalıçarşı):</span><strong>${m.gram_altin_kapalicarsi}</strong></div>
+          <div class="flex justify-between border-b pb-1"><span>BIST 100 Endeksi:</span><strong>${m.bist100}</strong></div>
+          <div class="flex justify-between"><span>ASELSAN (BIST):</span><strong>${m.aselsan}</strong></div>
+        `;
+      } catch (e) {
+        console.log("Henüz data.json güncellenmedi.");
+      }
+    }
+    window.onload = loadData;
+  </script>
+</body>
+</html>
