@@ -1,44 +1,68 @@
 {
-  "updated_at": "2026-07-30 13:49:09",
+  "updated_at": "2026-07-30 13:56:56",
   "markets": {
     "usd_try_kapalicarsi": "47.43 TL",
     "eur_try_kapalicarsi": "54.17 TL",
-    "gram_altin_kapalicarsi": "3690 TL",
-    "bist100": "10,840.50",
-    "aselsan": "62.40 TL"
+    "gram_altin_kapalicarsi": "6,150 TL",
+    "bist100": "13,270.00",
+    "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Diyanet İşleri Başkanı Arpaguş, 2026 Hac Organizasyonu Değerlendirme Toplantısı'nda konuştu",
-    "bullet_1": "Diyanet İşleri Başkanı Arpaguş, 2026 Hac Organizasyonu Değerlendirme Toplantısı'nda konuştu",
-    "bullet_2": "İstanbul'da 128 noktaya EDS kurulacak",
-    "bullet_3": "Adliyelerde \"yargı hizmetlerinin etkinliği büroları\" kurulacak",
+    "red_alert": "SON DAKİKA: US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
+    "bullet_1": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
+    "bullet_2": "DARPA challenge pushes limits of heavy-lift drone technology",
+    "bullet_3": "Ukraine’s F-16s are being worn out from intercepting Russian drones",
     "defense_news": [
       {
+        "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/us-strikes-586-billion-patriot-missile-deal-amid-rising-stockpile-concerns/",
+        "summary": "The U.S. Army awarded Lockheed Martin a contract worth up to $58.6 billion to produce Patriot interceptor missiles."
+      },
+      {
+        "title": "DARPA challenge pushes limits of heavy-lift drone technology",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/07/30/darpa-challenge-pushes-limits-of-heavy-lift-drone-technology/",
+        "summary": "The Defense Advanced Research Projects Agency next week will kick off its inaugural Lift Challenge next week. The agency will award $6.5 million in prizes."
+      },
+      {
         "title": "Ukraine’s F-16s are being worn out from intercepting Russian drones",
-        "source": "Defense News"
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/flashpoints/ukraine/2026/07/30/ukraines-f-16s-are-being-worn-out-from-intercepting-russian-drones/",
+        "summary": "Ukrainian F-16s have destroyed more than 2,500 one-way attack drones, but repeated interceptions are wearing out the country's small fleet."
       },
       {
         "title": "Pentagon puts out call for robot boats that launch attack drones",
-        "source": "Defense News"
-      },
-      {
-        "title": "Pentagon has ‘kicked off’ review of US force posture in Europe",
-        "source": "Defense News"
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/29/pentagon-puts-out-call-for-robot-boats-that-launch-attack-drones/",
+        "summary": "The Pentagon has put out a solicitation for drone boats that can launch attack drones — and it wants them ready to test within 120 days."
       }
     ],
     "geo_news": [
       {
         "title": "Diyanet İşleri Başkanı Arpaguş, 2026 Hac Organizasyonu Değerlendirme Toplantısı'nda konuştu",
-        "source": "AA Gündem"
+        "source": "AA GÜNDEM",
+        "url": "https://www.aa.com.tr/tr/gundem/diyanet-isleri-baskani-arpagus-2026-hac-organizasyonu-degerlendirme-toplantisinda-konustu/4013967",
+        "summary": "Diyanet İşleri Başkanı Safi Arpaguş, \"Başkanlığımızın hac organizasyonu her yıl iltifat görüyor, ödüle layık görülüyor ve başarılı bir organizasyon olarak addediliyor.\" ifadesini k..."
       },
       {
         "title": "İstanbul'da 128 noktaya EDS kurulacak",
-        "source": "AA Gündem"
+        "source": "AA GÜNDEM",
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-128-noktaya-eds-kurulacak/4013957",
+        "summary": "İstanbul Büyükşehir Belediyesi (İBB) Ulaşım Koordinasyon Merkezi (UKOME) toplantısında, kentteki 128 noktaya Elektronik Denetleme Sistemi (EDS) kurulması kararlaştırıldı."
       },
       {
         "title": "Adliyelerde \"yargı hizmetlerinin etkinliği büroları\" kurulacak",
-        "source": "AA Gündem"
+        "source": "AA GÜNDEM",
+        "url": "https://www.aa.com.tr/tr/gundem/adliyelerde-yargi-hizmetlerinin-etkinligi-burolari-kurulacak/4013960",
+        "summary": "Adalet Bakanı Akın Gürlek, adliyelerde \"yargı hizmetlerinin etkinliği büroları\" kuracaklarını belirterek, \"Bu bürolar, vatandaşlarımızın karşılaştıkları gecikmelerin ve uygulamaya ..."
+      },
+      {
+        "title": "Hac yolculuğu öncesi adaylara \"acenteleri e-Devlet'ten tercih edin\" önerisi",
+        "source": "AA GÜNDEM",
+        "url": "https://www.aa.com.tr/tr/gundem/hac-yolculugu-oncesi-adaylara-acenteleri-e-devletten-tercih-edin-onerisi/4013935",
+        "summary": "Hac ve Umre Seyahat Acenteleri Derneği (HURSAD) Başkanı Diyaeddin Şahin, hacı adaylarının e-Devlet üzerinden yetkili acenteleri tercih ederek resmi süreçleri tamamlamaları gerektiğ..."
       }
     ]
   }
