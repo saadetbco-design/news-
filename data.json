@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 13:56:56",
+  "updated_at": "2026-07-30 20:47:05",
   "markets": {
     "usd_try_kapalicarsi": "47.43 TL",
     "eur_try_kapalicarsi": "54.17 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
-    "bullet_1": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
-    "bullet_2": "DARPA challenge pushes limits of heavy-lift drone technology",
-    "bullet_3": "Ukraine’s F-16s are being worn out from intercepting Russian drones",
+    "red_alert": "SON DAKİKA: F-47 program producing test aircraft,  on schedule for 2028 flight",
+    "bullet_1": "F-47 program producing test aircraft,  on schedule for 2028 flight",
+    "bullet_2": "Navy awards $76.6 billion for Virginia, Columbia-class submarines",
+    "bullet_3": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say",
     "defense_news": [
       {
-        "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
+        "title": "F-47 program producing test aircraft,  on schedule for 2028 flight",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/us-strikes-586-billion-patriot-missile-deal-amid-rising-stockpile-concerns/",
-        "summary": "The U.S. Army awarded Lockheed Martin a contract worth up to $58.6 billion to produce Patriot interceptor missiles."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
+        "summary": "The F-47 program has begun its engineering and manufacturing phase and will fly during this presidential administration, a service official said."
       },
       {
-        "title": "DARPA challenge pushes limits of heavy-lift drone technology",
+        "title": "Navy awards $76.6 billion for Virginia, Columbia-class submarines",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/07/30/darpa-challenge-pushes-limits-of-heavy-lift-drone-technology/",
-        "summary": "The Defense Advanced Research Projects Agency next week will kick off its inaugural Lift Challenge next week. The agency will award $6.5 million in prizes."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/navy-awards-766-billion-for-virginia-columbia-class-submarines/",
+        "summary": "The U.S. Navy is spending $76.6 billion to build five Columbia-class and nine Virginia-class submarines."
       },
       {
-        "title": "Ukraine’s F-16s are being worn out from intercepting Russian drones",
+        "title": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/flashpoints/ukraine/2026/07/30/ukraines-f-16s-are-being-worn-out-from-intercepting-russian-drones/",
-        "summary": "Ukrainian F-16s have destroyed more than 2,500 one-way attack drones, but repeated interceptions are wearing out the country's small fleet."
+        "url": "https://www.defensenews.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/",
+        "summary": "The U.S. has depleted roughly two-thirds of its pre-war Patriot missile interceptor inventory during the conflict with Iran, new analysis says."
       },
       {
-        "title": "Pentagon puts out call for robot boats that launch attack drones",
+        "title": "Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/29/pentagon-puts-out-call-for-robot-boats-that-launch-attack-drones/",
-        "summary": "The Pentagon has put out a solicitation for drone boats that can launch attack drones — and it wants them ready to test within 120 days."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/",
+        "summary": "Iran is expected to receive within weeks a first shipment out of up to 400 Chinese-made shoulder-fired air defense missile launchers."
       }
     ],
     "geo_news": [
       {
-        "title": "Diyanet İşleri Başkanı Arpaguş, 2026 Hac Organizasyonu Değerlendirme Toplantısı'nda konuştu",
+        "title": "Öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren kanun teklifi TBMM Genel Kurulunda kabul edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/diyanet-isleri-baskani-arpagus-2026-hac-organizasyonu-degerlendirme-toplantisinda-konustu/4013967",
-        "summary": "Diyanet İşleri Başkanı Safi Arpaguş, \"Başkanlığımızın hac organizasyonu her yıl iltifat görüyor, ödüle layık görülüyor ve başarılı bir organizasyon olarak addediliyor.\" ifadesini k..."
+        "url": "https://www.aa.com.tr/tr/gundem/ogrenci-affina-ve-yuksekogretime-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi-/4014387",
+        "summary": "TBMM Genel Kurulunda, öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren Yükseköğretim Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi kabul edilerek..."
       },
       {
-        "title": "İstanbul'da 128 noktaya EDS kurulacak",
+        "title": "Bakan Memişoğlu: 228 bin vatandaşımızın sağlıklı hayat merkezlerine yönlendirmelerini yaptık",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-128-noktaya-eds-kurulacak/4013957",
-        "summary": "İstanbul Büyükşehir Belediyesi (İBB) Ulaşım Koordinasyon Merkezi (UKOME) toplantısında, kentteki 128 noktaya Elektronik Denetleme Sistemi (EDS) kurulması kararlaştırıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-228-bin-vatandasimizin-saglikli-hayat-merkezlerine-yonlendirmelerini-yaptik/4014272",
+        "summary": "Sağlık Bakanı Memişoğlu, \"Şimdiye kadar 2,5 milyon insanımıza ulaştık. 228 bin vatandaşımızın da fizik tedavi ve fizyoterapistler eşliğinde kilo vermelerini ve sağlıklı hayat merke..."
       },
       {
-        "title": "Adliyelerde \"yargı hizmetlerinin etkinliği büroları\" kurulacak",
+        "title": "Ahbap Derneğine ilişkin suç örgütü soruşturmasında gözaltına alınan 7 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adliyelerde-yargi-hizmetlerinin-etkinligi-burolari-kurulacak/4013960",
-        "summary": "Adalet Bakanı Akın Gürlek, adliyelerde \"yargı hizmetlerinin etkinliği büroları\" kuracaklarını belirterek, \"Bu bürolar, vatandaşlarımızın karşılaştıkları gecikmelerin ve uygulamaya ..."
+        "url": "https://www.aa.com.tr/tr/gundem/ahbap-dernegine-iliskin-suc-orgutu-sorusturmasinda-gozaltina-alinan-7-supheli-tutuklandi/4014352",
+        "summary": "\"Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı\" iddiasına ilişkin soruşturma kapsamındaki dördüncü dalga operasyonda gözaltına alınan 13 şüpheliden 7..."
       },
       {
-        "title": "Hac yolculuğu öncesi adaylara \"acenteleri e-Devlet'ten tercih edin\" önerisi",
+        "title": "Sivas'ta Siyer-i Nebi Külliyesi için temel atma töreni düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/hac-yolculugu-oncesi-adaylara-acenteleri-e-devletten-tercih-edin-onerisi/4013935",
-        "summary": "Hac ve Umre Seyahat Acenteleri Derneği (HURSAD) Başkanı Diyaeddin Şahin, hacı adaylarının e-Devlet üzerinden yetkili acenteleri tercih ederek resmi süreçleri tamamlamaları gerektiğ..."
+        "url": "https://www.aa.com.tr/tr/gundem/sivasta-siyer-i-nebi-kulliyesi-icin-temel-atma-toreni-duzenlendi/4014345",
+        "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, \"Türk-Kürt arasındaki kardeşliği yeniden tesis etmeye çalışıyoruz, Alevi-Sünni arasındaki kardeşliği yeniden tesis etmeye ç..."
       }
     ]
   }
