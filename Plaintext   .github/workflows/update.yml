@@ -1,0 +1,35 @@
+name: Daily Briefing Auto Update
+
+on:
+  schedule:
+    # TSİ 08:00 ve 20:00 saatlerinde çalışır
+    - cron: '0 5,17 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu Klonla
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Bağımlılıkları Yükle
+        run: pip install feedparser google-generativeai
+
+      - name: Betiği Çalıştır
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python updater.py
+
+      - name: Değişiklikleri Kaydet
+        run: |
+          git config --global user.name 'Jarvis-Bot'
+          git config --global user.email 'bot@globalbrief.com'
+          git add data.json
+          git commit -m "Auto Update: Briefing Data" || exit 0
+          git push
