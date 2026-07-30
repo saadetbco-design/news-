@@ -1,17 +1,45 @@
 {
-  "updated_at": "2026-07-30 13:36:10",
+  "updated_at": "2026-07-30 13:49:09",
   "markets": {
     "usd_try_kapalicarsi": "47.43 TL",
-    "eur_try_kapalicarsi": "54.14 TL",
-    "gram_altin_kapalicarsi": "Canlı Veri",
-    "bist100": "BIST 100",
-    "aselsan": "ASELS"
+    "eur_try_kapalicarsi": "54.17 TL",
+    "gram_altin_kapalicarsi": "3690 TL",
+    "bist100": "10,840.50",
+    "aselsan": "62.40 TL"
   },
   "briefing": {
-    "greeting": "Günaydın Saadet. Canlı sistem hazır.",
-    "red_alert": "Sıcak Haber: Ukraine’s F-16s are being worn out from intercepting Russian drones",
-    "bullet_1": "Ukraine’s F-16s are being worn out from intercepting Russian drones",
-    "bullet_2": "Pentagon puts out call for robot boats that launch attack drones",
-    "bullet_3": "Pentagon has ‘kicked off’ review of US force posture in Europe"
+    "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
+    "red_alert": "SON DAKİKA: Diyanet İşleri Başkanı Arpaguş, 2026 Hac Organizasyonu Değerlendirme Toplantısı'nda konuştu",
+    "bullet_1": "Diyanet İşleri Başkanı Arpaguş, 2026 Hac Organizasyonu Değerlendirme Toplantısı'nda konuştu",
+    "bullet_2": "İstanbul'da 128 noktaya EDS kurulacak",
+    "bullet_3": "Adliyelerde \"yargı hizmetlerinin etkinliği büroları\" kurulacak",
+    "defense_news": [
+      {
+        "title": "Ukraine’s F-16s are being worn out from intercepting Russian drones",
+        "source": "Defense News"
+      },
+      {
+        "title": "Pentagon puts out call for robot boats that launch attack drones",
+        "source": "Defense News"
+      },
+      {
+        "title": "Pentagon has ‘kicked off’ review of US force posture in Europe",
+        "source": "Defense News"
+      }
+    ],
+    "geo_news": [
+      {
+        "title": "Diyanet İşleri Başkanı Arpaguş, 2026 Hac Organizasyonu Değerlendirme Toplantısı'nda konuştu",
+        "source": "AA Gündem"
+      },
+      {
+        "title": "İstanbul'da 128 noktaya EDS kurulacak",
+        "source": "AA Gündem"
+      },
+      {
+        "title": "Adliyelerde \"yargı hizmetlerinin etkinliği büroları\" kurulacak",
+        "source": "AA Gündem"
+      }
+    ]
   }
 }
