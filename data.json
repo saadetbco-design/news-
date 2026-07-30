@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-07-30 13:29:47",
+  "updated_at": "2026-07-30 13:36:10",
   "markets": {
-    "bist100": "10,840 (BIST)",
-    "usd_try_kapalicarsi": "32.90 TL",
-    "eur_try_kapalicarsi": "35.65 TL",
-    "gram_altin_kapalicarsi": "2,540 TL",
-    "aselsan": "₺62.40 (ASELS)"
+    "usd_try_kapalicarsi": "47.43 TL",
+    "eur_try_kapalicarsi": "54.14 TL",
+    "gram_altin_kapalicarsi": "Canlı Veri",
+    "bist100": "BIST 100",
+    "aselsan": "ASELS"
   },
   "briefing": {
-    "greeting": "Günaydın Saadet. Sistem yayında.",
-    "red_alert": "Küresel haber akışı ve piyasa verileri taranıyor.",
-    "bullet_1": "Savunma sanayii ve jeopolitik gelişmeler takip ediliyor.",
-    "bullet_2": "International and regional defense feeds operational.",
-    "bullet_3": "Kapalıçarşı ve BIST canlı göstergeleri entegre edildi."
+    "greeting": "Günaydın Saadet. Canlı sistem hazır.",
+    "red_alert": "Sıcak Haber: Ukraine’s F-16s are being worn out from intercepting Russian drones",
+    "bullet_1": "Ukraine’s F-16s are being worn out from intercepting Russian drones",
+    "bullet_2": "Pentagon puts out call for robot boats that launch attack drones",
+    "bullet_3": "Pentagon has ‘kicked off’ review of US force posture in Europe"
   }
 }
