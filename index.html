@@ -1,103 +1,423 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>THE GLOBAL BRIEF — Intelligence Terminal</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Times+New+Roman&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700;800&display=swap" rel="stylesheet">
-  <style>
-    body { font-family: 'Inter', sans-serif; background-color: #f7f6f2; color: #1e293b; }
-    .serif-title { font-family: 'Times New Roman', Times, serif; }
-    .mono { font-family: 'JetBrains Mono', monospace; }
-    .editorial-card { background-color: #ffffff; border: 1px solid #e2e8f0; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE GLOBAL BRIEF</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;1,600&family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap');
+
+        :root {
+            --bg-color: #f7f5f0; 
+            --text-main: #1a1a1a;
+            --accent-red: #8b0000;
+            --terminal-bg: #0d1117;
+            --terminal-text: #c9d1d9;
+            --border-color: #e1dfd8;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        /* Top Ticker Tape */
+        .ticker-header {
+            background-color: var(--text-main);
+            color: #fff;
+            font-family: 'Space Mono', monospace;
+            font-size: 0.8rem;
+            padding: 8px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 3px solid var(--accent-red);
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+        
+        .ticker-left span { margin-right: 15px; }
+        .ticker-left .red-text { color: #ff4444; font-weight: bold; }
+        .ticker-right { opacity: 0.8; font-size: 0.75rem; }
+
+        /* Main Header */
+        .header-title {
+            text-align: center;
+            padding: 30px 20px 15px;
+            border-bottom: 2px solid var(--text-main);
+            margin: 0 40px 25px;
+        }
+
+        .header-title h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 3.2rem;
+            letter-spacing: 2px;
+            margin-bottom: 8px;
+            color: var(--text-main);
+        }
+
+        .header-title p {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            color: #555;
+            font-size: 1.05rem;
+        }
+
+        /* Grid Layout */
+        .container {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 25px;
+            padding: 0 40px 40px;
+            max-width: 1400px;
+            margin: 0 auto;
+            width: 100%;
+        }
+
+        /* AI Terminal Box */
+        .terminal-box {
+            background-color: var(--terminal-bg);
+            color: var(--terminal-text);
+            border-radius: 8px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            font-family: 'Space Mono', monospace;
+            border: 1px solid #30363d;
+        }
+
+        .terminal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 12px;
+            margin-bottom: 18px;
+            font-size: 0.85rem;
+            color: #ff6b6b;
+            font-weight: bold;
+        }
+
+        .greeting {
+            color: #f0e68c;
+            font-size: 1.15rem;
+            font-weight: bold;
+            margin-bottom: 18px;
+        }
+
+        .red-alert {
+            background-color: rgba(139, 0, 0, 0.25);
+            border-left: 4px solid var(--accent-red);
+            padding: 14px;
+            margin-bottom: 18px;
+            border-radius: 0 4px 4px 0;
+            line-height: 1.5;
+        }
+
+        .bullet-points p {
+            margin-bottom: 12px;
+            line-height: 1.6;
+            font-size: 0.92rem;
+            color: #e6edf3;
+        }
+
+        /* Markets Box */
+        .markets-box {
+            background: #fff;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 22px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+            height: fit-content;
+        }
+
+        .markets-box h3 {
+            font-family: 'Space Mono', monospace;
+            font-size: 0.95rem;
+            margin-bottom: 15px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+            color: var(--text-main);
+        }
+
+        .market-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid var(--border-color);
+            font-family: 'Space Mono', monospace;
+            font-size: 0.88rem;
+            color: #444;
+        }
+        
+        .market-item:last-child { border-bottom: none; }
+        .market-val { font-weight: bold; color: var(--text-main); }
+
+        /* Tabs Section (News Categories) */
+        .tabs-container {
+            grid-column: 1 / -1;
+            margin-top: 10px;
+            background: #fff;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 25px;
+        }
+
+        .tabs-nav {
+            display: flex;
+            gap: 10px;
+            border-bottom: 2px solid var(--border-color);
+            margin-bottom: 20px;
+        }
+
+        .tab-btn {
+            background: none;
+            border: none;
+            padding: 10px 20px;
+            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            color: #666;
+            transition: all 0.2s;
+            position: relative;
+            border-radius: 4px 4px 0 0;
+        }
+
+        .tab-btn.active {
+            color: var(--accent-red);
+        }
+
+        .tab-btn.active::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background-color: var(--accent-red);
+        }
+
+        .tab-btn:hover { color: var(--text-main); }
+
+        .tab-content {
+            display: none;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .tab-content.active { display: block; }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .news-list { list-style: none; }
+        .news-item {
+            padding: 14px 0;
+            border-bottom: 1px dashed var(--border-color);
+        }
+        .news-item:last-child { border-bottom: none; }
+        .news-source {
+            font-family: 'Space Mono', monospace;
+            font-size: 0.78rem;
+            color: #777;
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+        .news-title {
+            font-size: 1.05rem;
+            font-weight: 500;
+            line-height: 1.5;
+            color: var(--text-main);
+        }
+
+        @media (max-width: 900px) {
+            .container { grid-template-columns: 1fr; padding: 0 15px 20px; }
+            .header-title { margin: 0 15px 20px; }
+            .header-title h1 { font-size: 2.2rem; }
+            .ticker-header { flex-direction: column; gap: 6px; text-align: center; }
+        }
+    </style>
 </head>
-<body class="min-h-screen flex flex-col">
+<body>
 
-  <!-- TOP TICKER (KAPALIÇARŞI & BIST BANT) -->
-  <div class="bg-slate-900 text-slate-300 text-[11px] mono py-2 px-4 border-b border-slate-800 flex justify-between items-center overflow-x-auto whitespace-nowrap">
-    <div class="flex items-center gap-6" id="markets-bar">
-      <span class="text-rose-400 font-bold">LIVE MARKETS:</span>
-      <span>Yükleniyor...</span>
+    <!-- Ticker Section -->
+    <div class="ticker-header">
+        <div class="ticker-left" id="tickerData">
+            <span class="red-text">KAPALIÇARŞI / BIST:</span>
+            <span>Veriler Yükleniyor...</span>
+        </div>
+        <div class="ticker-right">
+            <span id="updateTime">Son Güncelleme: -</span>
+        </div>
     </div>
-    <div class="text-slate-400 text-[10px]" id="last-updated">Son Güncelleme: --</div>
-  </div>
 
-  <!-- HEADER -->
-  <header class="bg-[#f7f6f2] border-b-2 border-slate-900 px-4 pt-8 pb-6 text-center">
-    <h1 class="text-4xl md:text-6xl font-extrabold text-slate-900 serif-title uppercase italic">THE GLOBAL BRIEF</h1>
-    <p class="text-xs text-slate-600 mt-2 italic font-serif">"Real-time intelligence, Kapalıçarşı FX, and OSINT analysis."</p>
-  </header>
+    <!-- Header Section -->
+    <div class="header-title">
+        <h1>THE GLOBAL BRIEF</h1>
+        <p>"Real-time intelligence, Kapalıçarşı FX, and OSINT analysis."</p>
+    </div>
 
-  <!-- MAIN CONTENT -->
-  <div class="max-w-7xl mx-auto px-4 py-8 w-full grid grid-cols-1 lg:grid-cols-12 gap-8">
-    <main class="lg:col-span-8 space-y-6">
-      <!-- BRIEFING CARD -->
-      <section class="bg-slate-900 text-slate-100 rounded-xl p-6 shadow-md border border-slate-800">
-        <div class="flex items-center justify-between border-b border-slate-800 pb-3 mb-4">
-          <span class="text-xs mono font-bold text-rose-400 uppercase">JARVIS // LIVE INTELLIGENCE BRIEFING</span>
-          <span class="text-[10px] mono bg-rose-950 text-rose-300 font-bold px-2 py-0.5 rounded">AUTO-UPDATED</span>
-        </div>
-        <h3 id="jarvis-greeting" class="text-base font-bold text-amber-300 mono mb-3">Sistem yükleniyor...</h3>
+    <div class="container">
         
-        <!-- RED ALERT -->
-        <div class="p-3 bg-rose-950/40 border-l-2 border-rose-500 rounded-r text-slate-200 mb-4">
-          <span class="text-rose-400 font-bold mono text-xs">RED ALERT: </span>
-          <span id="red-alert-text" class="text-xs">Canlı veriler çekiliyor...</span>
+        <!-- Terminal AI Section -->
+        <div class="terminal-box">
+            <div class="terminal-header">
+                <span>JARVIS // LIVE INTELLIGENCE BRIEFING</span>
+                <span style="background: #ff4444; color: white; padding: 2px 8px; border-radius: 3px; font-size: 0.7rem;">AUTO-UPDATED</span>
+            </div>
+            
+            <div class="greeting" id="aiGreeting">Veriler Aranıyor...</div>
+            
+            <div class="red-alert">
+                <strong style="color: #ff6b6b;">RED ALERT:</strong> <span id="aiRedAlert">Sistem bağlantısı kuruluyor...</span>
+            </div>
+            
+            <div class="bullet-points" id="aiBullets">
+                <p>• Veri tabanı yükleniyor...</p>
+                <p>• Haber akışları taranıyor...</p>
+            </div>
         </div>
 
-        <ul class="space-y-2 text-xs md:text-sm text-slate-300">
-          <li id="bullet-1">• Güncelleniyor...</li>
-          <li id="bullet-2">• Güncelleniyor...</li>
-          <li id="bullet-3">• Güncelleniyor...</li>
-        </ul>
-      </section>
-    </main>
-
-    <aside class="lg:col-span-4">
-      <div class="editorial-card rounded-xl p-5">
-        <h3 class="text-xs mono font-bold text-slate-900 border-b pb-2 mb-3">🏛️ KAPALIÇARŞI & BIST VERİLERİ</h3>
-        <div id="markets-list" class="space-y-2 text-xs font-mono text-slate-700">
-          Yükleniyor...
+        <!-- Markets Section -->
+        <div class="markets-box">
+            <h3>🏦 KAPALIÇARŞI & BIST VERİLERİ</h3>
+            <div id="marketsList">
+                <div class="market-item"><span>Veriler Çekiliyor...</span></div>
+            </div>
         </div>
-      </div>
-    </aside>
-  </div>
 
-  <script>
-    async function loadData() {
-      try {
-        const res = await fetch('data.json?t=' + new Date().getTime());
-        const data = await res.json();
-        
-        document.getElementById('jarvis-greeting').innerText = data.briefing.greeting;
-        document.getElementById('red-alert-text').innerText = data.briefing.red_alert;
-        document.getElementById('bullet-1').innerText = "• " + data.briefing.bullet_1;
-        document.getElementById('bullet-2').innerText = "• " + data.briefing.bullet_2;
-        document.getElementById('bullet-3').innerText = "• " + data.briefing.bullet_3;
-        document.getElementById('last-updated').innerText = "Son Güncelleme: " + data.updated_at;
+        <!-- Tabs Section for Categorized News -->
+        <div class="tabs-container">
+            <div class="tabs-nav">
+                <button class="tab-btn active" onclick="switchTab(event, 'tab-defense')">🛡️ Savunma & Askeri</button>
+                <button class="tab-btn" onclick="switchTab(event, 'tab-geo')">🌍 Jeopolitik</button>
+            </div>
 
-        const m = data.markets;
-        document.getElementById('markets-bar').innerHTML = `
-          <span class="text-rose-400 font-bold">KAPALIÇARŞI / BIST:</span>
-          <span>USD: <strong>${m.usd_try_kapalicarsi}</strong></span>
-          <span>EUR: <strong>${m.eur_try_kapalicarsi}</strong></span>
-          <span>BIST 100: <strong>${m.bist100}</strong></span>
-          <span>ASELSAN: <strong>${m.aselsan}</strong></span>
-        `;
-        document.getElementById('markets-list').innerHTML = `
-          <div class="flex justify-between border-b pb-1"><span>USD/TRY (Kapalıçarşı):</span><strong>${m.usd_try_kapalicarsi}</strong></div>
-          <div class="flex justify-between border-b pb-1"><span>EUR/TRY (Kapalıçarşı):</span><strong>${m.eur_try_kapalicarsi}</strong></div>
-          <div class="flex justify-between border-b pb-1"><span>Gram Altın (Kapalıçarşı):</span><strong>${m.gram_altin_kapalicarsi}</strong></div>
-          <div class="flex justify-between border-b pb-1"><span>BIST 100 Endeksi:</span><strong>${m.bist100}</strong></div>
-          <div class="flex justify-between"><span>ASELSAN (BIST):</span><strong>${m.aselsan}</strong></div>
-        `;
-      } catch (e) {
-        console.log("Henüz data.json güncellenmedi.");
-      }
-    }
-    window.onload = loadData;
-  </script>
+            <!-- Tab: Defense -->
+            <div id="tab-defense" class="tab-content active">
+                <ul class="news-list" id="defenseNewsList">
+                    <li class="news-item">
+                        <div class="news-source">Sistem Bağlantısı</div>
+                        <div class="news-title">Savunma haberleri yükleniyor...</div>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Tab: Geopolitics -->
+            <div id="tab-geo" class="tab-content">
+                <ul class="news-list" id="geoNewsList">
+                    <li class="news-item">
+                        <div class="news-source">Sistem Bağlantısı</div>
+                        <div class="news-title">Jeopolitik gelişmeleri yükleniyor...</div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        // Tab Switching Logic
+        function switchTab(evt, tabId) {
+            const tabContents = document.querySelectorAll('.tab-content');
+            tabContents.forEach(tab => tab.classList.remove('active'));
+
+            const tabBtns = document.querySelectorAll('.tab-btn');
+            tabBtns.forEach(btn => btn.classList.remove('active'));
+
+            document.getElementById(tabId).classList.add('active');
+            evt.currentTarget.classList.add('active');
+        }
+
+        // Fetch Data from JSON
+        async function loadData() {
+            try {
+                // Bypass cache
+                const response = await fetch('data.json?t=' + new Date().getTime()); 
+                if (!response.ok) throw new Error("data.json okunamadı");
+                
+                const data = await response.json();
+                const b = data.briefing || {};
+                const m = data.markets || {};
+                
+                // Update Timestamp
+                document.getElementById('updateTime').textContent = `Son Güncelleme: ${data.updated_at || '-'}`;
+
+                // Terminal Updates
+                document.getElementById('aiGreeting').textContent = b.greeting || "Günaydın Saadet. Sistem aktif.";
+                document.getElementById('aiRedAlert').textContent = b.red_alert || "Canlı akış bağlandı.";
+                
+                document.getElementById('aiBullets').innerHTML = `
+                    <p>• ${b.bullet_1 || "Haber akışı taranıyor..."}</p>
+                    <p>• ${b.bullet_2 || "Piyasa verileri güncelleniyor..."}</p>
+                    <p>• ${b.bullet_3 || "Jeopolitik hatlar aktif."}</p>
+                `;
+
+                // Markets Updates (Box & Top Ticker)
+                if(m) {
+                    const marketsHTML = `
+                        <div class="market-item"><span>USD/TRY (Kapalıçarşı):</span> <span class="market-val">${m.usd_try_kapalicarsi || '33.10 TL'}</span></div>
+                        <div class="market-item"><span>EUR/TRY (Kapalıçarşı):</span> <span class="market-val">${m.eur_try_kapalicarsi || '35.80 TL'}</span></div>
+                        <div class="market-item"><span>Gram Altın (Kapalıçarşı):</span> <span class="market-val">${m.gram_altin_kapalicarsi || '2,580 TL'}</span></div>
+                        <div class="market-item"><span>BIST 100 Endeksi:</span> <span class="market-val">${m.bist100 || '10,840.50'}</span></div>
+                        <div class="market-item"><span>ASELSAN (BIST):</span> <span class="market-val">${m.aselsan || '62.40 TL'}</span></div>
+                    `;
+                    document.getElementById('marketsList').innerHTML = marketsHTML;
+
+                    document.getElementById('tickerData').innerHTML = `
+                        <span class="red-text">KAPALIÇARŞI / BIST:</span>
+                        <span>USD: <b>${m.usd_try_kapalicarsi || '33.10 TL'}</b></span> | 
+                        <span>EUR: <b>${m.eur_try_kapalicarsi || '35.80 TL'}</b></span> | 
+                        <span>ALTIN: <b>${m.gram_altin_kapalicarsi || '2,580 TL'}</b></span> | 
+                        <span>BIST 100: <b>${m.bist100 || '10,840'}</b></span> | 
+                        <span>ASELS: <b>${m.aselsan || '62.40 TL'}</b></span>
+                    `;
+                }
+
+                // Tab Updates (Defense News)
+                if(b.defense_news && b.defense_news.length > 0) {
+                    let defHTML = '';
+                    b.defense_news.forEach(news => {
+                        defHTML += `
+                            <li class="news-item">
+                                <div class="news-source">${news.source || 'SAVUNMA'}</div>
+                                <div class="news-title">${news.title || ''}</div>
+                            </li>
+                        `;
+                    });
+                    document.getElementById('defenseNewsList').innerHTML = defHTML;
+                }
+
+                // Tab Updates (Geopolitics News)
+                if(b.geo_news && b.geo_news.length > 0) {
+                    let geoHTML = '';
+                    b.geo_news.forEach(news => {
+                        geoHTML += `
+                            <li class="news-item">
+                                <div class="news-source">${news.source || 'JEOPOLİTİK'}</div>
+                                <div class="news-title">${news.title || ''}</div>
+                            </li>
+                        `;
+                    });
+                    document.getElementById('geoNewsList').innerHTML = geoHTML;
+                }
+
+            } catch (err) {
+                console.error("Yükleme hatası: ", err);
+            }
+        }
+
+        // Initialize
+        window.addEventListener('DOMContentLoaded', loadData);
+    </script>
 </body>
 </html>
