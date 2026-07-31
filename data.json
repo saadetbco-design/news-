@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 12:27:02",
+  "updated_at": "2026-07-31 20:51:07",
   "markets": {
     "usd_try_kapalicarsi": "47.50 TL",
     "eur_try_kapalicarsi": "54.67 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: The arms race for cheaper anti-ballistic weapons is underway",
-    "bullet_1": "The arms race for cheaper anti-ballistic weapons is underway",
-    "bullet_2": "F-47 program producing test aircraft, on schedule for 2028 flight",
-    "bullet_3": "Navy awards $76.6 billion for Virginia, Columbia-class submarines",
+    "red_alert": "SON DAKİKA: Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
+    "bullet_1": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
+    "bullet_2": "Chinese military researchers tap US AI models to train defense systems",
+    "bullet_3": "The arms race for cheaper anti-ballistic weapons is underway",
     "defense_news": [
+      {
+        "title": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/31/just-one-in-three-americans-back-iran-war-most-unsure-of-trumps-goals-poll-finds/",
+        "summary": "A Reuters/Ipsos poll found that 69% of Americans think President Donald Trump has not “clearly explained the goals of U.S. military involvement in Iran.”"
+      },
+      {
+        "title": "Chinese military researchers tap US AI models to train defense systems",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
+        "summary": "Chinese researchers have reportedly used leading U.S. AI models developed by OpenAI and Anthropic to train AI systems to advance defense capabilities."
+      },
       {
         "title": "The arms race for cheaper anti-ballistic weapons is underway",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
         "summary": "The F-47 program has begun its engineering and manufacturing phase and will fly during this presidential administration, a service official said."
-      },
-      {
-        "title": "Navy awards $76.6 billion for Virginia, Columbia-class submarines",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/navy-awards-766-billion-for-virginia-columbia-class-submarines/",
-        "summary": "The U.S. Navy is spending $76.6 billion to build five Columbia-class and nine Virginia-class submarines."
-      },
-      {
-        "title": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/",
-        "summary": "The U.S. has depleted roughly two-thirds of its pre-war Patriot missile interceptor inventory during the conflict with Iran, new analysis says."
       }
     ],
     "geo_news": [
       {
-        "title": "AYM'nin sonuçlandırdığı bireysel başvuru sayısı 640 bini aştı",
+        "title": "Türkiye'den Cezayir'deki trafik kazasında ölenler için taziye mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/aymnin-sonuclandirdigi-bireysel-basvuru-sayisi-640-bini-asti/4014937",
-        "summary": "Anayasa Mahkemesi (AYM), bireysel başvuru hakkının getirildiği 23 Eylül 2012'den 30 Haziran 2026'ya kadar yapılan 744 bin 379 bireysel başvurudan 640 bin 880'ini sonuçlandırdı."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyeden-cezayirdeki-trafik-kazasinda-olenler-icin-taziye-mesaji/4015396",
+        "summary": "Dışişleri Bakanlığı, Cezayir'in kuzeyindeki Bumerdas vilayetinde meydana gelen trafik kazasında yaşanan can kayıpları sebebiyle Cezayir halkına başsağlığı diledi."
       },
       {
-        "title": "Bakan Göktaş'tan 24 haftaya çıkarılan doğum izni süresine ilişkin paylaşım",
+        "title": "İstanbul'da \"TÜGVA Yaz Okulları Finali\" programı düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-24-haftaya-cikarilan-dogum-izni-suresine-iliskin-paylasim/4014895",
-        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, aileyi merkeze alan politikalarla medeniyetin temeli olan aile yapısını güçlendirmeye, iş-aile yaşamı dengesini desteklemeye..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-tugva-yaz-okullari-finali-programi-duzenlendi/4015390",
+        "summary": "Türkiye Gençlik Vakfı'nın (TÜGVA) yaz boyunca Türkiye'nin 81 ilinde gerçekleştirdiği yaz okulu faaliyetlerinin final programı İstanbul'da gerçekleştirildi."
       },
       {
-        "title": "Kerkük, Türk Dünyası Belediyeler Birliğine katıldı",
+        "title": "Dışişleri Bakanı Fidan Suudi mevkidaşı Bin Ferhan ile telefonda görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kerkuk-turk-dunyasi-belediyeler-birligine-katildi/4014873",
-        "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Kerkük'ün Türk Dünyası Belediyeler Birliğine katıldığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-suudi-mevkidasi-bin-ferhan-ile-telefonda-gorustu/4015382",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan ile telefon görüşmesi gerçekleştirdi."
       },
       {
-        "title": "Gülistan Doku soruşturmasında adliyeye sevk edilen 6 şüpheliden 5'i tutuklandı",
+        "title": "Türkiye'den Japonya'daki depremde ölenler için taziye mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/gulistan-doku-sorusturmasinda-adliyeye-sevk-edilen-6-supheliden-5i-tutuklandi/4014841",
-        "summary": "Tunceli'de 5 Ocak 2020'den bu yana haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili soruşturma kapsamında adliyeye sevk edilen 6 şüpheliden 5'i tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyeden-japonyadaki-depremde-olenler-icin-taziye-mesaji/4015373",
+        "summary": "Dışişleri Bakanlığı, Japonya'nın Kumamoto eyaletinde 28 Temmuz'da meydana gelen depremde yaşanan can kayıpları nedeniyle Japon halkına taziyelerini sundu."
       }
     ]
   }
