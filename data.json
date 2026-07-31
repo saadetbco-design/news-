@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-07-30 20:47:05",
+  "updated_at": "2026-07-31 12:27:02",
   "markets": {
-    "usd_try_kapalicarsi": "47.43 TL",
-    "eur_try_kapalicarsi": "54.17 TL",
+    "usd_try_kapalicarsi": "47.50 TL",
+    "eur_try_kapalicarsi": "54.67 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: F-47 program producing test aircraft,  on schedule for 2028 flight",
-    "bullet_1": "F-47 program producing test aircraft,  on schedule for 2028 flight",
-    "bullet_2": "Navy awards $76.6 billion for Virginia, Columbia-class submarines",
-    "bullet_3": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say",
+    "red_alert": "SON DAKİKA: The arms race for cheaper anti-ballistic weapons is underway",
+    "bullet_1": "The arms race for cheaper anti-ballistic weapons is underway",
+    "bullet_2": "F-47 program producing test aircraft, on schedule for 2028 flight",
+    "bullet_3": "Navy awards $76.6 billion for Virginia, Columbia-class submarines",
     "defense_news": [
       {
-        "title": "F-47 program producing test aircraft,  on schedule for 2028 flight",
+        "title": "The arms race for cheaper anti-ballistic weapons is underway",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
+        "summary": "After years of a Patriot monopoly, new anti-ballistic alternatives are emerging. Officials hope to see some of them on the battlefield by the end of 2026."
+      },
+      {
+        "title": "F-47 program producing test aircraft, on schedule for 2028 flight",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
         "summary": "The F-47 program has begun its engineering and manufacturing phase and will fly during this presidential administration, a service official said."
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/",
         "summary": "The U.S. has depleted roughly two-thirds of its pre-war Patriot missile interceptor inventory during the conflict with Iran, new analysis says."
-      },
-      {
-        "title": "Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/",
-        "summary": "Iran is expected to receive within weeks a first shipment out of up to 400 Chinese-made shoulder-fired air defense missile launchers."
       }
     ],
     "geo_news": [
       {
-        "title": "Öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren kanun teklifi TBMM Genel Kurulunda kabul edildi",
+        "title": "AYM'nin sonuçlandırdığı bireysel başvuru sayısı 640 bini aştı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ogrenci-affina-ve-yuksekogretime-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi-/4014387",
-        "summary": "TBMM Genel Kurulunda, öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren Yükseköğretim Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi kabul edilerek..."
+        "url": "https://www.aa.com.tr/tr/gundem/aymnin-sonuclandirdigi-bireysel-basvuru-sayisi-640-bini-asti/4014937",
+        "summary": "Anayasa Mahkemesi (AYM), bireysel başvuru hakkının getirildiği 23 Eylül 2012'den 30 Haziran 2026'ya kadar yapılan 744 bin 379 bireysel başvurudan 640 bin 880'ini sonuçlandırdı."
       },
       {
-        "title": "Bakan Memişoğlu: 228 bin vatandaşımızın sağlıklı hayat merkezlerine yönlendirmelerini yaptık",
+        "title": "Bakan Göktaş'tan 24 haftaya çıkarılan doğum izni süresine ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-228-bin-vatandasimizin-saglikli-hayat-merkezlerine-yonlendirmelerini-yaptik/4014272",
-        "summary": "Sağlık Bakanı Memişoğlu, \"Şimdiye kadar 2,5 milyon insanımıza ulaştık. 228 bin vatandaşımızın da fizik tedavi ve fizyoterapistler eşliğinde kilo vermelerini ve sağlıklı hayat merke..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-24-haftaya-cikarilan-dogum-izni-suresine-iliskin-paylasim/4014895",
+        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, aileyi merkeze alan politikalarla medeniyetin temeli olan aile yapısını güçlendirmeye, iş-aile yaşamı dengesini desteklemeye..."
       },
       {
-        "title": "Ahbap Derneğine ilişkin suç örgütü soruşturmasında gözaltına alınan 7 şüpheli tutuklandı",
+        "title": "Kerkük, Türk Dünyası Belediyeler Birliğine katıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ahbap-dernegine-iliskin-suc-orgutu-sorusturmasinda-gozaltina-alinan-7-supheli-tutuklandi/4014352",
-        "summary": "\"Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı\" iddiasına ilişkin soruşturma kapsamındaki dördüncü dalga operasyonda gözaltına alınan 13 şüpheliden 7..."
+        "url": "https://www.aa.com.tr/tr/gundem/kerkuk-turk-dunyasi-belediyeler-birligine-katildi/4014873",
+        "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Kerkük'ün Türk Dünyası Belediyeler Birliğine katıldığını bildirdi."
       },
       {
-        "title": "Sivas'ta Siyer-i Nebi Külliyesi için temel atma töreni düzenlendi",
+        "title": "Gülistan Doku soruşturmasında adliyeye sevk edilen 6 şüpheliden 5'i tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sivasta-siyer-i-nebi-kulliyesi-icin-temel-atma-toreni-duzenlendi/4014345",
-        "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, \"Türk-Kürt arasındaki kardeşliği yeniden tesis etmeye çalışıyoruz, Alevi-Sünni arasındaki kardeşliği yeniden tesis etmeye ç..."
+        "url": "https://www.aa.com.tr/tr/gundem/gulistan-doku-sorusturmasinda-adliyeye-sevk-edilen-6-supheliden-5i-tutuklandi/4014841",
+        "summary": "Tunceli'de 5 Ocak 2020'den bu yana haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili soruşturma kapsamında adliyeye sevk edilen 6 şüpheliden 5'i tutuklandı."
       }
     ]
   }
