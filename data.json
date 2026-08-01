@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-31 20:51:07",
+  "updated_at": "2026-08-01 10:50:14",
   "markets": {
-    "usd_try_kapalicarsi": "47.50 TL",
-    "eur_try_kapalicarsi": "54.67 TL",
+    "usd_try_kapalicarsi": "47.54 TL",
+    "eur_try_kapalicarsi": "54.72 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Türkiye'den Cezayir'deki trafik kazasında ölenler için taziye mesajı",
+        "title": "Bakan Çiftçi:  10 yıl değil 100 yıl geçse de teröristleri tek tek yakalayarak adalete teslim edeceğiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyeden-cezayirdeki-trafik-kazasinda-olenler-icin-taziye-mesaji/4015396",
-        "summary": "Dışişleri Bakanlığı, Cezayir'in kuzeyindeki Bumerdas vilayetinde meydana gelen trafik kazasında yaşanan can kayıpları sebebiyle Cezayir halkına başsağlığı diledi."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-10-yil-degil-100-yil-gecse-de-teroristleri-tek-tek-yakalayarak-adalete-teslim-edecegiz/4015666",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Hainlerin Türkiye'de veya dünyanın herhangi bir yerinde saklanma çabaları sonucu değiştirmeyecek, üzerinden 10 yıl değil 100 yıl geçse de teröristl..."
       },
       {
-        "title": "İstanbul'da \"TÜGVA Yaz Okulları Finali\" programı düzenlendi",
+        "title": "AK Parti Sözcüsü Çelik'ten 15 Temmuz'da suikast timindeki FETÖ mensubunun yakalanmasına ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-tugva-yaz-okullari-finali-programi-duzenlendi/4015390",
-        "summary": "Türkiye Gençlik Vakfı'nın (TÜGVA) yaz boyunca Türkiye'nin 81 ilinde gerçekleştirdiği yaz okulu faaliyetlerinin final programı İstanbul'da gerçekleştirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celikten-15-temmuzda-suikast-timindeki-feto-mensubunun-yakalanmasina-iliskin-aciklama/4015663",
+        "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, 15 Temmuz darbe girişiminde suikast timindeki FETÖ mensubunun yakalanmasına ilişkin açıklama yaptı."
       },
       {
-        "title": "Dışişleri Bakanı Fidan Suudi mevkidaşı Bin Ferhan ile telefonda görüştü",
+        "title": "Burdur Mehmet Akif Ersoy Üniversitesi, yapay zekalı tarım için nitelikli insan kaynağı yetiştirecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-suudi-mevkidasi-bin-ferhan-ile-telefonda-gorustu/4015382",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan ile telefon görüşmesi gerçekleştirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/burdur-mehmet-akif-ersoy-universitesi-yapay-zekali-tarim-icin-nitelikli-insan-kaynagi-yetistirecek/4015657",
+        "summary": "Burdur Mehmet Akif Ersoy Üniversitesi, tarım ve hayvancılıkta yaşanan iş gücü sorununa yapay zeka ve robotik teknolojilerle çözüm üretecek nitelikli insan kaynağı yetiştirmek amacı..."
       },
       {
-        "title": "Türkiye'den Japonya'daki depremde ölenler için taziye mesajı",
+        "title": "Ülke genelinde son üç ayda 28 faili meçhul cinayet aydınlatıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyeden-japonyadaki-depremde-olenler-icin-taziye-mesaji/4015373",
-        "summary": "Dışişleri Bakanlığı, Japonya'nın Kumamoto eyaletinde 28 Temmuz'da meydana gelen depremde yaşanan can kayıpları nedeniyle Japon halkına taziyelerini sundu."
+        "url": "https://www.aa.com.tr/tr/gundem/ulke-genelinde-son-uc-ayda-28-faili-mechul-cinayet-aydinlatildi/4015638",
+        "summary": "Adalet Bakanlığı Faili Meçhul Suçları Araştırma Başkanlığı, ülke genelinde son üç ayda 25 dosyadaki 28 faili meçhul cinayeti aydınlattı."
       }
     ]
   }
