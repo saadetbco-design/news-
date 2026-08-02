@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-01 20:16:41",
+  "updated_at": "2026-08-02 10:52:09",
   "markets": {
-    "usd_try_kapalicarsi": "47.54 TL",
-    "eur_try_kapalicarsi": "54.72 TL",
+    "usd_try_kapalicarsi": "47.55 TL",
+    "eur_try_kapalicarsi": "54.75 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Aile ve Sosyal Hizmetler Bakanı Göktaş: Bugüne kadar 1367 kadın kooperatifinin hayata geçirilmesine destek olduk",
+        "title": "Antalya'da sıcaktan bunalanlar sahillerde yoğunluk oluşturdu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakani-goktas-bugune-kadar-1367-kadin-kooperatifinin-hayata-gecirilmesine-destek-olduk/4015989",
-        "summary": "Bakan Göktaş \"Bugüne kadar 1367 kadın kooperatifinin hayata geçirilmesine destek olduk. Bu kapsamda eğitim, danışmanlık ve rehberlikle beraber markalaşma ve online süreçlerinde bu ..."
+        "url": "https://www.aa.com.tr/tr/gundem/antalyada-sicaktan-bunalanlar-sahillerde-yogunluk-olusturdu/4016202",
+        "summary": "Antalya'da etkili olan sıcak havadan bunalanlar, sahillerde zaman geçirdi, denize girerek serinlemeye çalıştı."
       },
       {
-        "title": "Şehit Mustafa Cambaz 5. Fotoğraf Yarışması'nda ödüller sahiplerini buldu",
+        "title": "Fatih'teki tarihi hazirede 7 mezar taşı tahrip edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sehit-mustafa-cambaz-5-fotograf-yarismasinda-oduller-sahiplerini-buldu/4015982",
-        "summary": "Yeni Şafak gazetesinin 15 Temmuz şehidi Mustafa Cambaz anısına düzenlediği Şehit Mustafa Cambaz 5. Fotoğraf Yarışması'nda dereceye girenlere ödülleri Demokrasi ve Özgürlükler Adası..."
+        "url": "https://www.aa.com.tr/tr/gundem/fatihteki-tarihi-hazirede-7-mezar-tasi-tahrip-edildi/4016217",
+        "summary": "Fatih Sultan Mehmet'in alemdarlarından Alemdar Ali Haydar Dede tarafından yaptırılan Haydarhane Camisi Haziresi'ndeki mezar taşlarını kıran şüpheli, polis ekiplerince aranıyor."
       },
       {
-        "title": "Kadıköy'de triatlon yarışı nedeniyle bazı yollar trafiğe kapatılacak",
+        "title": "Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kadikoyde-triatlon-yarisi-nedeniyle-bazi-yollar-trafige-kapatilacak/4015974",
-        "summary": "İstanbul'da yarın düzenlenecek \"Kadıköy Sprint Triatlon Yarışı\" dolayısıyla trafiğe kapatılacak yollar ve alternatif güzergahlar belirlendi."
+        "url": "https://www.aa.com.tr/tr/gundem/akademik-personel-ve-lisansustu-egitimi-giris-sinavi-yapildi/4016232",
+        "summary": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) 2026 Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı (2026-ALES/2) yapıldı. Sınav sonuçları 21 Ağustos'ta açıklanacak."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş: Yürürlüğe girecek olan yasayla Türkiye'de yeni bir dönemin kapılarını sonuna kadar açıyoruz",
+        "title": "Dicle Nehri'nde nesli tehlike altında olan su samuru görüntülendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-yururluge-girecek-olan-yasayla-turkiyede-yeni-bir-donemin-kapilarini-sonuna-kadar-aciyoruz/4015958",
-        "summary": "TBMM Başkanı Kurtulmuş, \"Terör örgütünün tamamıyla kendisini feshetmesi, silahların bütün unsurlarıyla birlikte bırakılmasıyla yürürlüğe girecek olan yasayla birlikte Türkiye'de ye..."
+        "url": "https://www.aa.com.tr/tr/gundem/dicle-nehrinde-nesli-tehlike-altinda-olan-su-samuru-goruntulendi/4016227",
+        "summary": "Diyarbakır'da, Dicle Nehri'nde nesli tehlike altında bulunan su samuru kayıt altına alındı."
       }
     ]
   }
