@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 14:00:26",
+  "updated_at": "2026-08-03 20:47:10",
   "markets": {
     "usd_try_kapalicarsi": "47.51 TL",
     "eur_try_kapalicarsi": "54.82 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
-    "bullet_1": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
-    "bullet_2": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
-    "bullet_3": "Chinese military researchers tap US AI models to train defense systems",
+    "red_alert": "SON DAKİKA: US Air Force jet engine manufacturing plagued by ‘significant challenges’",
+    "bullet_1": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
+    "bullet_2": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
+    "bullet_3": "Poland readies Ukraine ‘Coalition of Willing’ drills, eyes NATO support for border defense",
     "defense_news": [
       {
-        "title": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
+        "title": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next/",
-        "summary": "The mission for the United Nations Interim Force in Lebanon is nearing its end. Amid Israeli occupation, a decision on what comes next has yet to be made."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
+        "summary": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said."
       },
       {
-        "title": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
+        "title": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/31/just-one-in-three-americans-back-iran-war-most-unsure-of-trumps-goals-poll-finds/",
-        "summary": "A Reuters/Ipsos poll found that 69% of Americans think President Donald Trump has not “clearly explained the goals of U.S. military involvement in Iran.”"
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/03/pentagon-moves-to-triple-patriot-quadruple-thaad-interceptor-production/",
+        "summary": "The Pentagon is looking to triple Patriot missile production and quadruple THAAD interceptor production through framework agreements announced Monday."
       },
       {
-        "title": "Chinese military researchers tap US AI models to train defense systems",
+        "title": "Poland readies Ukraine ‘Coalition of Willing’ drills, eyes NATO support for border defense",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
-        "summary": "Chinese researchers have reportedly used leading U.S. AI models developed by OpenAI and Anthropic to train AI systems to advance defense capabilities."
+        "url": "https://www.defensenews.com/global/europe/2026/08/03/poland-readies-ukraine-coalition-of-willing-drills-eyes-nato-support-for-border-defense/",
+        "summary": "Poland is preparing to host the first military drills for the 'Coalition of the Willing,' a group of nations established to provide support for Ukraine."
       },
       {
-        "title": "The arms race for cheaper anti-ballistic weapons is underway",
+        "title": "Denmark begins extended military conscription in response to Russia, Trump",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
-        "summary": "After years of a Patriot monopoly, new anti-ballistic alternatives are emerging. Officials hope to see some of them on the battlefield by the end of 2026."
+        "url": "https://www.defensenews.com/global/europe/2026/08/03/denmark-begins-extended-military-conscription-in-response-to-russia-trump/",
+        "summary": "Around 1,600 military recruits kicked off Denmark's new extended conscription, as the country seeks to reinforce defenses amid Arctic security pressures."
       }
     ],
     "geo_news": [
       {
-        "title": "Üniversite tercih festivali TercihFest'26 zirve konuşmalarıyla devam etti",
+        "title": "Türkiye, Katar ve Mısır, İsrail'in Gazze'deki ihlallerini şiddetle kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/universite-tercih-festivali-tercihfest26-zirve-konusmalariyla-devam-etti/4017148",
-        "summary": "İbn Haldun Üniversitesi (İHÜ) tarafından bu yıl dokuzuncusu düzenlenen üniversite tercih festivali TercihFest'26, zirve konuşmaları ile devam etti."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-katar-ve-misir-israilin-gazzedeki-ihlallerini-siddetle-kinadi/4017501",
+        "summary": "Türkiye, Katar ve Mısır, ortak açıklamayla Gazze'de sivil kayıplara neden olan ve uluslararası hukukun açık ihlalini teşkil eden İsrail ihlallerini şiddetle kınadı."
       },
       {
-        "title": "Bakan Fidan, Kuveytli mevkidaşı Sabah ve Kuzey Makedonya Türk Demokratik Partisi Genel Başkanı Zeynula'yla görüştü",
+        "title": "Bosna Hersek'ten hareket eden \"Filistin Konvoyu\" Ankara'ya ulaştı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-kuveytli-mevkidasi-sabah-ve-kuzey-makedonya-turk-demokratik-partisi-genel-baskani-zeynulayla-gorustu/4017117",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Kuveyt Dışişleri Bakanı Cerrah Cabir el-Ahmed es-Sabah ve Kuzey Makedonya Türk Demokratik Partisi Genel Başkanı Zeynula'yla görüştü."
+        "url": "https://www.aa.com.tr/tr/gundem/bosna-hersekten-hareket-eden-filistin-konvoyu-ankaraya-ulasti/4017485",
+        "summary": "Bosna Hersek'in Srebrenitsa kentinden yola çıkan \"Filistin Konvoyu\" Ankara'ya geldi."
       },
       {
-        "title": "İletişim Başkanı Duran'dan Cumhurbaşkanı Erdoğan'a yönelik eleştiriye tepki",
+        "title": "Bakan Göktaş'tan şehit aileleri ve gazilere yönelik düzenlemeleri içeren kanun teklifine ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cumhurbaskani-erdogana-yonelik-elestiriye-tepki/4017114",
-        "summary": "Burhanettin Duran, \"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ı, otoriter rejimlerle ya da diktatörlüklerle aynı zeminde değerlendirmeye çalışmak, çarpık bir anlayışın tezahürüdü..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-sehit-aileleri-ve-gazilere-yonelik-duzenlemeleri-iceren-kanun-teklifine-iliskin-paylasim/4017474",
+        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın liderliğinde, çeyrek asırdır olduğu gibi şehit ailelerimizin ve gazilerimizi..."
       },
       {
-        "title": "Adalet Bakanı Gürlek, Uğur Mumcu'nun ailesiyle görüşecek",
+        "title": "MİT Başkanı Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-ugur-mumcunun-ailesiyle-gorusecek/4017102",
-        "summary": "Adalet Bakanı Akın Gürlek, 24 Ocak 1993'te Ankara'da evinin önünde bombalı suikast sonucu hayatını kaybeden araştırmacı gazeteci Uğur Mumcu'nun ailesiyle görüşecek."
+        "url": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-hamas-siyasi-buro-baskani-hayye-ile-gorustu/4017465",
+        "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul'da Hamas Siyasi Büro Başkanı Halil el-Hayye ve beraberindeki heyetle bir araya geldi."
       }
     ]
   }
