@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-08-02 20:29:09",
+  "updated_at": "2026-08-03 14:00:26",
   "markets": {
-    "usd_try_kapalicarsi": "47.55 TL",
-    "eur_try_kapalicarsi": "54.75 TL",
+    "usd_try_kapalicarsi": "47.51 TL",
+    "eur_try_kapalicarsi": "54.82 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
-    "bullet_1": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
-    "bullet_2": "Chinese military researchers tap US AI models to train defense systems",
-    "bullet_3": "The arms race for cheaper anti-ballistic weapons is underway",
+    "red_alert": "SON DAKİKA: UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
+    "bullet_1": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
+    "bullet_2": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
+    "bullet_3": "Chinese military researchers tap US AI models to train defense systems",
     "defense_news": [
+      {
+        "title": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next/",
+        "summary": "The mission for the United Nations Interim Force in Lebanon is nearing its end. Amid Israeli occupation, a decision on what comes next has yet to be made."
+      },
       {
         "title": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
         "summary": "After years of a Patriot monopoly, new anti-ballistic alternatives are emerging. Officials hope to see some of them on the battlefield by the end of 2026."
-      },
-      {
-        "title": "F-47 program producing test aircraft, on schedule for 2028 flight",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
-        "summary": "The F-47 program has begun its engineering and manufacturing phase and will fly during this presidential administration, a service official said."
       }
     ],
     "geo_news": [
       {
-        "title": "60 saniyede bugün (02 Ağustos 2026)",
+        "title": "Üniversite tercih festivali TercihFest'26 zirve konuşmalarıyla devam etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-02-agustos-2026/4016357",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/universite-tercih-festivali-tercihfest26-zirve-konusmalariyla-devam-etti/4017148",
+        "summary": "İbn Haldun Üniversitesi (İHÜ) tarafından bu yıl dokuzuncusu düzenlenen üniversite tercih festivali TercihFest'26, zirve konuşmaları ile devam etti."
       },
       {
-        "title": "Öğretmen eğitiminde dijital dönem",
+        "title": "Bakan Fidan, Kuveytli mevkidaşı Sabah ve Kuzey Makedonya Türk Demokratik Partisi Genel Başkanı Zeynula'yla görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ogretmen-egitiminde-dijital-donem-/4016353",
-        "summary": "Milli Eğitim Bakanı Yusuf Tekin, Öğretmen Eğitimi Dijital Ekosistemi kapsamında, Öğrenme Kayıt Deposu ile Öğretmen Eğitimi İzleme ve Değerlendirme Sistemi'ni aynı çatı altında bulu..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-kuveytli-mevkidasi-sabah-ve-kuzey-makedonya-turk-demokratik-partisi-genel-baskani-zeynulayla-gorustu/4017117",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Kuveyt Dışişleri Bakanı Cerrah Cabir el-Ahmed es-Sabah ve Kuzey Makedonya Türk Demokratik Partisi Genel Başkanı Zeynula'yla görüştü."
       },
       {
-        "title": "Bakan Göktaş: Şehit yakınları ile gazilerimizin talepleri doğrultusunda en kapsamlı düzenlemeyi hayata geçiriyoruz",
+        "title": "İletişim Başkanı Duran'dan Cumhurbaşkanı Erdoğan'a yönelik eleştiriye tepki",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-sehit-yakinlari-ile-gazilerimizin-talepleri-dogrultusunda-en-kapsamli-duzenlemeyi-hayata-geciriyoruz/4016334",
-        "summary": "Aile ve Sosyal Hizmetler Bakanı Göktaş, \"Şehitlerimizin anne babaları ve er gazilerimizin talepleri doğrultusunda bir düzenlemeyi hayata geçirmeyi hedefliyoruz. Grubumuz çalışmalar..."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cumhurbaskani-erdogana-yonelik-elestiriye-tepki/4017114",
+        "summary": "Burhanettin Duran, \"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ı, otoriter rejimlerle ya da diktatörlüklerle aynı zeminde değerlendirmeye çalışmak, çarpık bir anlayışın tezahürüdü..."
       },
       {
-        "title": "Genelkurmay Başkanı Orgeneral Bayraktaroğlu, KKTC Toplumsal Direniş Bayramı resepsiyonuna katıldı",
+        "title": "Adalet Bakanı Gürlek, Uğur Mumcu'nun ailesiyle görüşecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/genelkurmay-baskani-orgeneral-bayraktaroglu-kktc-toplumsal-direnis-bayrami-resepsiyonuna-katildi/4016324",
-        "summary": "Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) 1 Ağustos Toplumsal Direniş Bayramı ve Silahlı Kuvvetler Günü resepsiyonuna katıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-ugur-mumcunun-ailesiyle-gorusecek/4017102",
+        "summary": "Adalet Bakanı Akın Gürlek, 24 Ocak 1993'te Ankara'da evinin önünde bombalı suikast sonucu hayatını kaybeden araştırmacı gazeteci Uğur Mumcu'nun ailesiyle görüşecek."
       }
     ]
   }
