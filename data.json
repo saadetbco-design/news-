@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 12:25:00",
+  "updated_at": "2026-08-04 21:03:57",
   "markets": {
     "usd_try_kapalicarsi": "47.55 TL",
     "eur_try_kapalicarsi": "54.73 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Air Force jet engine manufacturing plagued by ‘significant challenges’",
-    "bullet_1": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
-    "bullet_2": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
-    "bullet_3": "Poland readies Ukraine ‘Coalition of Willing’ drills, eyes NATO support for border defense",
+    "red_alert": "SON DAKİKA: Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
+    "bullet_1": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
+    "bullet_2": "US Army wants a surface-to-air missile that can destroy small drones",
+    "bullet_3": "325 Narcan doses, 43 lost children: DC National Guard mission wraps first year",
     "defense_news": [
       {
-        "title": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
+        "title": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
-        "summary": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said."
+        "url": "https://www.defensenews.com/industry/2026/08/04/lockheed-seeks-us-mineral-supplies-after-trump-supply-chain-push-sources-say/",
+        "summary": "The deals would mark a significant step in the U.S. push to build domestic mineral supply chains."
       },
       {
-        "title": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
+        "title": "US Army wants a surface-to-air missile that can destroy small drones",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/03/pentagon-moves-to-triple-patriot-quadruple-thaad-interceptor-production/",
-        "summary": "The Pentagon is looking to triple Patriot missile production and quadruple THAAD interceptor production through framework agreements announced Monday."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-army-wants-a-surface-to-air-missile-that-can-destroy-small-drones/",
+        "summary": "The U.S. Army wants new surface-to-air missiles, costing less than $150,000 apiece, that can destroy small drones."
       },
       {
-        "title": "Poland readies Ukraine ‘Coalition of Willing’ drills, eyes NATO support for border defense",
+        "title": "325 Narcan doses, 43 lost children: DC National Guard mission wraps first year",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/03/poland-readies-ukraine-coalition-of-willing-drills-eyes-nato-support-for-border-defense/",
-        "summary": "Poland is preparing to host the first military drills for the 'Coalition of the Willing,' a group of nations established to provide support for Ukraine."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/04/325-narcan-doses-43-lost-children-dc-national-guard-mission-wraps-first-year/",
+        "summary": "Since Aug. 11, 2025, nearly 9,700 National Guard troops from across the nation have been shipped into Washington, D.C. Its success depends on who you ask."
       },
       {
-        "title": "Denmark begins extended military conscription in response to Russia, Trump",
+        "title": "Thales Australia whips together armed UGV in just 6 weeks",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/03/denmark-begins-extended-military-conscription-in-response-to-russia-trump/",
-        "summary": "Around 1,600 military recruits kicked off Denmark's new extended conscription, as the country seeks to reinforce defenses amid Arctic security pressures."
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/04/thales-australia-whips-together-armed-ugv-in-just-6-weeks/",
+        "summary": "Thales Australia has turned a drawing board concept into a fully functioning, armed unmanned ground vehicle, or UGV, in just six weeks."
       }
     ],
     "geo_news": [
       {
-        "title": "Yüksek Askeri Şura kararları açıklandı",
+        "title": "MİT Başkanı Kalın, Libyalı yetkililerle Ankara'da bir araya geldi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yuksek-askeri-sura-kararlari-aciklandi/4018073",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında gerçekleştirilen Yüksek Askeri Şura (YAŞ) toplantısında, 25 general ve amiral bir üst rütbeye, 69 albay ise general ve amiralliğe y..."
+        "url": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-libyali-yetkililerle-ankarada-bir-araya-geldi/4018529",
+        "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Libya Ulusal Birlik Hükümeti Savunma Bakan Vekili Abdusselam Zubi ve Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibey..."
       },
       {
-        "title": "AK Parti TBMM Grubu yarın \"çerçeve yasa\" gündemiyle toplanacak",
+        "title": "Özgür Özel ve Veli Ağbaba hakkında fezleke hazırlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-tbmm-grubu-yarin-cerceve-yasa-gundemiyle-toplanacak/4018052",
-        "summary": "AK Parti, yarın TBMM'de yapacağı kapalı grup toplantısında Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'ni ele alacak."
+        "url": "https://www.aa.com.tr/tr/gundem/ozgur-ozel-ve-veli-agbaba-hakkinda-fezleke-hazirlandi/4018513",
+        "summary": "Ankara Cumhuriyet Başsavcılığı, Yeni Parti Genel Başkanı Özgür Özel ile Malatya Milletvekili Veli Ağbaba hakkında, \"zincirleme şekilde rüşvet almak\" soruşturması kapsamında dokunul..."
       },
       {
-        "title": "Kahverengi kokarcaya karşı bu yıl 1 milyon 650 bin samuray arısı doğaya salındı",
+        "title": "Türkiye, Angola'daki trafik kazasında ölenler için taziye mesajı yayımladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kahverengi-kokarcaya-karsi-bu-yil-1-milyon-650-bin-samuray-arisi-dogaya-salindi/4018029",
-        "summary": "Bakan Yumaklı, kahverengi kokarca zararlısına karşı çok sayıda ilde feromon tuzaklardan samuray arısına kadar farklı yöntemlerle mücadele yürüttüklerini belirterek, 2026 yılı içind..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-angoladaki-trafik-kazasinda-olenler-icin-taziye-mesaji-yayimladi/4018477",
+        "summary": "Dışişleri Bakanlığı, Angola'da meydana gelen trafik kazasında hayatını kaybedenler için taziye mesajı yayımladı."
       },
       {
-        "title": "İletişim Başkanı Duran'dan \"çerçeve yasa\"ya ilişkin açıklama",
+        "title": "Çanakkale'nin Ezine ilçesinde ormanlık alanda çıkan yangının enerjisi düşürüldü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cerceve-yasaya-iliskin-aciklama/4018022",
-        "summary": "İletişim Başkanı Duran, \"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'nin TBMM'de imzaya açılması, Terörsüz Türkiye hedefi doğrultusunda atılan t..."
+        "url": "https://www.aa.com.tr/tr/gundem/canakkalenin-ezine-ilcesinde-ormanlik-alanda-cikan-yanginin-enerjisi-dusuruldu/4018461",
+        "summary": "Çanakkale'nin Ezine ilçesinde, ormanlık alandaki yangına müdahale ediliyor."
       }
     ]
   }
