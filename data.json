@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-03 20:47:10",
+  "updated_at": "2026-08-04 12:25:00",
   "markets": {
-    "usd_try_kapalicarsi": "47.51 TL",
-    "eur_try_kapalicarsi": "54.82 TL",
+    "usd_try_kapalicarsi": "47.55 TL",
+    "eur_try_kapalicarsi": "54.73 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Türkiye, Katar ve Mısır, İsrail'in Gazze'deki ihlallerini şiddetle kınadı",
+        "title": "Yüksek Askeri Şura kararları açıklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-katar-ve-misir-israilin-gazzedeki-ihlallerini-siddetle-kinadi/4017501",
-        "summary": "Türkiye, Katar ve Mısır, ortak açıklamayla Gazze'de sivil kayıplara neden olan ve uluslararası hukukun açık ihlalini teşkil eden İsrail ihlallerini şiddetle kınadı."
+        "url": "https://www.aa.com.tr/tr/gundem/yuksek-askeri-sura-kararlari-aciklandi/4018073",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında gerçekleştirilen Yüksek Askeri Şura (YAŞ) toplantısında, 25 general ve amiral bir üst rütbeye, 69 albay ise general ve amiralliğe y..."
       },
       {
-        "title": "Bosna Hersek'ten hareket eden \"Filistin Konvoyu\" Ankara'ya ulaştı",
+        "title": "AK Parti TBMM Grubu yarın \"çerçeve yasa\" gündemiyle toplanacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bosna-hersekten-hareket-eden-filistin-konvoyu-ankaraya-ulasti/4017485",
-        "summary": "Bosna Hersek'in Srebrenitsa kentinden yola çıkan \"Filistin Konvoyu\" Ankara'ya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-tbmm-grubu-yarin-cerceve-yasa-gundemiyle-toplanacak/4018052",
+        "summary": "AK Parti, yarın TBMM'de yapacağı kapalı grup toplantısında Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'ni ele alacak."
       },
       {
-        "title": "Bakan Göktaş'tan şehit aileleri ve gazilere yönelik düzenlemeleri içeren kanun teklifine ilişkin paylaşım",
+        "title": "Kahverengi kokarcaya karşı bu yıl 1 milyon 650 bin samuray arısı doğaya salındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-sehit-aileleri-ve-gazilere-yonelik-duzenlemeleri-iceren-kanun-teklifine-iliskin-paylasim/4017474",
-        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın liderliğinde, çeyrek asırdır olduğu gibi şehit ailelerimizin ve gazilerimizi..."
+        "url": "https://www.aa.com.tr/tr/gundem/kahverengi-kokarcaya-karsi-bu-yil-1-milyon-650-bin-samuray-arisi-dogaya-salindi/4018029",
+        "summary": "Bakan Yumaklı, kahverengi kokarca zararlısına karşı çok sayıda ilde feromon tuzaklardan samuray arısına kadar farklı yöntemlerle mücadele yürüttüklerini belirterek, 2026 yılı içind..."
       },
       {
-        "title": "MİT Başkanı Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü",
+        "title": "İletişim Başkanı Duran'dan \"çerçeve yasa\"ya ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-hamas-siyasi-buro-baskani-hayye-ile-gorustu/4017465",
-        "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul'da Hamas Siyasi Büro Başkanı Halil el-Hayye ve beraberindeki heyetle bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cerceve-yasaya-iliskin-aciklama/4018022",
+        "summary": "İletişim Başkanı Duran, \"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'nin TBMM'de imzaya açılması, Terörsüz Türkiye hedefi doğrultusunda atılan t..."
       }
     ]
   }
