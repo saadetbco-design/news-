@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04 21:03:57",
+  "updated_at": "2026-08-05 12:21:50",
   "markets": {
-    "usd_try_kapalicarsi": "47.55 TL",
-    "eur_try_kapalicarsi": "54.73 TL",
+    "usd_try_kapalicarsi": "47.56 TL",
+    "eur_try_kapalicarsi": "54.81 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "MİT Başkanı Kalın, Libyalı yetkililerle Ankara'da bir araya geldi",
+        "title": "TBMM Başkanı Kurtulmuş: (Çerçeve yasa) Bu çalışma 'Terörsüz Türkiye' hedefi doğrultusunda önemli merhaledir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-libyali-yetkililerle-ankarada-bir-araya-geldi/4018529",
-        "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Libya Ulusal Birlik Hükümeti Savunma Bakan Vekili Abdusselam Zubi ve Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibey..."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-cerceve-yasa-bu-calisma-terorsuz-turkiye-hedefi-dogrultusunda-onemli-merhaledir/4019061",
+        "summary": "TBMM Başkanı Kurtulmuş, \"(Çerçeve yasanın TBMM'ye sunulması) Bu çalışma 'Terörsüz Türkiye' hedefi doğrultusunda ülkemizin iç kalesini tahkim edecek, birlik ve kardeşliğimizi daha d..."
       },
       {
-        "title": "Özgür Özel ve Veli Ağbaba hakkında fezleke hazırlandı",
+        "title": "FETÖ'nün suikast timindeki Burkay Karatepe, örgüt bağlantısını ve darbe girişimini anlattı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ozgur-ozel-ve-veli-agbaba-hakkinda-fezleke-hazirlandi/4018513",
-        "summary": "Ankara Cumhuriyet Başsavcılığı, Yeni Parti Genel Başkanı Özgür Özel ile Malatya Milletvekili Veli Ağbaba hakkında, \"zincirleme şekilde rüşvet almak\" soruşturması kapsamında dokunul..."
+        "url": "https://www.aa.com.tr/tr/gundem/fetonun-suikast-timindeki-burkay-karatepe-orgut-baglantisini-ve-darbe-girisimini-anlatti/4019032",
+        "summary": "15 Temmuz darbe girişiminde Cumhurbaşkanı Erdoğan'a yönelik Marmaris'te gerçekleştirilen suikast teşebbüsüne katılan ve 10 yıldır kırmızı bültenle aranırken yakalanan Fetullahçı Te..."
       },
       {
-        "title": "Türkiye, Angola'daki trafik kazasında ölenler için taziye mesajı yayımladı",
+        "title": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi TBMM'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-angoladaki-trafik-kazasinda-olenler-icin-taziye-mesaji-yayimladi/4018477",
-        "summary": "Dışişleri Bakanlığı, Angola'da meydana gelen trafik kazasında hayatını kaybedenler için taziye mesajı yayımladı."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun-teklifi-tbmmde/4019016",
+        "summary": "\"Terörsüz Türkiye\" süreci kapsamında hazırlanan Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi TBMM Başkanlığına sunuldu."
       },
       {
-        "title": "Çanakkale'nin Ezine ilçesinde ormanlık alanda çıkan yangının enerjisi düşürüldü",
+        "title": "Bakan Fidan, Amman'da düzenlenen Kudüs konulu bakanlar toplantısına katıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/canakkalenin-ezine-ilcesinde-ormanlik-alanda-cikan-yanginin-enerjisi-dusuruldu/4018461",
-        "summary": "Çanakkale'nin Ezine ilçesinde, ormanlık alandaki yangına müdahale ediliyor."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-ammanda-duzenlenen-kudus-konulu-bakanlar-toplantisina-katildi/4019014",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Ürdün'ün başkenti Amman'da düzenlenen Kudüs konulu bakanlar toplantısına katıldı."
       }
     ]
   }
