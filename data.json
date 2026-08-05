@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05 12:21:50",
+  "updated_at": "2026-08-05 20:47:29",
   "markets": {
     "usd_try_kapalicarsi": "47.56 TL",
     "eur_try_kapalicarsi": "54.81 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
-    "bullet_1": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
-    "bullet_2": "US Army wants a surface-to-air missile that can destroy small drones",
-    "bullet_3": "325 Narcan doses, 43 lost children: DC National Guard mission wraps first year",
+    "red_alert": "SON DAKİKA: US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
+    "bullet_1": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
+    "bullet_2": "Taiwan launches major war games to test command flexibility",
+    "bullet_3": "France’s drone production shifts from policy ambition to factory floor",
     "defense_news": [
+      {
+        "title": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role/",
+        "summary": "The U.S. Navy is extending its use of Saildrone unmanned surface vehicles for an expanded counternarcotics mission."
+      },
+      {
+        "title": "Taiwan launches major war games to test command flexibility",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/05/taiwan-launches-major-war-games-to-test-command-flexibility/",
+        "summary": "Taiwan began major military drills to test commanders’ ability to fight on the fly while temporarily limiting internet access for the first time."
+      },
+      {
+        "title": "France’s drone production shifts from policy ambition to factory floor",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/frances-drone-production-shifts-from-policy-ambition-to-factory-floor/",
+        "summary": "France’s push to enlist its car industry to produce military drones is moving to industrial implementation."
+      },
       {
         "title": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/2026/08/04/lockheed-seeks-us-mineral-supplies-after-trump-supply-chain-push-sources-say/",
         "summary": "The deals would mark a significant step in the U.S. push to build domestic mineral supply chains."
-      },
-      {
-        "title": "US Army wants a surface-to-air missile that can destroy small drones",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-army-wants-a-surface-to-air-missile-that-can-destroy-small-drones/",
-        "summary": "The U.S. Army wants new surface-to-air missiles, costing less than $150,000 apiece, that can destroy small drones."
-      },
-      {
-        "title": "325 Narcan doses, 43 lost children: DC National Guard mission wraps first year",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/04/325-narcan-doses-43-lost-children-dc-national-guard-mission-wraps-first-year/",
-        "summary": "Since Aug. 11, 2025, nearly 9,700 National Guard troops from across the nation have been shipped into Washington, D.C. Its success depends on who you ask."
-      },
-      {
-        "title": "Thales Australia whips together armed UGV in just 6 weeks",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/04/thales-australia-whips-together-armed-ugv-in-just-6-weeks/",
-        "summary": "Thales Australia has turned a drawing board concept into a fully functioning, armed unmanned ground vehicle, or UGV, in just six weeks."
       }
     ],
     "geo_news": [
       {
-        "title": "TBMM Başkanı Kurtulmuş: (Çerçeve yasa) Bu çalışma 'Terörsüz Türkiye' hedefi doğrultusunda önemli merhaledir",
+        "title": "Aile ve Sosyal Hizmetler Bakanı Göktaş, canlı yayında soruları yanıtladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-cerceve-yasa-bu-calisma-terorsuz-turkiye-hedefi-dogrultusunda-onemli-merhaledir/4019061",
-        "summary": "TBMM Başkanı Kurtulmuş, \"(Çerçeve yasanın TBMM'ye sunulması) Bu çalışma 'Terörsüz Türkiye' hedefi doğrultusunda ülkemizin iç kalesini tahkim edecek, birlik ve kardeşliğimizi daha d..."
+        "url": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakani-goktas-canli-yayinda-sorulari-yanitladi/4019565",
+        "summary": "Bakan Göktaş, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'ne ilişkin, \"Şehit ailelerinin ve gazilerin hassasiyetlerinin özellikle temel ilke ola..."
       },
       {
-        "title": "FETÖ'nün suikast timindeki Burkay Karatepe, örgüt bağlantısını ve darbe girişimini anlattı",
+        "title": "Şehit aileleri ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifi Komisyonda kabul edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/fetonun-suikast-timindeki-burkay-karatepe-orgut-baglantisini-ve-darbe-girisimini-anlatti/4019032",
-        "summary": "15 Temmuz darbe girişiminde Cumhurbaşkanı Erdoğan'a yönelik Marmaris'te gerçekleştirilen suikast teşebbüsüne katılan ve 10 yıldır kırmızı bültenle aranırken yakalanan Fetullahçı Te..."
+        "url": "https://www.aa.com.tr/tr/gundem/sehit-aileleri-ve-gazilerin-haklarina-yonelik-duzenlemeleri-iceren-kanun-teklifi-komisyonda-kabul-edildi/4019546",
+        "summary": "Şehit aileleri ve gazilerin haklarına yönelik düzenlemeleri içeren Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Milli Savunma Komisyonunda kabul edildi."
       },
       {
-        "title": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi TBMM'de",
+        "title": "LGS yerleştirmelerinde İstanbul'un zirvedeki 20 lisesi belli oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun-teklifi-tbmmde/4019016",
-        "summary": "\"Terörsüz Türkiye\" süreci kapsamında hazırlanan Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi TBMM Başkanlığına sunuldu."
+        "url": "https://www.aa.com.tr/tr/gundem/lgs-yerlestirmelerinde-istanbulun-zirvedeki-20-lisesi-belli-oldu/4019500",
+        "summary": "Liselere Geçiş Sistemi (LGS) kapsamındaki merkezi sınavın ilk yerleştirme sonuçlarına göre, İstanbul Erkek Lisesi 500 tam puanla öğrenci alarak birinci oldu."
       },
       {
-        "title": "Bakan Fidan, Amman'da düzenlenen Kudüs konulu bakanlar toplantısına katıldı",
+        "title": "Bahçelievler'de 4 katlı bina çöktü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-ammanda-duzenlenen-kudus-konulu-bakanlar-toplantisina-katildi/4019014",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Ürdün'ün başkenti Amman'da düzenlenen Kudüs konulu bakanlar toplantısına katıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/bahcelievlerde-4-katli-bina-coktu/4019492",
+        "summary": "Bahçelievler'de 4 katlı binada çökme meydana geldi."
       }
     ]
   }
