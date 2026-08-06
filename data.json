@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-08-05 20:47:29",
+  "updated_at": "2026-08-06 12:24:54",
   "markets": {
-    "usd_try_kapalicarsi": "47.56 TL",
-    "eur_try_kapalicarsi": "54.81 TL",
+    "usd_try_kapalicarsi": "47.59 TL",
+    "eur_try_kapalicarsi": "54.98 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
-    "bullet_1": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
-    "bullet_2": "Taiwan launches major war games to test command flexibility",
-    "bullet_3": "France’s drone production shifts from policy ambition to factory floor",
+    "red_alert": "SON DAKİKA: Trump-class battleship program will cost $275 billion, CBO report says",
+    "bullet_1": "Trump-class battleship program will cost $275 billion, CBO report says",
+    "bullet_2": "Firestorm Labs builds drones aboard USS Essex without shore resupply",
+    "bullet_3": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
     "defense_news": [
+      {
+        "title": "Trump-class battleship program will cost $275 billion, CBO report says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says/",
+        "summary": "The Congressional Budget Office estimates the Navy’s new Trump-class battleship program will cost $275 billion, with the first ship costing $23.4 billion."
+      },
+      {
+        "title": "Firestorm Labs builds drones aboard USS Essex without shore resupply",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/firestorm-labs-builds-drones-aboard-uss-essex-without-shore-resupply/",
+        "summary": "Service members aboard the USS Essex were able to 3D-print 12 first-person view drones using a containerized microfactory."
+      },
       {
         "title": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/08/05/taiwan-launches-major-war-games-to-test-command-flexibility/",
         "summary": "Taiwan began major military drills to test commanders’ ability to fight on the fly while temporarily limiting internet access for the first time."
-      },
-      {
-        "title": "France’s drone production shifts from policy ambition to factory floor",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/frances-drone-production-shifts-from-policy-ambition-to-factory-floor/",
-        "summary": "France’s push to enlist its car industry to produce military drones is moving to industrial implementation."
-      },
-      {
-        "title": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/2026/08/04/lockheed-seeks-us-mineral-supplies-after-trump-supply-chain-push-sources-say/",
-        "summary": "The deals would mark a significant step in the U.S. push to build domestic mineral supply chains."
       }
     ],
     "geo_news": [
       {
-        "title": "Aile ve Sosyal Hizmetler Bakanı Göktaş, canlı yayında soruları yanıtladı",
+        "title": "Bakan Gürlek: Yasa teklifinde terör talimatı verenler ile güvenlik güçlerimizi şehit edenlere ilişkin düzenleme yok",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakani-goktas-canli-yayinda-sorulari-yanitladi/4019565",
-        "summary": "Bakan Göktaş, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'ne ilişkin, \"Şehit ailelerinin ve gazilerin hassasiyetlerinin özellikle temel ilke ola..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-yasa-teklifinde-teror-talimati-verenler-ile-guvenlik-guclerimizi-sehit-edenlere-iliskin-duzenleme-yok/4019970",
+        "summary": "Adalet Bakanı Akın Gürlek, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'ne ilişkin, \"Teklifte terör talimatı verenler ve güvenlik güçlerimizi şeh..."
       },
       {
-        "title": "Şehit aileleri ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifi Komisyonda kabul edildi",
+        "title": "İletişim Başkanlığından \"Milli Dayanışma\" paylaşımı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sehit-aileleri-ve-gazilerin-haklarina-yonelik-duzenlemeleri-iceren-kanun-teklifi-komisyonda-kabul-edildi/4019546",
-        "summary": "Şehit aileleri ve gazilerin haklarına yönelik düzenlemeleri içeren Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Milli Savunma Komisyonunda kabul edildi."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-milli-dayanisma-paylasimi/4020138",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından \"Milli Dayanışma\" etiketiyle dijital medya platformlarında başlatılan iletişim kampanyasında, terörün Türkiye'ye 40 yıllık süreçte o..."
       },
       {
-        "title": "LGS yerleştirmelerinde İstanbul'un zirvedeki 20 lisesi belli oldu",
+        "title": "Cevdet Yılmaz: Milli Yetkinlik Hamlesi, milli teknoloji üretme irademizi sürdürecek insan gücümüzü temsil etmektedir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/lgs-yerlestirmelerinde-istanbulun-zirvedeki-20-lisesi-belli-oldu/4019500",
-        "summary": "Liselere Geçiş Sistemi (LGS) kapsamındaki merkezi sınavın ilk yerleştirme sonuçlarına göre, İstanbul Erkek Lisesi 500 tam puanla öğrenci alarak birinci oldu."
+        "url": "https://www.aa.com.tr/tr/gundem/cevdet-yilmaz-milli-yetkinlik-hamlesi-milli-teknoloji-uretme-irademizi-surdurecek-insan-gucumuzu-temsil-etmektedir/4020085",
+        "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Milli Teknoloji Hamlesi milli teknoloji üretme irademizi, Milli Yetkinlik Hamlesi ise bu iradeyi sürdürecek, kalıcı hale getirecek insan gücümüzü ..."
       },
       {
-        "title": "Bahçelievler'de 4 katlı bina çöktü",
+        "title": "Cumhurbaşkanı Erdoğan, MHP Genel Başkanı Bahçeli'yi kabul etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bahcelievlerde-4-katli-bina-coktu/4019492",
-        "summary": "Bahçelievler'de 4 katlı binada çökme meydana geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-mhp-genel-baskani-bahceliyi-kabul-etti/4020092",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli'yi kabul etti."
       }
     ]
   }
