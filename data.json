@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07 08:36:44",
+  "updated_at": "2026-08-07 19:56:09",
   "markets": {
     "usd_try_kapalicarsi": "47.65 TL",
     "eur_try_kapalicarsi": "54.94 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Boeing wins first production contract for jet-powered JDAM",
-    "bullet_1": "Boeing wins first production contract for jet-powered JDAM",
-    "bullet_2": "Iran issues warning to Gulf states: US must desist or you’ll be hit hard",
-    "bullet_3": "Rheinmetall scales down 2026 sales outlook on scrapped frigate program",
+    "red_alert": "SON DAKİKA: How North Korean forces are bolstering Russia’s war against Ukraine",
+    "bullet_1": "How North Korean forces are bolstering Russia’s war against Ukraine",
+    "bullet_2": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
+    "bullet_3": "Boeing wins first production contract for jet-powered JDAM",
     "defense_news": [
+      {
+        "title": "How North Korean forces are bolstering Russia’s war against Ukraine",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/08/07/how-north-korean-forces-are-bolstering-russias-war-against-ukraine/",
+        "summary": "North Korea has deployed troops, weapons and now, according to a Ukrainian intelligence official, a missile unit to support Russia’s war against Ukraine."
+      },
+      {
+        "title": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/",
+        "summary": "Rheinmetall signed a memorandum of understanding with Lockheed last month to jointly produce Army Tactical Missile Systems."
+      },
       {
         "title": "Boeing wins first production contract for jet-powered JDAM",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/mideast-africa/2026/08/06/iran-issues-warning-to-gulf-states-us-must-desist-or-youll-be-hit-hard/",
         "summary": "Iran has made a concerted push with Gulf states, warning them explicitly that Tehran will hit their oil, power and water plants unless U.S. strikes end."
-      },
-      {
-        "title": "Rheinmetall scales down 2026 sales outlook on scrapped frigate program",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/06/rheinmetall-scales-down-2026-sales-outlook-on-scrapped-frigate-program/",
-        "summary": "German defense company Rheinmetall lowered its 2026 sales outlook on Thursday after the German government canceled a delayed frigate program."
-      },
-      {
-        "title": "Trump-class battleship program will cost $275 billion, CBO report says",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says/",
-        "summary": "The Congressional Budget Office estimates the Navy’s new Trump-class battleship program will cost $275 billion, with the first ship costing $23.4 billion."
       }
     ],
     "geo_news": [
       {
-        "title": "Yasa dışı bahis ve dolandırıcılık gelirlerini şirket üzerinden akladığı öne sürülen 22 şüpheli için iddianame",
+        "title": "\"Kutuplarda Sıfır Atık\" kitabı tanıtıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yasa-disi-bahis-ve-dolandiricilik-gelirlerini-sirket-uzerinden-akladigi-one-surulen-22-supheli-icin-iddianame/4020805",
-        "summary": "İstanbul'da yasa dışı bahis ve dolandırıcılıktan elde edilen suç gelirlerini şirket üzerinden akladığı öne sürülen 9'u tutuklu, 6'sı firari 22 şüpheli hakkında iddianame hazırlandı..."
+        "url": "https://www.aa.com.tr/tr/gundem/kutuplarda-sifir-atik-kitabi-tanitildi/4021495",
+        "summary": "Sanayi ve Teknoloji Bakanlığı, Sıfır Atık Vakfı ve TÜBİTAK işbirliğiyle hazırlanan \"Kutuplarda Sıfır Atık\" kitabının tanıtımı Sıfır Atık Vakfı'nda gerçekleştirildi."
       },
       {
-        "title": "Menderes Belediyesine yönelik soruşturmada gözaltına alınan Başkan Çiçek ve 15 şüpheli adliyede",
+        "title": "Haksız yollarla Türk vatandaşlığı kazandırdığı belirlenen suç örgütü operasyonunda 32 zanlı tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/menderes-belediyesine-yonelik-sorusturmada-gozaltina-alinan-baskan-cicek-ve-15-supheli-adliyede-/4020763",
-        "summary": "İzmir'in Menderes Belediyesine yönelik soruşturmada gözaltına alınan, aralarında Belediye Başkanı İlkay Çiçek'in de bulunduğu 16 şüpheli adliyeye sevk edildi."
+        "url": "https://www.aa.com.tr/tr/gundem/-haksiz-yollarla-turk-vatandasligi-kazandirdigi-belirlenen-suc-orgutu-operasyonunda-32-zanli-tutuklandi/4021485",
+        "summary": "İstanbul'da, sahte ekspertiz raporları kullanılarak gerçekleştirilen gayrimenkul satış işlemleriyle Türk vatandaşlığı kazandırdığı tespit edilen suç örgütüne yönelik operasyonda gö..."
       },
       {
-        "title": "Kuşadası Belediyesi ile bağlantılı \"rüşvet\" ve \"irtikap\" soruşturmasında 15 şüpheli yakalandı",
+        "title": "Avcılar Belediyesine yönelik \"ihaleye fesat karıştırma\" soruşturmasında 12 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kusadasi-belediyesi-ile-baglantili-rusvet-ve-irtikap-sorusturmasinda-15-supheli-yakalandi/4020779",
-        "summary": "İstanbul Cumhuriyet Başsavcılığı, Kuşadası Belediyesi ile bağlantılı \"rüşvet\" ve \"irtikap\" suçlarına ilişkin soruşturma kapsamında düzenlenen operasyonda 15 şüphelinin gözaltına al..."
+        "url": "https://www.aa.com.tr/tr/gundem/avcilar-belediyesine-yonelik-ihaleye-fesat-karistirma-sorusturmasinda-12-supheli-tutuklandi/4021477",
+        "summary": "Avcılar Belediyesine yönelik \"ihaleye fesat karıştırma\" soruşturması kapsamında İstanbul merkezli 4 ilde düzenlenen operasyonda gözaltına alınan 12 şüpheli tutuklandı."
       },
       {
-        "title": "Tatlı su ile Van Gölü'nün buluştuğu noktada doğal desenler oluştu",
+        "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığından Elazığ'daki afet konutlarına ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tatli-su-ile-van-golunun-bulustugu-noktada-dogal-desenler-olustu/4020789",
-        "summary": "Bitlis'in Adilcevaz ilçesinde, Van Gölü'ne dökülen tatlı su kaynağının gölle buluştuğu alanda turkuaz ve beyaz tonlarda doğal desenler oluştu."
+        "url": "https://www.aa.com.tr/tr/gundem/cevre-sehircilik-ve-iklim-degisikligi-bakanligindan-elazigdaki-afet-konutlarina-iliskin-paylasim/4021472",
+        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Elazığ'ın Aksaray Mahallesi'nde inşa edilen afet konutlarına ilişkin paylaşımda bulundu."
       }
     ]
   }
