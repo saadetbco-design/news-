@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 10:00:44",
+  "updated_at": "2026-08-10 19:58:27",
   "markets": {
     "usd_try_kapalicarsi": "47.71 TL",
     "eur_try_kapalicarsi": "55.12 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: How North Korean forces are bolstering Russia’s war against Ukraine",
-    "bullet_1": "How North Korean forces are bolstering Russia’s war against Ukraine",
-    "bullet_2": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
-    "bullet_3": "Boeing wins first production contract for jet-powered JDAM",
+    "red_alert": "SON DAKİKA: USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
+    "bullet_1": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
+    "bullet_2": "US Army exploring 50mm cannon to destroy drones",
+    "bullet_3": "US Army general in Europe suddenly removed from command",
     "defense_news": [
       {
-        "title": "How North Korean forces are bolstering Russia’s war against Ukraine",
+        "title": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/07/how-north-korean-forces-are-bolstering-russias-war-against-ukraine/",
-        "summary": "North Korea has deployed troops, weapons and now, according to a Ukrainian intelligence official, a missile unit to support Russia’s war against Ukraine."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/10/uss-theodore-roosevelt-becomes-first-carrier-with-built-in-unmanned-air-warfare-center/",
+        "summary": "The USS Theodore Roosevelt is now the first Navy carrier to be equipped with an Unmanned Air Warfare Center that will support the unmanned MQ-25A Stingray."
       },
       {
-        "title": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
+        "title": "US Army exploring 50mm cannon to destroy drones",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/",
-        "summary": "Rheinmetall signed a memorandum of understanding with Lockheed last month to jointly produce Army Tactical Missile Systems."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-army-exploring-50mm-cannon-to-destroy-drones/",
+        "summary": "The U.S. Army is looking for companies that can provide a 50mm cannon and ammunition capable of destroying a broad range of drones."
       },
       {
-        "title": "Boeing wins first production contract for jet-powered JDAM",
+        "title": "US Army general in Europe suddenly removed from command",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/06/boeing-wins-first-production-contract-for-jet-powered-jdam/",
-        "summary": "Boeing won the first production contract for a jet-powered guided bomb that can fly more than 300 nautical miles."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/10/us-army-general-in-europe-suddenly-removed-from-command/",
+        "summary": "The Army abruptly removed Lt. Gen Charles Costanza from command of V Corps."
       },
       {
-        "title": "Iran issues warning to Gulf states: US must desist or you’ll be hit hard",
+        "title": "US not disengaging from Asia, seeks ‘partners, not protectorates,’ says Pentagon official",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/08/06/iran-issues-warning-to-gulf-states-us-must-desist-or-youll-be-hit-hard/",
-        "summary": "Iran has made a concerted push with Gulf states, warning them explicitly that Tehran will hit their oil, power and water plants unless U.S. strikes end."
+        "url": "https://www.defensenews.com/pentagon/2026/08/10/us-not-disengaging-from-asia-seeks-partners-not-protectorates-says-pentagon-official/",
+        "summary": "Undersecretary of Defense for Policy Elbridge Colby reaffirmed the U.S. interest in the region as he called for greater burden-sharing and partnership."
       }
     ],
     "geo_news": [
       {
-        "title": "Hakkari'de 4 bin 566 metre uzunluğundaki T-2 Tüneli'nde çalışmalar sürüyor",
+        "title": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi TBMM Genel Kurulunda kabul edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/hakkaride-4-bin-566-metre-uzunlugundaki-t-2-tunelinde-calismalar-suruyor/4022905",
-        "summary": "Hakkari'nin Yüksekova ilçesinde ulaşımın daha güvenli yapılması amacıyla inşa edilen 4 bin 566 metre uzunluğundaki çift tüplü T-2 Tüneli'nin yapım çalışmaları sürüyor."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi/4023577",
+        "summary": "\"Terörsüz Türkiye\" süreci kapsamında hazırlanan Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı."
       },
       {
-        "title": "Çukurova Uluslararası Havalimanı’nın iki yıllık yolcu sayısı 10 milyon 570 bini aştı",
+        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Macaristan Sosyal İlişkiler ve Kültür Bakanı Tarr ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cukurova-uluslararasi-havalimani-nin-iki-yillik-yolcu-sayisi-10-milyon-570-bini-asti/4022960",
-        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Çukurova Uluslararası Havalimanı'nın iki yılda 10 milyon 570 bini aşkın yolcuya hizmet verdiğini bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-macaristan-sosyal-iliskiler-ve-kultur-bakani-tarr-ile-gorustu/4023544",
+        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Macaristan Sosyal İlişkiler ve Kültür Bakanı, Saygı ve Özgürlük Partisi (Tisza) Genel Başkan..."
       },
       {
-        "title": "TBMM Genel Kurulu, 1 Ekim'e kadar tatile girecek",
+        "title": "İletişim Başkanı Duran'dan Anafartalar Zaferi'nin 111'inci yıl dönümü mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-genel-kurulu-1-ekime-kadar-tatile-girecek/4022959",
-        "summary": "TBMM Genel Kurulu, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'nin görüşmelerinin ardından 1 Ekim'e kadar tatile girecek."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-anafartalar-zaferinin-111inci-yil-donumu-mesaji/4023519",
+        "summary": "İletişim Başkanı Duran, \"Anafartalar'da sergilenen azim, cesaret ve fedakarlık, zor şartlar karşısında milletimizin nasıl kenetlendiğini ve vatanı uğruna neleri göze alabileceğini ..."
       },
       {
-        "title": "MSB, Anafartalar Zaferi'nin 111'inci yıl dönümünde Atatürk ve silah arkadaşlarını andı",
+        "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Kilis'teki afet konutlarının görüntülerini paylaştı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/msb-anafartalar-zaferinin-111inci-yil-donumunde-ataturk-ve-silah-arkadaslarini-andi/4022909",
-        "summary": "Milli Savunma Bakanlığı (MSB), Anafartalar Zaferi'nin 111'inci yıl dönümünü kutladı.​​​​​​​"
+        "url": "https://www.aa.com.tr/tr/gundem/cevre-sehircilik-ve-iklim-degisikligi-bakanligi-kilisteki-afet-konutlarinin-goruntulerini-paylasti/4023497",
+        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Asrın İnşa Seferberliği kapsamında Kilis'te inşa edilen afet konutlarının görüntülerini paylaştı."
       }
     ]
   }
