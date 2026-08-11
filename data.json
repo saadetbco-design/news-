@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11 08:32:11",
+  "updated_at": "2026-08-11 20:05:12",
   "markets": {
     "usd_try_kapalicarsi": "47.72 TL",
     "eur_try_kapalicarsi": "55.11 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
-    "bullet_1": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
-    "bullet_2": "DARPA developing hypersonic cruise missile to evade enemy air defenses",
-    "bullet_3": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
+    "red_alert": "SON DAKİKA: Boeing unveils cheap radar seeker built from off-the-shelf parts",
+    "bullet_1": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
+    "bullet_2": "Colby pushes back on dwindling stockpile reports amid Southeast Asia tour",
+    "bullet_3": "Pentagon gives industry 21 days to submit plans for ‘significantly faster’ weapons production",
     "defense_news": [
       {
-        "title": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
+        "title": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
-        "summary": "DOGE reported $1.76 billion in savings from terminating a contract, but GAO found that the contract was never terminated and no funds were deobligated."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/11/boeing-unveils-cheap-radar-seeker-built-from-off-the-shelf-parts/",
+        "summary": "Seekers are among the most expensive parts of a guided weapon, and Boeing’s argument is that their cost is what limits how many the military can buy."
       },
       {
-        "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses",
+        "title": "Colby pushes back on dwindling stockpile reports amid Southeast Asia tour",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
-        "summary": "DARPA is developing a hypersonic cruise missile in response to the Pentagon's concerns that American missiles are vulnerable to enemy air defenses."
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/11/colby-pushes-back-on-dwindling-stockpile-reports-amid-southeast-asia-tour/",
+        "summary": "A senior Pentagon official pushed back against reports that the U.S. military’s stockpiles and capabilities are strained following Operation Epic Fury."
       },
       {
-        "title": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
+        "title": "Pentagon gives industry 21 days to submit plans for ‘significantly faster’ weapons production",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/10/uss-theodore-roosevelt-becomes-first-carrier-with-built-in-unmanned-air-warfare-center/",
-        "summary": "The USS Theodore Roosevelt is now the first Navy carrier to be equipped with an Unmanned Air Warfare Center that will support the unmanned MQ-25A Stingray."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/11/pentagon-gives-industry-21-days-to-submit-plans-for-significantly-faster-weapons-production/",
+        "summary": "In a recent memo, the Pentagon pushed defense companies to accelerate production and delivery of critical weapons."
       },
       {
-        "title": "US Army exploring 50mm cannon to destroy drones",
+        "title": "Lockheed Martin launches modular missile tech with dedicated ‘storefront’",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-army-exploring-50mm-cannon-to-destroy-drones/",
-        "summary": "The U.S. Army is looking for companies that can provide a 50mm cannon and ammunition capable of destroying a broad range of drones."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/11/lockheed-martin-launches-modular-missile-tech-with-dedicated-storefront/",
+        "summary": "Lockheed Martin on Monday announced the launch of Strigo, a new line of modular missile and sensor hardware."
       }
     ],
     "geo_news": [
       {
-        "title": "Anadolu Üniversitesi öğrenci affından yararlanacaklara farklı eğitim seçenekleri sunuyor",
+        "title": "\"11.⁠ ⁠Anadolu Medya Ödülleri\" sahiplerini buldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/anadolu-universitesi-ogrenci-affindan-yararlanacaklara-farkli-egitim-secenekleri-sunuyor/4023881",
-        "summary": "Anadolu Üniversitesi, öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren kanun kapsamında yükseköğretime geri dönmeye hazırlanan öğrencilere örgün eğitim, yatay geçiş ve..."
+        "url": "https://www.aa.com.tr/tr/gundem/11-anadolu-medya-odulleri-sahiplerini-buldu/4024546",
+        "summary": "Türkiye Basın Federasyonunun 11. Anadolu Medya Ödülleri törenle sahiplerini buldu."
       },
       {
-        "title": "İstanbul'da uyuşturucu operasyonunda 16 şüpheli gözaltına alındı",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye, terör meselesini çözme yolunda çok önemli bir fırsat yakalamıştır",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-uyusturucu-operasyonunda-16-supheli-gozaltina-alindi/4023896",
-        "summary": "İstanbul'un 5 ilçesinde düzenlenen uyuşturucu operasyonunda, hakkında gözaltı kararı verilen 20 şüpheliden 16'sı yakalandı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-turkiye-teror-meselesini-cozme-yolunda-cok-onemli-bir-firsat-yakalamistir/4024544",
+        "summary": "Yılmaz, \"Türkiye, 10 binlerce canına ve en az 2,3 trilyon doları aşan ekonomik kaynağına mal olan terör meselesini çözme yolunda çok önemli bir fırsat yakalamıştır. Bu fırsatın heb..."
       },
       {
-        "title": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun \"rekor\" oyla yasalaştı",
+        "title": "Samsun'da tüp deposunda çıkan yangın söndürüldü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun-rekor-oyla-yasalasti/4023880",
-        "summary": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun, TBMM Genel Kurulunda \"rekor\" sayıda oyla yasalaştı."
+        "url": "https://www.aa.com.tr/tr/gundem/samsunda-tup-deposunda-cikan-yangin-sonduruldu/4024570",
+        "summary": "Samsun'un Tekkeköy ilçesinde bir iş yerinin tüp deposunda çıkan yangın, ekiplerin müdahalesiyle söndürüldü."
       },
       {
-        "title": "Bakan Fidan, Libya'ya resmi ziyarette bulunacak",
+        "title": "Dışişleri Bakanı Fidan, Libya ziyareti kapsamında Trablus'ta temaslarda bulundu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-libyaya-resmi-ziyarette-bulunacak/4023857",
-        "summary": "Dışişleri Bakanı Hakan Fidan, bugün Libya'ya resmi ziyaret düzenleyecek."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-libya-ziyareti-kapsaminda-trablusta-temaslarda-bulundu/4024559",
+        "summary": "Dışişleri Bakanı Fidan, Libya ziyareti kapsamında, Libya Başbakanının Ulusal Güvenlik Danışmanı Dibeybe, Libya Başkanlık Konseyi Başkanı Menfi ve Libya Yüksek Devlet Konseyi Başkan..."
       }
     ]
   }
