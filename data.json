@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-08-10 19:58:27",
+  "updated_at": "2026-08-11 08:32:11",
   "markets": {
-    "usd_try_kapalicarsi": "47.71 TL",
-    "eur_try_kapalicarsi": "55.12 TL",
+    "usd_try_kapalicarsi": "47.72 TL",
+    "eur_try_kapalicarsi": "55.11 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
-    "bullet_1": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
-    "bullet_2": "US Army exploring 50mm cannon to destroy drones",
-    "bullet_3": "US Army general in Europe suddenly removed from command",
+    "red_alert": "SON DAKİKA: DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
+    "bullet_1": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
+    "bullet_2": "DARPA developing hypersonic cruise missile to evade enemy air defenses",
+    "bullet_3": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
     "defense_news": [
+      {
+        "title": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
+        "summary": "DOGE reported $1.76 billion in savings from terminating a contract, but GAO found that the contract was never terminated and no funds were deobligated."
+      },
+      {
+        "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
+        "summary": "DARPA is developing a hypersonic cruise missile in response to the Pentagon's concerns that American missiles are vulnerable to enemy air defenses."
+      },
       {
         "title": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-army-exploring-50mm-cannon-to-destroy-drones/",
         "summary": "The U.S. Army is looking for companies that can provide a 50mm cannon and ammunition capable of destroying a broad range of drones."
-      },
-      {
-        "title": "US Army general in Europe suddenly removed from command",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/10/us-army-general-in-europe-suddenly-removed-from-command/",
-        "summary": "The Army abruptly removed Lt. Gen Charles Costanza from command of V Corps."
-      },
-      {
-        "title": "US not disengaging from Asia, seeks ‘partners, not protectorates,’ says Pentagon official",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/08/10/us-not-disengaging-from-asia-seeks-partners-not-protectorates-says-pentagon-official/",
-        "summary": "Undersecretary of Defense for Policy Elbridge Colby reaffirmed the U.S. interest in the region as he called for greater burden-sharing and partnership."
       }
     ],
     "geo_news": [
       {
-        "title": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi TBMM Genel Kurulunda kabul edildi",
+        "title": "Anadolu Üniversitesi öğrenci affından yararlanacaklara farklı eğitim seçenekleri sunuyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi/4023577",
-        "summary": "\"Terörsüz Türkiye\" süreci kapsamında hazırlanan Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı."
+        "url": "https://www.aa.com.tr/tr/gundem/anadolu-universitesi-ogrenci-affindan-yararlanacaklara-farkli-egitim-secenekleri-sunuyor/4023881",
+        "summary": "Anadolu Üniversitesi, öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren kanun kapsamında yükseköğretime geri dönmeye hazırlanan öğrencilere örgün eğitim, yatay geçiş ve..."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Macaristan Sosyal İlişkiler ve Kültür Bakanı Tarr ile görüştü",
+        "title": "İstanbul'da uyuşturucu operasyonunda 16 şüpheli gözaltına alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-macaristan-sosyal-iliskiler-ve-kultur-bakani-tarr-ile-gorustu/4023544",
-        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Macaristan Sosyal İlişkiler ve Kültür Bakanı, Saygı ve Özgürlük Partisi (Tisza) Genel Başkan..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-uyusturucu-operasyonunda-16-supheli-gozaltina-alindi/4023896",
+        "summary": "İstanbul'un 5 ilçesinde düzenlenen uyuşturucu operasyonunda, hakkında gözaltı kararı verilen 20 şüpheliden 16'sı yakalandı."
       },
       {
-        "title": "İletişim Başkanı Duran'dan Anafartalar Zaferi'nin 111'inci yıl dönümü mesajı",
+        "title": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun \"rekor\" oyla yasalaştı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-anafartalar-zaferinin-111inci-yil-donumu-mesaji/4023519",
-        "summary": "İletişim Başkanı Duran, \"Anafartalar'da sergilenen azim, cesaret ve fedakarlık, zor şartlar karşısında milletimizin nasıl kenetlendiğini ve vatanı uğruna neleri göze alabileceğini ..."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun-rekor-oyla-yasalasti/4023880",
+        "summary": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun, TBMM Genel Kurulunda \"rekor\" sayıda oyla yasalaştı."
       },
       {
-        "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Kilis'teki afet konutlarının görüntülerini paylaştı",
+        "title": "Bakan Fidan, Libya'ya resmi ziyarette bulunacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cevre-sehircilik-ve-iklim-degisikligi-bakanligi-kilisteki-afet-konutlarinin-goruntulerini-paylasti/4023497",
-        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Asrın İnşa Seferberliği kapsamında Kilis'te inşa edilen afet konutlarının görüntülerini paylaştı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-libyaya-resmi-ziyarette-bulunacak/4023857",
+        "summary": "Dışişleri Bakanı Hakan Fidan, bugün Libya'ya resmi ziyaret düzenleyecek."
       }
     ]
   }
