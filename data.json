@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 08:53:55",
+  "updated_at": "2026-08-12 20:04:29",
   "markets": {
     "usd_try_kapalicarsi": "47.74 TL",
     "eur_try_kapalicarsi": "55.09 TL",
@@ -9,11 +9,17 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Boeing unveils cheap radar seeker built from off-the-shelf parts",
-    "bullet_1": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
-    "bullet_2": "Colby pushes back on dwindling stockpile reports amid Southeast Asia tour",
-    "bullet_3": "Pentagon gives industry 21 days to submit plans for ‘significantly faster’ weapons production",
+    "red_alert": "SON DAKİKA: Trump swaps planes via catering truck after Iranian threats, reports say",
+    "bullet_1": "Trump swaps planes via catering truck after Iranian threats, reports say",
+    "bullet_2": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
+    "bullet_3": "Colby pushes back on dwindling stockpile reports amid Southeast Asia tour",
     "defense_news": [
+      {
+        "title": "Trump swaps planes via catering truck after Iranian threats, reports say",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say/",
+        "summary": "Trump was transferred from Air Force One to a military plane via a catering truck due to Iranian threats following a NATO summit in Turkey, reports say."
+      },
       {
         "title": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/11/pentagon-gives-industry-21-days-to-submit-plans-for-significantly-faster-weapons-production/",
         "summary": "In a recent memo, the Pentagon pushed defense companies to accelerate production and delivery of critical weapons."
-      },
-      {
-        "title": "Lockheed Martin launches modular missile tech with dedicated ‘storefront’",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/11/lockheed-martin-launches-modular-missile-tech-with-dedicated-storefront/",
-        "summary": "Lockheed Martin on Monday announced the launch of Strigo, a new line of modular missile and sensor hardware."
       }
     ],
     "geo_news": [
       {
-        "title": "Orman yangınlarıyla mücadelede \"mangal kültürü\"nün değişmesi gerektiği değerlendirmesi",
+        "title": "Gökyüzü meraklıları Perseid meteor yağmurunu izledi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/orman-yanginlariyla-mucadelede-mangal-kulturunun-degismesi-gerektigi-degerlendirmesi-/4024891",
-        "summary": "İstanbul Üniversitesi Cerrahpaşa Orman Fakültesi Öğretim Üyesi Prof. Dr. Yusuf Serengil, orman yangınlarının büyük bölümünün insan kaynaklı olduğunu belirterek, özellikle mangal kü..."
+        "url": "https://www.aa.com.tr/tr/gundem/gokyuzu-meraklilari-perseid-meteor-yagmurunu-izledi/4025767",
+        "summary": "Gökyüzü meraklıları, \"Perseid meteor yağmuru gözlem etkinliği\"nde bir araya geldi."
       },
       {
-        "title": "AJet'ten gençlere yurt dışı uçuşlarda yüzde 20 indirim",
+        "title": "AK Parti'de \"Milli Dayanışma ve Vefa Buluşması\" programı düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ajetten-genclere-yurt-disi-ucuslarda-yuzde-20-indirim/4024937",
-        "summary": "AJet, 12 Ağustos Uluslararası Gençlik Günü dolayısıyla 12-27 yaş grubundaki gençlere yönelik yurt dışı uçuşlarında indirimli bilet kampanyası başlattı."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-partide-milli-dayanisma-ve-vefa-bulusmasi-programi-duzenlendi/4025762",
+        "summary": "AK Parti Sosyal Politikalar Başkanlığınca şehit yakınları ve gazilerin katılımıyla \"Milli Dayanışma ve Vefa Buluşması\" programı düzenlendi."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Yazıcı: Türkiye söz konusu olduğunda 86 milyonun tamamı bizim hedef kitlemiz",
+        "title": "Aile ve Sosyal Hizmetler Bakanlığı \"Küçük trans çocuklara örnek olacağız\" paylaşımları için suç duyurusunda bulundu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-yazici-turkiye-soz-konusu-oldugunda-86-milyonun-tamami-bizim-hedef-kitlemiz/4024843",
-        "summary": "AK Parti Genel Başkan Yardımcısı, Siyasi ve Hukuki İşler Başkanı Hayati Yazıcı, \"Biz milletin olduğu yerde duran bir partiyiz. Türkiye söz konusu olduğunda 86 milyonun tamamı bizim..."
+        "url": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligi-kucuk-trans-cocuklara-ornek-olacagiz-paylasimlari-icin-suc-duyurusunda-bulundu/4025723",
+        "summary": "Aile ve Sosyal Hizmetler Bakanlığı, bazı sosyal medya platformlarındaki \"Küçük trans çocuklara örnek olacağız\" başlığıyla yayımlanan paylaşımlara ilişkin Cumhuriyet Başsavcılığına ..."
       },
       {
-        "title": "CANLI-TBMM Başkanı Kurtulmuş, AA Editör Masası'nın konuğu",
+        "title": "AK Parti Genel Başkan Yardımcısı Acar: Hiçbir şeyin eskisi gibi olmadığı, 25 yıllık bir hikayeyle buluşmuş olacağız",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/canli-tbmm-baskani-kurtulmus-aa-editor-masasinin-konugu/4024740",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, Anadolu Ajansı (AA) Editör Masası'nda gündeme ilişkin soruları yanıtlıyor."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-acar-hicbir-seyin-eskisi-gibi-olmadigi-25-yillik-bir-hikayeyle-bulusmus-olacagiz/4025712",
+        "summary": "AK Parti Genel Başkan Yardımcısı, Tanıtım ve Medya Başkanı Acar, \"AK Parti'mizin 'Artık hiçbir şey eskisi gibi olmayacak' sözünden sonra, gerçekten hiçbir şeyin eskisi gibi olmadığ..."
       }
     ]
   }
