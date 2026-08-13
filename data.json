@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-08-12 20:04:29",
+  "updated_at": "2026-08-13 08:57:36",
   "markets": {
-    "usd_try_kapalicarsi": "47.74 TL",
-    "eur_try_kapalicarsi": "55.09 TL",
+    "usd_try_kapalicarsi": "47.78 TL",
+    "eur_try_kapalicarsi": "55.11 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Trump swaps planes via catering truck after Iranian threats, reports say",
-    "bullet_1": "Trump swaps planes via catering truck after Iranian threats, reports say",
-    "bullet_2": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
-    "bullet_3": "Colby pushes back on dwindling stockpile reports amid Southeast Asia tour",
+    "red_alert": "SON DAKİKA: Army opens test ranges to private industry",
+    "bullet_1": "Army opens test ranges to private industry",
+    "bullet_2": "Trump swaps planes via catering truck after Iranian threats, reports say",
+    "bullet_3": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
     "defense_news": [
+      {
+        "title": "Army opens test ranges to private industry",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/",
+        "summary": "The effort, the Army says, is designed to hasten the development and testing of drones, counter-drone systems, long-range fires and cheap interceptors."
+      },
       {
         "title": "Trump swaps planes via catering truck after Iranian threats, reports say",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/08/11/colby-pushes-back-on-dwindling-stockpile-reports-amid-southeast-asia-tour/",
         "summary": "A senior Pentagon official pushed back against reports that the U.S. military’s stockpiles and capabilities are strained following Operation Epic Fury."
-      },
-      {
-        "title": "Pentagon gives industry 21 days to submit plans for ‘significantly faster’ weapons production",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/11/pentagon-gives-industry-21-days-to-submit-plans-for-significantly-faster-weapons-production/",
-        "summary": "In a recent memo, the Pentagon pushed defense companies to accelerate production and delivery of critical weapons."
       }
     ],
     "geo_news": [
       {
-        "title": "Gökyüzü meraklıları Perseid meteor yağmurunu izledi",
+        "title": "AK Parti Kurucular Kurulu Üyesi Binali Yıldırım: AK Parti, ideolojik bir parti değil, bütün milletin partisidir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/gokyuzu-meraklilari-perseid-meteor-yagmurunu-izledi/4025767",
-        "summary": "Gökyüzü meraklıları, \"Perseid meteor yağmuru gözlem etkinliği\"nde bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-kurucular-kurulu-uyesi-binali-yildirim-ak-parti-ideolojik-bir-parti-degil-butun-milletin-partisidir/4025996",
+        "summary": "AK Parti Kurucular Kurulu Üyesi Binali Yıldırım, \"AK Parti, ideolojik bir parti değil, bütün milletin partisidir. Yani milletin taleplerinden doğan bir partidir. Bizi millet parti ..."
       },
       {
-        "title": "AK Parti'de \"Milli Dayanışma ve Vefa Buluşması\" programı düzenlendi",
+        "title": "Güneydoğu'da anız yangınlarıyla mücadele sonuç veriyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-partide-milli-dayanisma-ve-vefa-bulusmasi-programi-duzenlendi/4025762",
-        "summary": "AK Parti Sosyal Politikalar Başkanlığınca şehit yakınları ve gazilerin katılımıyla \"Milli Dayanışma ve Vefa Buluşması\" programı düzenlendi."
+        "url": "https://www.aa.com.tr/tr/gundem/guneydoguda-aniz-yanginlariyla-mucadele-sonuc-veriyor-/4026073",
+        "summary": "Güneydoğu Anadolu Bölgesi'nin önemli tarım kentlerinden Diyarbakır, Batman ve Mardin'de çiftçilerin bilinçlendirilmesi ve denetimler sayesinde anız yangınları ve anız kaynaklı orma..."
       },
       {
-        "title": "Aile ve Sosyal Hizmetler Bakanlığı \"Küçük trans çocuklara örnek olacağız\" paylaşımları için suç duyurusunda bulundu",
+        "title": "Giresun ve Trabzon için gök gürültülü sağanak uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligi-kucuk-trans-cocuklara-ornek-olacagiz-paylasimlari-icin-suc-duyurusunda-bulundu/4025723",
-        "summary": "Aile ve Sosyal Hizmetler Bakanlığı, bazı sosyal medya platformlarındaki \"Küçük trans çocuklara örnek olacağız\" başlığıyla yayımlanan paylaşımlara ilişkin Cumhuriyet Başsavcılığına ..."
+        "url": "https://www.aa.com.tr/tr/gundem/giresun-ve-trabzon-icin-gok-gurultulu-saganak-uyarisi/4026035",
+        "summary": "Giresun ve Trabzon için gök gürültülü sağanak uyarısında bulunuldu."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Acar: Hiçbir şeyin eskisi gibi olmadığı, 25 yıllık bir hikayeyle buluşmuş olacağız",
+        "title": "Siber dolandırıcıların \"Ödeme İste\" kapora tuzağına karşı uyarı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-acar-hicbir-seyin-eskisi-gibi-olmadigi-25-yillik-bir-hikayeyle-bulusmus-olacagiz/4025712",
-        "summary": "AK Parti Genel Başkan Yardımcısı, Tanıtım ve Medya Başkanı Acar, \"AK Parti'mizin 'Artık hiçbir şey eskisi gibi olmayacak' sözünden sonra, gerçekten hiçbir şeyin eskisi gibi olmadığ..."
+        "url": "https://www.aa.com.tr/tr/gundem/siber-dolandiricilarin-odeme-iste-kapora-tuzagina-karsi-uyari/4026029",
+        "summary": "Bankaların müşterilerine sunduğu ve para transferini kolaylaştıran \"Ödeme İste\" özelliği siber dolandırıcılar tarafından özellikle araç ve konut ilanlarında \"kapora tuzağına\" dönüş..."
       }
     ]
   }
