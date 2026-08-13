@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 08:57:36",
+  "updated_at": "2026-08-13 19:58:28",
   "markets": {
     "usd_try_kapalicarsi": "47.78 TL",
     "eur_try_kapalicarsi": "55.11 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Army opens test ranges to private industry",
-    "bullet_1": "Army opens test ranges to private industry",
-    "bullet_2": "Trump swaps planes via catering truck after Iranian threats, reports say",
-    "bullet_3": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
+    "red_alert": "SON DAKİKA: US Marines roam far and wide from temporary Darwin base",
+    "bullet_1": "US Marines roam far and wide from temporary Darwin base",
+    "bullet_2": "Flight-tracking data shows continued Russian air bridge to sub-Saharan Africa",
+    "bullet_3": "Army opens test ranges to private industry",
     "defense_news": [
+      {
+        "title": "US Marines roam far and wide from temporary Darwin base",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-marine-corps/2026/08/13/us-marines-roam-far-and-wide-from-temporary-darwin-base/",
+        "summary": "This year's Marine Rotation Force-Darwin is the first in its 15-year history to be certified as a Marine Air-Ground Task Force."
+      },
+      {
+        "title": "Flight-tracking data shows continued Russian air bridge to sub-Saharan Africa",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/08/13/flight-tracking-data-shows-continued-russian-air-bridge-to-sub-saharan-africa/",
+        "summary": "A recent report from the Center for Advanced Defense Studies found that Russian state-aligned military forces flew at least 75 flights in Central Sahel."
+      },
       {
         "title": "Army opens test ranges to private industry",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say/",
         "summary": "Trump was transferred from Air Force One to a military plane via a catering truck due to Iranian threats following a NATO summit in Turkey, reports say."
-      },
-      {
-        "title": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/11/boeing-unveils-cheap-radar-seeker-built-from-off-the-shelf-parts/",
-        "summary": "Seekers are among the most expensive parts of a guided weapon, and Boeing’s argument is that their cost is what limits how many the military can buy."
-      },
-      {
-        "title": "Colby pushes back on dwindling stockpile reports amid Southeast Asia tour",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/11/colby-pushes-back-on-dwindling-stockpile-reports-amid-southeast-asia-tour/",
-        "summary": "A senior Pentagon official pushed back against reports that the U.S. military’s stockpiles and capabilities are strained following Operation Epic Fury."
       }
     ],
     "geo_news": [
       {
-        "title": "AK Parti Kurucular Kurulu Üyesi Binali Yıldırım: AK Parti, ideolojik bir parti değil, bütün milletin partisidir",
+        "title": "Terörle mücadelede yaralanıp malul sayılmayanların başvuru süreci 1 Eylül'de başlayacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-kurucular-kurulu-uyesi-binali-yildirim-ak-parti-ideolojik-bir-parti-degil-butun-milletin-partisidir/4025996",
-        "summary": "AK Parti Kurucular Kurulu Üyesi Binali Yıldırım, \"AK Parti, ideolojik bir parti değil, bütün milletin partisidir. Yani milletin taleplerinden doğan bir partidir. Bizi millet parti ..."
+        "url": "https://www.aa.com.tr/tr/gundem/terorle-mucadelede-yaralanip-malul-sayilmayanlarin-basvuru-sureci-1-eylulde-baslayacak/4026905",
+        "summary": "Milli Savunma Bakanlığı (MSB), terörle mücadelede yaralanıp malul sayılmayanların başvuru sürecinin 1 Eylül'de e-Devlet kapısı üzerinden erişime açılacağını bildirdi."
       },
       {
-        "title": "Güneydoğu'da anız yangınlarıyla mücadele sonuç veriyor",
+        "title": "Giresun'da denizde hortum oluştu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/guneydoguda-aniz-yanginlariyla-mucadele-sonuc-veriyor-/4026073",
-        "summary": "Güneydoğu Anadolu Bölgesi'nin önemli tarım kentlerinden Diyarbakır, Batman ve Mardin'de çiftçilerin bilinçlendirilmesi ve denetimler sayesinde anız yangınları ve anız kaynaklı orma..."
+        "url": "https://www.aa.com.tr/tr/gundem/giresunda-denizde-hortum-olustu/4026850",
+        "summary": "Giresun'un Tirebolu ilçesinde denizde hortum meydana geldi."
       },
       {
-        "title": "Giresun ve Trabzon için gök gürültülü sağanak uyarısı",
+        "title": "Dışişleri Bakanı Fidan: (Gazze’de Mısır’la) Daha ciddi tedbirlerin alınması konusunda mutabık kaldık",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/giresun-ve-trabzon-icin-gok-gurultulu-saganak-uyarisi/4026035",
-        "summary": "Giresun ve Trabzon için gök gürültülü sağanak uyarısında bulunuldu."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-gazze-de-misir-la-daha-ciddi-tedbirlerin-alinmasi-konusunda-mutabik-kaldik/4026763",
+        "summary": "Dışişleri Bakanı Fidan, “(Gazze’de Mısır’la) Daha ciddi tedbirlerin alınması konusunda mutabık kaldık.” dedi."
       },
       {
-        "title": "Siber dolandırıcıların \"Ödeme İste\" kapora tuzağına karşı uyarı",
+        "title": "AK Parti Genel Merkez Kadın Kolları Başkanı Ercan, partisinin kadın politikaları vizyonunu anlattı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/siber-dolandiricilarin-odeme-iste-kapora-tuzagina-karsi-uyari/4026029",
-        "summary": "Bankaların müşterilerine sunduğu ve para transferini kolaylaştıran \"Ödeme İste\" özelliği siber dolandırıcılar tarafından özellikle araç ve konut ilanlarında \"kapora tuzağına\" dönüş..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-merkez-kadin-kollari-baskani-ercan-partisinin-kadin-politikalari-vizyonunu-anlatti/4026717",
+        "summary": "AK Parti Genel Merkez Kadın Kolları Başkanı Tuğba Işık Ercan, \"Kadınların daha rahat çalışabilecekleri ortamları, aile bütünlüğünü koruyarak oluşturmak istiyoruz.\" dedi."
       }
     ]
   }
