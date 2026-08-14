@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13 19:58:28",
+  "updated_at": "2026-08-14 08:48:26",
   "markets": {
-    "usd_try_kapalicarsi": "47.78 TL",
-    "eur_try_kapalicarsi": "55.11 TL",
+    "usd_try_kapalicarsi": "47.81 TL",
+    "eur_try_kapalicarsi": "55.14 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Terörle mücadelede yaralanıp malul sayılmayanların başvuru süreci 1 Eylül'de başlayacak",
+        "title": "Türk bayraklı gemi Girit açıklarında Sudanlı göçmenleri kurtardı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/terorle-mucadelede-yaralanip-malul-sayilmayanlarin-basvuru-sureci-1-eylulde-baslayacak/4026905",
-        "summary": "Milli Savunma Bakanlığı (MSB), terörle mücadelede yaralanıp malul sayılmayanların başvuru sürecinin 1 Eylül'de e-Devlet kapısı üzerinden erişime açılacağını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-bayrakli-gemi-girit-aciklarinda-sudanli-gocmenleri-kurtardi/4027165",
+        "summary": "Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğü, Türk bayraklı DONAU EKSPRES II isimli geminin, Girit'in yaklaşık 50 deniz mili güneyinde denizde mahsur kalan 48 Sudanlı ..."
       },
       {
-        "title": "Giresun'da denizde hortum oluştu",
+        "title": "2026-ÖZYES yarın başlayacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/giresunda-denizde-hortum-olustu/4026850",
-        "summary": "Giresun'un Tirebolu ilçesinde denizde hortum meydana geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/2026-ozyes-yarin-baslayacak/4027204",
+        "summary": "ÖSYM Başkanlığınca, 2026-2027 öğretim yılı için yükseköğretim kurumlarının spor programlarına alınacak öğrencilerin seçimi ve tercihlerine göre yerleştirilebilmeleri amacıyla merke..."
       },
       {
-        "title": "Dışişleri Bakanı Fidan: (Gazze’de Mısır’la) Daha ciddi tedbirlerin alınması konusunda mutabık kaldık",
+        "title": "İstanbul merkezli operasyonda kurşunlama ve yaralama olaylarıyla ilgili 9 zanlı yakalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-gazze-de-misir-la-daha-ciddi-tedbirlerin-alinmasi-konusunda-mutabik-kaldik/4026763",
-        "summary": "Dışişleri Bakanı Fidan, “(Gazze’de Mısır’la) Daha ciddi tedbirlerin alınması konusunda mutabık kaldık.” dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-operasyonda-kursunlama-ve-yaralama-olaylariyla-ilgili-9-zanli-yakalandi/4027098",
+        "summary": "İstanbul ve Ankara'da düzenlenen operasyonda 4 kurşunlama ve yaralama olayıyla ilgili 9 şüpheli gözaltına alındı."
       },
       {
-        "title": "AK Parti Genel Merkez Kadın Kolları Başkanı Ercan, partisinin kadın politikaları vizyonunu anlattı",
+        "title": "Ormanların korunmasına ve yönetimine 6 ayda yaklaşık 16,5 milyar lira harcandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-merkez-kadin-kollari-baskani-ercan-partisinin-kadin-politikalari-vizyonunu-anlatti/4026717",
-        "summary": "AK Parti Genel Merkez Kadın Kolları Başkanı Tuğba Işık Ercan, \"Kadınların daha rahat çalışabilecekleri ortamları, aile bütünlüğünü koruyarak oluşturmak istiyoruz.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/ormanlarin-korunmasina-ve-yonetimine-6-ayda-yaklasik-16-5-milyar-lira-harcandi/4027188",
+        "summary": "Tarım ve Orman Bakanlığına bağlı Orman Genel Müdürlüğü (OGM), yılın ilk 6 ayında ormanların ve doğanın korunması ile sürdürülebilir yönetimi için yaklaşık 16,5 milyar liralık harca..."
       }
     ]
   }
