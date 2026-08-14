@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 08:48:26",
+  "updated_at": "2026-08-14 19:39:48",
   "markets": {
     "usd_try_kapalicarsi": "47.81 TL",
     "eur_try_kapalicarsi": "55.14 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Marines roam far and wide from temporary Darwin base",
-    "bullet_1": "US Marines roam far and wide from temporary Darwin base",
-    "bullet_2": "Flight-tracking data shows continued Russian air bridge to sub-Saharan Africa",
-    "bullet_3": "Army opens test ranges to private industry",
+    "red_alert": "SON DAKİKA: Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
+    "bullet_1": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
+    "bullet_2": "CENTCOM launches multinational attack drone task force",
+    "bullet_3": "US Marines roam far and wide from temporary Darwin base",
     "defense_news": [
+      {
+        "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
+        "summary": "Though Trump promised Kyiv a license to build Patriot missile interceptors last month, Lockheed Martin and Raytheon have put the brakes on production."
+      },
+      {
+        "title": "CENTCOM launches multinational attack drone task force",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
+        "summary": "Task Force Falcon Strike will employ one-way attack drones composed of unmanned systems from above, on and below the sea."
+      },
       {
         "title": "US Marines roam far and wide from temporary Darwin base",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/08/13/flight-tracking-data-shows-continued-russian-air-bridge-to-sub-saharan-africa/",
         "summary": "A recent report from the Center for Advanced Defense Studies found that Russian state-aligned military forces flew at least 75 flights in Central Sahel."
-      },
-      {
-        "title": "Army opens test ranges to private industry",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/",
-        "summary": "The effort, the Army says, is designed to hasten the development and testing of drones, counter-drone systems, long-range fires and cheap interceptors."
-      },
-      {
-        "title": "Trump swaps planes via catering truck after Iranian threats, reports say",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say/",
-        "summary": "Trump was transferred from Air Force One to a military plane via a catering truck due to Iranian threats following a NATO summit in Turkey, reports say."
       }
     ],
     "geo_news": [
       {
-        "title": "Türk bayraklı gemi Girit açıklarında Sudanlı göçmenleri kurtardı",
+        "title": "Milli Savunma Bakanı Güler: Bordo berelilerimiz terörün bitme noktasına getirilmesinde önemli bir rol oynamıştır",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-bayrakli-gemi-girit-aciklarinda-sudanli-gocmenleri-kurtardi/4027165",
-        "summary": "Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğü, Türk bayraklı DONAU EKSPRES II isimli geminin, Girit'in yaklaşık 50 deniz mili güneyinde denizde mahsur kalan 48 Sudanlı ..."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-bordo-berelilerimiz-terorun-bitme-noktasina-getirilmesinde-onemli-bir-rol-oynamistir/4027824",
+        "summary": "Milli Savunma Bakanı Yaşar Güler, \"Bordo berelilerimiz yıllardır sürdürdüğümüz terörle mücadelede destanlar yazmış, görevlerini kahramanca ve fedakarca icra ederek terörün bitme no..."
       },
       {
-        "title": "2026-ÖZYES yarın başlayacak",
+        "title": "Cumhurbaşkanı Erdoğan: Tarih yeniden yazılıyor, açın yolları, 'Büyük Türkiye Cumhuriyeti' geliyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/2026-ozyes-yarin-baslayacak/4027204",
-        "summary": "ÖSYM Başkanlığınca, 2026-2027 öğretim yılı için yükseköğretim kurumlarının spor programlarına alınacak öğrencilerin seçimi ve tercihlerine göre yerleştirilebilmeleri amacıyla merke..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-tarih-yeniden-yaziliyor-acin-yollari-buyuk-turkiye-cumhuriyeti-geliyor/4027626",
+        "summary": "Cumhurbaşkanı Erdoğan, \"AK Parti 25. Kuruluş Yıl Dönümü Programı\"nda yaptığı konuşmada, \"Kardeşliğimiz yeniden anlam kazanıyor, gücümüze güç katılıyor, tarih yeniden yazılıyor, açı..."
       },
       {
-        "title": "İstanbul merkezli operasyonda kurşunlama ve yaralama olaylarıyla ilgili 9 zanlı yakalandı",
+        "title": "Ahlat'ta Malazgirt Zaferi'nin 955'inci yıl dönümü hazırlıkları sürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-operasyonda-kursunlama-ve-yaralama-olaylariyla-ilgili-9-zanli-yakalandi/4027098",
-        "summary": "İstanbul ve Ankara'da düzenlenen operasyonda 4 kurşunlama ve yaralama olayıyla ilgili 9 şüpheli gözaltına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/ahlatta-malazgirt-zaferinin-955inci-yil-donumu-hazirliklari-suruyor/4027688",
+        "summary": "Bitlis Valisi Ahmet Karakaya, Malazgirt Zaferi'nin 955. yıl dönümü dolayısıyla Ahlat ilçesinde yürütülen hazırlıkları inceledi."
       },
       {
-        "title": "Ormanların korunmasına ve yönetimine 6 ayda yaklaşık 16,5 milyar lira harcandı",
+        "title": "Fenerbahçe takım otobüsüne saldırı dosyasında gözaltına alınan 4 şüpheliden 1'i tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ormanlarin-korunmasina-ve-yonetimine-6-ayda-yaklasik-16-5-milyar-lira-harcandi/4027188",
-        "summary": "Tarım ve Orman Bakanlığına bağlı Orman Genel Müdürlüğü (OGM), yılın ilk 6 ayında ormanların ve doğanın korunması ile sürdürülebilir yönetimi için yaklaşık 16,5 milyar liralık harca..."
+        "url": "https://www.aa.com.tr/tr/gundem/fenerbahce-takim-otobusune-saldiri-dosyasinda-gozaltina-alinan-4-supheliden-1i-tutuklandi/4027663",
+        "summary": "Fenerbahçe Futbol A Takımı'na 4 Nisan 2015'te Trabzon'da gerçekleştirilen silahlı saldırıya yönelik dosyada gözaltına alınarak adliyeye sevk edilen 4 şüpheliden 1'i tutuklandı, diğ..."
       }
     ]
   }
