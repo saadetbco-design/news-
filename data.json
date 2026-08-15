@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-08-14 19:39:48",
+  "updated_at": "2026-08-15 05:55:20",
   "markets": {
-    "usd_try_kapalicarsi": "47.81 TL",
-    "eur_try_kapalicarsi": "55.14 TL",
+    "usd_try_kapalicarsi": "47.88 TL",
+    "eur_try_kapalicarsi": "55.37 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
-    "bullet_1": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
-    "bullet_2": "CENTCOM launches multinational attack drone task force",
-    "bullet_3": "US Marines roam far and wide from temporary Darwin base",
+    "red_alert": "SON DAKİKA: Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
+    "bullet_1": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
+    "bullet_2": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
+    "bullet_3": "CENTCOM launches multinational attack drone task force",
     "defense_news": [
+      {
+        "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
+        "summary": "The Pentagon signed seven-year framework agreements Friday with Boeing and RTX to expand production of critical components for the Standard Missile-3."
+      },
       {
         "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-marine-corps/2026/08/13/us-marines-roam-far-and-wide-from-temporary-darwin-base/",
         "summary": "This year's Marine Rotation Force-Darwin is the first in its 15-year history to be certified as a Marine Air-Ground Task Force."
-      },
-      {
-        "title": "Flight-tracking data shows continued Russian air bridge to sub-Saharan Africa",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/13/flight-tracking-data-shows-continued-russian-air-bridge-to-sub-saharan-africa/",
-        "summary": "A recent report from the Center for Advanced Defense Studies found that Russian state-aligned military forces flew at least 75 flights in Central Sahel."
       }
     ],
     "geo_news": [
+      {
+        "title": "Jandarma ve Sahil Güvenlik Komutanlığına ilişkin atamalar Resmi Gazete'de",
+        "source": "AA GÜNDEM",
+        "url": "https://www.aa.com.tr/tr/gundem/jandarma-ve-sahil-guvenlik-komutanligina-iliskin-atamalar-resmi-gazetede/4027900",
+        "summary": "Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına ilişkin atamalar Resmi Gazete'de yayımlandı."
+      },
+      {
+        "title": "Türkiye'ye iade edilen organize suç örgütü elebaşı Serkan Kurtuluş İstanbul'a getirildi",
+        "source": "AA GÜNDEM",
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyeye-iade-edilen-organize-suc-orgutu-elebasi-serkan-kurtulus-istanbula-getirildi/4027879",
+        "summary": "Kırmızı bültenle uluslararası seviyede aranırken Arjantin'de yakalanan organize suç örgütü elebaşı Serkan Kurtuluş, Türkiye'ye iade sürecinin tamamlanmasının ardından İstanbul'a ge..."
+      },
+      {
+        "title": "AK Parti'nin 25. yıl vizyon belgesi paylaşıldı",
+        "source": "AA GÜNDEM",
+        "url": "https://www.aa.com.tr/tr/gundem/ak-partinin-25-yil-vizyon-belgesi-paylasildi/4027867",
+        "summary": "AK Parti'nin 25. yıl vizyon belgesi, partinin 25. kuruluş yıl dönümü kutlama programında paylaşıldı."
+      },
       {
         "title": "Milli Savunma Bakanı Güler: Bordo berelilerimiz terörün bitme noktasına getirilmesinde önemli bir rol oynamıştır",
         "source": "AA GÜNDEM",
         "url": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-bordo-berelilerimiz-terorun-bitme-noktasina-getirilmesinde-onemli-bir-rol-oynamistir/4027824",
         "summary": "Milli Savunma Bakanı Yaşar Güler, \"Bordo berelilerimiz yıllardır sürdürdüğümüz terörle mücadelede destanlar yazmış, görevlerini kahramanca ve fedakarca icra ederek terörün bitme no..."
-      },
-      {
-        "title": "Cumhurbaşkanı Erdoğan: Tarih yeniden yazılıyor, açın yolları, 'Büyük Türkiye Cumhuriyeti' geliyor",
-        "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-tarih-yeniden-yaziliyor-acin-yollari-buyuk-turkiye-cumhuriyeti-geliyor/4027626",
-        "summary": "Cumhurbaşkanı Erdoğan, \"AK Parti 25. Kuruluş Yıl Dönümü Programı\"nda yaptığı konuşmada, \"Kardeşliğimiz yeniden anlam kazanıyor, gücümüze güç katılıyor, tarih yeniden yazılıyor, açı..."
-      },
-      {
-        "title": "Ahlat'ta Malazgirt Zaferi'nin 955'inci yıl dönümü hazırlıkları sürüyor",
-        "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ahlatta-malazgirt-zaferinin-955inci-yil-donumu-hazirliklari-suruyor/4027688",
-        "summary": "Bitlis Valisi Ahmet Karakaya, Malazgirt Zaferi'nin 955. yıl dönümü dolayısıyla Ahlat ilçesinde yürütülen hazırlıkları inceledi."
-      },
-      {
-        "title": "Fenerbahçe takım otobüsüne saldırı dosyasında gözaltına alınan 4 şüpheliden 1'i tutuklandı",
-        "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/fenerbahce-takim-otobusune-saldiri-dosyasinda-gozaltina-alinan-4-supheliden-1i-tutuklandi/4027663",
-        "summary": "Fenerbahçe Futbol A Takımı'na 4 Nisan 2015'te Trabzon'da gerçekleştirilen silahlı saldırıya yönelik dosyada gözaltına alınarak adliyeye sevk edilen 4 şüpheliden 1'i tutuklandı, diğ..."
       }
     ]
   }
