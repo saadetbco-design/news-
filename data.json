@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15 17:41:45",
+  "updated_at": "2026-08-16 05:58:00",
   "markets": {
-    "usd_try_kapalicarsi": "47.88 TL",
-    "eur_try_kapalicarsi": "55.37 TL",
+    "usd_try_kapalicarsi": "47.89 TL",
+    "eur_try_kapalicarsi": "55.38 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "ASELSAN liseleri LGS'de başarı çıtasını yükseltiyor",
+        "title": "İstanbul'da bazı yollar trafiğe kapatıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-liseleri-lgsde-basari-citasini-yukseltiyor/4028362",
-        "summary": "Yerli ve milli savunma sanayisinin ihtiyaç duyduğu nitelikli insan kaynağını yetiştirme hedefiyle yola çıkan ASELSAN Mesleki ve Teknik Anadolu Lisesi (MTAL) ile ASELSAN Konya MTAL,..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-bazi-yollar-trafige-kapatildi/4028535",
+        "summary": "İstanbul'da, 2026 Uluslararası Asya ve Avrupa Triatlon Şampiyonası dolayısıyla bazı yollar trafiğe kapatıldı."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu Macaristan'daki Büyük Hun-Türk Kurultayı'nda konuştu",
+        "title": "İstanbul'da 17. Milli İrade Buluşması \"Terörsüz Türkiye\" programı düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-macaristandaki-buyuk-hun-turk-kurultayinda-konustu/4028371",
-        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Prof. Dr. Kürşad Zorlu, \"Tarihte, Hunlar Göktürklerden nasıl ayrılamazsa bugün de Türkiye, Macaristan'dan ..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-17-milli-irade-bulusmasi-terorsuz-turkiye-programi-duzenlendi/4028483",
+        "summary": "TGTV ve Milli İrade Platformu tarafından \"Terörsüz Türkiye\" temasıyla  MÜSİAD'ın Bakırköy'deki merkezinde 17. Milli İrade Buluşması düzenlendi."
       },
       {
-        "title": "Hacıbektaş'ta Balkan ülkelerinden gelen basın heyeti için bilgilendirme programı düzenlendi",
+        "title": "Macaristan'da Büyük Hun-Türk Kurultayı'nın resmi açılış töreni yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/hacibektasta-balkan-ulkelerinden-gelen-basin-heyeti-icin-bilgilendirme-programi-duzenlendi/4028378",
-        "summary": "Nevşehir'in Hacıbektaş ilçesinde, \"Hacı Bektaş Veli'nin Hakk'a Yürüyüşünün 755. Yıl Dönümü Anma Etkinlikleri\" kapsamında Balkan ülkelerinden gelen basın heyetine yönelik bilgilendi..."
+        "url": "https://www.aa.com.tr/tr/gundem/macaristanda-buyuk-hun-turk-kurultayinin-resmi-acilis-toreni-yapildi/4028440",
+        "summary": "Macaristan'ın Bacs-Kiskun bölgesindeki Bugac kasabasında düzenlenen \"Büyük Hun-Türk Kurultayı\"nın resmi açılış töreni yapıldı."
       },
       {
-        "title": "Türk Hava Kuvvetleri NATO görevi kapsamında Estonya'da \"hava polisliği\" yapıyor",
+        "title": "TBMM Başkanı Kurtulmuş: Bu memlekette artık ne ayrılıkçı söze ne de ayrımcılık sözlerine yer yoktur",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-hava-kuvvetleri-nato-gorevi-kapsaminda-estonyada-hava-polisligi-yapiyor/4028349",
-        "summary": "MSB, NATO Geliştirilmiş Hava Polisliği (eAP) misyonu kapsamında Türk Hava Kuvvetlerine ait beş F-16 uçağı ile 76 personelin Estonya'nın Amari Hava Üssü'nde konuşlandığını ve müttef..."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-bu-memlekette-artik-ne-ayrilikci-soze-ne-de-ayrimcilik-sozlerine-yer-yoktur/4028485",
+        "summary": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye sürecine ilişkin, \"Bu memlekette artık ne ayrılıkçı söze ne de ayrımcılık sözlerine yer yoktur.\" dedi."
       }
     ]
   }
