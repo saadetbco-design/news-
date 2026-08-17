@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-16 17:40:07",
+  "updated_at": "2026-08-17 06:05:04",
   "markets": {
-    "usd_try_kapalicarsi": "47.89 TL",
-    "eur_try_kapalicarsi": "55.38 TL",
+    "usd_try_kapalicarsi": "47.88 TL",
+    "eur_try_kapalicarsi": "55.41 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Türk Hava Kuvvetleri uçakları, Romanya'daki NATO Entegre Hava ve Füze Savunması faaliyetine katıldı",
+        "title": "TBMM Başkanı Kurtulmuş, Marmara Depremi’nde hayatını kaybedenleri andı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-hava-kuvvetleri-ucaklari-romanyadaki-nato-entegre-hava-ve-fuze-savunmasi-faaliyetine-katildi/4028918",
-        "summary": "Milli Savunma Bakanlığı, Türk Hava Kuvvetlerine ait uçakların Romanya hava sahasında icra edilen NATO Entegre Hava ve Füze Savunması faaliyetine katıldığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-marmara-depremi-nde-hayatini-kaybedenleri-andi/4029040",
+        "summary": "TBMM Başkanı Numan Kurtulmuş, 17 Ağustos 1999 Marmara Depremi'nin 27'nci yıl dönümünde felakette yaşamını yitirenleri andı."
       },
       {
-        "title": "İstanbul'da kentsel dönüşümü tamamlanan bağımsız bölüm sayısı 1 milyona ulaştı",
+        "title": "Marmara Depremi'nde hayatını kaybedenler anıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-kentsel-donusumu-tamamlanan-bagimsiz-bolum-sayisi-1-milyona-ulasti/4028862",
-        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, İstanbul'da kentsel dönüşümü tamamlanan bağımsız bölüm sayısının 1 milyona ulaştığını belirterek, \"Şehrimizi afetlere haz..."
+        "url": "https://www.aa.com.tr/tr/gundem/marmara-depreminde-hayatini-kaybedenler-anildi/4029023",
+        "summary": "17 Ağustos 1999 Marmara Depremi'nde hayatını kaybedenler için anma programları düzenlendi."
       },
       {
-        "title": "60 saniyede bugün (16 Ağustos 2026)",
+        "title": "Antalya'da turizm polisleri, tatilcilerin huzuru için sahada",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-16-agustos-2026/4028800",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/antalyada-turizm-polisleri-tatilcilerin-huzuru-icin-sahada/4029000",
+        "summary": "Deniz, kum ve güneşinin yanı sıra tarihi ve doğal güzellikleriyle her yıl milyonlarca turisti ağırlayan Antalya'da turizm polisleri, ziyaretçilerin güvenli ve huzurlu tatil geçirme..."
       },
       {
-        "title": "Edremit'te çıkan orman yangını kontrol altına alındı",
+        "title": "Marmara Depremi'nde kaybettiği oğlu ve gelininin acısını 27 yıldır yüreğinde hissediyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/edremitte-cikan-orman-yangini-kontrol-altina-alindi/4028836",
-        "summary": "Balıkesir'in Edremit ilçesinde çıkan orman yangını kontrol altına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/marmara-depreminde-kaybettigi-oglu-ve-gelininin-acisini-27-yildir-yureginde-hissediyor/4029002",
+        "summary": "Marmara Depremi'nde oğlu ve gelinini kaybeden Sabriye Çap, acısını 27 yıldır ilk günkü gibi yaşıyor"
       }
     ]
   }
