@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 06:05:04",
+  "updated_at": "2026-08-17 18:00:26",
   "markets": {
     "usd_try_kapalicarsi": "47.88 TL",
     "eur_try_kapalicarsi": "55.41 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
-    "bullet_1": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
-    "bullet_2": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
-    "bullet_3": "CENTCOM launches multinational attack drone task force",
+    "red_alert": "SON DAKİKA: Trump orders Pentagon to cut back military exercises with South Korea",
+    "bullet_1": "Trump orders Pentagon to cut back military exercises with South Korea",
+    "bullet_2": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
+    "bullet_3": "US awards Raytheon $22.9 billion deal to boost Tomahawk output",
     "defense_news": [
       {
-        "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
+        "title": "Trump orders Pentagon to cut back military exercises with South Korea",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
-        "summary": "The Pentagon signed seven-year framework agreements Friday with Boeing and RTX to expand production of critical components for the Standard Missile-3."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea/",
+        "summary": "President Trump instructed the Pentagon to “substantially reduce” joint military exercises with long-term Asian ally South Korea."
       },
       {
-        "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
+        "title": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
-        "summary": "Though Trump promised Kyiv a license to build Patriot missile interceptors last month, Lockheed Martin and Raytheon have put the brakes on production."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
+        "summary": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7."
       },
       {
-        "title": "CENTCOM launches multinational attack drone task force",
+        "title": "US awards Raytheon $22.9 billion deal to boost Tomahawk output",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
-        "summary": "Task Force Falcon Strike will employ one-way attack drones composed of unmanned systems from above, on and below the sea."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/17/us-awards-raytheon-229-billion-deal-to-boost-tomahawk-output/",
+        "summary": "The U.S. military, scrambling to rebuild depleted stocks of high-tech weaponry, awarded Raytheon $22.9 billion to dramatically boost Tomahawk production."
       },
       {
-        "title": "US Marines roam far and wide from temporary Darwin base",
+        "title": "‘Everybody loves a winner’: US-Ukraine intel sharing surges as Kyiv racks up wins",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-marine-corps/2026/08/13/us-marines-roam-far-and-wide-from-temporary-darwin-base/",
-        "summary": "This year's Marine Rotation Force-Darwin is the first in its 15-year history to be certified as a Marine Air-Ground Task Force."
+        "url": "https://www.defensenews.com/global/europe/2026/08/17/everybody-loves-a-winner-us-ukraine-intel-sharing-surges-as-kyiv-racks-up-wins/",
+        "summary": "U.S. intelligence sharing with Ukraine has rebounded to full strength as Kyiv’s mid- and deep-range strikes continue to hammer Russia’s oil industry."
       }
     ],
     "geo_news": [
       {
-        "title": "TBMM Başkanı Kurtulmuş, Marmara Depremi’nde hayatını kaybedenleri andı",
+        "title": "İstanbul'daki kentsel dönüşümde yeni temeller Arnavutköy'de atıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-marmara-depremi-nde-hayatini-kaybedenleri-andi/4029040",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, 17 Ağustos 1999 Marmara Depremi'nin 27'nci yıl dönümünde felakette yaşamını yitirenleri andı."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kentsel-donusumde-yeni-temeller-arnavutkoyde-atildi/4029774",
+        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı işbirliğiyle İstanbul'da 1 milyonuncu konutun dönüşümüne ulaşılırken bu kapsamda Arnavutköy'de ise 354 bağımsız bölümden oluşan pro..."
       },
       {
-        "title": "Marmara Depremi'nde hayatını kaybedenler anıldı",
+        "title": "Bakan Göktaş: Evlilik kredisinden faydalanan gençlerimize TOKİ'nin sosyal konut projelerinde özel kontenjan ayıracağız",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/marmara-depreminde-hayatini-kaybedenler-anildi/4029023",
-        "summary": "17 Ağustos 1999 Marmara Depremi'nde hayatını kaybedenler için anma programları düzenlendi."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-evlilik-kredisinden-faydalanan-genclerimize-tokinin-sosyal-konut-projelerinde-ozel-kontenjan-ayiracagiz/4029782",
+        "summary": "Bakan Göktaş, evlilik kredisinden yararlanan gençlere İŞKUR'da öncelik tanındığını belirterek, \"Bundan sonraki süreçlerde, TOKİ'nin sosyal konut projelerinde bu krediden istifade e..."
       },
       {
-        "title": "Antalya'da turizm polisleri, tatilcilerin huzuru için sahada",
+        "title": "Yeni nesil suç örgütü soruşturmalarında 818 şüphelinin hesaplarına ve kripto varlıklarına el konuldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/antalyada-turizm-polisleri-tatilcilerin-huzuru-icin-sahada/4029000",
-        "summary": "Deniz, kum ve güneşinin yanı sıra tarihi ve doğal güzellikleriyle her yıl milyonlarca turisti ağırlayan Antalya'da turizm polisleri, ziyaretçilerin güvenli ve huzurlu tatil geçirme..."
+        "url": "https://www.aa.com.tr/tr/gundem/yeni-nesil-suc-orgutu-sorusturmalarinda-818-suphelinin-hesaplarina-ve-kripto-varliklarina-el-konuldu/4029756",
+        "summary": "Adalet Bakanı Akın Gürlek, 4 ayrı yeni nesil suç örgütüne yönelik yürütülen mali soruşturmalar kapsamında, 818 şüphelinin kiralık kasaları dahil tüm banka hesapları ile kripto varl..."
       },
       {
-        "title": "Marmara Depremi'nde kaybettiği oğlu ve gelininin acısını 27 yıldır yüreğinde hissediyor",
+        "title": "Sıfır Atık Vakfı ile Londra İklim Eylem Haftası'ndan işbirliği protokolü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/marmara-depreminde-kaybettigi-oglu-ve-gelininin-acisini-27-yildir-yureginde-hissediyor/4029002",
-        "summary": "Marmara Depremi'nde oğlu ve gelinini kaybeden Sabriye Çap, acısını 27 yıldır ilk günkü gibi yaşıyor"
+        "url": "https://www.aa.com.tr/tr/gundem/sifir-atik-vakfi-ile-londra-iklim-eylem-haftasindan-isbirligi-protokolu/4029745",
+        "summary": "Sıfır Atık Vakfı ile Londra İklim Eylem Haftası (LCAW) arasında, iklim eylemi, sıfır atık ve döngüsel ekonomi alanlarında uluslararası işbirliğini güçlendirmeyi amaçlayan protokol ..."
       }
     ]
   }
