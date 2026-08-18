@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-08-17 18:00:26",
+  "updated_at": "2026-08-18 05:59:11",
   "markets": {
-    "usd_try_kapalicarsi": "47.88 TL",
-    "eur_try_kapalicarsi": "55.41 TL",
+    "usd_try_kapalicarsi": "47.89 TL",
+    "eur_try_kapalicarsi": "55.49 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Trump orders Pentagon to cut back military exercises with South Korea",
-    "bullet_1": "Trump orders Pentagon to cut back military exercises with South Korea",
-    "bullet_2": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
-    "bullet_3": "US awards Raytheon $22.9 billion deal to boost Tomahawk output",
+    "red_alert": "SON DAKİKA: US Air Force looks to acquire target drones that can mimic stealth jets",
+    "bullet_1": "US Air Force looks to acquire target drones that can mimic stealth jets",
+    "bullet_2": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
+    "bullet_3": "Trump orders Pentagon to cut back military exercises with South Korea",
     "defense_news": [
+      {
+        "title": "US Air Force looks to acquire target drones that can mimic stealth jets",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-air-force-looks-to-acquire-target-drones-that-can-mimic-stealth-jets/",
+        "summary": "The U.S. Air Force wants to acquire target drones that can mimic the performance of a variety of aircraft, from stealth fighters to small UAVs."
+      },
+      {
+        "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/german-drone-maker-helsing-enlists-rakuten-to-broker-japan-military-deal/",
+        "summary": "German drone maker Helsing has enlisted Japanese e-commerce and finance firm Rakuten to help finalize a deal to sell its unmanned systems to Japan’s army."
+      },
       {
         "title": "Trump orders Pentagon to cut back military exercises with South Korea",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
         "summary": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7."
-      },
-      {
-        "title": "US awards Raytheon $22.9 billion deal to boost Tomahawk output",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/17/us-awards-raytheon-229-billion-deal-to-boost-tomahawk-output/",
-        "summary": "The U.S. military, scrambling to rebuild depleted stocks of high-tech weaponry, awarded Raytheon $22.9 billion to dramatically boost Tomahawk production."
-      },
-      {
-        "title": "‘Everybody loves a winner’: US-Ukraine intel sharing surges as Kyiv racks up wins",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/17/everybody-loves-a-winner-us-ukraine-intel-sharing-surges-as-kyiv-racks-up-wins/",
-        "summary": "U.S. intelligence sharing with Ukraine has rebounded to full strength as Kyiv’s mid- and deep-range strikes continue to hammer Russia’s oil industry."
       }
     ],
     "geo_news": [
       {
-        "title": "İstanbul'daki kentsel dönüşümde yeni temeller Arnavutköy'de atıldı",
+        "title": "\"İnternet altyapısı değişikliği\" bahanesiyle 801 kişiyi dolandıran 53 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbuldaki-kentsel-donusumde-yeni-temeller-arnavutkoyde-atildi/4029774",
-        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı işbirliğiyle İstanbul'da 1 milyonuncu konutun dönüşümüne ulaşılırken bu kapsamda Arnavutköy'de ise 354 bağımsız bölümden oluşan pro..."
+        "url": "https://www.aa.com.tr/tr/gundem/internet-altyapisi-degisikligi-bahanesiyle-801-kisiyi-dolandiran-53-supheli-tutuklandi/4030072",
+        "summary": "Eskişehir merkezli 19 ilde, kendilerini kurumsal iletişim firmalarının temsilcileri olarak tanıtıp \"internet altyapısı değişikliği\" bahanesiyle 801 kişiyi 116 milyon lira dolandırd..."
       },
       {
-        "title": "Bakan Göktaş: Evlilik kredisinden faydalanan gençlerimize TOKİ'nin sosyal konut projelerinde özel kontenjan ayıracağız",
+        "title": "\"Yeni nesil\" suç örgütü soruşturmalarında şüphelilerin gayrimenkullerine el koyma kararı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-evlilik-kredisinden-faydalanan-genclerimize-tokinin-sosyal-konut-projelerinde-ozel-kontenjan-ayiracagiz/4029782",
-        "summary": "Bakan Göktaş, evlilik kredisinden yararlanan gençlere İŞKUR'da öncelik tanındığını belirterek, \"Bundan sonraki süreçlerde, TOKİ'nin sosyal konut projelerinde bu krediden istifade e..."
+        "url": "https://www.aa.com.tr/tr/gundem/yeni-nesil-suc-orgutu-sorusturmalarinda-suphelilerin-gayrimenkullerine-el-koyma-karari/4030066",
+        "summary": "İstanbul Cumhuriyet Başsavcılığınca 4 ayrı \"yeni nesil\" suç örgütüne yönelik yürütülen soruşturmalarda, 818 şüphelinin menkul ve gayrimenkulleri ile şirket ortaklık paylarına el ko..."
       },
       {
-        "title": "Yeni nesil suç örgütü soruşturmalarında 818 şüphelinin hesaplarına ve kripto varlıklarına el konuldu",
+        "title": "2026-YKS yerleştirme sonuçları açıklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yeni-nesil-suc-orgutu-sorusturmalarinda-818-suphelinin-hesaplarina-ve-kripto-varliklarina-el-konuldu/4029756",
-        "summary": "Adalet Bakanı Akın Gürlek, 4 ayrı yeni nesil suç örgütüne yönelik yürütülen mali soruşturmalar kapsamında, 818 şüphelinin kiralık kasaları dahil tüm banka hesapları ile kripto varl..."
+        "url": "https://www.aa.com.tr/tr/gundem/2026-yks-yerlestirme-sonuclari-aciklandi/4030051",
+        "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanı Prof. Dr. Bayram Ali Ersoy, 2026 Yükseköğretim Kurumları Sınavı (2026-YKS) yerleştirme sonuçlarının \"ykssonuc.osym.gov.tr\" adresi..."
       },
       {
-        "title": "Sıfır Atık Vakfı ile Londra İklim Eylem Haftası'ndan işbirliği protokolü",
+        "title": "Çocuk Koruma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Resmi Gazete'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sifir-atik-vakfi-ile-londra-iklim-eylem-haftasindan-isbirligi-protokolu/4029745",
-        "summary": "Sıfır Atık Vakfı ile Londra İklim Eylem Haftası (LCAW) arasında, iklim eylemi, sıfır atık ve döngüsel ekonomi alanlarında uluslararası işbirliğini güçlendirmeyi amaçlayan protokol ..."
+        "url": "https://www.aa.com.tr/tr/gundem/cocuk-koruma-kanunu-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun-resmi-gazetede/4030041",
+        "summary": "TBMM Genel Kurulunda kabul edilen adli süreçteki çocuklara ilişkin düzenlemeleri içeren Çocuk Koruma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Resmi Gazete'de ya..."
       }
     ]
   }
