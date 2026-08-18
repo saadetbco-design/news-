@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 05:59:11",
+  "updated_at": "2026-08-18 17:58:04",
   "markets": {
     "usd_try_kapalicarsi": "47.89 TL",
     "eur_try_kapalicarsi": "55.49 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Air Force looks to acquire target drones that can mimic stealth jets",
-    "bullet_1": "US Air Force looks to acquire target drones that can mimic stealth jets",
-    "bullet_2": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
-    "bullet_3": "Trump orders Pentagon to cut back military exercises with South Korea",
+    "red_alert": "SON DAKİKA: DARPA came close to finding a drone that can lift four times its own weight",
+    "bullet_1": "DARPA came close to finding a drone that can lift four times its own weight",
+    "bullet_2": "How US military funding propelled China’s robot dogs",
+    "bullet_3": "US Army requests 133,000 GMLRS rockets by 2034",
     "defense_news": [
+      {
+        "title": "DARPA came close to finding a drone that can lift four times its own weight",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight/",
+        "summary": "In its recent Lift Challenge, DARPA came close to finding a drone that could lift four times its own weight."
+      },
+      {
+        "title": "How US military funding propelled China’s robot dogs",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
+        "summary": "Chinese company Unitree Robotics based the designs for its most successful robot dogs on innovations fueled by the U.S. military."
+      },
+      {
+        "title": "US Army requests 133,000 GMLRS rockets by 2034",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/18/us-army-requests-133000-gmlrs-rockets-by-2034/",
+        "summary": "The U.S. Army sent out a request this week for manufacturing 133,014 Guided Multiple Launch Rocket System, or GMLRS, rockets by 2034."
+      },
       {
         "title": "US Air Force looks to acquire target drones that can mimic stealth jets",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-air-force-looks-to-acquire-target-drones-that-can-mimic-stealth-jets/",
         "summary": "The U.S. Air Force wants to acquire target drones that can mimic the performance of a variety of aircraft, from stealth fighters to small UAVs."
-      },
-      {
-        "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/german-drone-maker-helsing-enlists-rakuten-to-broker-japan-military-deal/",
-        "summary": "German drone maker Helsing has enlisted Japanese e-commerce and finance firm Rakuten to help finalize a deal to sell its unmanned systems to Japan’s army."
-      },
-      {
-        "title": "Trump orders Pentagon to cut back military exercises with South Korea",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea/",
-        "summary": "President Trump instructed the Pentagon to “substantially reduce” joint military exercises with long-term Asian ally South Korea."
-      },
-      {
-        "title": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
-        "summary": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7."
       }
     ],
     "geo_news": [
       {
-        "title": "\"İnternet altyapısı değişikliği\" bahanesiyle 801 kişiyi dolandıran 53 şüpheli tutuklandı",
+        "title": "Manisa merkezli 5 ilde suç örgütüne yönelik operasyonda 38 şüpheli yakalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/internet-altyapisi-degisikligi-bahanesiyle-801-kisiyi-dolandiran-53-supheli-tutuklandi/4030072",
-        "summary": "Eskişehir merkezli 19 ilde, kendilerini kurumsal iletişim firmalarının temsilcileri olarak tanıtıp \"internet altyapısı değişikliği\" bahanesiyle 801 kişiyi 116 milyon lira dolandırd..."
+        "url": "https://www.aa.com.tr/tr/gundem/manisa-merkezli-5-ilde-suc-orgutune-yonelik-operasyonda-38-supheli-yakalandi/4030942",
+        "summary": "Manisa merkezli 5 ilde suç örgütüne yönelik operasyonda 38 şüpheli gözaltına alındı."
       },
       {
-        "title": "\"Yeni nesil\" suç örgütü soruşturmalarında şüphelilerin gayrimenkullerine el koyma kararı",
+        "title": "Yeni Parti Gaziantep Milletvekili Melih Meriç bıçaklı saldırıda yaralandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yeni-nesil-suc-orgutu-sorusturmalarinda-suphelilerin-gayrimenkullerine-el-koyma-karari/4030066",
-        "summary": "İstanbul Cumhuriyet Başsavcılığınca 4 ayrı \"yeni nesil\" suç örgütüne yönelik yürütülen soruşturmalarda, 818 şüphelinin menkul ve gayrimenkulleri ile şirket ortaklık paylarına el ko..."
+        "url": "https://www.aa.com.tr/tr/gundem/yeni-parti-gaziantep-milletvekili-melih-meric-bicakli-saldirida-yaralandi/4030933",
+        "summary": "Yeni Parti Milletvekili Melih Meriç'in uğradığı bıçaklı saldırı sonucu yaralandığı bildirildi."
       },
       {
-        "title": "2026-YKS yerleştirme sonuçları açıklandı",
+        "title": "İletişim Başkanı Duran, İsrail'in Suriye'deki Ebu Zuhur Askeri Hava Üssü'ne saldırısını kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/2026-yks-yerlestirme-sonuclari-aciklandi/4030051",
-        "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanı Prof. Dr. Bayram Ali Ersoy, 2026 Yükseköğretim Kurumları Sınavı (2026-YKS) yerleştirme sonuçlarının \"ykssonuc.osym.gov.tr\" adresi..."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-israilin-suriyedeki-ebu-zuhur-askeri-hava-ussune-saldirisini-kinadi/4030898",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, İsrail'in, Suriye'nin İdlib kırsalındaki Ebu Zuhur Askeri Hava Üssü'ne düzenlediği hava saldırısını kınadı."
       },
       {
-        "title": "Çocuk Koruma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Resmi Gazete'de",
+        "title": "Şarkıcı Güllü'nün ölümüne ilişkin iddianame kabul edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cocuk-koruma-kanunu-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun-resmi-gazetede/4030041",
-        "summary": "TBMM Genel Kurulunda kabul edilen adli süreçteki çocuklara ilişkin düzenlemeleri içeren Çocuk Koruma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Resmi Gazete'de ya..."
+        "url": "https://www.aa.com.tr/tr/gundem/sarkici-gullunun-olumune-iliskin-iddianame-kabul-edildi/4030843",
+        "summary": "Güllü'nün kızı Tuğyan Ülkem Gülter'in \"tasarlayarak yakın akrabayı öldürme\" suçundan ağırlaştırılmış müebbet hapisle cezalandırılmasının talep edildiği iddianamenin kabul edilmesiy..."
       }
     ]
   }
