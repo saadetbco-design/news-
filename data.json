@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 06:00:51",
+  "updated_at": "2026-08-19 17:53:33",
   "markets": {
     "usd_try_kapalicarsi": "47.93 TL",
     "eur_try_kapalicarsi": "55.48 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: DARPA came close to finding a drone that can lift four times its own weight",
-    "bullet_1": "DARPA came close to finding a drone that can lift four times its own weight",
-    "bullet_2": "How US military funding propelled China’s robot dogs",
-    "bullet_3": "US Army requests 133,000 GMLRS rockets by 2034",
+    "red_alert": "SON DAKİKA: US Navy destroyer spent 4 days without power in South China Sea",
+    "bullet_1": "US Navy destroyer spent 4 days without power in South China Sea",
+    "bullet_2": "US, South Korea to cut length, scope of military drills after Trump order",
+    "bullet_3": "DARPA came close to finding a drone that can lift four times its own weight",
     "defense_news": [
+      {
+        "title": "US Navy destroyer spent 4 days without power in South China Sea",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
+        "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning."
+      },
+      {
+        "title": "US, South Korea to cut length, scope of military drills after Trump order",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/19/us-south-korea-to-cut-length-scope-of-military-drills-after-trump-order/",
+        "summary": "The U.S. and South Korea will cut short their annual joint military drills and scale back field training after Trump ordered a reduction in participation."
+      },
       {
         "title": "DARPA came close to finding a drone that can lift four times its own weight",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
         "summary": "Chinese company Unitree Robotics based the designs for its most successful robot dogs on innovations fueled by the U.S. military."
-      },
-      {
-        "title": "US Army requests 133,000 GMLRS rockets by 2034",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/18/us-army-requests-133000-gmlrs-rockets-by-2034/",
-        "summary": "The U.S. Army sent out a request this week for manufacturing 133,014 Guided Multiple Launch Rocket System, or GMLRS, rockets by 2034."
-      },
-      {
-        "title": "US Air Force looks to acquire target drones that can mimic stealth jets",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-air-force-looks-to-acquire-target-drones-that-can-mimic-stealth-jets/",
-        "summary": "The U.S. Air Force wants to acquire target drones that can mimic the performance of a variety of aircraft, from stealth fighters to small UAVs."
       }
     ],
     "geo_news": [
       {
-        "title": "İletişim Başkanlığından İsrail Başbakanlığının Türkiye'ye yönelik iddialarına tepki",
+        "title": "Dışişleri Sözcüsü Keçeli'den Yunanistan'ın Yenilenebilir Enerji Çerçevesi açıklaması",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-israil-basbakanliginin-turkiyeye-yonelik-iddialarina-tepki/4031140",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, İsrail Başbakanlığının Türkiye’ye yönelik gayriciddi iddialarının, İsrail’in Suriye’nin egemenliğini ve toprak bütünlüğünü hedef alan hava sal..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-sozcusu-keceliden-yunanistanin-yenilenebilir-enerji-cercevesi-aciklamasi/4032099",
+        "summary": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Yunanistan'ın Yenilenebilir Enerji Kaynakları Özel Mekansal Çerçevesi ilan etmesi hakkında açıklama yaptı."
       },
       {
-        "title": "Muş'ta mobil onarım ekibi yaz tatilinde 72 okulun bakım ve onarım işlerini yaptı",
+        "title": "\"Atığın Hikayesi\" sergisi Sıfır Atık Vakfı'nda ziyarete açıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/musta-mobil-onarim-ekibi-yaz-tatilinde-72-okulun-bakim-ve-onarim-islerini-yapti/4031123",
-        "summary": "Muş'ta İl Milli Eğitim Müdürlüğü bünyesinde oluşturulan mobil onarım ekibi, yaz tatilinin başladığı günden bu yana 72 okulun bakım ve onarım çalışmalarını tamamladı."
+        "url": "https://www.aa.com.tr/tr/gundem/atigin-hikayesi-sergisi-sifir-atik-vakfinda-ziyarete-acildi/4032070",
+        "summary": "Sıfır Atık Vakfı ve Birleşmiş Milletler (BM) Türkiye işbirliğiyle düzenlenen \"Atığın Hikayesi: Sıfır Atık Sanat Yarışması\" kapsamında dereceye giren eserlerin yer aldığı sergi açıl..."
       },
       {
-        "title": "Muğla'da yolcu otobüsü ile tırın çarpıştığı kazada ölü sayısı 4'e yükseldi",
+        "title": "Devlet korumasındaki 258 genç üniversiteye yerleşti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/muglada-yolcu-otobusu-ile-tirin-carpistigi-kazada-olu-sayisi-4e-yukseldi/4031120",
-        "summary": "Muğla'nın Milas ilçesinde yolcu otobüsü ile tırın çarpışması sonucu ağır yaralanan polis memuru Mehmet Arif Şefkatlı'nın hayatını kaybetmesiyle kazada ölenlerin sayısı 4'e yükseldi..."
+        "url": "https://www.aa.com.tr/tr/gundem/devlet-korumasindaki-258-genc-universiteye-yerlesti/4032051",
+        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Bu yıl, devletimizin şefkat eliyle ve koruyucu ailelerimizin sevgisiyle büyüyen 7'si ilk 10 binde olmak üzere 258 evladımız..."
       },
       {
-        "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 66. duruşması sona erdi",
+        "title": "Cumhurbaşkanı Erdoğan'dan Dünya İnsani Yardım Günü paylaşımı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-66-durusmasi-sona-erdi-/4031112",
-        "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 414 sanığın yargılandığı davanın 66. duruşmasında bazı tutuksuz sanıkların savunması alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-dunya-insani-yardim-gunu-paylasimi/4032020",
+        "summary": "Cumhurbaşkanı Erdoğan, \"Tarihimizden ve kadim medeniyet değerlerimizden aldığımız güçle dünyanın milli gelirine oranla en fazla insani yardımda bulunan ülkesi konumunda bulunmayı s..."
       }
     ]
   }
