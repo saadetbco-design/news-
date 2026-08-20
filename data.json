@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 06:00:56",
+  "updated_at": "2026-08-20 18:00:18",
   "markets": {
     "usd_try_kapalicarsi": "47.98 TL",
     "eur_try_kapalicarsi": "55.89 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Navy destroyer spent 4 days without power in South China Sea",
-    "bullet_1": "US Navy destroyer spent 4 days without power in South China Sea",
-    "bullet_2": "US, South Korea to cut length, scope of military drills after Trump order",
-    "bullet_3": "DARPA came close to finding a drone that can lift four times its own weight",
+    "red_alert": "SON DAKİKA: US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
+    "bullet_1": "US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
+    "bullet_2": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
+    "bullet_3": "US Navy destroyer spent 4 days without power in South China Sea",
     "defense_news": [
+      {
+        "title": "US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar/",
+        "summary": "The U.S. Department of State approved a possible $4.5 billion Foreign Military Sale to Qatar for up to four KC-46As and related equipment."
+      },
+      {
+        "title": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/08/20/switzerland-seeks-additional-12-billion-for-air-defense-in-2026-budget/",
+        "summary": "Switzerland's envisioned plus-up for air defense comes amid a heightened threat situation and long delivery times for defense equipment, officials said."
+      },
       {
         "title": "US Navy destroyer spent 4 days without power in South China Sea",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/19/us-south-korea-to-cut-length-scope-of-military-drills-after-trump-order/",
         "summary": "The U.S. and South Korea will cut short their annual joint military drills and scale back field training after Trump ordered a reduction in participation."
-      },
-      {
-        "title": "DARPA came close to finding a drone that can lift four times its own weight",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight/",
-        "summary": "In its recent Lift Challenge, DARPA came close to finding a drone that could lift four times its own weight."
-      },
-      {
-        "title": "How US military funding propelled China’s robot dogs",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
-        "summary": "Chinese company Unitree Robotics based the designs for its most successful robot dogs on innovations fueled by the U.S. military."
       }
     ],
     "geo_news": [
       {
-        "title": "Ticaret Bakanı Ömer Bolat: Türkiye, dünyada sözü dinlenen, saygınlık gören, sözüne itibar edilen konumda",
+        "title": "Cumhurbaşkanı Erdoğan Balıkesir'deki \"Kadın Buluşması\"na telefonla bağlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ticaret-bakani-omer-bolat-turkiye-dunyada-sozu-dinlenen-sayginlik-goren-sozune-itibar-edilen-konumda/4032260",
-        "summary": "Ticaret Bakanı Ömer Bolat, \"Türkiye, dünyada sözü dinlenen, saygınlık gören, sözüne itibar edilen, barışın kurucusu, mazlum insanların koruyucusu, ihtilaflarda mutlaka barış yolund..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-balikesirdeki-kadin-bulusmasina-telefonla-baglandi/4033206",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Balıkesir Kadın Kolları Başkanlığınca düzenlenen \"Kadın Buluşması\"na katılanlara telefonla seslendi."
       },
       {
-        "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 67. duruşması sona erdi",
+        "title": "Aile ve Sosyal Hizmetler Bakanlığı, İstanbul'da \"muhtaç anne ile oğlunu\" kurum bakımına aldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-67-durusmasi-sona-erdi/4032248",
-        "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 414 sanığın yargılandığı davanın 67. duruşmasında bazı tutuksuz sanıkların savunması alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligi-istanbulda-muhtac-anne-ile-oglunu-kurum-bakimina-aldi/4033173",
+        "summary": "Aile ve Sosyal Hizmetler Bakanlığı, İstanbul'da \"muhtaç anne ile oğlunu\" kurum bakımına aldı."
       },
       {
-        "title": "Gençlerin yuva kurması için köy köy gezerek evlilik desteğini anlatıyorlar",
+        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Gagauz Özerk Yeri'ni ziyaret etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/genclerin-yuva-kurmasi-icin-koy-koy-gezerek-evlilik-destegini-anlatiyorlar/4032237",
-        "summary": "Siirt'te Aile ve Sosyal Hizmetler İl Müdürlüğü ekipleri, köy köy gezerek Aile ve Sosyal Hizmetler Bakanlığının yuva kuracak gençlere sağladığı desteklerle ilgili bilgilendirme yapı..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-gagauz-ozerk-yerini-ziyaret-etti/4033138",
+        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Moldova'ya bağlı Gagauz Özerk Yeri'nin başkenti Komrat'ı ve buraya bağlı Avdarma köyünü ziya..."
       },
       {
-        "title": "Üsküdar'da düzenlenen etkinlikte Gazze'ye destek çağrısı",
+        "title": "Cumhurbaşkanı Erdoğan:  Ülkemizin bilim ve teknoloji yolculuğunda yeni ve güçlü bir insan kaynağı hamlesi başlatıyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/uskudarda-duzenlenen-etkinlikte-gazzeye-destek-cagrisi/4032185",
-        "summary": "Filistin'e Destek Platformunun etkinliğinde Gazze'de derinleşen insani krize, engellenen yardım koridorlarına ve uluslararası hukukun işlevsizliğine dikkati çekmek amacıyla yardım ..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-ulkemizin-bilim-ve-teknoloji-yolculugunda-yeni-ve-guclu-bir-insan-kaynagi-hamlesi-baslatiyoruz/4033103",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"(Türkiye Stratejik Teknoloji İnsan Kaynağı Programı) Ülkemizin bilim ve teknoloji yolculuğunda yeni ve güçlü bir insan kaynağı hamlesi başlatıy..."
       }
     ]
   }
