@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19 17:53:33",
+  "updated_at": "2026-08-20 06:00:56",
   "markets": {
-    "usd_try_kapalicarsi": "47.93 TL",
-    "eur_try_kapalicarsi": "55.48 TL",
+    "usd_try_kapalicarsi": "47.98 TL",
+    "eur_try_kapalicarsi": "55.89 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Dışişleri Sözcüsü Keçeli'den Yunanistan'ın Yenilenebilir Enerji Çerçevesi açıklaması",
+        "title": "Ticaret Bakanı Ömer Bolat: Türkiye, dünyada sözü dinlenen, saygınlık gören, sözüne itibar edilen konumda",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-sozcusu-keceliden-yunanistanin-yenilenebilir-enerji-cercevesi-aciklamasi/4032099",
-        "summary": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Yunanistan'ın Yenilenebilir Enerji Kaynakları Özel Mekansal Çerçevesi ilan etmesi hakkında açıklama yaptı."
+        "url": "https://www.aa.com.tr/tr/gundem/ticaret-bakani-omer-bolat-turkiye-dunyada-sozu-dinlenen-sayginlik-goren-sozune-itibar-edilen-konumda/4032260",
+        "summary": "Ticaret Bakanı Ömer Bolat, \"Türkiye, dünyada sözü dinlenen, saygınlık gören, sözüne itibar edilen, barışın kurucusu, mazlum insanların koruyucusu, ihtilaflarda mutlaka barış yolund..."
       },
       {
-        "title": "\"Atığın Hikayesi\" sergisi Sıfır Atık Vakfı'nda ziyarete açıldı",
+        "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 67. duruşması sona erdi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/atigin-hikayesi-sergisi-sifir-atik-vakfinda-ziyarete-acildi/4032070",
-        "summary": "Sıfır Atık Vakfı ve Birleşmiş Milletler (BM) Türkiye işbirliğiyle düzenlenen \"Atığın Hikayesi: Sıfır Atık Sanat Yarışması\" kapsamında dereceye giren eserlerin yer aldığı sergi açıl..."
+        "url": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-67-durusmasi-sona-erdi/4032248",
+        "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 414 sanığın yargılandığı davanın 67. duruşmasında bazı tutuksuz sanıkların savunması alındı."
       },
       {
-        "title": "Devlet korumasındaki 258 genç üniversiteye yerleşti",
+        "title": "Gençlerin yuva kurması için köy köy gezerek evlilik desteğini anlatıyorlar",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/devlet-korumasindaki-258-genc-universiteye-yerlesti/4032051",
-        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Bu yıl, devletimizin şefkat eliyle ve koruyucu ailelerimizin sevgisiyle büyüyen 7'si ilk 10 binde olmak üzere 258 evladımız..."
+        "url": "https://www.aa.com.tr/tr/gundem/genclerin-yuva-kurmasi-icin-koy-koy-gezerek-evlilik-destegini-anlatiyorlar/4032237",
+        "summary": "Siirt'te Aile ve Sosyal Hizmetler İl Müdürlüğü ekipleri, köy köy gezerek Aile ve Sosyal Hizmetler Bakanlığının yuva kuracak gençlere sağladığı desteklerle ilgili bilgilendirme yapı..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan'dan Dünya İnsani Yardım Günü paylaşımı",
+        "title": "Üsküdar'da düzenlenen etkinlikte Gazze'ye destek çağrısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-dunya-insani-yardim-gunu-paylasimi/4032020",
-        "summary": "Cumhurbaşkanı Erdoğan, \"Tarihimizden ve kadim medeniyet değerlerimizden aldığımız güçle dünyanın milli gelirine oranla en fazla insani yardımda bulunan ülkesi konumunda bulunmayı s..."
+        "url": "https://www.aa.com.tr/tr/gundem/uskudarda-duzenlenen-etkinlikte-gazzeye-destek-cagrisi/4032185",
+        "summary": "Filistin'e Destek Platformunun etkinliğinde Gazze'de derinleşen insani krize, engellenen yardım koridorlarına ve uluslararası hukukun işlevsizliğine dikkati çekmek amacıyla yardım ..."
       }
     ]
   }
