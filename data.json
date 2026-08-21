@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-08-20 18:00:18",
+  "updated_at": "2026-08-21 06:03:06",
   "markets": {
-    "usd_try_kapalicarsi": "47.98 TL",
-    "eur_try_kapalicarsi": "55.89 TL",
+    "usd_try_kapalicarsi": "48.04 TL",
+    "eur_try_kapalicarsi": "56.12 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
-    "bullet_1": "US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
-    "bullet_2": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
-    "bullet_3": "US Navy destroyer spent 4 days without power in South China Sea",
+    "red_alert": "SON DAKİKA: The US Navy has battled operational tempo ordeals for years. The Iran war exposed the flaws.",
+    "bullet_1": "The US Navy has battled operational tempo ordeals for years. The Iran war exposed the flaws.",
+    "bullet_2": "US Navy leads multinational effort for next-gen SeaSparrow missile",
+    "bullet_3": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv",
     "defense_news": [
       {
-        "title": "US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
+        "title": "The US Navy has battled operational tempo ordeals for years. The Iran war exposed the flaws.",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar/",
-        "summary": "The U.S. Department of State approved a possible $4.5 billion Foreign Military Sale to Qatar for up to four KC-46As and related equipment."
+        "url": "https://www.defensenews.com/news/your-navy/2026/08/20/the-us-navy-has-battled-operational-tempo-ordeals-for-years-the-iran-war-exposed-the-flaws/",
+        "summary": "Carrier availability and decisions made during the Iran war have exacerbated the US Navy's longstanding struggles with a frenzied operational tempo."
       },
       {
-        "title": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
+        "title": "US Navy leads multinational effort for next-gen SeaSparrow missile",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/20/switzerland-seeks-additional-12-billion-for-air-defense-in-2026-budget/",
-        "summary": "Switzerland's envisioned plus-up for air defense comes amid a heightened threat situation and long delivery times for defense equipment, officials said."
+        "url": "https://www.defensenews.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
+        "summary": "The U.S. Navy is leading a multinational effort to develop a new version of the Evolved SeaSparrow air defense missile."
       },
       {
-        "title": "US Navy destroyer spent 4 days without power in South China Sea",
+        "title": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
-        "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning."
+        "url": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
+        "summary": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years."
       },
       {
-        "title": "US, South Korea to cut length, scope of military drills after Trump order",
+        "title": "US Air Force flight to Antarctica turns back after Russian hazardous space activity warning",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/19/us-south-korea-to-cut-length-scope-of-military-drills-after-trump-order/",
-        "summary": "The U.S. and South Korea will cut short their annual joint military drills and scale back field training after Trump ordered a reduction in participation."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/20/us-air-force-flight-to-antarctica-turns-back-after-russian-hazardous-space-activity-warning/",
+        "summary": "A U.S. Air Force C-17A Globemaster III taking off from Christchurch, New Zealand, returned after receiving a “potentially hazardous” space activity notice."
       }
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan Balıkesir'deki \"Kadın Buluşması\"na telefonla bağlandı",
+        "title": "Tunca Nehri'nde debinin azalmasıyla kum adacıkları oluştu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-balikesirdeki-kadin-bulusmasina-telefonla-baglandi/4033206",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Balıkesir Kadın Kolları Başkanlığınca düzenlenen \"Kadın Buluşması\"na katılanlara telefonla seslendi."
+        "url": "https://www.aa.com.tr/tr/gundem/tunca-nehrinde-debinin-azalmasiyla-kum-adaciklari-olustu/4033405",
+        "summary": "Tunca Nehri'nde debinin saniyede 4 metreküpe gerilemesi sonucu kum adacıkları ortaya çıktı."
       },
       {
-        "title": "Aile ve Sosyal Hizmetler Bakanlığı, İstanbul'da \"muhtaç anne ile oğlunu\" kurum bakımına aldı",
+        "title": "Çankırı'da 4,2 büyüklüğünde deprem",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligi-istanbulda-muhtac-anne-ile-oglunu-kurum-bakimina-aldi/4033173",
-        "summary": "Aile ve Sosyal Hizmetler Bakanlığı, İstanbul'da \"muhtaç anne ile oğlunu\" kurum bakımına aldı."
+        "url": "https://www.aa.com.tr/tr/gundem/cankirida-4-2-buyuklugunde-deprem/4033393",
+        "summary": "Çankırı'nın Ilgaz ilçesinde saat 05.06'da 4,2 büyüklüğünde deprem meydana geldi."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Gagauz Özerk Yeri'ni ziyaret etti",
+        "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasında Aziz İhsan Aktaş savunma yaptı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-gagauz-ozerk-yerini-ziyaret-etti/4033138",
-        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Moldova'ya bağlı Gagauz Özerk Yeri'nin başkenti Komrat'ı ve buraya bağlı Avdarma köyünü ziya..."
+        "url": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinda-aziz-ihsan-aktas-savunma-yapti/4033385",
+        "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 414 sanığın yargılandığı davanın 68. duruşmasında tutuksuz sanık iş insanı Aziz İhsan Aktaş'ın savunması alındı."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan:  Ülkemizin bilim ve teknoloji yolculuğunda yeni ve güçlü bir insan kaynağı hamlesi başlatıyoruz",
+        "title": "Öz Orman-İş Sendikası Genel Başkanı Aslan'dan orman yangınları için \"riskli dönem\" uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-ulkemizin-bilim-ve-teknoloji-yolculugunda-yeni-ve-guclu-bir-insan-kaynagi-hamlesi-baslatiyoruz/4033103",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"(Türkiye Stratejik Teknoloji İnsan Kaynağı Programı) Ülkemizin bilim ve teknoloji yolculuğunda yeni ve güçlü bir insan kaynağı hamlesi başlatıy..."
+        "url": "https://www.aa.com.tr/tr/gundem/oz-orman-is-sendikasi-genel-baskani-aslandan-orman-yanginlari-icin-riskli-donem-uyarisi/4033360",
+        "summary": "Öz Orman-İş Genel Başkanı Settar Aslan, yaz döneminde yaklaşık 1200 orman yangını çıktığını belirterek, eylülün sıcak geçmesinin beklendiğini ve yağışlar başlayana kadar yangın ris..."
       }
     ]
   }
