@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-22 17:43:53",
+  "updated_at": "2026-08-23 05:59:05",
   "markets": {
-    "usd_try_kapalicarsi": "48.05 TL",
-    "eur_try_kapalicarsi": "56.13 TL",
+    "usd_try_kapalicarsi": "48.07 TL",
+    "eur_try_kapalicarsi": "56.16 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Ankara'da yarın bazı yollar trafiğe kapatılacak",
+        "title": "\"Kuytulcular\" yapılanmasına yönelik soruşturmada Alparslan Kuytul ve eşi tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-trafige-kapatilacak/4034731",
-        "summary": "Ankara Emniyet Müdürlüğü, kentte düzenlenecek \"Maximum Gran Fondo Başkent Amatör Yol Bisikleti Yarışması\" dolayısıyla yarın bazı yolların araç trafiğine kapatılacağını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/kuytulcular-yapilanmasina-yonelik-sorusturmada-alparslan-kuytul-ve-esi-tutuklandi/4034890",
+        "summary": "Adana merkezli 6 ilde kamuoyunda \"Kuytulcular\" olarak bilinen yapılanmaya yönelik operasyonda gözaltına alınan Alparslan Kuytul ve eşi Semra Kuytul tutuklandı."
       },
       {
-        "title": "Gelecek Partisi feshedildi",
+        "title": "İstanbul'da Zafer Bayramı provası nedeniyle bazı yollar trafiğe kapatıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/gelecek-partisi-feshedildi/4034718",
-        "summary": "Gelecek Partisi, bugün düzenlenen olağanüstü kongresinde siyasi faaliyetlerine son verme ve partiyi feshetme kararı aldı."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-zafer-bayrami-provasi-nedeniyle-bazi-yollar-trafige-kapatildi/4034883",
+        "summary": "İstanbul'da 30 Ağustos Zafer Bayramı provası nedeniyle bazı yollar trafiğe kapatıldı."
       },
       {
-        "title": "\"Kuytulcular\" yapılanmasına yönelik operasyonda yakalanan 56 zanlı adliyede",
+        "title": "\"Kalıcı oje ve protez tırnak uygulamalarında kullanılan ışıklar kanser riskini artırabilir\" uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kuytulcular-yapilanmasina-yonelik-operasyonda-yakalanan-56-zanli-adliyede/4034717",
-        "summary": "Adana merkezli 6 ilde kamuoyunda \"Kuytulcular\" olarak bilinen yapılanmaya yönelik düzenlenen operasyonda gözaltına alınan Alparslan Kuytul ve eşi Semra Kuytul'un da aralarında oldu..."
+        "url": "https://www.aa.com.tr/tr/gundem/kalici-oje-ve-protez-tirnak-uygulamalarinda-kullanilan-isiklar-kanser-riskini-artirabilir-uyarisi/4034867",
+        "summary": "Prof. Dr. Ayşe Akman, kalıcı oje ile protez tırnak uygulamalarında kullanılan kurutucu cihazlardaki ışıkların deride erken yaşlanmaya neden olabileceği ve kanser riskini artırabile..."
       },
       {
-        "title": "60 saniyede bugün (22 Ağustos 2026)",
+        "title": "Atlı Polis Birliği, Malazgirt Zaferi'nin 955. yıl dönümü etkinlikleri için Bitlis'te",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-22-agustos-2026/4034637",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/atli-polis-birligi-malazgirt-zaferinin-955-yil-donumu-etkinlikleri-icin-bitliste/4034671",
+        "summary": "Malazgirt Zaferi'nin 955. yıl dönümü etkinlikleri kapsamında Ankara'dan Bitlis'e gelen Atlı Polis Birliği, il merkezi ve Tatvan ilçesinde devriye görevi yaptı."
       }
     ]
   }
