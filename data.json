@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-23 17:42:04",
+  "updated_at": "2026-08-24 08:03:15",
   "markets": {
-    "usd_try_kapalicarsi": "48.07 TL",
+    "usd_try_kapalicarsi": "48.09 TL",
     "eur_try_kapalicarsi": "56.16 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Bakan Kurum, yenilenen Çorum Tarihi Kent Meydanı'nın görüntülerini paylaştı",
+        "title": "Emine Erdoğan'dan Mevlit Kandili mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-kurum-yenilenen-corum-tarihi-kent-meydaninin-goruntulerini-paylasti/4035227",
-        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Bakanlığın desteğiyle yenilenen Çorum Tarihi Kent Meydanı'nın görüntülerini paylaştı."
+        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-mevlit-kandili-mesaji/4035510",
+        "summary": "Emine Erdoğan, mübarek Mevlit Gecesi'nin kalpleri iyilikte buluşturmasını, merhameti, hoşgörü ve kardeşliği pekiştirmesini diledi."
       },
       {
-        "title": "60 saniyede bugün (23 Ağustos 2026)",
+        "title": "Diyanet İşleri Başkanı Arpaguş'tan Mevlit Gecesi mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-23-agustos-2026/4035133",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/diyanet-isleri-baskani-arpagustan-mevlit-gecesi-mesaji/4035489",
+        "summary": "Safi Arpaguş, \"Ona ümmet olma şerefine ulaşmanın gerektirdiği sorumluluk bilinciyle hareket ederek başta ailemiz olmak üzere tüm yeryüzünde hakikati, iyiliği ve güzel ahlakı hayata..."
       },
       {
-        "title": "Yılbaşından bu yana 756 bin gıda denetimi gerçekleştirildi",
+        "title": "Bursa'da 3 farklı alanda çıkan orman yangınlarına müdahale ediliyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yilbasindan-bu-yana-756-bin-gida-denetimi-gerceklestirildi/4035141",
-        "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, 1 Ocak'tan bugüne kadar 756 bin gıda denetimi yapıldığını ve 1,6 milyar lira idari para cezası uygulandığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/bursada-3-farkli-alanda-cikan-orman-yanginlarina-mudahale-ediliyor/4035433",
+        "summary": "Bursa'nın Kestel ve Yıldırım ilçelerinde 3 farklı alanda çıkan orman yangınlarına havadan ve karadan müdahale ediliyor."
       },
       {
-        "title": "Kocaeli'de ormanlık alanda çıkan yangına müdahale ediliyor",
+        "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Kazakistan'daki parlamento seçimlerine ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kocaelide-ormanlik-alanda-cikan-yangina-mudahale-ediliyor/4035127",
-        "summary": "Kocaeli'nin Gebze ilçesinde çıkan orman yangınını karadan ve havadan söndürme çalışmaları sürüyor."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-kazakistandaki-parlamento-secimlerine-iliskin-aciklama/4035428",
+        "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, \"Kazakistan'ın tek kamaralı meclis yapısıyla Türkiye ile çok daha uyumlu çalışacak bir parlamentoya kavuşması memnuniyet vericidir.\" ..."
       }
     ]
   }
