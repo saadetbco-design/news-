@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-08-24 18:03:04",
+  "updated_at": "2026-08-25 06:03:17",
   "markets": {
-    "usd_try_kapalicarsi": "48.09 TL",
-    "eur_try_kapalicarsi": "56.16 TL",
+    "usd_try_kapalicarsi": "48.08 TL",
+    "eur_try_kapalicarsi": "56.09 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Italy eyes US tech for souping up dumb missiles into drone interceptors",
-    "bullet_1": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
-    "bullet_2": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
-    "bullet_3": "UK’s Burnham to visit Ukraine with plan to support long-range missile production",
+    "red_alert": "SON DAKİKA: US cancels joint marine drills with South Korea over Iran war-related force constraints",
+    "bullet_1": "US cancels joint marine drills with South Korea over Iran war-related force constraints",
+    "bullet_2": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
+    "bullet_3": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
     "defense_news": [
+      {
+        "title": "US cancels joint marine drills with South Korea over Iran war-related force constraints",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints/",
+        "summary": "The United States canceled a joint amphibious landing drill scheduled for next month with South Korea due to force availability."
+      },
       {
         "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/08/24/uks-burnham-to-visit-ukraine-with-plan-to-support-long-range-missile-production/",
         "summary": "UK Prime Minister Andy Burnham is set to announce British support to help Ukraine improve its domestic production of long-range missiles."
-      },
-      {
-        "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/",
-        "summary": "Two U.S. tanker aircraft have left Bulgaria’s Bezmer air base, Bulgaria’s defense minister said, after their deployment in the Balkan country angered Iran."
       }
     ],
     "geo_news": [
       {
-        "title": "Sosyal medya çocukların beden algısını ve öz saygısını olumsuz etkileyebiliyor",
+        "title": "Kayseri'de yolcu otobüsü ile yakıt taşıyan tankerin çarpıştığı kazada 35 kişi yaralandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sosyal-medya-cocuklarin-beden-algisini-ve-oz-saygisini-olumsuz-etkileyebiliyor/4035921",
-        "summary": "Yetim Vakfında ergen ve çocuk psikoloğu ve terapist olarak görev yapan Psikolog Ömer Faruk Şeker, sosyal medyada görülen içeriklerin tekrarlandıkça normalleştiğini ve çocukların ke..."
+        "url": "https://www.aa.com.tr/tr/gundem/kayseride-yolcu-otobusu-ile-yakit-tasiyan-tankerin-carpistigi-kazada-35-kisi-yaralandi-/4036379",
+        "summary": "Kayseri'nin Melikgazi ilçesinde yolcu otobüsü ile benzin taşıyan tankerin çarpışması sonucu meydana gelen kazada 35 kişi yaralandı."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Ahıska Türklerinin Ahlat'a yerleştirilmesine ilişkin paylaşım",
+        "title": "DMM'den \"toplumsal birliği ve huzur iklimini hedef alan girişimlere\" ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-ahiska-turklerinin-ahlata-yerlestirilmesine-iliskin-paylasim/4036042",
-        "summary": "AK Parti Genel Başkan Yardımcısı Zorlu, 371 Ahıska Türkü ailenin, Ahlat ilçesindeki yeni evlerine yerleştirilmesine ilişkin, \"Malazgirt Zaferi'nin 955. yıl dönümünde gerçekleşen bö..."
+        "url": "https://www.aa.com.tr/tr/gundem/dmmden-toplumsal-birligi-ve-huzur-iklimini-hedef-alan-girisimlere-iliskin-aciklama/4036330",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), toplumsal birliği, kardeşlik ve huzur iklimini hedef alan girişimlere karşı vatandaşları uyardı."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş'tan Mevlit Kandili mesajı",
+        "title": "Cumhurbaşkanı Erdoğan, Mevlit Kandili'ni kutladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmustan-mevlit-kandili-mesaji/4036037",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, Mevlit Kandili dolayısıyla mesaj yayımladı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-mevlit-kandilini-kutladi/4036281",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Mevlit Kandili'nin ülke, millet ve tüm insanlık için hayırlara vesile olmasını diledi."
       },
       {
-        "title": "İstanbul'da \"Uluslararası Davranışsal Bağımlılıklar Konferansı\" başladı",
+        "title": "Mevlit Kandili dualarla idrak edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-uluslararasi-davranissal-bagimliliklar-konferansi-basladi/4036025",
-        "summary": "Davranışsal bağımlılıklar alanında dünyanın önde gelen bilimsel platformlarından Uluslararası Davranışsal Bağımlılıklar Konferansı'nın (International Conference on Behavioral Addic..."
+        "url": "https://www.aa.com.tr/tr/gundem/mevlit-kandili-dualarla-idrak-edildi/4036244",
+        "summary": "Türkiye genelinde vatandaşlar, Mevlit Kandili dolayısıyla birçok camide namaz kılıp dua etti."
       }
     ]
   }
