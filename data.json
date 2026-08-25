@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 06:03:17",
+  "updated_at": "2026-08-25 18:01:51",
   "markets": {
     "usd_try_kapalicarsi": "48.08 TL",
     "eur_try_kapalicarsi": "56.09 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US cancels joint marine drills with South Korea over Iran war-related force constraints",
-    "bullet_1": "US cancels joint marine drills with South Korea over Iran war-related force constraints",
-    "bullet_2": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
-    "bullet_3": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
+    "red_alert": "SON DAKİKA: USS Abraham Lincoln to dock in Thailand next week, Thai official says",
+    "bullet_1": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
+    "bullet_2": "Hung Cao taps civilian to stand up Navy industrial base office",
+    "bullet_3": "European allies team up to buy Polish portable anti-aircraft systems",
     "defense_news": [
       {
-        "title": "US cancels joint marine drills with South Korea over Iran war-related force constraints",
+        "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints/",
-        "summary": "The United States canceled a joint amphibious landing drill scheduled for next month with South Korea due to force availability."
+        "url": "https://www.defensenews.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
+        "summary": "The aircraft carrier USS Abraham Lincoln is expected to dock in Thailand next week, according to a Thai official."
       },
       {
-        "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
+        "title": "Hung Cao taps civilian to stand up Navy industrial base office",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/24/italy-eyes-us-tech-for-souping-up-dumb-missiles-into-drone-interceptors/",
-        "summary": "The Italian Air Force is mulling the purchase of U.S. technology that turns cheap unguided missiles into precision weapons."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-navy-industrial-base-office/",
+        "summary": "Andrew Magliochetti was tapped by Hung Cao to become the first deputy assistant secretary of the Navy for the defense industrial base."
       },
       {
-        "title": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
+        "title": "European allies team up to buy Polish portable anti-aircraft systems",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/24/patria-to-join-with-ukraines-general-cherry-to-make-drones-in-finland/",
-        "summary": "Finnish defense company Patria is teaming up with Ukrainian drone maker General Cherry to jointly develop drones and start production in Finland."
+        "url": "https://www.defensenews.com/global/europe/2026/08/25/european-allies-team-up-to-buy-polish-portable-anti-aircraft-systems/",
+        "summary": "Poland, Norway, Lithuania and Latvia have signed a framework agreement to buy Piorun (Thunderbolt) man-portable air defense systems from Poland's PGZ."
       },
       {
-        "title": "UK’s Burnham to visit Ukraine with plan to support long-range missile production",
+        "title": "Ukraine’s newest ballistic missiles are weeks away from combat",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/24/uks-burnham-to-visit-ukraine-with-plan-to-support-long-range-missile-production/",
-        "summary": "UK Prime Minister Andy Burnham is set to announce British support to help Ukraine improve its domestic production of long-range missiles."
+        "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraines-newest-ballistic-missiles-are-weeks-away-from-combat/",
+        "summary": "On Independence Day, Zelenskyy cast homegrown missiles as Ukraine's answer to a lack of anti-ballistic interceptors."
       }
     ],
     "geo_news": [
       {
-        "title": "Kayseri'de yolcu otobüsü ile yakıt taşıyan tankerin çarpıştığı kazada 35 kişi yaralandı",
+        "title": "Terörle mücadelede yaralanıp malul sayılmayanlara yönelik başvurular 1 Eylül'de başlayacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kayseride-yolcu-otobusu-ile-yakit-tasiyan-tankerin-carpistigi-kazada-35-kisi-yaralandi-/4036379",
-        "summary": "Kayseri'nin Melikgazi ilçesinde yolcu otobüsü ile benzin taşıyan tankerin çarpışması sonucu meydana gelen kazada 35 kişi yaralandı."
+        "url": "https://www.aa.com.tr/tr/gundem/terorle-mucadelede-yaralanip-malul-sayilmayanlara-yonelik-basvurular-1-eylulde-baslayacak/4037239",
+        "summary": "İçişleri Bakanlığı, terörle mücadele sırasında yaralandığı halde malul sayılmayan personel için 1 Eylül 2026'dan itibaren e-Devlet üzerinden başvuru sürecinin başlayacağını duyurdu..."
       },
       {
-        "title": "DMM'den \"toplumsal birliği ve huzur iklimini hedef alan girişimlere\" ilişkin açıklama",
+        "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecimiz güven tazelemiş, çok ciddi güç kazanmıştır",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dmmden-toplumsal-birligi-ve-huzur-iklimini-hedef-alan-girisimlere-iliskin-aciklama/4036330",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), toplumsal birliği, kardeşlik ve huzur iklimini hedef alan girişimlere karşı vatandaşları uyardı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-surecimiz-guven-tazelemis-cok-ciddi-guc-kazanmistir/4037088",
+        "summary": "Cumhurbaşkanı Erdoğan, \"Türk siyasetinde bir dönüm noktası olan bu büyük uzlaşıyla Terörsüz Türkiye sürecimiz güven tazelemiş, çok ciddi güç kazanmıştır.\" ifadelerini kullandı."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Mevlit Kandili'ni kutladı",
+        "title": "Sağlık Bakanlığından hayat kurtaran müdahalelere güncel rehber",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-mevlit-kandilini-kutladi/4036281",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Mevlit Kandili'nin ülke, millet ve tüm insanlık için hayırlara vesile olmasını diledi."
+        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakanligindan-hayat-kurtaran-mudahalelere-guncel-rehber/4037168",
+        "summary": "Sağlık Bakanlığı, ambulans ve acil bakım teknikerleri ile acil tıp teknisyenlerinin hastane öncesi acil tıbbi yardım ve bakım akış şemalarını yeniledi."
       },
       {
-        "title": "Mevlit Kandili dualarla idrak edildi",
+        "title": "Jandarmanın \"Çelik Kanatlar\" ve \"Üzüm Salkımı\" gösterileri Malazgirt'te ilgiyle izlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mevlit-kandili-dualarla-idrak-edildi/4036244",
-        "summary": "Türkiye genelinde vatandaşlar, Mevlit Kandili dolayısıyla birçok camide namaz kılıp dua etti."
+        "url": "https://www.aa.com.tr/tr/gundem/jandarmanin-celik-kanatlar-ve-uzum-salkimi-gosterileri-malazgirtte-ilgiyle-izlendi/4037129",
+        "summary": "Malazgirt Zaferi'nin 955. yıl dönümü etkinlikleri kapsamında Muş'un Malazgirt ilçesinde jandarma helikopterlerinin gerçekleştirdiği \"Çelik Kanatlar\" ve \"Üzüm Salkımı\" gösterileri v..."
       }
     ]
   }
