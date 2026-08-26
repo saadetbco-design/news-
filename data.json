@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-08-25 18:01:51",
+  "updated_at": "2026-08-26 06:05:25",
   "markets": {
-    "usd_try_kapalicarsi": "48.08 TL",
-    "eur_try_kapalicarsi": "56.09 TL",
+    "usd_try_kapalicarsi": "48.11 TL",
+    "eur_try_kapalicarsi": "56.14 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: USS Abraham Lincoln to dock in Thailand next week, Thai official says",
-    "bullet_1": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
-    "bullet_2": "Hung Cao taps civilian to stand up Navy industrial base office",
-    "bullet_3": "European allies team up to buy Polish portable anti-aircraft systems",
+    "red_alert": "SON DAKİKA: Ukraine needs changes to avoid losing war, ousted defense minister says",
+    "bullet_1": "Ukraine needs changes to avoid losing war, ousted defense minister says",
+    "bullet_2": "US Navy’s new anti-submarine torpedo will be a glide weapon",
+    "bullet_3": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
     "defense_news": [
+      {
+        "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraine-needs-changes-to-avoid-losing-war-ousted-defense-minister-says/",
+        "summary": "Fedorov, a young reformer whose dismissal last month sparked weeks of protests, said Ukraine lacked any overall vision for how to win the conflict."
+      },
+      {
+        "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon/",
+        "summary": "What form will the Silent Anvil Air-Launched Torpedo, or SAA-LT, take? The Navy wants contractors to explore two options."
+      },
       {
         "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-navy-industrial-base-office/",
         "summary": "Andrew Magliochetti was tapped by Hung Cao to become the first deputy assistant secretary of the Navy for the defense industrial base."
-      },
-      {
-        "title": "European allies team up to buy Polish portable anti-aircraft systems",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/25/european-allies-team-up-to-buy-polish-portable-anti-aircraft-systems/",
-        "summary": "Poland, Norway, Lithuania and Latvia have signed a framework agreement to buy Piorun (Thunderbolt) man-portable air defense systems from Poland's PGZ."
-      },
-      {
-        "title": "Ukraine’s newest ballistic missiles are weeks away from combat",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraines-newest-ballistic-missiles-are-weeks-away-from-combat/",
-        "summary": "On Independence Day, Zelenskyy cast homegrown missiles as Ukraine's answer to a lack of anti-ballistic interceptors."
       }
     ],
     "geo_news": [
       {
-        "title": "Terörle mücadelede yaralanıp malul sayılmayanlara yönelik başvurular 1 Eylül'de başlayacak",
+        "title": "Arif Ahmet Denizolgun'un otopsisinde \"şüpheli ölüm\" tespiti yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/terorle-mucadelede-yaralanip-malul-sayilmayanlara-yonelik-basvurular-1-eylulde-baslayacak/4037239",
-        "summary": "İçişleri Bakanlığı, terörle mücadele sırasında yaralandığı halde malul sayılmayan personel için 1 Eylül 2026'dan itibaren e-Devlet üzerinden başvuru sürecinin başlayacağını duyurdu..."
+        "url": "https://www.aa.com.tr/tr/gundem/arif-ahmet-denizolgunun-otopsisinde-supheli-olum-tespiti-yapildi/4037542",
+        "summary": "Beykoz'da 2016'da vefat eden eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un otopsisinde \"şüpheli ölüm\" tespiti yapıldığı ve Alihan Kuriş'in de arasında olduğu şüpheliler hakkında \"..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecimiz güven tazelemiş, çok ciddi güç kazanmıştır",
+        "title": "Hamzabeyli Sınır Kapısı'nda bir tırda yaklaşık 288 kilogram esrar ele geçirildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-surecimiz-guven-tazelemis-cok-ciddi-guc-kazanmistir/4037088",
-        "summary": "Cumhurbaşkanı Erdoğan, \"Türk siyasetinde bir dönüm noktası olan bu büyük uzlaşıyla Terörsüz Türkiye sürecimiz güven tazelemiş, çok ciddi güç kazanmıştır.\" ifadelerini kullandı."
+        "url": "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-bir-tirda-yaklasik-288-kilogram-esrar-ele-gecirildi/4037536",
+        "summary": "Edirne Gümrük Muhafaza Kaçakçılık ve İstihbarat Müdürlüğü ekiplerince, Hamzabeyli Sınır Kapısı'nda bir tırda 287 kilo 910 gram esrar ele geçirildi."
       },
       {
-        "title": "Sağlık Bakanlığından hayat kurtaran müdahalelere güncel rehber",
+        "title": "Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakanligindan-hayat-kurtaran-mudahalelere-guncel-rehber/4037168",
-        "summary": "Sağlık Bakanlığı, ambulans ve acil bakım teknikerleri ile acil tıp teknisyenlerinin hastane öncesi acil tıbbi yardım ve bakım akış şemalarını yeniledi."
+        "url": "https://www.aa.com.tr/tr/gundem/buyuk-taarruzun-104-yil-donumu-dolayisiyla-zafer-yuruyusu-duzenlendi/4037506",
+        "summary": "Afyonkarahisar'ın Şuhut ilçesinde Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi."
       },
       {
-        "title": "Jandarmanın \"Çelik Kanatlar\" ve \"Üzüm Salkımı\" gösterileri Malazgirt'te ilgiyle izlendi",
+        "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasında Ertan Yıldız savunma yaptı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/jandarmanin-celik-kanatlar-ve-uzum-salkimi-gosterileri-malazgirtte-ilgiyle-izlendi/4037129",
-        "summary": "Malazgirt Zaferi'nin 955. yıl dönümü etkinlikleri kapsamında Muş'un Malazgirt ilçesinde jandarma helikopterlerinin gerçekleştirdiği \"Çelik Kanatlar\" ve \"Üzüm Salkımı\" gösterileri v..."
+        "url": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinda-ertan-yildiz-savunma-yapti/4037505",
+        "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 414 sanığın yargılandığı davanın 69. duruşmasında, eski İBB İştirakler ve Bağlı Kuruluşlar Komisyonu Başkanı Ertan Yıldız'..."
       }
     ]
   }
