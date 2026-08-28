@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28 01:30:33",
+  "updated_at": "2026-08-28 21:56:12",
   "markets": {
     "usd_try_kapalicarsi": "48.16 TL",
     "eur_try_kapalicarsi": "56.12 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Pentagon awards contract in race to field cheaper interceptors, missiles",
-    "bullet_1": "Pentagon awards contract in race to field cheaper interceptors, missiles",
-    "bullet_2": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
-    "bullet_3": "Pentagon’s NATO review preparing troop options for Hegseth by November 6",
+    "red_alert": "SON DAKİKA: The devastation of NSA Bahrain is a national security warning",
+    "bullet_1": "The devastation of NSA Bahrain is a national security warning",
+    "bullet_2": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
+    "bullet_3": "India turns to private sector to ramp up missile production",
     "defense_news": [
       {
-        "title": "Pentagon awards contract in race to field cheaper interceptors, missiles",
+        "title": "The devastation of NSA Bahrain is a national security warning",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/08/27/pentagon-awards-contract-in-race-to-field-cheaper-interceptors-missiles/",
-        "summary": "The Pentagon awarded a contract to X-Bow Systems in its race to develop a new anti-ballistic weapon for less than $750,000 per shot."
+        "url": "https://www.defensenews.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning/",
+        "summary": "If NSA Bahrain is not reconstituted to pre-attack capabilities, it will fundamentally change how the U.S. Navy operates, the author of this op-ed writes."
       },
       {
-        "title": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
+        "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao/",
-        "summary": "Maintenance delays for U.S. submarines have \"resulted in an estimated $3.4 billion in costs to sustain\" crews and boats that were not operational."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization/",
+        "summary": "The Air Force has awarded Boeing a sole-source contract with a $131.23 billion ceiling to produce, modernize and sustain F-15 fighters."
       },
       {
-        "title": "Pentagon’s NATO review preparing troop options for Hegseth by November 6",
+        "title": "India turns to private sector to ramp up missile production",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/",
-        "summary": "A Pentagon review of U.S. troop deployments in Europe will create at least four sets of options for Defense Secretary Pete Hegseth by Nov. 6."
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/28/india-turns-to-private-sector-to-ramp-up-missile-production/",
+        "summary": "Fearing bottlenecks, India has approved the transfer of technologies for conventional missile systems from a state-run organization to private companies."
       },
       {
-        "title": "Marines fielding new laser sights at School of Infantry",
+        "title": "Russia is running out of cash due to its war in Ukraine: report",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/27/marines-fielding-new-laser-sights-at-school-of-infantry/",
-        "summary": "The Marine Corps introduced the Squad Aiming Laser to students at its North Carolina school."
+        "url": "https://www.defensenews.com/global/europe/2026/08/28/russia-is-running-out-of-cash-due-to-its-war-in-ukraine-report/",
+        "summary": "Russia’s war spending pushed the state to the brink of running out of cash this spring, according to a Bloomberg report, as Russian leaders double down."
       }
     ],
     "geo_news": [
       {
-        "title": "İzmir Bölge İdare Mahkemesi Hakimi Koç, Trabzon'da son yolculuğuna uğurlandı",
+        "title": "Kars'ta dolu ve sağanak hayatı olumsuz etkiledi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/izmir-bolge-idare-mahkemesi-hakimi-koc-trabzonda-son-yolculuguna-ugurlandi/4039692",
-        "summary": "İzmir Bölge İdare Mahkemesi Hakimi Zafer Serkan Koç'un cenazesi, memleketi Trabzon'un Maçka ilçesinde defnedildi."
+        "url": "https://www.aa.com.tr/tr/gundem/karsta-dolu-ve-saganak-hayati-olumsuz-etkiledi/4040671",
+        "summary": "Kars'ın Akyaka ilçesinde etkili olan dolu ve sağanak, hayatı olumsuz etkiledi."
       },
       {
-        "title": "Ardahan'da sağanak, dolu ve şiddetli rüzgar etkili oldu",
+        "title": "İstanbul'da sağanak nedeniyle kazalar meydana geldi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ardahanda-saganak-dolu-ve-siddetli-ruzgar-etkili-oldu/4039663",
-        "summary": "Ardahan'ın Çıldır ilçesinde sağanak ve dolu etkili olurken, şiddetli rüzgar 14 binanın çatısında hasara neden oldu."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-nedeniyle-kazalar-meydana-geldi-/4040643",
+        "summary": "İstanbul'un bazı bölgelerinde etkili olan yağış nedeniyle yollarda su birikintisi oluşurken, sürücüler trafikte ilerlemekte güçlük çekti, maddi hasarlı kazalar meydana geldi."
       },
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Bölgemiz üzerindeki emperyalist tuzakları, oyunları bozma gayreti içindeyiz",
+        "title": "Diyanet İşleri Başkanı Arpaguş: Gençlerimize yönelik çalışmalara özel bir önem atfediyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-bolgemiz-uzerindeki-emperyalist-tuzaklari-oyunlari-bozma-gayreti-icindeyiz/4039614",
-        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bölgemiz üzerindeki emperyalist tuzakları, oyunları bozma gayreti içindeyiz ve teker teker de bozuyoruz.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/diyanet-isleri-baskani-arpagus-genclerimize-yonelik-calismalara-ozel-bir-onem-atfediyoruz/4040602",
+        "summary": "Arpaguş, \"Gençlerimize yönelik çalışmalara özel bir önem atfediyoruz. Nesillerimizi Allah Resulü'nün ahlakıyla buluşturmaya çalışıyoruz. Onların zihin ve gönül dünyalarını Kur'an v..."
       },
       {
-        "title": "AK Parti'de 4 il başkanlığına atama",
+        "title": "Bakan Çiftçi: Milletimizin canına ve malına kasteden karanlık odaklara asla izin vermeyeceğiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-partide-4-il-baskanligina-atama/4039613",
-        "summary": "AK Parti'de Tunceli, Ardahan, Karaman ve Afyonkarahisar, il başkanlıklarına atama yapıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-milletimizin-canina-ve-malina-kasteden-karanlik-odaklara-asla-izin-vermeyecegiz/4040601",
+        "summary": "Bakan Çiftçi, \"Milletimizin canına ve malına kasteden, sokaklarımızın huzuruna musallat olan karanlık odaklara asla izin vermeyeceğiz. Vatandaşımıza korku salmaya çalışan suç şebek..."
       }
     ]
   }
