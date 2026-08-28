@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-08-26 06:05:25",
+  "updated_at": "2026-08-28 01:30:33",
   "markets": {
-    "usd_try_kapalicarsi": "48.11 TL",
-    "eur_try_kapalicarsi": "56.14 TL",
+    "usd_try_kapalicarsi": "48.16 TL",
+    "eur_try_kapalicarsi": "56.12 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Ukraine needs changes to avoid losing war, ousted defense minister says",
-    "bullet_1": "Ukraine needs changes to avoid losing war, ousted defense minister says",
-    "bullet_2": "US Navy’s new anti-submarine torpedo will be a glide weapon",
-    "bullet_3": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
+    "red_alert": "SON DAKİKA: Pentagon awards contract in race to field cheaper interceptors, missiles",
+    "bullet_1": "Pentagon awards contract in race to field cheaper interceptors, missiles",
+    "bullet_2": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
+    "bullet_3": "Pentagon’s NATO review preparing troop options for Hegseth by November 6",
     "defense_news": [
       {
-        "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
+        "title": "Pentagon awards contract in race to field cheaper interceptors, missiles",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraine-needs-changes-to-avoid-losing-war-ousted-defense-minister-says/",
-        "summary": "Fedorov, a young reformer whose dismissal last month sparked weeks of protests, said Ukraine lacked any overall vision for how to win the conflict."
+        "url": "https://www.defensenews.com/pentagon/2026/08/27/pentagon-awards-contract-in-race-to-field-cheaper-interceptors-missiles/",
+        "summary": "The Pentagon awarded a contract to X-Bow Systems in its race to develop a new anti-ballistic weapon for less than $750,000 per shot."
       },
       {
-        "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
+        "title": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon/",
-        "summary": "What form will the Silent Anvil Air-Launched Torpedo, or SAA-LT, take? The Navy wants contractors to explore two options."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao/",
+        "summary": "Maintenance delays for U.S. submarines have \"resulted in an estimated $3.4 billion in costs to sustain\" crews and boats that were not operational."
       },
       {
-        "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
+        "title": "Pentagon’s NATO review preparing troop options for Hegseth by November 6",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
-        "summary": "The aircraft carrier USS Abraham Lincoln is expected to dock in Thailand next week, according to a Thai official."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/",
+        "summary": "A Pentagon review of U.S. troop deployments in Europe will create at least four sets of options for Defense Secretary Pete Hegseth by Nov. 6."
       },
       {
-        "title": "Hung Cao taps civilian to stand up Navy industrial base office",
+        "title": "Marines fielding new laser sights at School of Infantry",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-navy-industrial-base-office/",
-        "summary": "Andrew Magliochetti was tapped by Hung Cao to become the first deputy assistant secretary of the Navy for the defense industrial base."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/27/marines-fielding-new-laser-sights-at-school-of-infantry/",
+        "summary": "The Marine Corps introduced the Squad Aiming Laser to students at its North Carolina school."
       }
     ],
     "geo_news": [
       {
-        "title": "Arif Ahmet Denizolgun'un otopsisinde \"şüpheli ölüm\" tespiti yapıldı",
+        "title": "İzmir Bölge İdare Mahkemesi Hakimi Koç, Trabzon'da son yolculuğuna uğurlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/arif-ahmet-denizolgunun-otopsisinde-supheli-olum-tespiti-yapildi/4037542",
-        "summary": "Beykoz'da 2016'da vefat eden eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un otopsisinde \"şüpheli ölüm\" tespiti yapıldığı ve Alihan Kuriş'in de arasında olduğu şüpheliler hakkında \"..."
+        "url": "https://www.aa.com.tr/tr/gundem/izmir-bolge-idare-mahkemesi-hakimi-koc-trabzonda-son-yolculuguna-ugurlandi/4039692",
+        "summary": "İzmir Bölge İdare Mahkemesi Hakimi Zafer Serkan Koç'un cenazesi, memleketi Trabzon'un Maçka ilçesinde defnedildi."
       },
       {
-        "title": "Hamzabeyli Sınır Kapısı'nda bir tırda yaklaşık 288 kilogram esrar ele geçirildi",
+        "title": "Ardahan'da sağanak, dolu ve şiddetli rüzgar etkili oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-bir-tirda-yaklasik-288-kilogram-esrar-ele-gecirildi/4037536",
-        "summary": "Edirne Gümrük Muhafaza Kaçakçılık ve İstihbarat Müdürlüğü ekiplerince, Hamzabeyli Sınır Kapısı'nda bir tırda 287 kilo 910 gram esrar ele geçirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/ardahanda-saganak-dolu-ve-siddetli-ruzgar-etkili-oldu/4039663",
+        "summary": "Ardahan'ın Çıldır ilçesinde sağanak ve dolu etkili olurken, şiddetli rüzgar 14 binanın çatısında hasara neden oldu."
       },
       {
-        "title": "Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Bölgemiz üzerindeki emperyalist tuzakları, oyunları bozma gayreti içindeyiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/buyuk-taarruzun-104-yil-donumu-dolayisiyla-zafer-yuruyusu-duzenlendi/4037506",
-        "summary": "Afyonkarahisar'ın Şuhut ilçesinde Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-bolgemiz-uzerindeki-emperyalist-tuzaklari-oyunlari-bozma-gayreti-icindeyiz/4039614",
+        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bölgemiz üzerindeki emperyalist tuzakları, oyunları bozma gayreti içindeyiz ve teker teker de bozuyoruz.\" dedi."
       },
       {
-        "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasında Ertan Yıldız savunma yaptı",
+        "title": "AK Parti'de 4 il başkanlığına atama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinda-ertan-yildiz-savunma-yapti/4037505",
-        "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 414 sanığın yargılandığı davanın 69. duruşmasında, eski İBB İştirakler ve Bağlı Kuruluşlar Komisyonu Başkanı Ertan Yıldız'..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-partide-4-il-baskanligina-atama/4039613",
+        "summary": "AK Parti'de Tunceli, Ardahan, Karaman ve Afyonkarahisar, il başkanlıklarına atama yapıldı."
       }
     ]
   }
