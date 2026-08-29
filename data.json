@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-28 21:56:12",
+  "updated_at": "2026-08-29 05:02:57",
   "markets": {
-    "usd_try_kapalicarsi": "48.16 TL",
-    "eur_try_kapalicarsi": "56.12 TL",
+    "usd_try_kapalicarsi": "48.23 TL",
+    "eur_try_kapalicarsi": "55.99 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Kars'ta dolu ve sağanak hayatı olumsuz etkiledi",
+        "title": "Mardin'de üretilen 4 milyon tuz çalısı ülkenin dört bir yanında meraları zenginleştirecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/karsta-dolu-ve-saganak-hayati-olumsuz-etkiledi/4040671",
-        "summary": "Kars'ın Akyaka ilçesinde etkili olan dolu ve sağanak, hayatı olumsuz etkiledi."
+        "url": "https://www.aa.com.tr/tr/gundem/mardinde-uretilen-4-milyon-tuz-calisi-ulkenin-dort-bir-yaninda-meralari-zenginlestirecek/4040707",
+        "summary": "Mardin'de küçükbaş hayvancılıkta kaba yem ihtiyacına katkı sağlamak amacıyla kurulan tesiste üretilen 4 milyon tuz çalısı, Türkiye'nin farklı illerindeki meralarda toprakla buluşac..."
       },
       {
-        "title": "İstanbul'da sağanak nedeniyle kazalar meydana geldi",
+        "title": "Tarihi tabyada 4 yıldır Kars'ın peynir kültürü yaşatılıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-nedeniyle-kazalar-meydana-geldi-/4040643",
-        "summary": "İstanbul'un bazı bölgelerinde etkili olan yağış nedeniyle yollarda su birikintisi oluşurken, sürücüler trafikte ilerlemekte güçlük çekti, maddi hasarlı kazalar meydana geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/tarihi-tabyada-4-yildir-karsin-peynir-kulturu-yasatiliyor/4040705",
+        "summary": "Kars'taki tarihi Süvari Tabyası'nda 2022 yılında kurulan Türkiye'nin ilk tematik peynir müzesinde şehrin peynir kültürü yaşatılıyor."
       },
       {
-        "title": "Diyanet İşleri Başkanı Arpaguş: Gençlerimize yönelik çalışmalara özel bir önem atfediyoruz",
+        "title": "Bilecik'te kadınlar geleneksel Kayı bezi dokuma kültürünü yaşatıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/diyanet-isleri-baskani-arpagus-genclerimize-yonelik-calismalara-ozel-bir-onem-atfediyoruz/4040602",
-        "summary": "Arpaguş, \"Gençlerimize yönelik çalışmalara özel bir önem atfediyoruz. Nesillerimizi Allah Resulü'nün ahlakıyla buluşturmaya çalışıyoruz. Onların zihin ve gönül dünyalarını Kur'an v..."
+        "url": "https://www.aa.com.tr/tr/gundem/bilecikte-kadinlar-geleneksel-kayi-bezi-dokuma-kulturunu-yasatiyor/4040704",
+        "summary": "Bilecik'in Bozüyük ilçesinde yürütülen \"Kayı Bezi Dokuma Atölyesi Projesi\" kapsamında kadınlar, ilçelerine ait geleneksel Kayı bezi dokuma yöntemiyle yöreye ait motifleri de kullan..."
       },
       {
-        "title": "Bakan Çiftçi: Milletimizin canına ve malına kasteden karanlık odaklara asla izin vermeyeceğiz",
+        "title": "\"Alihan Kuriş çıkar amaçlı suç örgütü\"ne yönelik soruşturmada gözaltına alınanlardan 35'i tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-milletimizin-canina-ve-malina-kasteden-karanlik-odaklara-asla-izin-vermeyecegiz/4040601",
-        "summary": "Bakan Çiftçi, \"Milletimizin canına ve malına kasteden, sokaklarımızın huzuruna musallat olan karanlık odaklara asla izin vermeyeceğiz. Vatandaşımıza korku salmaya çalışan suç şebek..."
+        "url": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutune-yonelik-sorusturmada-gozaltina-alinanlardan-35i-tutuklandi/4040690",
+        "summary": "\"Alihan Kuriş çıkar amaçlı suç örgütü\"ne yönelik operasyonda gözaltına alınan 37 şüpheliden 35'i tutuklandı."
       }
     ]
   }
