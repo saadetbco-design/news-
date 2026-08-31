@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 11:15:29",
+  "updated_at": "2026-08-31 21:42:20",
   "markets": {
     "usd_try_kapalicarsi": "48.25 TL",
     "eur_try_kapalicarsi": "55.96 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Germany is stepping up on defense — and Washington should celebrate",
-    "bullet_1": "Germany is stepping up on defense — and Washington should celebrate",
-    "bullet_2": "The devastation of NSA Bahrain is a national security warning",
-    "bullet_3": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
+    "red_alert": "SON DAKİKA: Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production",
+    "bullet_1": "Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production",
+    "bullet_2": "US Air Force chief of staff discusses ‘regional situation’ with Israeli military officials",
+    "bullet_3": "Sweden signs French warship order to boost defense",
     "defense_news": [
       {
-        "title": "Germany is stepping up on defense — and Washington should celebrate",
+        "title": "Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/opinion/2026/08/31/germany-is-stepping-up-on-defense-and-washington-should-celebrate/",
-        "summary": "German defense firms are creating industrial partnerships with American companies, deepening the transatlantic defense production relationship."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production/",
+        "summary": "The Pentagon's framework agreements with General Dynamics and Lockheed include tripling Patriot production and quadrupling THAAD interceptor output."
       },
       {
-        "title": "The devastation of NSA Bahrain is a national security warning",
+        "title": "US Air Force chief of staff discusses ‘regional situation’ with Israeli military officials",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning/",
-        "summary": "If NSA Bahrain is not reconstituted to pre-attack capabilities, it will fundamentally change how the U.S. Navy operates, the author of this op-ed writes."
+        "url": "https://www.defensenews.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/",
+        "summary": "U.S. Air Force Chief of Staff Ken Wilsbach visited Israel recently and met with Israel Defense Forces and Israeli Air Force top officials."
       },
       {
-        "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
+        "title": "Sweden signs French warship order to boost defense",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization/",
-        "summary": "The Air Force has awarded Boeing a sole-source contract with a $131.23 billion ceiling to produce, modernize and sustain F-15 fighters."
+        "url": "https://www.defensenews.com/global/europe/2026/08/31/sweden-signs-french-warship-order-to-boost-defense/",
+        "summary": "Sweden signed an order for four Naval Group frigates during a ceremony in Stockholm attended by French President Emmanuel Macron."
       },
       {
-        "title": "India turns to private sector to ramp up missile production",
+        "title": "Israel signs $3.5 billion air defense deal with Greece",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/28/india-turns-to-private-sector-to-ramp-up-missile-production/",
-        "summary": "Fearing bottlenecks, India has approved the transfer of technologies for conventional missile systems from a state-run organization to private companies."
+        "url": "https://www.defensenews.com/global/europe/2026/08/31/israel-signs-35-billion-air-defense-deal-with-greece/",
+        "summary": "Israel and Greece signed a €3 billion ($3.5 billion) defense deal on Monday under which Israel will build a multi-layered air defense system for Greece."
       }
     ],
     "geo_news": [
       {
-        "title": "KKTC'de alabora olan gemide kaybolan 18 kişiyi arama çalışmaları sürüyor",
+        "title": "Balıkçılar \"vira bismillah\" diyerek denize açıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kktcde-alabora-olan-gemide-kaybolan-18-kisiyi-arama-calismalari-suruyor/4042549",
-        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne kenti açıklarında yolcu gemisinin alabora olması sonucu kaybolan 18 kişinin bulunması için denizden ve havadan arama çalışmaları aral..."
+        "url": "https://www.aa.com.tr/tr/gundem/balikcilar-vira-bismillah-diyerek-denize-acildi/4043067",
+        "summary": "Balıkçılar, yaklaşık 5 ay süren av yasağının sona ermesiyle \"vira bismillah\" diyerek denize açıldı."
       },
       {
-        "title": "KKTC Cumhurbaşkanı Erhürman: Arama kurtarma çalışmaları aralıksız devam ediyor",
+        "title": "Bakan Yumaklı: Balıkçılık sektöründe geçtiğimiz yıl üretimde Cumhuriyet tarihimizin rekorunu kırmış durumdayız",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kktc-cumhurbaskani-erhurman-arama-kurtarma-calismalari-araliksiz-devam-ediyor/4042527",
-        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Girne açıklarında dün alabora olan gemi ile ilgili hata, ihmal, yanlış ve kusur ne varsa ortaya çıkarılacağını be..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-yumakli-balikcilik-sektorunde-gectigimiz-yil-uretimde-cumhuriyet-tarihimizin-rekorunu-kirmis-durumdayiz/4043059",
+        "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, balıkçılık sektörüne ilişkin, \"Geçtiğimiz yıl tam 1 milyon 37 bin tonluk üretimle Cumhuriyet tarihimizin rekorunu kırmış durumdayız.\" dedi."
       },
       {
-        "title": "YÖK'ten üniversitelere \"Terörsüz Türkiye\" çağrısı",
+        "title": "Balıkesir'in Edremit ilçesinde çıkan orman yangınına ilişkin 1 kişi tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yokten-universitelere-terorsuz-turkiye-cagrisi/4042516",
-        "summary": "Yükseköğretim Kurulu (YÖK), üniversitelerden Cumhurbaşkanı Recep Tayyip Erdoğan'ın ortaya koyduğu \"Terörsüz Türkiye\" hedefi doğrultusunda bilimsel ve akademik çalışmalar yürütmeler..."
+        "url": "https://www.aa.com.tr/tr/gundem/balikesirin-edremit-ilcesinde-cikan-orman-yanginina-iliskin-1-kisi-tutuklandi/4042930",
+        "summary": "Balıkesir'in Edremit ilçesinde dün arazide çıkan ve ormana sıçradıktan sonra kontrol altına alınan orman yangınıyla ilgili 1 şüpheli tutuklandı."
       },
       {
-        "title": "Mersin-Girne arasında denizden yolcu taşımacılığı yapılan seferler iptal edildi",
+        "title": "Bakanlar Fidan ve Güler, Pakistan Dışişleri Bakanı Dar ile Bişkek'e gidiyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mersin-girne-arasinda-denizden-yolcu-tasimaciligi-yapilan-seferler-iptal-edildi/4042481",
-        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) açıklarında bir yolcu gemisinin alabora olmasının ardından Mersin-Girne arasındaki deniz seferleri iptal edildi."
+        "url": "https://www.aa.com.tr/tr/gundem/bakanlar-fidan-ve-guler-pakistan-disisleri-bakani-dar-ile-biskeke-gidiyor/4043037",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Mekke Savunma İttifakı'nın Stratejik Siyasi ve Savunma Komitesi toplantısı sonrasında Milli Savunma Bakanı Yaşar Güler ve Pakistan Dışişleri Bakanı İs..."
       }
     ]
   }
