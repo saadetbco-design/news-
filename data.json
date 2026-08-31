@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-08-30 19:35:01",
+  "updated_at": "2026-08-31 11:15:29",
   "markets": {
     "usd_try_kapalicarsi": "48.25 TL",
-    "eur_try_kapalicarsi": "56.00 TL",
+    "eur_try_kapalicarsi": "55.96 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: The devastation of NSA Bahrain is a national security warning",
-    "bullet_1": "The devastation of NSA Bahrain is a national security warning",
-    "bullet_2": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
-    "bullet_3": "India turns to private sector to ramp up missile production",
+    "red_alert": "SON DAKİKA: Germany is stepping up on defense — and Washington should celebrate",
+    "bullet_1": "Germany is stepping up on defense — and Washington should celebrate",
+    "bullet_2": "The devastation of NSA Bahrain is a national security warning",
+    "bullet_3": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
     "defense_news": [
+      {
+        "title": "Germany is stepping up on defense — and Washington should celebrate",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/opinion/2026/08/31/germany-is-stepping-up-on-defense-and-washington-should-celebrate/",
+        "summary": "German defense firms are creating industrial partnerships with American companies, deepening the transatlantic defense production relationship."
+      },
       {
         "title": "The devastation of NSA Bahrain is a national security warning",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/08/28/india-turns-to-private-sector-to-ramp-up-missile-production/",
         "summary": "Fearing bottlenecks, India has approved the transfer of technologies for conventional missile systems from a state-run organization to private companies."
-      },
-      {
-        "title": "Russia is running out of cash due to its war in Ukraine: report",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/28/russia-is-running-out-of-cash-due-to-its-war-in-ukraine-report/",
-        "summary": "Russia’s war spending pushed the state to the brink of running out of cash this spring, according to a Bloomberg report, as Russian leaders double down."
       }
     ],
     "geo_news": [
       {
-        "title": "Artvin'de sağanak taşkın, su baskını ve heyelanlara yol açtı",
+        "title": "KKTC'de alabora olan gemide kaybolan 18 kişiyi arama çalışmaları sürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/artvinde-saganak-taskin-su-baskini-ve-heyelanlara-yol-acti/4041931",
-        "summary": "Artvin'de etkili olan gök gürültülü sağanak, taşkın, su baskını ve heyelanlara neden oldu."
+        "url": "https://www.aa.com.tr/tr/gundem/kktcde-alabora-olan-gemide-kaybolan-18-kisiyi-arama-calismalari-suruyor/4042549",
+        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne kenti açıklarında yolcu gemisinin alabora olması sonucu kaybolan 18 kişinin bulunması için denizden ve havadan arama çalışmaları aral..."
       },
       {
-        "title": "Trabzon'da sağanak nedeniyle taşan derede çalışmalar sürüyor",
+        "title": "KKTC Cumhurbaşkanı Erhürman: Arama kurtarma çalışmaları aralıksız devam ediyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/trabzonda-saganak-nedeniyle-tasan-derede-calismalar-suruyor/4041815",
-        "summary": "Trabzon'un Çaykara ilçesinde sağanak nedeniyle taşan Koşon Deresi'nde ekiplerin yürüttüğü çalışmalar devam ediyor."
+        "url": "https://www.aa.com.tr/tr/gundem/kktc-cumhurbaskani-erhurman-arama-kurtarma-calismalari-araliksiz-devam-ediyor/4042527",
+        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Girne açıklarında dün alabora olan gemi ile ilgili hata, ihmal, yanlış ve kusur ne varsa ortaya çıkarılacağını be..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: Terör defterleri kapandıkça umutlar büyüyecek",
+        "title": "YÖK'ten üniversitelere \"Terörsüz Türkiye\" çağrısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-teror-defterleri-kapandikca-umutlar-buyuyecek/4041802",
-        "summary": "Cumhurbaşkanı Erdoğan, \"Geçtiğimiz günlerde Suriye'de olduğu gibi terör defterleri kapandıkça umutlar büyüyecek, coğrafyamızda farklı bir rüzgar esmeye başlayacak.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/yokten-universitelere-terorsuz-turkiye-cagrisi/4042516",
+        "summary": "Yükseköğretim Kurulu (YÖK), üniversitelerden Cumhurbaşkanı Recep Tayyip Erdoğan'ın ortaya koyduğu \"Terörsüz Türkiye\" hedefi doğrultusunda bilimsel ve akademik çalışmalar yürütmeler..."
       },
       {
-        "title": "Bakırköy'de güzellik merkezinde izinsiz görüntü kaydı iddiasına ilişkin 1 zanlı daha tutuklandı",
+        "title": "Mersin-Girne arasında denizden yolcu taşımacılığı yapılan seferler iptal edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakirkoyde-guzellik-merkezinde-izinsiz-goruntu-kaydi-iddiasina-iliskin-1-zanli-daha-tutuklandi/4041834",
-        "summary": "Bakırköy'deki bir güzellik merkezinde müşterilere ait görüntülerin gizlice kaydedilerek sosyal medya platformları üzerinden ücret karşılığında izletildiği iddiasına ilişkin soruştu..."
+        "url": "https://www.aa.com.tr/tr/gundem/mersin-girne-arasinda-denizden-yolcu-tasimaciligi-yapilan-seferler-iptal-edildi/4042481",
+        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) açıklarında bir yolcu gemisinin alabora olmasının ardından Mersin-Girne arasındaki deniz seferleri iptal edildi."
       }
     ]
   }
