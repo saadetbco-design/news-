@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 09:41:05",
+  "updated_at": "2026-09-01 19:42:17",
   "markets": {
     "usd_try_kapalicarsi": "48.28 TL",
     "eur_try_kapalicarsi": "56.04 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production",
-    "bullet_1": "Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production",
-    "bullet_2": "US Air Force chief of staff discusses ‘regional situation’ with Israeli military officials",
-    "bullet_3": "Sweden signs French warship order to boost defense",
+    "red_alert": "SON DAKİKA: US approves possible $800 million military helicopter sale to Iraq",
+    "bullet_1": "US approves possible $800 million military helicopter sale to Iraq",
+    "bullet_2": "US launches new barrage of strikes on Iran around Strait of Hormuz",
+    "bullet_3": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
     "defense_news": [
       {
-        "title": "Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production",
+        "title": "US approves possible $800 million military helicopter sale to Iraq",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production/",
-        "summary": "The Pentagon's framework agreements with General Dynamics and Lockheed include tripling Patriot production and quadrupling THAAD interceptor output."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/01/us-approves-possible-800-million-military-helicopter-sale-to-iraq/",
+        "summary": "The United States has approved a potential $800 million sale of Bell helicopters, weapons and related equipment to Iraq, according to the State Department."
       },
       {
-        "title": "US Air Force chief of staff discusses ‘regional situation’ with Israeli military officials",
+        "title": "US launches new barrage of strikes on Iran around Strait of Hormuz",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/",
-        "summary": "U.S. Air Force Chief of Staff Ken Wilsbach visited Israel recently and met with Israel Defense Forces and Israeli Air Force top officials."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/01/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz/",
+        "summary": "The U.S. launched new air strikes on Iranian targets Tuesday following attempted attacks by the IRGC against American troops deployed to the region."
       },
       {
-        "title": "Sweden signs French warship order to boost defense",
+        "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/31/sweden-signs-french-warship-order-to-boost-defense/",
-        "summary": "Sweden signed an order for four Naval Group frigates during a ceremony in Stockholm attended by French President Emmanuel Macron."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
+        "summary": "The move is the latest in the service’s yearslong effort to replace the Bradley Fighting Vehicle."
       },
       {
-        "title": "Israel signs $3.5 billion air defense deal with Greece",
+        "title": "US tech found in Russian ballistic missiles",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/08/31/israel-signs-35-billion-air-defense-deal-with-greece/",
-        "summary": "Israel and Greece signed a €3 billion ($3.5 billion) defense deal on Monday under which Israel will build a multi-layered air defense system for Greece."
+        "url": "https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles/",
+        "summary": "Dozens of American- and European-made components are still being used to build Russia’s deadly ballistic missiles."
       }
     ],
     "geo_news": [
       {
-        "title": "Motosiklet Denetimleri Eylem Planı'na ilişkin güvenlik toplantısı yapıldı",
+        "title": "Bilal Erdoğan'dan \"sosyal medya fenomeni hocalar\" eleştirisi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/motosiklet-denetimleri-eylem-planina-iliskin-guvenlik-toplantisi-yapildi/4043558",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi başkanlığında, \"Motosiklet Denetimleri Eylem Planı Değerlendirme\" konulu güvenlik toplantısı düzenlendi."
+        "url": "https://www.aa.com.tr/tr/gundem/bilal-erdogandan-sosyal-medya-fenomeni-hocalar-elestirisi/4044394",
+        "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan, \"Hoca efendiler internette karşılıklı atışmaya durmuşlar. Bunlar fenomenler, artık yani 'hoca efendi' falan da dememek lazım. Kim..."
       },
       {
-        "title": "TÜRGEV başarılı genç kızları Yıldız Öğrenci Kampı'nda buluşturdu",
+        "title": "Gülistan Doku soruşturmasında 1 zanlı daha tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turgev-basarili-genc-kizlari-yildiz-ogrenci-kampinda-bulusturdu/4043543",
-        "summary": "Türkiye'nin farklı şehirlerinden dünyaya uzanan başarı hikayeleriyle bilim, sanat ve gönüllülükte öne çıkan 66 genç kız, Türkiye Gençlik ve Eğitime Hizmet Vakfının (TÜRGEV) 30. yıl..."
+        "url": "https://www.aa.com.tr/tr/gundem/gulistan-doku-sorusturmasinda-1-zanli-daha-tutuklandi/4044268",
+        "summary": "Tunceli'de 5 Ocak 2020'den beri haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili son soruşturma kapsamında adliyeye sevk edilen 2 zanlıdan 1'i tutuklandı, 1'i adli ko..."
       },
       {
-        "title": "Uzmanlardan kök hücre bağışındaki yanlış bilgilere karşı uyarı",
+        "title": "İstanbul 2 Nolu Barosu, İsrailli yöneticilerin Gazze'de işledikleri suçlara ilişkin ek delilleri UCM'ye sunacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/uzmanlardan-kok-hucre-bagisindaki-yanlis-bilgilere-karsi-uyari/4043515",
-        "summary": "Lösemi hastalığının tedavisinde en etkili yöntemlerin başında gelen kök hücre naklinin​​​​​​​ ameliyat gerektiren, ağrılı ve riskler taşıyan bir işlem olduğuna ilişkin yanlış bilgi..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-2-nolu-barosu-israilli-yoneticilerin-gazzede-isledikleri-suclara-iliskin-ek-delilleri-ucmye-sunacak/4044254",
+        "summary": "İstanbul 2 Nolu Barosu avukatları, İsrailli yöneticilerin Gazze'de işlediği soykırım ve insanlığa karşı suçlara ilişkin toplanan 4 klasör ve 25 CD'lik ek delil dosyasını Uluslarara..."
       },
       {
-        "title": "YKS'de ilk 1000'e giren öğrencilerin tercih ettikleri bölümler belli oldu",
+        "title": "İtalya'nın Sicilya Adası'ndaki orman yangını Taormina yakınlarındaki bazı evleri tehdit ediyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yksde-ilk-1000e-giren-ogrencilerin-tercih-ettikleri-bolumler-belli-oldu/4043484",
-        "summary": "YKS yerleştirme sonuçlarına göre, sayısalda ilk 1000'e giren adaylardan 490'ı tıp, 434'ü mühendislik programlarını tercih ederken sözelde ilk 1000'e girenler en fazla tarih, eşit a..."
+        "url": "https://www.aa.com.tr/tr/gundem/italyanin-sicilya-adasindaki-orman-yangini-taormina-yakinlarindaki-bazi-evleri-tehdit-ediyor/4044199",
+        "summary": "İtalya'nın Sicilya Adası'nın doğusundaki Taormina kenti yakınlarında çıkan orman yangınının, şehirdeki bazı evleri tehdit ettiği bildirildi."
       }
     ]
   }
