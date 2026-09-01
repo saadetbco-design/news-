@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-31 21:42:20",
+  "updated_at": "2026-09-01 09:41:05",
   "markets": {
-    "usd_try_kapalicarsi": "48.25 TL",
-    "eur_try_kapalicarsi": "55.96 TL",
+    "usd_try_kapalicarsi": "48.28 TL",
+    "eur_try_kapalicarsi": "56.04 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Balıkçılar \"vira bismillah\" diyerek denize açıldı",
+        "title": "Motosiklet Denetimleri Eylem Planı'na ilişkin güvenlik toplantısı yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/balikcilar-vira-bismillah-diyerek-denize-acildi/4043067",
-        "summary": "Balıkçılar, yaklaşık 5 ay süren av yasağının sona ermesiyle \"vira bismillah\" diyerek denize açıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/motosiklet-denetimleri-eylem-planina-iliskin-guvenlik-toplantisi-yapildi/4043558",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi başkanlığında, \"Motosiklet Denetimleri Eylem Planı Değerlendirme\" konulu güvenlik toplantısı düzenlendi."
       },
       {
-        "title": "Bakan Yumaklı: Balıkçılık sektöründe geçtiğimiz yıl üretimde Cumhuriyet tarihimizin rekorunu kırmış durumdayız",
+        "title": "TÜRGEV başarılı genç kızları Yıldız Öğrenci Kampı'nda buluşturdu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-yumakli-balikcilik-sektorunde-gectigimiz-yil-uretimde-cumhuriyet-tarihimizin-rekorunu-kirmis-durumdayiz/4043059",
-        "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, balıkçılık sektörüne ilişkin, \"Geçtiğimiz yıl tam 1 milyon 37 bin tonluk üretimle Cumhuriyet tarihimizin rekorunu kırmış durumdayız.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/turgev-basarili-genc-kizlari-yildiz-ogrenci-kampinda-bulusturdu/4043543",
+        "summary": "Türkiye'nin farklı şehirlerinden dünyaya uzanan başarı hikayeleriyle bilim, sanat ve gönüllülükte öne çıkan 66 genç kız, Türkiye Gençlik ve Eğitime Hizmet Vakfının (TÜRGEV) 30. yıl..."
       },
       {
-        "title": "Balıkesir'in Edremit ilçesinde çıkan orman yangınına ilişkin 1 kişi tutuklandı",
+        "title": "Uzmanlardan kök hücre bağışındaki yanlış bilgilere karşı uyarı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/balikesirin-edremit-ilcesinde-cikan-orman-yanginina-iliskin-1-kisi-tutuklandi/4042930",
-        "summary": "Balıkesir'in Edremit ilçesinde dün arazide çıkan ve ormana sıçradıktan sonra kontrol altına alınan orman yangınıyla ilgili 1 şüpheli tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/uzmanlardan-kok-hucre-bagisindaki-yanlis-bilgilere-karsi-uyari/4043515",
+        "summary": "Lösemi hastalığının tedavisinde en etkili yöntemlerin başında gelen kök hücre naklinin​​​​​​​ ameliyat gerektiren, ağrılı ve riskler taşıyan bir işlem olduğuna ilişkin yanlış bilgi..."
       },
       {
-        "title": "Bakanlar Fidan ve Güler, Pakistan Dışişleri Bakanı Dar ile Bişkek'e gidiyor",
+        "title": "YKS'de ilk 1000'e giren öğrencilerin tercih ettikleri bölümler belli oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakanlar-fidan-ve-guler-pakistan-disisleri-bakani-dar-ile-biskeke-gidiyor/4043037",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Mekke Savunma İttifakı'nın Stratejik Siyasi ve Savunma Komitesi toplantısı sonrasında Milli Savunma Bakanı Yaşar Güler ve Pakistan Dışişleri Bakanı İs..."
+        "url": "https://www.aa.com.tr/tr/gundem/yksde-ilk-1000e-giren-ogrencilerin-tercih-ettikleri-bolumler-belli-oldu/4043484",
+        "summary": "YKS yerleştirme sonuçlarına göre, sayısalda ilk 1000'e giren adaylardan 490'ı tıp, 434'ü mühendislik programlarını tercih ederken sözelde ilk 1000'e girenler en fazla tarih, eşit a..."
       }
     ]
   }
