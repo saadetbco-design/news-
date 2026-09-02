@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-09-01 19:42:17",
+  "updated_at": "2026-09-02 09:12:26",
   "markets": {
     "usd_try_kapalicarsi": "48.28 TL",
-    "eur_try_kapalicarsi": "56.04 TL",
+    "eur_try_kapalicarsi": "55.98 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US approves possible $800 million military helicopter sale to Iraq",
-    "bullet_1": "US approves possible $800 million military helicopter sale to Iraq",
-    "bullet_2": "US launches new barrage of strikes on Iran around Strait of Hormuz",
-    "bullet_3": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
+    "red_alert": "SON DAKİKA: German government blames Russia for Leipzig airport drone attack with explosives",
+    "bullet_1": "German government blames Russia for Leipzig airport drone attack with explosives",
+    "bullet_2": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
+    "bullet_3": "After over 200 days at sea, USS Abraham Lincoln arrives in Thailand",
     "defense_news": [
       {
-        "title": "US approves possible $800 million military helicopter sale to Iraq",
+        "title": "German government blames Russia for Leipzig airport drone attack with explosives",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/01/us-approves-possible-800-million-military-helicopter-sale-to-iraq/",
-        "summary": "The United States has approved a potential $800 million sale of Bell helicopters, weapons and related equipment to Iraq, according to the State Department."
+        "url": "https://www.defensenews.com/global/europe/2026/09/02/german-government-blames-russia-for-leipzig-airport-drone-attack-with-explosives/",
+        "summary": "Russia was behind the failed explosive drone attack on Germany’s key Leipzig/Halle Airport last month, the authorities in Berlin have concluded."
       },
       {
-        "title": "US launches new barrage of strikes on Iran around Strait of Hormuz",
+        "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/01/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz/",
-        "summary": "The U.S. launched new air strikes on Iranian targets Tuesday following attempted attacks by the IRGC against American troops deployed to the region."
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
+        "summary": "China’s navy has introduced a new guided-missile frigate designed for coastal as well as open-sea attacks."
       },
       {
-        "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
+        "title": "After over 200 days at sea, USS Abraham Lincoln arrives in Thailand",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
-        "summary": "The move is the latest in the service’s yearslong effort to replace the Bradley Fighting Vehicle."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/",
+        "summary": "The USS Abraham Lincoln arrived in Thailand on Wednesday morning after more than 200 days at sea."
       },
       {
-        "title": "US tech found in Russian ballistic missiles",
+        "title": "Ousted Ukrainian defense chief lands Palantir CEO as first investor in new venture",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles/",
-        "summary": "Dozens of American- and European-made components are still being used to build Russia’s deadly ballistic missiles."
+        "url": "https://www.defensenews.com/global/europe/2026/09/01/ousted-ukrainian-defense-chief-lands-palantir-ceo-as-first-investor-in-new-venture/",
+        "summary": "Ukraine’s recently ousted defense minister Mykhailo Fedorov is teaming up with Palantir CEO Alex Karp to launch a new defense company."
       }
     ],
     "geo_news": [
       {
-        "title": "Bilal Erdoğan'dan \"sosyal medya fenomeni hocalar\" eleştirisi",
+        "title": "18 ildeki dolandırıcılık operasyonlarında 153 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bilal-erdogandan-sosyal-medya-fenomeni-hocalar-elestirisi/4044394",
-        "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan, \"Hoca efendiler internette karşılıklı atışmaya durmuşlar. Bunlar fenomenler, artık yani 'hoca efendi' falan da dememek lazım. Kim..."
+        "url": "https://www.aa.com.tr/tr/gundem/18-ildeki-dolandiricilik-operasyonlarinda-153-supheli-tutuklandi/4044927",
+        "summary": "İçişleri Bakanlığı, 18 ilde polis ekiplerince düzenlenen \"nitelikli dolandırıcılık\" operasyonlarında yakalanan 281 şüpheliden 153'ünün tutuklandığını bildirdi."
       },
       {
-        "title": "Gülistan Doku soruşturmasında 1 zanlı daha tutuklandı",
+        "title": "Elektrikli otomobillerde yangın riskine karşı \"yetkili servis ve orijinal parça\" uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/gulistan-doku-sorusturmasinda-1-zanli-daha-tutuklandi/4044268",
-        "summary": "Tunceli'de 5 Ocak 2020'den beri haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili son soruşturma kapsamında adliyeye sevk edilen 2 zanlıdan 1'i tutuklandı, 1'i adli ko..."
+        "url": "https://www.aa.com.tr/tr/gundem/elektrikli-otomobillerde-yangin-riskine-karsi-yetkili-servis-ve-orijinal-parca-uyarisi/4044918",
+        "summary": "TEHAD Başkanı Berkan Bayram, elektrikli otomobillerin yangın riskinin içten yanmalı araçlara göre daha düşük olduğunu belirterek, batarya muhafazası, yetkili servis ve orijinal par..."
       },
       {
-        "title": "İstanbul 2 Nolu Barosu, İsrailli yöneticilerin Gazze'de işledikleri suçlara ilişkin ek delilleri UCM'ye sunacak",
+        "title": "Girne açıklarında alabora olan yolcu gemisinin enkazına ulaşıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-2-nolu-barosu-israilli-yoneticilerin-gazzede-isledikleri-suclara-iliskin-ek-delilleri-ucmye-sunacak/4044254",
-        "summary": "İstanbul 2 Nolu Barosu avukatları, İsrailli yöneticilerin Gazze'de işlediği soykırım ve insanlığa karşı suçlara ilişkin toplanan 4 klasör ve 25 CD'lik ek delil dosyasını Uluslarara..."
+        "url": "https://www.aa.com.tr/tr/gundem/kktc-cumhurbaskani-erhurman-alabora-olan-yolcu-gemisinin-enkazina-ulasildigini-bildirdi/4044900",
+        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Girne açıklarında geçen pazar günü alabora olan yolcu gemisinin enkazına ulaşıldığını açıkladı."
       },
       {
-        "title": "İtalya'nın Sicilya Adası'ndaki orman yangını Taormina yakınlarındaki bazı evleri tehdit ediyor",
+        "title": "Türk hekimlerden meme kanseri cerrahisinde yeni koruyucu yöntem",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/italyanin-sicilya-adasindaki-orman-yangini-taormina-yakinlarindaki-bazi-evleri-tehdit-ediyor/4044199",
-        "summary": "İtalya'nın Sicilya Adası'nın doğusundaki Taormina kenti yakınlarında çıkan orman yangınının, şehirdeki bazı evleri tehdit ettiği bildirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-hekimlerden-meme-kanseri-cerrahisinde-yeni-koruyucu-yontem/4044855",
+        "summary": "Etlik Şehir Hastanesi Onkoloji Hastanesi Başhekimi Prof. Dr. Doğan ve ekibince, meme kanserinin tedavisine yönelik geliştirilen yeni onkoplastik cerrahi yöntem,\"Surgical Innovation..."
       }
     ]
   }
