@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 09:12:26",
+  "updated_at": "2026-09-02 19:34:15",
   "markets": {
     "usd_try_kapalicarsi": "48.28 TL",
     "eur_try_kapalicarsi": "55.98 TL",
@@ -12,7 +12,7 @@
     "red_alert": "SON DAKİKA: German government blames Russia for Leipzig airport drone attack with explosives",
     "bullet_1": "German government blames Russia for Leipzig airport drone attack with explosives",
     "bullet_2": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
-    "bullet_3": "After over 200 days at sea, USS Abraham Lincoln arrives in Thailand",
+    "bullet_3": "After 286 days at sea, USS Abraham Lincoln arrives in Thailand",
     "defense_news": [
       {
         "title": "German government blames Russia for Leipzig airport drone attack with explosives",
@@ -27,7 +27,7 @@
         "summary": "China’s navy has introduced a new guided-missile frigate designed for coastal as well as open-sea attacks."
       },
       {
-        "title": "After over 200 days at sea, USS Abraham Lincoln arrives in Thailand",
+        "title": "After 286 days at sea, USS Abraham Lincoln arrives in Thailand",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/",
         "summary": "The USS Abraham Lincoln arrived in Thailand on Wednesday morning after more than 200 days at sea."
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "18 ildeki dolandırıcılık operasyonlarında 153 şüpheli tutuklandı",
+        "title": "MHP Genel Başkanı Bahçeli: Tribünler, Terörsüz Türkiye karşıtlarının provokasyon alanı haline getirilmemelidir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/18-ildeki-dolandiricilik-operasyonlarinda-153-supheli-tutuklandi/4044927",
-        "summary": "İçişleri Bakanlığı, 18 ilde polis ekiplerince düzenlenen \"nitelikli dolandırıcılık\" operasyonlarında yakalanan 281 şüpheliden 153'ünün tutuklandığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceli-tribunler-terorsuz-turkiye-karsitlarinin-provokasyon-alani-haline-getirilmemelidir/4045702",
+        "summary": "MHP Genel Başkanı Bahçeli, \"Tribünler, Terörsüz Türkiye karşıtlarının provokasyon alanı haline getirilmemelidir. Amigo kılıklı ihanet şebekelerinin barışı tehdit eden bir dil geliş..."
       },
       {
-        "title": "Elektrikli otomobillerde yangın riskine karşı \"yetkili servis ve orijinal parça\" uyarısı",
+        "title": "Dışişleri Bakanı Fidan, Katarlı ve Ürdünlü mevkidaşlarıyla telefonda görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/elektrikli-otomobillerde-yangin-riskine-karsi-yetkili-servis-ve-orijinal-parca-uyarisi/4044918",
-        "summary": "TEHAD Başkanı Berkan Bayram, elektrikli otomobillerin yangın riskinin içten yanmalı araçlara göre daha düşük olduğunu belirterek, batarya muhafazası, yetkili servis ve orijinal par..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-katarli-ve-urdunlu-mevkidaslariyla-telefonda-gorustu/4045672",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani ve Ürdün Dışişleri Bakanı Eymen es-Safedi ile telefon görüşmeleri yaptı."
       },
       {
-        "title": "Girne açıklarında alabora olan yolcu gemisinin enkazına ulaşıldı",
+        "title": "Girne'deki gemi kazasından kurtarılan hamile kadın ambulans uçakla Kocaeli'ye nakledildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kktc-cumhurbaskani-erhurman-alabora-olan-yolcu-gemisinin-enkazina-ulasildigini-bildirdi/4044900",
-        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Girne açıklarında geçen pazar günü alabora olan yolcu gemisinin enkazına ulaşıldığını açıkladı."
+        "url": "https://www.aa.com.tr/tr/gundem/girnedeki-gemi-kazasindan-kurtarilan-hamile-kadin-ambulans-ucakla-kocaeliye-nakledildi/4045571",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, Girne açıklarında meydana gelen gemi kazasından sağ kurtarılan 35 haftalık hamile vatandaşın sağlık ekiplerinin gözetiminde ambulans uçakla Kocaeli'y..."
       },
       {
-        "title": "Türk hekimlerden meme kanseri cerrahisinde yeni koruyucu yöntem",
+        "title": "KKTC'deki gemi kazasında kaybolan 20 kişiden birinin cenazesi bulundu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-hekimlerden-meme-kanseri-cerrahisinde-yeni-koruyucu-yontem/4044855",
-        "summary": "Etlik Şehir Hastanesi Onkoloji Hastanesi Başhekimi Prof. Dr. Doğan ve ekibince, meme kanserinin tedavisine yönelik geliştirilen yeni onkoplastik cerrahi yöntem,\"Surgical Innovation..."
+        "url": "https://www.aa.com.tr/tr/gundem/kktcdeki-gemi-kazasinda-kaybolan-20-kisiden-birinin-cenazesi-bulundu/4045620",
+        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne kenti açıklarında alabora olan yolcu gemisinden kaybolan 20 kişiden birinin cenazesine ulaşıldığı bildirildi."
       }
     ]
   }
