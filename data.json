@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 09:19:23",
+  "updated_at": "2026-09-03 19:31:25",
   "markets": {
     "usd_try_kapalicarsi": "48.33 TL",
     "eur_try_kapalicarsi": "55.98 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Iran war escalation raises concern over civilian death toll",
-    "bullet_1": "Iran war escalation raises concern over civilian death toll",
-    "bullet_2": "US Army awards $192M to Palantir, Anduril for TITAN production",
-    "bullet_3": "German government blames Russia for Leipzig airport drone attack with explosives",
+    "red_alert": "SON DAKİKA: The Army shut down a specialized drone unit. Legislators want to know why.",
+    "bullet_1": "The Army shut down a specialized drone unit. Legislators want to know why.",
+    "bullet_2": "Defense firms soar on ample military spending, testing manufacturing schemes",
+    "bullet_3": "Chinese military analysts can’t wait for the US Navy’s battleship era",
     "defense_news": [
       {
-        "title": "Iran war escalation raises concern over civilian death toll",
+        "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll/",
-        "summary": "The recent escalation of the Iran war has cast renewed attention on its civilian toll after Iran reported four killed and dozens wounded at a wedding."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why/",
+        "summary": "A bipartisan group of lawmakers asked the Army to explain why it is shuttering a specialized drone battalion less than a year after establishing it."
       },
       {
-        "title": "US Army awards $192M to Palantir, Anduril for TITAN production",
+        "title": "Defense firms soar on ample military spending, testing manufacturing schemes",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/02/us-army-awards-192m-to-palantir-anduril-for-titan-production/",
-        "summary": "The Army moved its TITAN program from prototyping to production with a $192 million award to Palantir and Anduril this week."
+        "url": "https://www.defensenews.com/industry/2026/09/03/defense-firms-soar-on-ample-military-spending-testing-manufacturing-schemes/",
+        "summary": "For the many billions of dollars governments spend on defense, companies are on the hook to get their production pipelines in place and deliver."
       },
       {
-        "title": "German government blames Russia for Leipzig airport drone attack with explosives",
+        "title": "Chinese military analysts can’t wait for the US Navy’s battleship era",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/02/german-government-blames-russia-for-leipzig-airport-drone-attack-with-explosives/",
-        "summary": "Russia was behind the failed explosive drone attack on Germany’s key Leipzig/Halle Airport last month, the authorities in Berlin have concluded."
+        "url": "https://www.defensenews.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era/",
+        "summary": "A PLA assessment of the proposed Trump-class battleships probes for weaknesses."
       },
       {
-        "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
+        "title": "US Marine Corps plans to use 3D scanners to detect cracked body armor",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
-        "summary": "China’s navy has introduced a new guided-missile frigate designed for coastal as well as open-sea attacks."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/",
+        "summary": "The U.S. Marine Corps is looking to acquire high-resolution 3D scanners to detect cracked body armor."
       }
     ],
     "geo_news": [
       {
-        "title": "Antalya'nın plajları mavi bayrak ve dumansız uygulamayla korunuyor",
+        "title": "Bakan Memişoğlu: 357 Sağlıklı Hayat Merkezi'nde çocuk gelişimcisi, sosyolog, psikolog ve diyetisyen bulunuyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/antalyanin-plajlari-mavi-bayrak-ve-dumansiz-uygulamayla-korunuyor/4046089",
-        "summary": "Uluslararası Mavi Bayrak Ödülü'nde dünya lideri olan Antalya, 232 mavi bayraklı plajı, çevre standartlarına uygun sahilleri ve dumansız plaj uygulamasıyla sürdürülebilir turizmde ö..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-357-saglikli-hayat-merkezinde-cocuk-gelisimcisi-sosyolog-psikolog-ve-diyetisyen-bulunuyor/4046834",
+        "summary": "Sağlık Bakanı Memişoğlu, \"Türkiye genelindeki 357 Sağlıklı Hayat Merkezi'nde çocuklara yönelik hem çocuk gelişimcisi hem sosyolog hem psikolog hem de diyetisyen bulunuyor. Bizlerin..."
       },
       {
-        "title": "Uzmanlardan okula uyum sürecinde \"ekran, iletişim ve doğru ebeveyn tutumu\" uyarısı",
+        "title": "\"Casperlar\" silahlı suç örgütüne yönelik yeni iddianamenin detaylarına ulaşıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/uzmanlardan-okula-uyum-surecinde-ekran-iletisim-ve-dogru-ebeveyn-tutumu-uyarisi/4046135",
-        "summary": "Uzmanlar, 2026-2027 eğitim öğretim yılı başlarken tatilden okul düzenine geçişte çocukların zihinsel ve psikolojik uyum süreçleri ile ekran kullanımı, dil gelişimi ve aile içi ilet..."
+        "url": "https://www.aa.com.tr/tr/gundem/casperlar-silahli-suc-orgutune-yonelik-yeni-iddianamenin-detaylarina-ulasildi/4046854",
+        "summary": "\"Casperlar\" olarak bilinen silahlı suç örgütüne yönelik yürütülen soruşturma kapsamında 51 adli süreçteki çocuk hakkında hazırlanan iddianamenin detaylarına ulaşıldı."
       },
       {
-        "title": "Başakşehir'de inşaat alanında göçük altında kalan 2 işçiden 1'i hayatını kaybetti",
+        "title": "İmam ve vaiz Bayram Ali Öztürk'ün ölümüne ilişkin dosyanın yeniden ele alınması talebi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/basaksehirde-insaat-alaninda-gocuk-altinda-kalan-2-isciden-1i-hayatini-kaybetti/4046041",
-        "summary": "Başakşehir'de, inşaat alanında toprak kayması sonucu göçük altında kalan 2 işçiden 1'i kurtarıldı, diğer işçinin cansız bedenine ulaşıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/imam-ve-vaiz-bayram-ali-ozturkun-olumune-iliskin-dosyanin-yeniden-ele-alinmasi-talebi-/4046848",
+        "summary": "Şehit Bayram Ali Öztürk Platformu, 3 Eylül 2006'da İsmailağa Camisi'nde verdiği sohbet sırasında bıçaklanarak öldürülen imam ve vaiz Bayram Ali Öztürk'ün ölümüne ilişkin dosyanın y..."
       },
       {
-        "title": "Tuzla'da lojistik depoda çıkan yangına müdahale ediliyor",
+        "title": "İletişim Başkanlığı, Astana'da \"Türk Dünyası Diyalogları: Ortak Gelecek, Ortak Vizyon\" paneli düzenleyecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/-tuzlada-lojistik-depoda-cikan-yangina-mudahale-ediliyor/4046116",
-        "summary": "Tuzla'da bir lojistik depoda çıkan yangına itfaiye ekipleri müdahalesi ediyor."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligi-astanada-turk-dunyasi-diyaloglari-ortak-gelecek-ortak-vizyon-paneli-duzenleyecek/4046846",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca Kazakistan'ın başkenti Astana'da, \"Türk Dünyası Diyalogları: Ortak Gelecek, Ortak Vizyon\" paneli düzenlenecek."
       }
     ]
   }
