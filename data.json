@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04 09:13:01",
+  "updated_at": "2026-09-04 19:14:10",
   "markets": {
     "usd_try_kapalicarsi": "48.40 TL",
     "eur_try_kapalicarsi": "56.23 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Army launches laser production with $465M contract award",
-    "bullet_1": "US Army launches laser production with $465M contract award",
-    "bullet_2": "The Army shut down a specialized drone unit. Legislators want to know why.",
-    "bullet_3": "Defense firms soar on ample military spending, testing manufacturing schemes",
+    "red_alert": "SON DAKİKA: Trump to travel aboard Qatari-donated Air Force One to Ireland",
+    "bullet_1": "Trump to travel aboard Qatari-donated Air Force One to Ireland",
+    "bullet_2": "Opposition by US and Russia raises doubts over autonomous weapons talks outcome, diplomats say",
+    "bullet_3": "Space industry lacks workers needed to rebuild satellites lost in war, report says",
     "defense_news": [
       {
-        "title": "US Army launches laser production with $465M contract award",
+        "title": "Trump to travel aboard Qatari-donated Air Force One to Ireland",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award/",
-        "summary": "The U.S. Army awarded a $464.8 million production contract to AeroVironment, Inc., this week for the Enduring-High Energy Laser program."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/04/trump-to-travel-aboard-qatari-donated-air-force-one-to-ireland/",
+        "summary": "U.S. President Donald Trump will use the Qatari-donated jet to travel to Ireland next week, the plane's first international trip since the swap in Turkey."
       },
       {
-        "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
+        "title": "Opposition by US and Russia raises doubts over autonomous weapons talks outcome, diplomats say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why/",
-        "summary": "A bipartisan group of lawmakers asked the Army to explain why it is shuttering a specialized drone battalion less than a year after establishing it."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
+        "summary": "Opposition from the U.S. and Russia has raised doubts that countries meeting Friday will agree on international rules about the use of autonomous weapons."
       },
       {
-        "title": "Defense firms soar on ample military spending, testing manufacturing schemes",
+        "title": "Space industry lacks workers needed to rebuild satellites lost in war, report says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/2026/09/03/defense-firms-soar-on-ample-military-spending-testing-manufacturing-schemes/",
-        "summary": "For the many billions of dollars governments spend on defense, companies are on the hook to get their production pipelines in place and deliver."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
+        "summary": "The U.S. does not have enough engineers, technicians and assemblers to rebuild military space assets destroyed in a war with China or Russia, per RAND."
       },
       {
-        "title": "Chinese military analysts can’t wait for the US Navy’s battleship era",
+        "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era/",
-        "summary": "A PLA assessment of the proposed Trump-class battleships probes for weaknesses."
+        "url": "https://www.defensenews.com/global/europe/2026/09/04/us-to-seek-back-payment-from-europe-for-ukraine-aid-trump-says/",
+        "summary": "U.S. President Donald Trump said he would ask European nations to pay back the United States for military aid and munitions previously sent to Ukraine."
       }
     ],
     "geo_news": [
       {
-        "title": "Okul alışverişi öncesi kırtasiyelerde ürün ve fiyat denetimi yapılıyor",
+        "title": "Üsküdar'da yarın bazı yollar trafiğe kapatılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/okul-alisverisi-oncesi-kirtasiyelerde-urun-ve-fiyat-denetimi-yapiliyor/4047184",
-        "summary": "2026-2027 eğitim ve öğretim yılı öncesinde kırtasiye ve okul ürünlerinin satıldığı iş yerlerine yönelik denetimler devam ediyor."
+        "url": "https://www.aa.com.tr/tr/gundem/uskudarda-yarin-bazi-yollar-trafige-kapatilacak/4047783",
+        "summary": "Üsküdar'da, kamu düzeni ve güvenliğinin sağlanmasına yönelik tedbirler kapsamında yarın bazı yollar trafiğe kapatılacak."
       },
       {
-        "title": "KPSS maratonu 6 Eylül'de başlayacak",
+        "title": "Kahramanmaraş'taki okul saldırısı davasında sanık anne-baba hakim karşısında",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kpss-maratonu-6-eylulde-baslayacak/4047132",
-        "summary": "ANKARA (AA) - Kamu Personeli Seçme Sınavı (KPSS) süreci, Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) 6 Eylül Pazar günü yapılacak Genel Yetenek-Genel Kültür oturumuyla başlayacak..."
+        "url": "https://www.aa.com.tr/tr/gundem/kahramanmarastaki-okul-saldirisi-davasinda-sanik-anne-baba-hakim-karsisinda/4047756",
+        "summary": "- Saldırgan İsa Aras Mersinli'nin babası tutuklu sanık Uğur Mersinli, duruşmadaki savunmasında, saldırıyı gerçekleştirdikten sonra ölen oğlundan silahlarını çaldığı için şikayetçi ..."
       },
       {
-        "title": "Kan bağışı yaz aylarında arttı",
+        "title": "Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile telefonda görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kan-bagisi-yaz-aylarinda-artti/4047090",
-        "summary": "Türk Kızılay, 2026'nın 8 ayında 2 milyon 7 bin 440 ünite kan bağışı toplarken, yaz aylarında bağışlar geçen yılın aynı dönemine göre yüzde 7,7 arttı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bae-devlet-baskani-al-nahyan-ile-telefonda-gorustu/4047733",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Şeyh Muhammed bin Zayed Al Nahyan ile bir telefon görüşmesi gerçekleştirdi."
       },
       {
-        "title": "Emine Erdoğan, Türkiye Milli Botanik Bahçesi'ni ziyaret etti",
+        "title": "İletişim Başkanı Duran: Terör ve suç örgütleriyle bağlantılı 2 bin 34 sosyal medya hesabına erişim engeli getirildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogan-turkiye-milli-botanik-bahcesini-ziyaret-etti/4047049",
-        "summary": "Emine Erdoğan, ata tohumlarından çeşitli sebze ve meyvelerin yetiştirildiği, topraksız tarım örneklerinin sergilendiği ve \"özel müze\" statüsündeki Tarımsal Biyoçeşitlilik Müzesi'ni..."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-teror-ve-suc-orgutleriyle-baglantili-2-bin-34-sosyal-medya-hesabina-erisim-engeli-getirildi/4047725",
+        "summary": "İletişim Başkanı Duran, milli güvenliği hedef alan, terör ve suç örgütleriyle bağlantılı olduğu tespit edilen 2 bin 34 sosyal medya hesabına erişim engeli getirildiğini bildirdi."
       }
     ]
   }
