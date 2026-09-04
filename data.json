@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-03 19:31:25",
+  "updated_at": "2026-09-04 09:13:01",
   "markets": {
-    "usd_try_kapalicarsi": "48.33 TL",
-    "eur_try_kapalicarsi": "55.98 TL",
+    "usd_try_kapalicarsi": "48.40 TL",
+    "eur_try_kapalicarsi": "56.23 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: The Army shut down a specialized drone unit. Legislators want to know why.",
-    "bullet_1": "The Army shut down a specialized drone unit. Legislators want to know why.",
-    "bullet_2": "Defense firms soar on ample military spending, testing manufacturing schemes",
-    "bullet_3": "Chinese military analysts can’t wait for the US Navy’s battleship era",
+    "red_alert": "SON DAKİKA: US Army launches laser production with $465M contract award",
+    "bullet_1": "US Army launches laser production with $465M contract award",
+    "bullet_2": "The Army shut down a specialized drone unit. Legislators want to know why.",
+    "bullet_3": "Defense firms soar on ample military spending, testing manufacturing schemes",
     "defense_news": [
+      {
+        "title": "US Army launches laser production with $465M contract award",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award/",
+        "summary": "The U.S. Army awarded a $464.8 million production contract to AeroVironment, Inc., this week for the Enduring-High Energy Laser program."
+      },
       {
         "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era/",
         "summary": "A PLA assessment of the proposed Trump-class battleships probes for weaknesses."
-      },
-      {
-        "title": "US Marine Corps plans to use 3D scanners to detect cracked body armor",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/",
-        "summary": "The U.S. Marine Corps is looking to acquire high-resolution 3D scanners to detect cracked body armor."
       }
     ],
     "geo_news": [
       {
-        "title": "Bakan Memişoğlu: 357 Sağlıklı Hayat Merkezi'nde çocuk gelişimcisi, sosyolog, psikolog ve diyetisyen bulunuyor",
+        "title": "Okul alışverişi öncesi kırtasiyelerde ürün ve fiyat denetimi yapılıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-357-saglikli-hayat-merkezinde-cocuk-gelisimcisi-sosyolog-psikolog-ve-diyetisyen-bulunuyor/4046834",
-        "summary": "Sağlık Bakanı Memişoğlu, \"Türkiye genelindeki 357 Sağlıklı Hayat Merkezi'nde çocuklara yönelik hem çocuk gelişimcisi hem sosyolog hem psikolog hem de diyetisyen bulunuyor. Bizlerin..."
+        "url": "https://www.aa.com.tr/tr/gundem/okul-alisverisi-oncesi-kirtasiyelerde-urun-ve-fiyat-denetimi-yapiliyor/4047184",
+        "summary": "2026-2027 eğitim ve öğretim yılı öncesinde kırtasiye ve okul ürünlerinin satıldığı iş yerlerine yönelik denetimler devam ediyor."
       },
       {
-        "title": "\"Casperlar\" silahlı suç örgütüne yönelik yeni iddianamenin detaylarına ulaşıldı",
+        "title": "KPSS maratonu 6 Eylül'de başlayacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/casperlar-silahli-suc-orgutune-yonelik-yeni-iddianamenin-detaylarina-ulasildi/4046854",
-        "summary": "\"Casperlar\" olarak bilinen silahlı suç örgütüne yönelik yürütülen soruşturma kapsamında 51 adli süreçteki çocuk hakkında hazırlanan iddianamenin detaylarına ulaşıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/kpss-maratonu-6-eylulde-baslayacak/4047132",
+        "summary": "ANKARA (AA) - Kamu Personeli Seçme Sınavı (KPSS) süreci, Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) 6 Eylül Pazar günü yapılacak Genel Yetenek-Genel Kültür oturumuyla başlayacak..."
       },
       {
-        "title": "İmam ve vaiz Bayram Ali Öztürk'ün ölümüne ilişkin dosyanın yeniden ele alınması talebi",
+        "title": "Kan bağışı yaz aylarında arttı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/imam-ve-vaiz-bayram-ali-ozturkun-olumune-iliskin-dosyanin-yeniden-ele-alinmasi-talebi-/4046848",
-        "summary": "Şehit Bayram Ali Öztürk Platformu, 3 Eylül 2006'da İsmailağa Camisi'nde verdiği sohbet sırasında bıçaklanarak öldürülen imam ve vaiz Bayram Ali Öztürk'ün ölümüne ilişkin dosyanın y..."
+        "url": "https://www.aa.com.tr/tr/gundem/kan-bagisi-yaz-aylarinda-artti/4047090",
+        "summary": "Türk Kızılay, 2026'nın 8 ayında 2 milyon 7 bin 440 ünite kan bağışı toplarken, yaz aylarında bağışlar geçen yılın aynı dönemine göre yüzde 7,7 arttı."
       },
       {
-        "title": "İletişim Başkanlığı, Astana'da \"Türk Dünyası Diyalogları: Ortak Gelecek, Ortak Vizyon\" paneli düzenleyecek",
+        "title": "Emine Erdoğan, Türkiye Milli Botanik Bahçesi'ni ziyaret etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligi-astanada-turk-dunyasi-diyaloglari-ortak-gelecek-ortak-vizyon-paneli-duzenleyecek/4046846",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca Kazakistan'ın başkenti Astana'da, \"Türk Dünyası Diyalogları: Ortak Gelecek, Ortak Vizyon\" paneli düzenlenecek."
+        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogan-turkiye-milli-botanik-bahcesini-ziyaret-etti/4047049",
+        "summary": "Emine Erdoğan, ata tohumlarından çeşitli sebze ve meyvelerin yetiştirildiği, topraksız tarım örneklerinin sergilendiği ve \"özel müze\" statüsündeki Tarımsal Biyoçeşitlilik Müzesi'ni..."
       }
     ]
   }
