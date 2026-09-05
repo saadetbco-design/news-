@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-04 19:14:10",
+  "updated_at": "2026-09-05 08:43:54",
   "markets": {
-    "usd_try_kapalicarsi": "48.40 TL",
+    "usd_try_kapalicarsi": "48.42 TL",
     "eur_try_kapalicarsi": "56.23 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Trump to travel aboard Qatari-donated Air Force One to Ireland",
-    "bullet_1": "Trump to travel aboard Qatari-donated Air Force One to Ireland",
-    "bullet_2": "Opposition by US and Russia raises doubts over autonomous weapons talks outcome, diplomats say",
-    "bullet_3": "Space industry lacks workers needed to rebuild satellites lost in war, report says",
+    "red_alert": "SON DAKİKA: Ukraine asks EU to fund first Patriot missiles buy",
+    "bullet_1": "Ukraine asks EU to fund first Patriot missiles buy",
+    "bullet_2": "US Air Force speeds Reaper successor timeline after Iran losses",
+    "bullet_3": "Trump to travel aboard Qatari-donated Air Force One to Ireland",
     "defense_news": [
+      {
+        "title": "Ukraine asks EU to fund first Patriot missiles buy",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
+        "summary": "Brussels is weighing a rare waiver that would let Kyiv tap its €90 billion loan for U.S.-made interceptors for the first time."
+      },
+      {
+        "title": "US Air Force speeds Reaper successor timeline after Iran losses",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/04/us-air-force-speeds-reaper-successor-timeline-after-iran-losses/",
+        "summary": "The Air Force is accelerating its timeline for a cheaper, more expendable successor to the MQ-9A Reaper after combat losses."
+      },
       {
         "title": "Trump to travel aboard Qatari-donated Air Force One to Ireland",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
         "summary": "Opposition from the U.S. and Russia has raised doubts that countries meeting Friday will agree on international rules about the use of autonomous weapons."
-      },
-      {
-        "title": "Space industry lacks workers needed to rebuild satellites lost in war, report says",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-        "summary": "The U.S. does not have enough engineers, technicians and assemblers to rebuild military space assets destroyed in a war with China or Russia, per RAND."
-      },
-      {
-        "title": "US to seek back payment from Europe for Ukraine aid, Trump says",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/04/us-to-seek-back-payment-from-europe-for-ukraine-aid-trump-says/",
-        "summary": "U.S. President Donald Trump said he would ask European nations to pay back the United States for military aid and munitions previously sent to Ukraine."
       }
     ],
     "geo_news": [
       {
-        "title": "Üsküdar'da yarın bazı yollar trafiğe kapatılacak",
+        "title": "KVKK, uçakta sunulan internet hizmeti için açık rıza istenmesine ceza verdi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/uskudarda-yarin-bazi-yollar-trafige-kapatilacak/4047783",
-        "summary": "Üsküdar'da, kamu düzeni ve güvenliğinin sağlanmasına yönelik tedbirler kapsamında yarın bazı yollar trafiğe kapatılacak."
+        "url": "https://www.aa.com.tr/tr/gundem/kvkk-ucakta-sunulan-internet-hizmeti-icin-acik-riza-istenmesine-ceza-verdi/4047999",
+        "summary": "Kişisel Verileri Koruma Kurumu (KVKK), uçak yolculuğunda internet kullanmak isteyen yolcuya, verilerinin işlenmesi adına açık rıza vermesini zorunlu tutan internet servis sağlayıcı..."
       },
       {
-        "title": "Kahramanmaraş'taki okul saldırısı davasında sanık anne-baba hakim karşısında",
+        "title": "Donanmanın arama kurtarma gemileri derin denizdeki çalışmaları hassasiyetle yürütüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kahramanmarastaki-okul-saldirisi-davasinda-sanik-anne-baba-hakim-karsisinda/4047756",
-        "summary": "- Saldırgan İsa Aras Mersinli'nin babası tutuklu sanık Uğur Mersinli, duruşmadaki savunmasında, saldırıyı gerçekleştirdikten sonra ölen oğlundan silahlarını çaldığı için şikayetçi ..."
+        "url": "https://www.aa.com.tr/tr/gundem/donanmanin-arama-kurtarma-gemileri-derin-denizdeki-calismalari-hassasiyetle-yurutuyor/4047989",
+        "summary": "Deniz Kuvvetleri Komutanlığına ait TCG Işın kurtarma ve yedekleme gemisi ile TCG Alemdar kurtarma gemisi, Girne açıklarında alabora olan gemiye yönelik arama kurtarma çalışmalarına..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile telefonda görüştü",
+        "title": "Büyükelçi atamaları Resmi Gazete'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bae-devlet-baskani-al-nahyan-ile-telefonda-gorustu/4047733",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Şeyh Muhammed bin Zayed Al Nahyan ile bir telefon görüşmesi gerçekleştirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/buyukelci-atamalari-resmi-gazetede/4047970",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yapılan büyükelçi atamalarına ilişkin kararlar Resmi Gazete'de yayımlandı."
       },
       {
-        "title": "İletişim Başkanı Duran: Terör ve suç örgütleriyle bağlantılı 2 bin 34 sosyal medya hesabına erişim engeli getirildi",
+        "title": "Eylül ayı yaşlı ve engelli aylıkları hesaplara yatırılmaya başlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-teror-ve-suc-orgutleriyle-baglantili-2-bin-34-sosyal-medya-hesabina-erisim-engeli-getirildi/4047725",
-        "summary": "İletişim Başkanı Duran, milli güvenliği hedef alan, terör ve suç örgütleriyle bağlantılı olduğu tespit edilen 2 bin 34 sosyal medya hesabına erişim engeli getirildiğini bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/eylul-ayi-yasli-ve-engelli-ayliklari-hesaplara-yatirilmaya-baslandi/4047965",
+        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, eylül ayı içerisinde toplam 9,3 milyar lira tutarındaki yaşlı ve engelli aylıklarını hak sahiplerinin hesaplarına yatırmaya ..."
       }
     ]
   }
