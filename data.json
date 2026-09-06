@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05 18:41:20",
+  "updated_at": "2026-09-06 09:04:51",
   "markets": {
     "usd_try_kapalicarsi": "48.42 TL",
-    "eur_try_kapalicarsi": "56.23 TL",
+    "eur_try_kapalicarsi": "56.24 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Adalet Bakanı Gürlek, derbi öncesi yasa dışı bahis operasyonu düzenlendiğini duyurdu",
+        "title": "Yargıtay, tartıştığı iş arkadaşına vuran işçinin tazminatsız kovulmasını haklı buldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-derbi-oncesi-yasa-disi-bahis-operasyonu-duzenlendigini-duyurdu/4048359",
-        "summary": "Adalet Bakanı Gürlek, İstanbul Cumhuriyet Başsavcılığı koordinasyonunda, Fenerbahçe-Beşiktaş karşılaşması öncesi yasa dışı bahis sitelerine yönelik operasyon gerçekleştirildiğini b..."
+        "url": "https://www.aa.com.tr/tr/gundem/yargitay-tartistigi-is-arkadasina-vuran-iscinin-tazminatsiz-kovulmasini-hakli-buldu/4048655",
+        "summary": "Yargıtay 9. Hukuk Dairesi, iş yerindeki tartışma sırasında iş arkadaşına vuran işçinin tazminatsız işten çıkarılmasını hukuka uygun buldu."
       },
       {
-        "title": "Adalet Bakanı Gürlek: Sivil anayasanın inşa edilmesi konusunda kararlılıkla yürümeye devam edeceğiz",
+        "title": "Bursa'da orman dışı alanda çıkan yangına müdahale ediliyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-sivil-anayasanin-insa-edilmesi-konusunda-kararlilikla-yurumeye-devam-edecegiz/4048344",
-        "summary": "Bakan Gürlek \"Güçlü Türkiye'ye giden yolda 'Adaletin Yüzyılı'na açılan kapıda, sivil anayasanın inşa edilmesinde kararlılıkla yürümeye, güçlü hukuk düzeninin tesis edilmesinde, avu..."
+        "url": "https://www.aa.com.tr/tr/gundem/bursada-orman-disi-alanda-cikan-yangina-mudahale-ediliyor/4048649",
+        "summary": "Bursa'nın Kestel ilçesinde orman dışı alanda çıkan yangına müdahale ediliyor."
       },
       {
-        "title": "Oyuncu Serhat Mustafa Kılıç evinde ölü bulundu",
+        "title": "Konya-Antalya yolculuğu Alacabel Tüneli ile 20 dakika kısalacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/oyuncu-serhat-mustafa-kilic-evinde-olu-bulundu-/4048323",
-        "summary": "Oyuncu Serhat Mustafa Kılıç, Kağıthane'deki evinde ölü bulundu."
+        "url": "https://www.aa.com.tr/tr/gundem/konya-antalya-yolculugu-alacabel-tuneli-ile-20-dakika-kisalacak/4048646",
+        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Konya ile Antalya arasındaki ulaşımın önemli geçiş noktalarından Alacabel Tüneli'nin tamamlanmasıyla seyahat süresinin 20 dakika, g..."
       },
       {
-        "title": "Manisa'nın Soma ilçesinde orman yangını çıktı",
+        "title": "OECD, Türkiye'nin \"geleceğin becerileri\" odaklı yeni eğitim projelerini destekleyecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/manisanin-soma-ilcesinde-orman-yangini-cikti/4048310",
-        "summary": "Manisa'nın Soma ilçesinde çıkan orman yangınına havadan ve karadan müdahale ediliyor."
+        "url": "https://www.aa.com.tr/tr/gundem/oecd-turkiyenin-gelecegin-becerileri-odakli-yeni-egitim-projelerini-destekleyecek/4048591",
+        "summary": "Ekonomik İşbirliği ve Kalkınma Örgütü (OECD) Genel Sekreteri Mathias Cormann, Milli Eğitim Bakanlığınca mesleki eğitim ve yapay zeka çağında beceri yönetimi üzerine yürütülen iki y..."
       }
     ]
   }
