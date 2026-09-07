@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07 09:51:21",
+  "updated_at": "2026-09-07 20:18:12",
   "markets": {
     "usd_try_kapalicarsi": "48.46 TL",
     "eur_try_kapalicarsi": "56.28 TL",
@@ -9,11 +9,17 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Ukraine asks EU to fund first Patriot missiles buy",
-    "bullet_1": "Ukraine asks EU to fund first Patriot missiles buy",
-    "bullet_2": "US Air Force speeds Reaper successor timeline after Iran losses",
-    "bullet_3": "Trump to travel aboard Qatari-donated Air Force One to Ireland",
+    "red_alert": "SON DAKİKA: Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
+    "bullet_1": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
+    "bullet_2": "Ukraine asks EU to fund first Patriot missiles buy",
+    "bullet_3": "US Air Force speeds Reaper successor timeline after Iran losses",
     "defense_news": [
+      {
+        "title": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/09/07/croatia-buys-south-korean-rocket-artillery-after-himars-purchase-from-the-us/",
+        "summary": "In the aftermath of the Iran war, the U.S. government has flagged possible delays in deliveries of military gear, including HIMARS ammunition."
+      },
       {
         "title": "Ukraine asks EU to fund first Patriot missiles buy",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/09/04/trump-to-travel-aboard-qatari-donated-air-force-one-to-ireland/",
         "summary": "U.S. President Donald Trump will use the Qatari-donated jet to travel to Ireland next week, the plane's first international trip since the swap in Turkey."
-      },
-      {
-        "title": "Opposition by US and Russia raises doubts over autonomous weapons talks outcome, diplomats say",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
-        "summary": "Opposition from the U.S. and Russia has raised doubts that countries meeting Friday will agree on international rules about the use of autonomous weapons."
       }
     ],
     "geo_news": [
       {
-        "title": "Ahbap Derneğine ilişkin suç örgütü soruşturmasında 45 zanlı yakalandı",
+        "title": "Silivri açıklarındaki kazada batan geminin bulunduğu bölgedeki çalışmalar sürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ahbap-dernegine-iliskin-suc-orgutu-sorusturmasinda-45-zanli-yakalandi/4049426",
-        "summary": "\"Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı\" iddiasına ilişkin soruşturma kapsamında başlatılan beşinci dalga operasyonunda 45 zanlı gözaltına alı..."
+        "url": "https://www.aa.com.tr/tr/gundem/silivri-aciklarindaki-kazada-batan-geminin-bulundugu-bolgedeki-calismalar-suruyor/4049995",
+        "summary": "Silivri açıklarında Türk bayraklı \"MT Alsu\" tankeriyle çarpışması sonucu 10 kişilik mürettebatıyla batan, 720 metre derinlikte konumu tespit edilen Türk bayraklı \"Tuğberk İmamoğlu\"..."
       },
       {
-        "title": "İstanbul'da suç örgütü operasyonunda yakalanan 15 şüpheli tutuklandı",
+        "title": "Öğretmenlerin mazerete bağlı yer değişikliğiyle ilgili yeni duyuru yayımlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutu-operasyonunda-yakalanan-15-supheli-tutuklandi/4049363",
-        "summary": "İstanbul'da 17 eyleme karıştığı tespit edilen suç örgütüne yönelik operasyonda gözaltına alınan 15 zanlı tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/ogretmenlerin-mazerete-bagli-yer-degisikligiyle-ilgili-yeni-duyuru-yayimlandi/4050117",
+        "summary": "Milli Eğitim Bakanlığınca 2023 yılında atanan ve 3 yıllık yasal çalışma süresini Eylül ayı itibarıyla tamamlayarak kadroya geçecek öğretmenlerce beklenen mazerete bağlı yer değişik..."
       },
       {
-        "title": "\"Süper Vali\" Recep Yazıcıoğlu vefatının 23. yılında anılıyor",
+        "title": "Düzce'de tır ile tarım aracının çarpışması sonucu 4 kişi öldü, 9 kişi yaralandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/super-vali-recep-yazicioglu-vefatinin-23-yilinda-aniliyor/4049356",
-        "summary": "Yaptığı hizmetler ve görev anlayışıyla \"Süper Vali\" olarak bilinen Recep Yazıcıoğlu, vefatının 23. yılında anılıyor."
+        "url": "https://www.aa.com.tr/tr/gundem/duzcede-tir-ile-tarim-aracinin-carpismasi-sonucu-4-kisi-oldu-9-kisi-yaralandi/4050116",
+        "summary": "Düzce'nin Akçakoca ilçesinde tır ile fındık işçilerini taşıyan tarım aracının çarpışması sonucu 4 kişi öldü, 9 kişi yaralandı."
       },
       {
-        "title": "Sağlıklı Hayat Merkezlerinden 8 ayda 16 milyondan fazla kişi yararlandı",
+        "title": "İletişim Başkanlığı 9 Eylül'de \"Bağımlılığa Dur De\" paneli düzenleyecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/saglikli-hayat-merkezlerinden-8-ayda-16-milyondan-fazla-kisi-yararlandi/4049336",
-        "summary": "Sağlık Bakanlığı Halk Sağlığı Genel Müdürü Erdoğan Öz, bu yılın 8 ayında Sağlıklı Hayat Merkezlerinde 16 milyondan fazla kişiye ücretsiz sağlık hizmeti verildiğini bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligi-9-eylulde-bagimliliga-dur-de-paneli-duzenleyecek/4050110",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, 9 Eylül'de \"Bağımlılığa Dur De: Yasa Dışı Bahis ve Kumar Bağımlılığıyla Mücadele\" paneli düzenleyecek."
       }
     ]
   }
