@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-06 18:45:45",
+  "updated_at": "2026-09-07 09:51:21",
   "markets": {
-    "usd_try_kapalicarsi": "48.42 TL",
-    "eur_try_kapalicarsi": "56.24 TL",
+    "usd_try_kapalicarsi": "48.46 TL",
+    "eur_try_kapalicarsi": "56.28 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "KKTC'nin Girne açıklarında batan gemiden 6'ncı naaş çıkarıldı",
+        "title": "Ahbap Derneğine ilişkin suç örgütü soruşturmasında 45 zanlı yakalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kktcnin-girne-aciklarinda-batan-gemiden-6nci-naas-cikarildi/4049041",
-        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne önlerinde batan gemideki kayıp yolculara yönelik arama-kurtarma faaliyetlerinde 6. naaşa ulaşıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/ahbap-dernegine-iliskin-suc-orgutu-sorusturmasinda-45-zanli-yakalandi/4049426",
+        "summary": "\"Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı\" iddiasına ilişkin soruşturma kapsamında başlatılan beşinci dalga operasyonunda 45 zanlı gözaltına alı..."
       },
       {
-        "title": "Sağlık Bakanı Memişoğlu: Milletimiz için durmaksızın çalışmaya devam edeceğiz",
+        "title": "İstanbul'da suç örgütü operasyonunda yakalanan 15 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-milletimiz-icin-durmaksizin-calismaya-devam-edecegiz/4048962",
-        "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Vatandaşlarımızın en iyi sağlık hizmetine erişimini esas alarak milletimiz için durmaksızın çalışmaya devam edeceğiz.\" ifadesini kullandı."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutu-operasyonunda-yakalanan-15-supheli-tutuklandi/4049363",
+        "summary": "İstanbul'da 17 eyleme karıştığı tespit edilen suç örgütüne yönelik operasyonda gözaltına alınan 15 zanlı tutuklandı."
       },
       {
-        "title": "Türkiye, güvenlikteki \"bölgesel sahiplenme\" anlayışını iklim alanına taşıyacak",
+        "title": "\"Süper Vali\" Recep Yazıcıoğlu vefatının 23. yılında anılıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-guvenlikteki-bolgesel-sahiplenme-anlayisini-iklim-alanina-tasiyacak/4048942",
-        "summary": "Türkiye, Antalya’da düzenlenecek COP31'de, güvenlik alanında öne çıkardığı \"bölgesel sahiplenme\" anlayışını iklim değişikliğiyle mücadeleye taşıyarak Akdeniz ülkeleriyle somut çözü..."
+        "url": "https://www.aa.com.tr/tr/gundem/super-vali-recep-yazicioglu-vefatinin-23-yilinda-aniliyor/4049356",
+        "summary": "Yaptığı hizmetler ve görev anlayışıyla \"Süper Vali\" olarak bilinen Recep Yazıcıoğlu, vefatının 23. yılında anılıyor."
       },
       {
-        "title": "60 saniyede bugün (06 Eylül 2026)",
+        "title": "Sağlıklı Hayat Merkezlerinden 8 ayda 16 milyondan fazla kişi yararlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-06-eylul-2026/4048861",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/saglikli-hayat-merkezlerinden-8-ayda-16-milyondan-fazla-kisi-yararlandi/4049336",
+        "summary": "Sağlık Bakanlığı Halk Sağlığı Genel Müdürü Erdoğan Öz, bu yılın 8 ayında Sağlıklı Hayat Merkezlerinde 16 milyondan fazla kişiye ücretsiz sağlık hizmeti verildiğini bildirdi."
       }
     ]
   }
