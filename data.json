@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-07 20:18:12",
+  "updated_at": "2026-09-08 09:16:17",
   "markets": {
     "usd_try_kapalicarsi": "48.46 TL",
-    "eur_try_kapalicarsi": "56.28 TL",
+    "eur_try_kapalicarsi": "56.32 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Silivri açıklarındaki kazada batan geminin bulunduğu bölgedeki çalışmalar sürüyor",
+        "title": "PISA'da fen bilimlerinde en fazla puan artışı Türkiye'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/silivri-aciklarindaki-kazada-batan-geminin-bulundugu-bolgedeki-calismalar-suruyor/4049995",
-        "summary": "Silivri açıklarında Türk bayraklı \"MT Alsu\" tankeriyle çarpışması sonucu 10 kişilik mürettebatıyla batan, 720 metre derinlikte konumu tespit edilen Türk bayraklı \"Tuğberk İmamoğlu\"..."
+        "url": "https://www.aa.com.tr/tr/gundem/pisada-fen-bilimlerinde-en-fazla-puan-artisi-turkiyede/4050508",
+        "summary": "Ekonomik İşbirliği ve Kalkınma Teşkilatı (OECD) tarafından uygulanan Uluslararası Öğrenci Değerlendirme Programı (PISA) 2025 sonuçlarına göre Türkiye, 494 puanla fen bilimlerinde e..."
       },
       {
-        "title": "Öğretmenlerin mazerete bağlı yer değişikliğiyle ilgili yeni duyuru yayımlandı",
+        "title": "MEB \"Uçurtmalar Vurulmasın, Gökyüzü Çocuklara Kalsın\" etkinlikleri düzenleyecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ogretmenlerin-mazerete-bagli-yer-degisikligiyle-ilgili-yeni-duyuru-yayimlandi/4050117",
-        "summary": "Milli Eğitim Bakanlığınca 2023 yılında atanan ve 3 yıllık yasal çalışma süresini Eylül ayı itibarıyla tamamlayarak kadroya geçecek öğretmenlerce beklenen mazerete bağlı yer değişik..."
+        "url": "https://www.aa.com.tr/tr/gundem/meb-ucurtmalar-vurulmasin-gokyuzu-cocuklara-kalsin-etkinlikleri-duzenleyecek/4047467",
+        "summary": "Milli Eğitim Bakanlığınca (MEB) Gazze'de yaşananlara yönelik duyarlılık oluşturmak amacıyla 14-18 Eylül'de \"Uçurtmalar Vurulmasın, Gökyüzü Çocuklara Kalsın\" etkinlikleri düzenlenec..."
       },
       {
-        "title": "Düzce'de tır ile tarım aracının çarpışması sonucu 4 kişi öldü, 9 kişi yaralandı",
+        "title": "Bakan Tekin: Türkiye, PISA 2025'te fen bilimleri, okuma becerileri ve matematikte puanını artıran tek OECD üyesi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/duzcede-tir-ile-tarim-aracinin-carpismasi-sonucu-4-kisi-oldu-9-kisi-yaralandi/4050116",
-        "summary": "Düzce'nin Akçakoca ilçesinde tır ile fındık işçilerini taşıyan tarım aracının çarpışması sonucu 4 kişi öldü, 9 kişi yaralandı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-tekin-turkiye-pisa-2025te-fen-bilimleri-okuma-becerileri-ve-matematikte-puanini-artiran-tek-oecd-uyesi/4050501",
+        "summary": "Milli Eğitim Bakanı Yusuf Tekin, PISA 2025'te fen bilimleri, okuma becerileri ve matematik alanlarının üçünde de puanını artıran tek OECD üyesi ülkenin Türkiye olduğunu bildirdi."
       },
       {
-        "title": "İletişim Başkanlığı 9 Eylül'de \"Bağımlılığa Dur De\" paneli düzenleyecek",
+        "title": "28 ildeki uyuşturucu operasyonlarında 80 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligi-9-eylulde-bagimliliga-dur-de-paneli-duzenleyecek/4050110",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, 9 Eylül'de \"Bağımlılığa Dur De: Yasa Dışı Bahis ve Kumar Bağımlılığıyla Mücadele\" paneli düzenleyecek."
+        "url": "https://www.aa.com.tr/tr/gundem/28-ildeki-uyusturucu-operasyonlarinda-80-supheli-tutuklandi/4050486",
+        "summary": "Jandarma ekiplerince 28 ilde uyuşturucu ile mücadele kapsamında düzenlenen operasyonlarda yakalanan 140 şüpheliden 80'i tutuklandı."
       }
     ]
   }
