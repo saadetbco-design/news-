@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08 09:16:17",
+  "updated_at": "2026-09-08 19:40:53",
   "markets": {
     "usd_try_kapalicarsi": "48.46 TL",
     "eur_try_kapalicarsi": "56.32 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
-    "bullet_1": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
-    "bullet_2": "Ukraine asks EU to fund first Patriot missiles buy",
-    "bullet_3": "US Air Force speeds Reaper successor timeline after Iran losses",
+    "red_alert": "SON DAKİKA: Poland’s in-development fighting vehicle carries newfound defense-export drive",
+    "bullet_1": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
+    "bullet_2": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
+    "bullet_3": "US Air Force seeks air-defense guns to protect overseas bases",
     "defense_news": [
       {
-        "title": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
+        "title": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/07/croatia-buys-south-korean-rocket-artillery-after-himars-purchase-from-the-us/",
-        "summary": "In the aftermath of the Iran war, the U.S. government has flagged possible delays in deliveries of military gear, including HIMARS ammunition."
+        "url": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive/",
+        "summary": "Polish officials hope a new infantry fighting vehicle design will propel the country's weapons-export business."
       },
       {
-        "title": "Ukraine asks EU to fund first Patriot missiles buy",
+        "title": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
-        "summary": "Brussels is weighing a rare waiver that would let Kyiv tap its €90 billion loan for U.S.-made interceptors for the first time."
+        "url": "https://www.defensenews.com/global/europe/2026/09/08/hanwha-plans-to-build-armored-vehicle-carrying-a-counter-drone-laser/",
+        "summary": "Hanwha representatives said the vehicle is fitted with a more powerful version of the stationary Cheongwang laser that protects the presidential compound."
       },
       {
-        "title": "US Air Force speeds Reaper successor timeline after Iran losses",
+        "title": "US Air Force seeks air-defense guns to protect overseas bases",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/04/us-air-force-speeds-reaper-successor-timeline-after-iran-losses/",
-        "summary": "The Air Force is accelerating its timeline for a cheaper, more expendable successor to the MQ-9A Reaper after combat losses."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/08/us-air-force-seeks-air-defense-guns-to-protect-overseas-bases/",
+        "summary": "The U.S. Air Force plans to acquire anti-aircraft guns to protect its overseas bases following Iranian attacks on U.S. bases in the Middle East."
       },
       {
-        "title": "Trump to travel aboard Qatari-donated Air Force One to Ireland",
+        "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/04/trump-to-travel-aboard-qatari-donated-air-force-one-to-ireland/",
-        "summary": "U.S. President Donald Trump will use the Qatari-donated jet to travel to Ireland next week, the plane's first international trip since the swap in Turkey."
+        "url": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million/",
+        "summary": "The Swedish government said it needs more rocket artillery fast, signing off on a $733 million purchase of HIMARS weapons from the United States."
       }
     ],
     "geo_news": [
       {
-        "title": "PISA'da fen bilimlerinde en fazla puan artışı Türkiye'de",
+        "title": "Bakan Kacır: Son 10 yılda üç alanda da performansını sürekli artıran tek OECD üyesi Türkiye",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/pisada-fen-bilimlerinde-en-fazla-puan-artisi-turkiyede/4050508",
-        "summary": "Ekonomik İşbirliği ve Kalkınma Teşkilatı (OECD) tarafından uygulanan Uluslararası Öğrenci Değerlendirme Programı (PISA) 2025 sonuçlarına göre Türkiye, 494 puanla fen bilimlerinde e..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-kacir-son-10-yilda-uc-alanda-da-performansini-surekli-artiran-tek-oecd-uyesi-turkiye/4051349",
+        "summary": "Bakan Kacır, Türkiye'nin PISA 2025 sonuçlarındaki başarısına ilişkin, \"OECD ülkeleri arasında 2022'ye kıyasla fen bilimleri, okuma becerileri ve matematik alanlarında puanını en fa..."
       },
       {
-        "title": "MEB \"Uçurtmalar Vurulmasın, Gökyüzü Çocuklara Kalsın\" etkinlikleri düzenleyecek",
+        "title": "Bakanlar Çiftçi ve Bak 81 il valisiyle \"Yurt Güvenliği\" toplantısına katıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/meb-ucurtmalar-vurulmasin-gokyuzu-cocuklara-kalsin-etkinlikleri-duzenleyecek/4047467",
-        "summary": "Milli Eğitim Bakanlığınca (MEB) Gazze'de yaşananlara yönelik duyarlılık oluşturmak amacıyla 14-18 Eylül'de \"Uçurtmalar Vurulmasın, Gökyüzü Çocuklara Kalsın\" etkinlikleri düzenlenec..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakanlar-ciftci-ve-bak-81-il-valisiyle-yurt-guvenligi-toplantisina-katildi/4051226",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi ile Gençlik ve Spor Bakanı Osman Aşkın Bak, video konferans sistemiyle 81 il valisiyle yapılan \"Yurt Güvenliği\" toplantısına katıldı."
       },
       {
-        "title": "Bakan Tekin: Türkiye, PISA 2025'te fen bilimleri, okuma becerileri ve matematikte puanını artıran tek OECD üyesi",
+        "title": "Bakan Kurum: 16 milyon metreküp dip çamurunu üç yıl içerisinde Fethiye Körfezi'nden çıkaracağız",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-tekin-turkiye-pisa-2025te-fen-bilimleri-okuma-becerileri-ve-matematikte-puanini-artiran-tek-oecd-uyesi/4050501",
-        "summary": "Milli Eğitim Bakanı Yusuf Tekin, PISA 2025'te fen bilimleri, okuma becerileri ve matematik alanlarının üçünde de puanını artıran tek OECD üyesi ülkenin Türkiye olduğunu bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-kurum-16-milyon-metrekup-dip-camurunu-uc-yil-icerisinde-fethiye-korfezinden-cikaracagiz/4051280",
+        "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, \"\"İki dip tarama gemimizle sahada çalışacağız. Yaklaşık 600 hektarlık alanda biriken 16 milyon metreküp dip ça..."
       },
       {
-        "title": "28 ildeki uyuşturucu operasyonlarında 80 şüpheli tutuklandı",
+        "title": "İletişim Başkanı Duran'dan \"Dezenformasyona Dur De\" kampanyasına katılan millilere teşekkür",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/28-ildeki-uyusturucu-operasyonlarinda-80-supheli-tutuklandi/4050486",
-        "summary": "Jandarma ekiplerince 28 ilde uyuşturucu ile mücadele kapsamında düzenlenen operasyonlarda yakalanan 140 şüpheliden 80'i tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-dezenformasyona-dur-de-kampanyasina-katilan-millilere-tesekkur/4051304",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Dezenformasyona Dur De\" kampanyasına destek veren A Milli Kadın Voleybol Takımı'na teşekkür etti."
       }
     ]
   }
