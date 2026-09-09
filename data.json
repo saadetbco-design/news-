@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-09-08 19:40:53",
+  "updated_at": "2026-09-09 09:19:31",
   "markets": {
-    "usd_try_kapalicarsi": "48.46 TL",
-    "eur_try_kapalicarsi": "56.32 TL",
+    "usd_try_kapalicarsi": "48.47 TL",
+    "eur_try_kapalicarsi": "56.34 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Poland’s in-development fighting vehicle carries newfound defense-export drive",
-    "bullet_1": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
-    "bullet_2": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
-    "bullet_3": "US Air Force seeks air-defense guns to protect overseas bases",
+    "red_alert": "SON DAKİKA: Iran says it captured US submarine drone in Strait of Hormuz",
+    "bullet_1": "Iran says it captured US submarine drone in Strait of Hormuz",
+    "bullet_2": "Ukraine contracting around 1,000 Patriot missiles from allies, defense chief says",
+    "bullet_3": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
     "defense_news": [
+      {
+        "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/",
+        "summary": "Iran said Tuesday it captured a U.S. uncrewed submarine in the Strait of Hormuz. The Pentagon said it had malfunctioned more than a day ago."
+      },
+      {
+        "title": "Ukraine contracting around 1,000 Patriot missiles from allies, defense chief says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/flashpoints/ukraine/2026/09/08/ukraine-contracting-around-1000-patriot-missiles-from-allies-defense-chief-says/",
+        "summary": "Ukraine is contracting a supply of around 1,000 missiles for U.S.-designed Patriot air-defence systems."
+      },
       {
         "title": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/09/08/hanwha-plans-to-build-armored-vehicle-carrying-a-counter-drone-laser/",
         "summary": "Hanwha representatives said the vehicle is fitted with a more powerful version of the stationary Cheongwang laser that protects the presidential compound."
-      },
-      {
-        "title": "US Air Force seeks air-defense guns to protect overseas bases",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/08/us-air-force-seeks-air-defense-guns-to-protect-overseas-bases/",
-        "summary": "The U.S. Air Force plans to acquire anti-aircraft guns to protect its overseas bases following Iranian attacks on U.S. bases in the Middle East."
-      },
-      {
-        "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million/",
-        "summary": "The Swedish government said it needs more rocket artillery fast, signing off on a $733 million purchase of HIMARS weapons from the United States."
       }
     ],
     "geo_news": [
       {
-        "title": "Bakan Kacır: Son 10 yılda üç alanda da performansını sürekli artıran tek OECD üyesi Türkiye",
+        "title": "Sosyal medyadaki suç gelirlerinin kaynağını gizlemeye yönelik içerikler incelenecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-kacir-son-10-yilda-uc-alanda-da-performansini-surekli-artiran-tek-oecd-uyesi-turkiye/4051349",
-        "summary": "Bakan Kacır, Türkiye'nin PISA 2025 sonuçlarındaki başarısına ilişkin, \"OECD ülkeleri arasında 2022'ye kıyasla fen bilimleri, okuma becerileri ve matematik alanlarında puanını en fa..."
+        "url": "https://www.aa.com.tr/tr/gundem/sosyal-medyadaki-suc-gelirlerinin-kaynagini-gizlemeye-yonelik-icerikler-incelenecek/4051818",
+        "summary": "Adalet Bakanı Akın Gürlek, sosyal medyada lüks yaşam, gösterişli düğün veya benzeri mizansenlerle suç gelirlerinin kaynağını gizlemeye yönelik ya da suç teşkil eden içeriklerin tit..."
       },
       {
-        "title": "Bakanlar Çiftçi ve Bak 81 il valisiyle \"Yurt Güvenliği\" toplantısına katıldı",
+        "title": "Türkiye'deki devlet okulları PISA 2025'te üç ana alanda özel okulları geride bıraktı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakanlar-ciftci-ve-bak-81-il-valisiyle-yurt-guvenligi-toplantisina-katildi/4051226",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi ile Gençlik ve Spor Bakanı Osman Aşkın Bak, video konferans sistemiyle 81 il valisiyle yapılan \"Yurt Güvenliği\" toplantısına katıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyedeki-devlet-okullari-pisa-2025te-uc-ana-alanda-ozel-okullari-geride-birakti/4051816",
+        "summary": "OECD'nin açıkladığı PISA 2025 sonuçlarında, Türkiye'deki resmi okullar fen bilimlerinde 497, okumada 475 ve matematikte 464 puana ulaşarak tüm ana alanlarda özel okulları geride bı..."
       },
       {
-        "title": "Bakan Kurum: 16 milyon metreküp dip çamurunu üç yıl içerisinde Fethiye Körfezi'nden çıkaracağız",
+        "title": "PISA 2025'te Türkiye'deki öğrencilerin çevre duyarlılığı OECD ortalamasını aştı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-kurum-16-milyon-metrekup-dip-camurunu-uc-yil-icerisinde-fethiye-korfezinden-cikaracagiz/4051280",
-        "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, \"\"İki dip tarama gemimizle sahada çalışacağız. Yaklaşık 600 hektarlık alanda biriken 16 milyon metreküp dip ça..."
+        "url": "https://www.aa.com.tr/tr/gundem/pisa-2025te-turkiyedeki-ogrencilerin-cevre-duyarliligi-oecd-ortalamasini-asti/4051789",
+        "summary": "PISA 2025 sonuçlarına göre, fen bilimleri alt ölçeği olarak ilk kez değerlendirilen \"çevre bilimi\" alanında 494 ortalama puanla 85 ülkenin ortalaması olan 447 ve OECD ortalaması ol..."
       },
       {
-        "title": "İletişim Başkanı Duran'dan \"Dezenformasyona Dur De\" kampanyasına katılan millilere teşekkür",
+        "title": "PISA 2025'te Türkiye'deki öğrenciler \"yapay zekayı sorgulamada\" öne çıktı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-dezenformasyona-dur-de-kampanyasina-katilan-millilere-tesekkur/4051304",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Dezenformasyona Dur De\" kampanyasına destek veren A Milli Kadın Voleybol Takımı'na teşekkür etti."
+        "url": "https://www.aa.com.tr/tr/gundem/pisa-2025te-turkiyedeki-ogrenciler-yapay-zekayi-sorgulamada-one-cikti/4051770",
+        "summary": "PISA 2025 sonuçlarına göre Türkiye, öğrencilerin yapay zeka üretimi bilgiyi değerlendirme göstergesinde yüzde 68,1'lik öğrenci oranıyla, yüzde 62,6'lık Ekonomik İşbirliği ve Kalkın..."
       }
     ]
   }
