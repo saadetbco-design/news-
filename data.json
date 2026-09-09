@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 09:19:31",
+  "updated_at": "2026-09-09 19:34:12",
   "markets": {
     "usd_try_kapalicarsi": "48.47 TL",
     "eur_try_kapalicarsi": "56.34 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Iran says it captured US submarine drone in Strait of Hormuz",
-    "bullet_1": "Iran says it captured US submarine drone in Strait of Hormuz",
-    "bullet_2": "Ukraine contracting around 1,000 Patriot missiles from allies, defense chief says",
-    "bullet_3": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
+    "red_alert": "SON DAKİKA: Saab tapped to continue work on Sweden’s next flagship fighter jet",
+    "bullet_1": "Saab tapped to continue work on Sweden’s next flagship fighter jet",
+    "bullet_2": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
+    "bullet_3": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
     "defense_news": [
       {
-        "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+        "title": "Saab tapped to continue work on Sweden’s next flagship fighter jet",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/",
-        "summary": "Iran said Tuesday it captured a U.S. uncrewed submarine in the Strait of Hormuz. The Pentagon said it had malfunctioned more than a day ago."
+        "url": "https://www.defensenews.com/global/europe/2026/09/09/saab-tapped-to-continue-work-on-swedens-next-flagship-fighter-jet/",
+        "summary": "The Swedish government has tapped Saab to continue work on a next-generation fighter jet concept, keeping a wholly domestic iron in the fire."
       },
       {
-        "title": "Ukraine contracting around 1,000 Patriot missiles from allies, defense chief says",
+        "title": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/flashpoints/ukraine/2026/09/08/ukraine-contracting-around-1000-patriot-missiles-from-allies-defense-chief-says/",
-        "summary": "Ukraine is contracting a supply of around 1,000 missiles for U.S.-designed Patriot air-defence systems."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/",
+        "summary": "Recent attacks by the U.S. and Iran have shattered a month of relative calm, with both hitting military, shipping and energy assets."
       },
       {
-        "title": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
+        "title": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive/",
-        "summary": "Polish officials hope a new infantry fighting vehicle design will propel the country's weapons-export business."
+        "url": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
+        "summary": "U.S. tech company Anduril is pitching two drone types to accompany Poland's envisioned fleets of F-35 fighter jets and Apache attack helicopters."
       },
       {
-        "title": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
+        "title": "US Navy’s next-generation fighter decision to be unveiled soon, sources say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/08/hanwha-plans-to-build-armored-vehicle-carrying-a-counter-drone-laser/",
-        "summary": "Hanwha representatives said the vehicle is fitted with a more powerful version of the stationary Cheongwang laser that protects the presidential compound."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
+        "summary": "The program, currently unnamed but designated F/A-XX, has been buffeted by delays and funding disputes for years."
       }
     ],
     "geo_news": [
       {
-        "title": "Sosyal medyadaki suç gelirlerinin kaynağını gizlemeye yönelik içerikler incelenecek",
+        "title": "TBMM Başkanı Kurtulmuş: (Adidas'ın reklamı) Bu büyük utanç uluslararası alanda hepimiz için yeter",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sosyal-medyadaki-suc-gelirlerinin-kaynagini-gizlemeye-yonelik-icerikler-incelenecek/4051818",
-        "summary": "Adalet Bakanı Akın Gürlek, sosyal medyada lüks yaşam, gösterişli düğün veya benzeri mizansenlerle suç gelirlerinin kaynağını gizlemeye yönelik ya da suç teşkil eden içeriklerin tit..."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-adidasin-reklami-bu-buyuk-utanc-uluslararasi-alanda-hepimiz-icin-yeter/4052539",
+        "summary": "Kurtulmuş, \"Dünyanın herhangi bir yerinde ampute edilmiş birisini, İsrail askerinin reklamı üzerinden gündeme getirenler, Filistin'de ayakları, kolları kesilen on binlerce çocuktan..."
       },
       {
-        "title": "Türkiye'deki devlet okulları PISA 2025'te üç ana alanda özel okulları geride bıraktı",
+        "title": "Eski MİT görevlisi Kaşif Kozinoğlu'nun mezarı açılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyedeki-devlet-okullari-pisa-2025te-uc-ana-alanda-ozel-okullari-geride-birakti/4051816",
-        "summary": "OECD'nin açıkladığı PISA 2025 sonuçlarında, Türkiye'deki resmi okullar fen bilimlerinde 497, okumada 475 ve matematikte 464 puana ulaşarak tüm ana alanlarda özel okulları geride bı..."
+        "url": "https://www.aa.com.tr/tr/gundem/eski-mit-gorevlisi-kasif-kozinoglunun-mezari-acilacak-/4052520",
+        "summary": "Eski Milli İstihbarat Teşkilatı (MİT) görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin yeniden başlatılan soruşturmada mezarının açılmasına karar verildi."
       },
       {
-        "title": "PISA 2025'te Türkiye'deki öğrencilerin çevre duyarlılığı OECD ortalamasını aştı",
+        "title": "Antalya'da ormanlık alandaki yangın büyük ölçüde kontrol altına alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/pisa-2025te-turkiyedeki-ogrencilerin-cevre-duyarliligi-oecd-ortalamasini-asti/4051789",
-        "summary": "PISA 2025 sonuçlarına göre, fen bilimleri alt ölçeği olarak ilk kez değerlendirilen \"çevre bilimi\" alanında 494 ortalama puanla 85 ülkenin ortalaması olan 447 ve OECD ortalaması ol..."
+        "url": "https://www.aa.com.tr/tr/gundem/antalyada-ormanlik-alandaki-yangin-buyuk-olcude-kontrol-altina-alindi/4052498",
+        "summary": "Antalya'nın Aksu ve Kepez ilçelerinde ormanlık alanda başlayan ve geniş bir alana yayılan yangın büyük ölçüde kontrol altına alındı. Adana'nın Kozan, İmamoğlu ve Aladağ ilçelerinde..."
       },
       {
-        "title": "PISA 2025'te Türkiye'deki öğrenciler \"yapay zekayı sorgulamada\" öne çıktı",
+        "title": "Cumhurbaşkanı Erdoğan, ABD'nin Ankara Büyükelçisi Barrack ile Temsilciler Meclisi Üyesi Issa'yı kabul etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/pisa-2025te-turkiyedeki-ogrenciler-yapay-zekayi-sorgulamada-one-cikti/4051770",
-        "summary": "PISA 2025 sonuçlarına göre Türkiye, öğrencilerin yapay zeka üretimi bilgiyi değerlendirme göstergesinde yüzde 68,1'lik öğrenci oranıyla, yüzde 62,6'lık Ekonomik İşbirliği ve Kalkın..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abdnin-ankara-buyukelcisi-barrack-ile-temsilciler-meclisi-uyesi-issayi-kabul-etti/4052459",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD'nin Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Tom Barrack ile ABD Temsilciler Meclisi Üyesi Darrell Issa ve eşini kabul etti."
       }
     ]
   }
