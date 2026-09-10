@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-09 19:34:12",
+  "updated_at": "2026-09-10 09:18:26",
   "markets": {
-    "usd_try_kapalicarsi": "48.47 TL",
-    "eur_try_kapalicarsi": "56.34 TL",
+    "usd_try_kapalicarsi": "48.51 TL",
+    "eur_try_kapalicarsi": "56.44 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Saab tapped to continue work on Sweden’s next flagship fighter jet",
-    "bullet_1": "Saab tapped to continue work on Sweden’s next flagship fighter jet",
-    "bullet_2": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
-    "bullet_3": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
+    "red_alert": "SON DAKİKA: Israeli-based defense company rebrands American subsidiary to Twenty-Six Defense",
+    "bullet_1": "Israeli-based defense company rebrands American subsidiary to Twenty-Six Defense",
+    "bullet_2": "Saab tapped to continue work on Sweden’s next flagship fighter jet",
+    "bullet_3": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
     "defense_news": [
+      {
+        "title": "Israeli-based defense company rebrands American subsidiary to Twenty-Six Defense",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/09/israeli-based-defense-company-rebrands-american-subsidiary-to-twenty-six-defense/",
+        "summary": "The U.S. arm of Israeli-based Elbit Systems has rebranded to Twenty-Six Defense, a new name that emphasizes the subsidiary’s American-made brand."
+      },
       {
         "title": "Saab tapped to continue work on Sweden’s next flagship fighter jet",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
         "summary": "U.S. tech company Anduril is pitching two drone types to accompany Poland's envisioned fleets of F-35 fighter jets and Apache attack helicopters."
-      },
-      {
-        "title": "US Navy’s next-generation fighter decision to be unveiled soon, sources say",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
-        "summary": "The program, currently unnamed but designated F/A-XX, has been buffeted by delays and funding disputes for years."
       }
     ],
     "geo_news": [
       {
-        "title": "TBMM Başkanı Kurtulmuş: (Adidas'ın reklamı) Bu büyük utanç uluslararası alanda hepimiz için yeter",
+        "title": "İstanbul'da silahlı suç örgütüne yönelik operasyonda yakalanan 19 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-adidasin-reklami-bu-buyuk-utanc-uluslararasi-alanda-hepimiz-icin-yeter/4052539",
-        "summary": "Kurtulmuş, \"Dünyanın herhangi bir yerinde ampute edilmiş birisini, İsrail askerinin reklamı üzerinden gündeme getirenler, Filistin'de ayakları, kolları kesilen on binlerce çocuktan..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-silahli-suc-orgutune-yonelik-operasyonda-yakalanan-19-supheli-tutuklandi/4052902",
+        "summary": "İstanbul'da, \"Sarallar\" çıkar amaçlı, silahlı ve organize suç örgütü tarafından Sedat Şahin'e eylem hazırlığında olduğu belirlenen 19 şüpheli tutuklandı."
       },
       {
-        "title": "Eski MİT görevlisi Kaşif Kozinoğlu'nun mezarı açılacak",
+        "title": "Gayrettepe-İstanbul Havalimanı-Halkalı Metro Hattı'nda yolcu rekoru",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/eski-mit-gorevlisi-kasif-kozinoglunun-mezari-acilacak-/4052520",
-        "summary": "Eski Milli İstihbarat Teşkilatı (MİT) görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin yeniden başlatılan soruşturmada mezarının açılmasına karar verildi."
+        "url": "https://www.aa.com.tr/tr/gundem/gayrettepe-istanbul-havalimani-halkali-metro-hattinda-yolcu-rekoru/4052885",
+        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Gayrettepe-İstanbul Havalimanı-Halkalı Metro Hattı'nda, 7 Eylül'de 57 bin 139, 8 Eylül'de ise 57 bin 309 ile günlük yolcu taşıma sa..."
       },
       {
-        "title": "Antalya'da ormanlık alandaki yangın büyük ölçüde kontrol altına alındı",
+        "title": "Muğla'da teknede yakalanan 9 FETÖ şüphelisi ile kaptan adliyeye sevk edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/antalyada-ormanlik-alandaki-yangin-buyuk-olcude-kontrol-altina-alindi/4052498",
-        "summary": "Antalya'nın Aksu ve Kepez ilçelerinde ormanlık alanda başlayan ve geniş bir alana yayılan yangın büyük ölçüde kontrol altına alındı. Adana'nın Kozan, İmamoğlu ve Aladağ ilçelerinde..."
+        "url": "https://www.aa.com.tr/tr/gundem/muglada-teknede-yakalanan-9-feto-suphelisi-ile-kaptan-adliyeye-sevk-edildi/4052882",
+        "summary": "Muğla'nın Datça ilçesinden tekneyle yurt dışına kaçmaya çalışırken yakalanan 9 Fetullahçı Terör Örgütü (FETÖ) zanlısı ile kaptan adliyeye sevk edildi."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, ABD'nin Ankara Büyükelçisi Barrack ile Temsilciler Meclisi Üyesi Issa'yı kabul etti",
+        "title": "Okul kantinleri yeni eğitim öğretim yılına hazır",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abdnin-ankara-buyukelcisi-barrack-ile-temsilciler-meclisi-uyesi-issayi-kabul-etti/4052459",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD'nin Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Tom Barrack ile ABD Temsilciler Meclisi Üyesi Darrell Issa ve eşini kabul etti."
+        "url": "https://www.aa.com.tr/tr/gundem/okul-kantinleri-yeni-egitim-ogretim-yilina-hazir/4052857",
+        "summary": "Türkiye Kantin İşletmecileri Federasyonu Başkanı Vahap Osmanoğlu, yeni eğitim öğretim yılı öncesinde okul kantinlerinde temizlik ve ilaçlama çalışmalarının tamamlandığını belirtti."
       }
     ]
   }
