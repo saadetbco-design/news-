@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 09:16:57",
+  "updated_at": "2026-09-11 19:22:08",
   "markets": {
     "usd_try_kapalicarsi": "48.56 TL",
     "eur_try_kapalicarsi": "56.41 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Iran attack on base in Jordan damaged American military aircraft, US official says",
-    "bullet_1": "Iran attack on base in Jordan damaged American military aircraft, US official says",
-    "bullet_2": "Iran likely to reverse-engineer captured US underwater drone",
-    "bullet_3": "Russia sends bones of medieval warrior prince to Ukraine front to boost morale",
+    "red_alert": "SON DAKİKA: Pentagon looks to AI to identify space and missile threats",
+    "bullet_1": "Pentagon looks to AI to identify space and missile threats",
+    "bullet_2": "Saudi crown prince sought US military help with Houthis, sources say",
+    "bullet_3": "Polish prime minister: Poland to develop its own Starlink",
     "defense_news": [
       {
-        "title": "Iran attack on base in Jordan damaged American military aircraft, US official says",
+        "title": "Pentagon looks to AI to identify space and missile threats",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/",
-        "summary": "Iranian strikes damaged one A-10 Thunderbolt II and eight F-15s this week on the Muwaffaq Salti Air Base in Jordan."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats/",
+        "summary": "The Pentagon is seeking artificial intelligence that can cut through the confusion of missile defense."
       },
       {
-        "title": "Iran likely to reverse-engineer captured US underwater drone",
+        "title": "Saudi crown prince sought US military help with Houthis, sources say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
-        "summary": "Iran will almost certainly try to pry open the captured drone’s hardware, but the platform's software does carry built-in defenses, analysts say."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say/",
+        "summary": "Saudi Crown Prince Mohammed bin Salman reportedly sought assistance from President Donald Trump on Thursday to help fight Yemen’s Iran-aligned Houthis."
       },
       {
-        "title": "Russia sends bones of medieval warrior prince to Ukraine front to boost morale",
+        "title": "Polish prime minister: Poland to develop its own Starlink",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/2026/09/10/russia-sends-bones-of-medieval-warrior-prince-to-ukraine-front-to-boost-morale/",
-        "summary": "Bone fragments from the sword hand of a medieval Russian prince who won a famous victory over the Mongols have been sent to the front in Ukraine."
+        "url": "https://www.defensenews.com/global/europe/2026/09/11/polish-prime-minister-poland-to-develop-its-own-starlink/",
+        "summary": "Polish Prime Minister Donald Tusk said the project will pave the way for the launch of a Starlink-like system for the nation."
       },
       {
-        "title": "NATO allies foil Russian subsea cable sabotage plot",
+        "title": "US refutes claims that Iran captured Saildrone USV",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/10/nato-allies-foil-russian-subsea-cable-sabotage-plot/",
-        "summary": "The clandestine Russian operation was carried out by Moscow’s GUGI undersea warfare directorate to test a destructive sabotage capability, sources said."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/",
+        "summary": "A U.S. official denied the video shared by Iran purported to show an American Saildrone USV near the Strait of Hormuz in flames."
       }
     ],
     "geo_news": [
       {
-        "title": "18 ildeki operasyonlarda 43 göçmen kaçakçılığı organizatörü tutuklandı",
+        "title": "Bakan Fidan, Suudi mevkidaşı ile Suudi Arabistan'ı hedef alan son saldırıları görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/18-ildeki-operasyonlarda-43-gocmen-kacakciligi-organizatoru-tutuklandi/4054106",
-        "summary": "İçişleri Bakanlığı, 18 ilde göçmen kaçakçılığıyla mücadele kapsamında düzenlenen operasyonlarda 43 göçmen kaçakçılığı organizatörünün tutuklandığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-suudi-mevkidasi-ile-suudi-arabistani-hedef-alan-son-saldirilari-gorustu/4054734",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan ile yaptığı telefon görüşmesinde, Suudi Arabistan'ı hedef alan son saldırıları ele aldı."
       },
       {
-        "title": "Diyarbakır'da depremde 77 kişinin öldüğü apartmanda kolon kesildiği uzman raporunda",
+        "title": "Iğdır'da meydana gelen askeri araç kazasında bir asker şehit oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/diyarbakirda-depremde-77-kisinin-oldugu-apartmanda-kolon-kesildigi-uzman-raporunda/4054091",
-        "summary": "Diyarbakır'da, 6 Şubat 2023'te meydana gelen Kahramanmaraş merkezli depremlerde yıkılan Serin-2 Apartmanı'na ilişkin hazırlanan yeni bilirkişi raporu dava dosyasına girdi."
+        "url": "https://www.aa.com.tr/tr/gundem/igdirda-meydana-gelen-askeri-arac-kazasinda-bir-asker-sehit-oldu/4054709",
+        "summary": "Milli Savunma Bakanlığı, Iğdır'da meydana gelen askeri araç kazası sonucu araç sürücüsü Sözleşmeli Er Ziya Koparan'ın şehit olduğunu bildirdi."
       },
       {
-        "title": "İstanbul, Siyasi Partiler Arasında Kıtalararası Diyalog toplantısına ev sahipliği yapacak",
+        "title": "TBMM Başkanı Kurtulmuş, Kale Grubu ürünlerinin satılacağı mağazanın açılışını yaptı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-siyasi-partiler-arasinda-kitalararasi-diyalog-toplantisina-ev-sahipligi-yapacak/4054047",
-        "summary": "İlki Güney Kore'nin başkenti Seul'de gerçekleştirilen Siyasi Partiler Arasında Kıtalararası Diyalog (ICDPP) toplantısının ikincisi, 2027'nin ilk yarısında AK Parti'nin ev sahipliği..."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-kale-grubu-urunlerinin-satilacagi-magazanin-acilisini-yapti/4054681",
+        "summary": "TBMM Başkanı Numan Kurtulmuş, Çanakkale'de Kale Grubu ürünlerinin satılacağı Özkorkmaz'ın yeni şubesinin açılışını gerçekleştirdi."
       },
       {
-        "title": "İstanbul'daki okullarda 3 bin 13 bahçe görevlisi pazartesi göreve başlayacak",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Terör meselesini kalıcı şekilde gündemimizden çıkarmak istiyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbuldaki-okullarda-3-bin-13-bahce-gorevlisi-pazartesi-goreve-baslayacak/4054056",
-        "summary": "İstanbul İl Milli Eğitim Müdürü Murat Mücahit Yentür, 2026-2027 eğitim öğretim yılında kentteki okullarda güvenlik tedbirlerinin artırılacağını belirterek, 3 bin 13 bahçe görevlisi..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-teror-meselesini-kalici-sekilde-gundemimizden-cikarmak-istiyoruz/4054653",
+        "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Türkiye Yüzyılı hedeflerine yürürken ayağımızda uzun süredir pranga gibi olan, bizi kalkınma hedeflerimize tam olarak gitmekten alıkoyan terör mes..."
       }
     ]
   }
