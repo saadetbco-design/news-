@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-10 19:22:40",
+  "updated_at": "2026-09-11 09:16:57",
   "markets": {
-    "usd_try_kapalicarsi": "48.51 TL",
-    "eur_try_kapalicarsi": "56.44 TL",
+    "usd_try_kapalicarsi": "48.56 TL",
+    "eur_try_kapalicarsi": "56.41 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Iran likely to reverse-engineer captured US underwater drone",
-    "bullet_1": "Iran likely to reverse-engineer captured US underwater drone",
-    "bullet_2": "Russia sends bones of medieval warrior prince to Ukraine front to boost morale",
-    "bullet_3": "NATO allies foil Russian subsea cable sabotage plot",
+    "red_alert": "SON DAKİKA: Iran attack on base in Jordan damaged American military aircraft, US official says",
+    "bullet_1": "Iran attack on base in Jordan damaged American military aircraft, US official says",
+    "bullet_2": "Iran likely to reverse-engineer captured US underwater drone",
+    "bullet_3": "Russia sends bones of medieval warrior prince to Ukraine front to boost morale",
     "defense_news": [
+      {
+        "title": "Iran attack on base in Jordan damaged American military aircraft, US official says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/",
+        "summary": "Iranian strikes damaged one A-10 Thunderbolt II and eight F-15s this week on the Muwaffaq Salti Air Base in Jordan."
+      },
       {
         "title": "Iran likely to reverse-engineer captured US underwater drone",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/09/10/nato-allies-foil-russian-subsea-cable-sabotage-plot/",
         "summary": "The clandestine Russian operation was carried out by Moscow’s GUGI undersea warfare directorate to test a destructive sabotage capability, sources said."
-      },
-      {
-        "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand/",
-        "summary": "The U.S. radar specialist said it's sensing new business opportunities in Europe, where governments are scrambling to up their counter-drone capabilities."
       }
     ],
     "geo_news": [
       {
-        "title": "MİT Başkanı Kalın, Irak Temsilciler Meclisi Başkanı Halbusi ile Ankara'da görüştü",
+        "title": "18 ildeki operasyonlarda 43 göçmen kaçakçılığı organizatörü tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-irak-temsilciler-meclisi-baskani-halbusi-ile-ankarada-gorustu/4053645",
-        "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Irak Temsilciler Meclisi Başkanı Heybet Halbusi ile Ankara'da bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/18-ildeki-operasyonlarda-43-gocmen-kacakciligi-organizatoru-tutuklandi/4054106",
+        "summary": "İçişleri Bakanlığı, 18 ilde göçmen kaçakçılığıyla mücadele kapsamında düzenlenen operasyonlarda 43 göçmen kaçakçılığı organizatörünün tutuklandığını bildirdi."
       },
       {
-        "title": "İletişim Başkanı Duran'dan \"Türkiye-Somali İlişkileri\" temalı panele videolu mesaj",
+        "title": "Diyarbakır'da depremde 77 kişinin öldüğü apartmanda kolon kesildiği uzman raporunda",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-turkiye-somali-iliskileri-temali-panele-videolu-mesaj/4053614",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Türkiye için Somali'nin toprak bütünlüğü, siyasi birliği ve egemenliği herhangi bir jeopolitik pazarlığın konusu olamayacak ka..."
+        "url": "https://www.aa.com.tr/tr/gundem/diyarbakirda-depremde-77-kisinin-oldugu-apartmanda-kolon-kesildigi-uzman-raporunda/4054091",
+        "summary": "Diyarbakır'da, 6 Şubat 2023'te meydana gelen Kahramanmaraş merkezli depremlerde yıkılan Serin-2 Apartmanı'na ilişkin hazırlanan yeni bilirkişi raporu dava dosyasına girdi."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, AK Parti'ye katılan belediye başkanlarına rozetlerini taktı",
+        "title": "İstanbul, Siyasi Partiler Arasında Kıtalararası Diyalog toplantısına ev sahipliği yapacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-ak-partiye-katilan-belediye-baskanlarina-rozetlerini-takti/4053514",
-        "summary": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisine katılan 4 belediye başkanına rozetlerini taktı."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-siyasi-partiler-arasinda-kitalararasi-diyalog-toplantisina-ev-sahipligi-yapacak/4054047",
+        "summary": "İlki Güney Kore'nin başkenti Seul'de gerçekleştirilen Siyasi Partiler Arasında Kıtalararası Diyalog (ICDPP) toplantısının ikincisi, 2027'nin ilk yarısında AK Parti'nin ev sahipliği..."
       },
       {
-        "title": "AHİD, engelli bireylerle piknikte bir araya geldi",
+        "title": "İstanbul'daki okullarda 3 bin 13 bahçe görevlisi pazartesi göreve başlayacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ahid-engelli-bireylerle-piknikte-bir-araya-geldi/4050078",
-        "summary": "Başkentte engelli bireyler, Ankara'ya Hizmet Edenler Derneğince (AHİD) düzenlenen piknikte bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbuldaki-okullarda-3-bin-13-bahce-gorevlisi-pazartesi-goreve-baslayacak/4054056",
+        "summary": "İstanbul İl Milli Eğitim Müdürü Murat Mücahit Yentür, 2026-2027 eğitim öğretim yılında kentteki okullarda güvenlik tedbirlerinin artırılacağını belirterek, 3 bin 13 bahçe görevlisi..."
       }
     ]
   }
