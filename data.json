@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 08:57:09",
+  "updated_at": "2026-09-12 18:53:12",
   "markets": {
     "usd_try_kapalicarsi": "48.60 TL",
     "eur_try_kapalicarsi": "56.38 TL",
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "PISA 2025 uluslararası raporunda Türkiye vurgusu",
+        "title": "Bolu'da geri dönüşüm malzemelerinin bulunduğu depoda çıkan yangına müdahale ediliyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/pisa-2025-uluslararasi-raporunda-turkiye-vurgusu/4055005",
-        "summary": "Uluslararası Öğrenci Değerlendirme Programı (PISA) 2025 sonuç raporunda, Türkiye'nin, ilerlemenin ne kadar hızlı gerçekleşebileceğini ortaya koyduğu ve 10 yıl içinde fen bilimleri ..."
+        "url": "https://www.aa.com.tr/tr/gundem/boluda-geri-donusum-malzemelerinin-bulundugu-depoda-cikan-yangina-mudahale-ediliyor/4055424",
+        "summary": "Bolu'da geri dönüşüm malzemelerinin bulunduğu depoda çıkan yangın söndürülmeye çalışılıyor."
       },
       {
-        "title": "Motosiklet denetimleri 5 yıllık ortalamanın iki katını aştı",
+        "title": "Alihan Kuriş soruşturmasında \"FETÖ bağlantısı\" iddiası",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/motosiklet-denetimleri-5-yillik-ortalamanin-iki-katini-asti/4054996",
-        "summary": "İçişleri Bakanlığınca trafik güvenliğinin artırılmasına yönelik çalışmalarda yılın 8 ayında 9 milyon 891 bin 408 motosiklet denetlendi. Motosikletlere yönelik denetim sayısı, 2021-..."
+        "url": "https://www.aa.com.tr/tr/gundem/alihan-kuris-sorusturmasinda-feto-baglantisi-iddiasi/4055403",
+        "summary": "Bakırköy Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında \"tanık\" sıfatıyla ifadesi alınan R.Ş., \"Alihan Kuriş'in Fetullahçı Terör Örgütü (FETÖ) tarafından yönetildiğini\"..."
       },
       {
-        "title": "AFAD, Marmara'da deprem hazırlığı odağını sanayiye de taşıyor",
+        "title": "Dışişleri Bakanlığından, ABD'nin GKRY'ye silah ambargosunu kaldırma kararını uzatmasına ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/afad-marmarada-deprem-hazirligi-odagini-sanayiye-de-tasiyor/4054988",
-        "summary": "AFAD olası Marmara depremine hazırlık kapsamında İstanbul ve bölge illerindeki risklerin azaltılmasına yönelik çalışmalarını sürdürürken, sanayi bölgelerinde de binaların ayakta ka..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-abdnin-gkryye-silah-ambargosunu-kaldirma-kararini-uzatmasina-iliskin-aciklama/4055397",
+        "summary": "Dışişleri Bakanlığından, ABD'nin Güney Kıbrıs Rum Yönetimi'ne (GKRY) yönelik silah ambargosunu kaldırma kararının uzatılmasına ilişkin açıklama yapıldı."
       },
       {
-        "title": "Ağustosta en yüksek sıcaklık Cizre'de, en düşük sıcaklık Ardahan'da ölçüldü",
+        "title": "İçişleri Bakanı Çiftçi'den Kazakistan ziyareti paylaşımı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/agustosta-en-yuksek-sicaklik-cizrede-en-dusuk-sicaklik-ardahanda-olculdu/4054979",
-        "summary": "Ağustos ayında en yüksek sıcaklık 46,7 dereceyle Şırnak'ın Cizre ilçesinde, en düşük sıcaklık ise 4,5 dereceyle Ardahan'da kaydedildi."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kazakistan-ziyareti-paylasimi/4055373",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, Kazakistan'da, Türk dünyasının huzuru ve güvenliği için resmi ve diplomatik temaslar yürüttüklerini, ortak tarih, kültür ve manevi mirasın izlerini ..."
       }
     ]
   }
