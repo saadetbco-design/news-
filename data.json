@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-11 19:22:08",
+  "updated_at": "2026-09-12 08:57:09",
   "markets": {
-    "usd_try_kapalicarsi": "48.56 TL",
-    "eur_try_kapalicarsi": "56.41 TL",
+    "usd_try_kapalicarsi": "48.60 TL",
+    "eur_try_kapalicarsi": "56.38 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Bakan Fidan, Suudi mevkidaşı ile Suudi Arabistan'ı hedef alan son saldırıları görüştü",
+        "title": "PISA 2025 uluslararası raporunda Türkiye vurgusu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-suudi-mevkidasi-ile-suudi-arabistani-hedef-alan-son-saldirilari-gorustu/4054734",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan ile yaptığı telefon görüşmesinde, Suudi Arabistan'ı hedef alan son saldırıları ele aldı."
+        "url": "https://www.aa.com.tr/tr/gundem/pisa-2025-uluslararasi-raporunda-turkiye-vurgusu/4055005",
+        "summary": "Uluslararası Öğrenci Değerlendirme Programı (PISA) 2025 sonuç raporunda, Türkiye'nin, ilerlemenin ne kadar hızlı gerçekleşebileceğini ortaya koyduğu ve 10 yıl içinde fen bilimleri ..."
       },
       {
-        "title": "Iğdır'da meydana gelen askeri araç kazasında bir asker şehit oldu",
+        "title": "Motosiklet denetimleri 5 yıllık ortalamanın iki katını aştı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/igdirda-meydana-gelen-askeri-arac-kazasinda-bir-asker-sehit-oldu/4054709",
-        "summary": "Milli Savunma Bakanlığı, Iğdır'da meydana gelen askeri araç kazası sonucu araç sürücüsü Sözleşmeli Er Ziya Koparan'ın şehit olduğunu bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/motosiklet-denetimleri-5-yillik-ortalamanin-iki-katini-asti/4054996",
+        "summary": "İçişleri Bakanlığınca trafik güvenliğinin artırılmasına yönelik çalışmalarda yılın 8 ayında 9 milyon 891 bin 408 motosiklet denetlendi. Motosikletlere yönelik denetim sayısı, 2021-..."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş, Kale Grubu ürünlerinin satılacağı mağazanın açılışını yaptı",
+        "title": "AFAD, Marmara'da deprem hazırlığı odağını sanayiye de taşıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-kale-grubu-urunlerinin-satilacagi-magazanin-acilisini-yapti/4054681",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, Çanakkale'de Kale Grubu ürünlerinin satılacağı Özkorkmaz'ın yeni şubesinin açılışını gerçekleştirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/afad-marmarada-deprem-hazirligi-odagini-sanayiye-de-tasiyor/4054988",
+        "summary": "AFAD olası Marmara depremine hazırlık kapsamında İstanbul ve bölge illerindeki risklerin azaltılmasına yönelik çalışmalarını sürdürürken, sanayi bölgelerinde de binaların ayakta ka..."
       },
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Terör meselesini kalıcı şekilde gündemimizden çıkarmak istiyoruz",
+        "title": "Ağustosta en yüksek sıcaklık Cizre'de, en düşük sıcaklık Ardahan'da ölçüldü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-teror-meselesini-kalici-sekilde-gundemimizden-cikarmak-istiyoruz/4054653",
-        "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Türkiye Yüzyılı hedeflerine yürürken ayağımızda uzun süredir pranga gibi olan, bizi kalkınma hedeflerimize tam olarak gitmekten alıkoyan terör mes..."
+        "url": "https://www.aa.com.tr/tr/gundem/agustosta-en-yuksek-sicaklik-cizrede-en-dusuk-sicaklik-ardahanda-olculdu/4054979",
+        "summary": "Ağustos ayında en yüksek sıcaklık 46,7 dereceyle Şırnak'ın Cizre ilçesinde, en düşük sıcaklık ise 4,5 dereceyle Ardahan'da kaydedildi."
       }
     ]
   }
