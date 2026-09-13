@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 09:53:58",
+  "updated_at": "2026-09-13 19:08:25",
   "markets": {
     "usd_try_kapalicarsi": "48.60 TL",
     "eur_try_kapalicarsi": "56.39 TL",
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Dışişleri Bakanı Fidan, 13-14 Eylül'de Suriye'yi ziyaret edecek",
+        "title": "Konya'da çıkan orman yangını kontrol altına alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-13-14-eylulde-suriyeyi-ziyaret-edecek/4055747",
-        "summary": "Dışişleri Bakanı Hakan Fidan, 13-14 Eylül'de Suriye'ye ziyarette bulunacak."
+        "url": "https://www.aa.com.tr/tr/gundem/konyada-cikan-orman-yangini-kontrol-altina-alindi/4056113",
+        "summary": "Konya'nın Meram ilçesinde çıkan orman yangını kontrol altına alındı."
       },
       {
-        "title": "Akademisyenler yumurtalık kanserinin tespitini hızlandıracak test geliştirdi",
+        "title": "Eyüpsultan'da bariyerlere çarpan yolcu otobüsünde çıkan yangında 2 kişi öldü, 8 kişi yaralandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/akademisyenler-yumurtalik-kanserinin-tespitini-hizlandiracak-test-gelistirdi/4055729",
-        "summary": "Çankırı Karatekin Üniversitesi ve Çanakkale Onsekiz Mart Üniversitesindeki bilim insanları, yumurtalık kanserinin tespitinde kullanılabilecek, yaklaşık 30 saniyede sonuç verebilen ..."
+        "url": "https://www.aa.com.tr/tr/gundem/eyupsultanda-bariyerlere-carpan-yolcu-otobusunde-cikan-yanginda-2-kisi-oldu-8-kisi-yaralandi/4056111",
+        "summary": "Kuzey Marmara Otoyolu Eyüpsultan mevkisinde bariyerlere çarparak yanan yolcu otobüsündeki 2 kişi hayatını kaybetti, 1'i ağır 8 kişi yaralandı."
       },
       {
-        "title": "Türk'ün büyük zaferi Sakarya Meydan Muharebesi'nin 105. yıl dönümü",
+        "title": "Öğretmenlerin yer değiştirme tercih ve atama tarihleri belli oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkun-buyuk-zaferi-sakarya-meydan-muharebesinin-105-yil-donumu/4055727",
-        "summary": "Başkomutan Gazi Mustafa Kemal Atatürk'ün önderliğinde 22 gün süren yoğun çatışmaların ardından zaferle sonuçlanan Sakarya Meydan Muharebesi, \"Türk'ün zaferi\" olarak tarihe geçti."
+        "url": "https://www.aa.com.tr/tr/gundem/ogretmenlerin-yer-degistirme-tercih-ve-atama-tarihleri-belli-oldu/4056103",
+        "summary": "Milli Eğitim Bakanı Yusuf Tekin, öğretmenlerin yer değiştirme tercihlerinin 23-24 Eylül tarihlerinde alınacağını, atama işlemlerinin ise 25 Eylül'de gerçekleştirileceğini bildirdi."
       },
       {
-        "title": "Öğrencilere yeni eğitim döneminde uyku düzeni uyarısı",
+        "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Türkçenin Suriye'de seçmeli ders olmasına ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ogrencilere-yeni-egitim-doneminde-uyku-duzeni-uyarisi/4055688",
-        "summary": "Trakya Üniversitesi Tıp Fakültesi Fizyoloji Ana Bilim Dalı Başkanı Prof. Dr. Öztürk, yaz tatilinde geç yatıp geç kalkmaya alışan öğrencilerin yeni eğitim döneminde uyku düzenlerini..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-turkcenin-suriyede-secmeli-ders-olmasina-iliskin-paylasim/4056102",
+        "summary": "AK Parti Genel Başkan Yardımcısı Zorlu, Suriye'de Türkçenin seçmeli ders olarak kullanılmaya devam edeceğini ve yeni bir düzenleme olması halinde, kurumlar arasındaki istişarelerle..."
       }
     ]
   }
