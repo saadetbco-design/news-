@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 10:13:28",
+  "updated_at": "2026-09-14 20:41:45",
   "markets": {
     "usd_try_kapalicarsi": "48.61 TL",
     "eur_try_kapalicarsi": "56.38 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Pentagon looks to AI to identify space and missile threats",
-    "bullet_1": "Pentagon looks to AI to identify space and missile threats",
-    "bullet_2": "Saudi crown prince sought US military help with Houthis, sources say",
-    "bullet_3": "Polish prime minister: Poland to develop its own Starlink",
+    "red_alert": "SON DAKİKA: US military must focus on ‘right mix’ of weapons amid stockpile concerns: Official",
+    "bullet_1": "US military must focus on ‘right mix’ of weapons amid stockpile concerns: Official",
+    "bullet_2": "Lockheed to build 4 more Vectis drones, 2027 first flight remains on target",
+    "bullet_3": "Geissele Automatics reveals ‘production-ready’ assault rifle for SOCOM",
     "defense_news": [
       {
-        "title": "Pentagon looks to AI to identify space and missile threats",
+        "title": "US military must focus on ‘right mix’ of weapons amid stockpile concerns: Official",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats/",
-        "summary": "The Pentagon is seeking artificial intelligence that can cut through the confusion of missile defense."
+        "url": "https://www.defensenews.com/air/2026/09/14/us-military-must-focus-on-right-mix-of-weapons-amid-stockpile-concerns-official/",
+        "summary": "With lingering questions regarding the depleted U.S. stockpiles due to the war with Iran, the U.S. military is looking to build the “right mix” of weapons."
       },
       {
-        "title": "Saudi crown prince sought US military help with Houthis, sources say",
+        "title": "Lockheed to build 4 more Vectis drones, 2027 first flight remains on target",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say/",
-        "summary": "Saudi Crown Prince Mohammed bin Salman reportedly sought assistance from President Donald Trump on Thursday to help fight Yemen’s Iran-aligned Houthis."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/14/lockheed-to-build-4-more-vectis-drones-2027-first-flight-remains-on-target/",
+        "summary": "Lockheed Martin’s Skunk Works is slated to build four more Vectis uncrewed aircraft, with the first expected to fly by the end of 2027."
       },
       {
-        "title": "Polish prime minister: Poland to develop its own Starlink",
+        "title": "Geissele Automatics reveals ‘production-ready’ assault rifle for SOCOM",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/11/polish-prime-minister-poland-to-develop-its-own-starlink/",
-        "summary": "Polish Prime Minister Donald Tusk said the project will pave the way for the launch of a Starlink-like system for the nation."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/14/geissele-automatics-reveals-production-ready-assault-rifle-for-socom/",
+        "summary": "The Pennsylvania gun company introduced a model of its Hypervelocity Improved Capability Assault Rifle."
       },
       {
-        "title": "US refutes claims that Iran captured Saildrone USV",
+        "title": "US Air Force to stand up point defense career field within 2 years, Wilsbach says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/",
-        "summary": "A U.S. official denied the video shared by Iran purported to show an American Saildrone USV near the Strait of Hormuz in flames."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-to-stand-up-point-defense-career-field-within-2-years-wilsbach-says/",
+        "summary": "Within two years, the Air Force will establish a new career field focused on defending American air bases worldwide."
       }
     ],
     "geo_news": [
       {
-        "title": "Adalet Bakanlığı faili meçhul dosyaları güncel teknolojiyle yeniden mercek altına aldı",
+        "title": "Cumhurbaşkanı Erdoğan: Coğrafyamızın savaşlarla boğuştuğu zorlu dönemde, milletimizi tehlikelerden uzak tuttuk",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakanligi-faili-mechul-dosyalari-guncel-teknolojiyle-yeniden-mercek-altina-aldi/4056576",
-        "summary": "Adalet Bakanlığı Faili Meçhul Suçları Araştırma Daire Başkanlığı, kurulduğu günden bu yana 52 maktulün bulunduğu 46 dosyayı çözüme kavuşturdu."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-cografyamizin-savaslarla-bogustugu-zorlu-donemde-milletimizi-tehlikelerden-uzak-tuttuk/4057132",
+        "summary": "Cumhurbaşkanı Erdoğan, \"Coğrafyamızın savaşlarla, çatışmalarla boğuştuğu zorlu dönemde, milletimizi bu tehlikelerden uzak tuttuk. Ülkemize tarihi başarılar, zaferler kazandırdık.\" ..."
       },
       {
-        "title": "COP31 Başkanlığı Gençlik İklim Şampiyonu Higgins iklim stratejilerinde gençlerin önemine dikkati çekti",
+        "title": "Silivri açıklarında batan geminin mürettebatını arama çalışmalarında bir cansız bedene ulaşıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31-baskanligi-genclik-iklim-sampiyonu-higgins-iklim-stratejilerinde-genclerin-onemine-dikkati-cekti/4056559",
-        "summary": "COP31 Başkanlığı Gençlik İklim Şampiyonu Sally Higgins, Türkiye'de düzenlenecek COP31'in önemine dikkati çekerek, \"Gençlerin ortak olarak yer almadığı hiçbir iklim stratejisi başar..."
+        "url": "https://www.aa.com.tr/tr/gundem/silivri-aciklarinda-batan-geminin-murettebatini-arama-calismalarinda-bir-cansiz-bedene-ulasildi/4057106",
+        "summary": "Silivri açıklarında \"Alsu\" isimli gemiyle çarpıştıktan sonra batan \"Tuğberk İmamoğlu\" gemisindeki 10 kişilik kayıp mürettebata ulaşmak için yürütülen arama ve kurtarma çalışmaları ..."
       },
       {
-        "title": "LGBT içeriklerine karşı ailelere ekran duyarlılığı çağrısı",
+        "title": "İçişleri Bakanı Çiftçi: Okullarımızın güvenliğini en üst seviyeye çıkarmayı planlıyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/lgbt-iceriklerine-karsi-ailelere-ekran-duyarliligi-cagrisi/4056456",
-        "summary": "Prof. Dr. Emir Kaya, \"LGBT aklı, bağışıklık geliştiren bir virüs gibi sürekli yeni kamuflajlarla çocukların zihnine girebilmektedir. Çocuklar nasıl tek başına denize bırakılmıyorsa..."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-okullarimizin-guvenligini-en-ust-seviyeye-cikarmayi-planliyoruz/4057103",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"7 bakanlık ortak bir protokol hazırladık. Önümüzdeki günlerde bu protokolü imzalayıp okullarımızın güvenliğini en üst seviyeye çıkarmayı planlıyoru..."
       },
       {
-        "title": "Yılın 8 ayında yaklaşık 35 ton uyuşturucu ve 87,1 milyon uyuşturucu hap ele geçirildi",
+        "title": "Türkiye ve Azerbaycan arasında medya ve iletişim işbirliği güçlendirilecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yilin-8-ayinda-yaklasik-35-ton-uyusturucu-ve-87-1-milyon-uyusturucu-hap-ele-gecirildi/4056442",
-        "summary": "İçişleri Bakanlığınca uyuşturucuyla mücadele kapsamında yılın 8 ayında yürütülen çalışmalarda yaklaşık 35 ton uyuşturucu madde ile 87,1 milyon uyuşturucu hap ele geçirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-ve-azerbaycan-arasinda-medya-ve-iletisim-isbirligi-guclendirilecek/4057084",
+        "summary": "Cumhurbaşkanlığı İletişim Başkan Yardımcısı Prof. Dr. Ferhat Pirinççi başkanlığındaki heyet, Azerbaycan temasları kapsamında Azerbaycan Medya ve Yayın Şurası Başkanı Ahmet İsmayılo..."
       }
     ]
   }
