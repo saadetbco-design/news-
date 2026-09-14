@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-13 19:08:25",
+  "updated_at": "2026-09-14 10:13:28",
   "markets": {
-    "usd_try_kapalicarsi": "48.60 TL",
-    "eur_try_kapalicarsi": "56.39 TL",
+    "usd_try_kapalicarsi": "48.61 TL",
+    "eur_try_kapalicarsi": "56.38 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Konya'da çıkan orman yangını kontrol altına alındı",
+        "title": "Adalet Bakanlığı faili meçhul dosyaları güncel teknolojiyle yeniden mercek altına aldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/konyada-cikan-orman-yangini-kontrol-altina-alindi/4056113",
-        "summary": "Konya'nın Meram ilçesinde çıkan orman yangını kontrol altına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakanligi-faili-mechul-dosyalari-guncel-teknolojiyle-yeniden-mercek-altina-aldi/4056576",
+        "summary": "Adalet Bakanlığı Faili Meçhul Suçları Araştırma Daire Başkanlığı, kurulduğu günden bu yana 52 maktulün bulunduğu 46 dosyayı çözüme kavuşturdu."
       },
       {
-        "title": "Eyüpsultan'da bariyerlere çarpan yolcu otobüsünde çıkan yangında 2 kişi öldü, 8 kişi yaralandı",
+        "title": "COP31 Başkanlığı Gençlik İklim Şampiyonu Higgins iklim stratejilerinde gençlerin önemine dikkati çekti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/eyupsultanda-bariyerlere-carpan-yolcu-otobusunde-cikan-yanginda-2-kisi-oldu-8-kisi-yaralandi/4056111",
-        "summary": "Kuzey Marmara Otoyolu Eyüpsultan mevkisinde bariyerlere çarparak yanan yolcu otobüsündeki 2 kişi hayatını kaybetti, 1'i ağır 8 kişi yaralandı."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31-baskanligi-genclik-iklim-sampiyonu-higgins-iklim-stratejilerinde-genclerin-onemine-dikkati-cekti/4056559",
+        "summary": "COP31 Başkanlığı Gençlik İklim Şampiyonu Sally Higgins, Türkiye'de düzenlenecek COP31'in önemine dikkati çekerek, \"Gençlerin ortak olarak yer almadığı hiçbir iklim stratejisi başar..."
       },
       {
-        "title": "Öğretmenlerin yer değiştirme tercih ve atama tarihleri belli oldu",
+        "title": "LGBT içeriklerine karşı ailelere ekran duyarlılığı çağrısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ogretmenlerin-yer-degistirme-tercih-ve-atama-tarihleri-belli-oldu/4056103",
-        "summary": "Milli Eğitim Bakanı Yusuf Tekin, öğretmenlerin yer değiştirme tercihlerinin 23-24 Eylül tarihlerinde alınacağını, atama işlemlerinin ise 25 Eylül'de gerçekleştirileceğini bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/lgbt-iceriklerine-karsi-ailelere-ekran-duyarliligi-cagrisi/4056456",
+        "summary": "Prof. Dr. Emir Kaya, \"LGBT aklı, bağışıklık geliştiren bir virüs gibi sürekli yeni kamuflajlarla çocukların zihnine girebilmektedir. Çocuklar nasıl tek başına denize bırakılmıyorsa..."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Türkçenin Suriye'de seçmeli ders olmasına ilişkin paylaşım",
+        "title": "Yılın 8 ayında yaklaşık 35 ton uyuşturucu ve 87,1 milyon uyuşturucu hap ele geçirildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-turkcenin-suriyede-secmeli-ders-olmasina-iliskin-paylasim/4056102",
-        "summary": "AK Parti Genel Başkan Yardımcısı Zorlu, Suriye'de Türkçenin seçmeli ders olarak kullanılmaya devam edeceğini ve yeni bir düzenleme olması halinde, kurumlar arasındaki istişarelerle..."
+        "url": "https://www.aa.com.tr/tr/gundem/yilin-8-ayinda-yaklasik-35-ton-uyusturucu-ve-87-1-milyon-uyusturucu-hap-ele-gecirildi/4056442",
+        "summary": "İçişleri Bakanlığınca uyuşturucuyla mücadele kapsamında yılın 8 ayında yürütülen çalışmalarda yaklaşık 35 ton uyuşturucu madde ile 87,1 milyon uyuşturucu hap ele geçirildi."
       }
     ]
   }
