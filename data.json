@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 09:42:52",
+  "updated_at": "2026-09-15 19:56:06",
   "markets": {
     "usd_try_kapalicarsi": "48.64 TL",
     "eur_try_kapalicarsi": "56.18 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: France experiments with smaller tank units to evade drone attacks",
-    "bullet_1": "France experiments with smaller tank units to evade drone attacks",
-    "bullet_2": "US Navy, Boeing ink first MQ-25A Stingray production contract",
-    "bullet_3": "US Air Force secretary reveals deployment of on-orbit space control weapons",
+    "red_alert": "SON DAKİKA: Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
+    "bullet_1": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
+    "bullet_2": "F-35 proved combat readiness during Middle East deployments, Air Force officials say",
+    "bullet_3": "US Marine Stand-In Forces in the Pacific worry China, report details",
     "defense_news": [
       {
-        "title": "France experiments with smaller tank units to evade drone attacks",
+        "title": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/15/france-experiments-with-smaller-tank-units-to-evade-drone-attacks/",
-        "summary": "French Army commanders want to know if dispersed “Lego bricks” of Leclerc tanks and support vehicles can make themselves uninteresting to adversaries."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/15/iranian-strikes-damaged-hundreds-of-us-military-buildings-dozens-of-aircraft/",
+        "summary": "Iranian strikes have damaged hundreds of U.S. military and diplomatic buildings, as well as dozens of aircraft, a Pentagon watchdog said."
       },
       {
-        "title": "US Navy, Boeing ink first MQ-25A Stingray production contract",
+        "title": "F-35 proved combat readiness during Middle East deployments, Air Force officials say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/15/us-navy-boeing-ink-first-mq-25a-stingray-production-contract/",
-        "summary": "The U.S. Navy awarded a $562 million fixed-price incentive contract to Boeing on Monday to start Lot 1 Low Rate Initial Production of the MQ-25A Stingray."
+        "url": "https://www.defensenews.com/air/2026/09/15/f-35-proved-combat-readiness-during-middle-east-deployments-air-force-officials-say/",
+        "summary": "Top Air Force officials praised the F-35's warfighting prowess during combat operations in the Middle East despite recent concerns over readiness rates."
       },
       {
-        "title": "US Air Force secretary reveals deployment of on-orbit space control weapons",
+        "title": "US Marine Stand-In Forces in the Pacific worry China, report details",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-secretary-reveals-deployment-of-on-orbit-space-control-weapons/",
-        "summary": "Secretary of the Air Force Troy Meink revealed that the service deployed on-orbit space control weapons but did not offer details on the type of weapon."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/15/us-marine-stand-in-forces-in-the-pacific-a-concern-to-china-report-details/",
+        "summary": "The Marine Corps' plan to reorganize for small-unit expeditionary warfare has sparked concern among some Chinese naval officers, a recent report details."
       },
       {
-        "title": "‘It’s not science fiction’: US Air Force must build trust in AI, says expert",
+        "title": "UN weighs moving Ukraine aid supplies underground after warehouse hits",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/air/2026/09/14/its-not-science-fiction-us-air-force-must-build-trust-in-ai-says-expert/",
-        "summary": "The military must work on how to combat fast and reckless enemy AI agents that don’t necessarily operate with the same oversight, according to experts."
+        "url": "https://www.defensenews.com/global/europe/2026/09/15/un-weighs-moving-ukraine-aid-supplies-underground-after-warehouse-hits/",
+        "summary": "The United Nations is considering moving Ukraine aid supplies underground to dodge Russian strikes."
       }
     ],
     "geo_news": [
       {
-        "title": "Su altı belgesel yapımcısı Ceylan, Neum Su Altı Film Festivali'nde Büyük Ödül'ü kazandı",
+        "title": "Bakan Fidan, TÜRKPA Genel Sekreteri Hasan'ı Bakü'de kabul etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/su-alti-belgesel-yapimcisi-ceylan-neum-su-alti-film-festivalinde-buyuk-odulu-kazandi/4057541",
-        "summary": "Su altı belgesel yapımcısı ve görüntü yönetmeni Tahsin Ceylan, \"Marine Turtles\" filminin Neum Su Altı Film Festivali'nde Büyük Ödül'e layık görülmesinin mutluluk verici olduğunu be..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkpa-genel-sekreteri-hasani-bakude-kabul-etti/4058330",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan'ın başkenti Bakü'ye gerçekleştirdiği ziyaret​​​​​​​i kapsamında Türk Devletleri Parlamenter Asamblesi (TÜRKPA) Genel Sekreteri Büyükelçi Ra..."
       },
       {
-        "title": "Yeşilay yeni dönemde Adana'daki 500 bin öğrenciye bağımlılıkla mücadeleyi anlatacak",
+        "title": "İstanbul'da Gazzeli çocuklar için uçurtmalar uçuruldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yesilay-yeni-donemde-adanadaki-500-bin-ogrenciye-bagimlilikla-mucadeleyi-anlatacak/4057492",
-        "summary": "Türkiye Yeşilay Cemiyeti, yeni eğitim-öğretim yılında Adana'daki 500 bin öğrenciyi bağımlılıkla mücadele yöntemleri konusunda bilgilendirecek."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-gazzeli-cocuklar-icin-ucurtmalar-ucuruldu/4058249",
+        "summary": "İstanbul İl Milli Eğitim Müdürlüğünce, Gazzeli çocukların umuduna ortak olmak amacıyla \"Uçurtmalar Vurulmasın, Gökyüzü Çocuklara Kalsın\" etkinliği düzenlendi."
       },
       {
-        "title": "Obezite ve yanlış beslenme prostat kanseri riskini artırıyor",
+        "title": "TBMM Yapay Zeka Araştırma Komisyonu Başkanı Dönmez'den \"yapay zeka\" değerlendirmesi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/obezite-ve-yanlis-beslenme-prostat-kanseri-riskini-artiriyor/4057511",
-        "summary": "Antalya Amerikan Hastanesi Medikal Onkoloji Bölümünden Prof. Dr. Hakan Şat Bozcuk, erkeklerde sık görülen prostat kanseri riskini, obezite, hareketsizlik ve sağlıksız beslenmenin a..."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-yapay-zeka-arastirma-komisyonu-baskani-donmezden-yapay-zeka-degerlendirmesi/4058226",
+        "summary": "Fatih Dönmez, \"Nasıl sanayi çağında üretim altyapımızı, enerji çağında enerji altyapımızı, bilgi çağında dijital altyapımızı geliştirdiysek, bugün de yapay zeka çağının güvenlik, h..."
       },
       {
-        "title": "Antalya'da kırmızı LED uygulaması, caretta caretta yavrularının denize ulaşmasına yardımcı oldu",
+        "title": "Milli Eğitim Bakanı Tekin, Sudanlı mevkidaşı Hajar ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/antalyada-kirmizi-led-uygulamasi-caretta-caretta-yavrularinin-denize-ulasmasina-yardimci-oldu/4057553",
-        "summary": "Antalya'nın Manavgat ilçesinde caretta carettaların yuvalama alanı olan sahil şeridinde uygulanan kırmızı LED aydınlatma, yavru deniz kaplumbağalarının güvenle denize ulaşmasına ka..."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-sudanli-mevkidasi-hajar-ile-gorustu/4058194",
+        "summary": "Milli Eğitim Bakanı Yusuf Tekin, Sudan Eğitim Bakanı Tuhami El-Zain Hajar ile görüştü."
       }
     ]
   }
