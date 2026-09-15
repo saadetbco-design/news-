@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-09-14 20:41:45",
+  "updated_at": "2026-09-15 09:42:52",
   "markets": {
-    "usd_try_kapalicarsi": "48.61 TL",
-    "eur_try_kapalicarsi": "56.38 TL",
+    "usd_try_kapalicarsi": "48.64 TL",
+    "eur_try_kapalicarsi": "56.18 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US military must focus on ‘right mix’ of weapons amid stockpile concerns: Official",
-    "bullet_1": "US military must focus on ‘right mix’ of weapons amid stockpile concerns: Official",
-    "bullet_2": "Lockheed to build 4 more Vectis drones, 2027 first flight remains on target",
-    "bullet_3": "Geissele Automatics reveals ‘production-ready’ assault rifle for SOCOM",
+    "red_alert": "SON DAKİKA: France experiments with smaller tank units to evade drone attacks",
+    "bullet_1": "France experiments with smaller tank units to evade drone attacks",
+    "bullet_2": "US Navy, Boeing ink first MQ-25A Stingray production contract",
+    "bullet_3": "US Air Force secretary reveals deployment of on-orbit space control weapons",
     "defense_news": [
       {
-        "title": "US military must focus on ‘right mix’ of weapons amid stockpile concerns: Official",
+        "title": "France experiments with smaller tank units to evade drone attacks",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/air/2026/09/14/us-military-must-focus-on-right-mix-of-weapons-amid-stockpile-concerns-official/",
-        "summary": "With lingering questions regarding the depleted U.S. stockpiles due to the war with Iran, the U.S. military is looking to build the “right mix” of weapons."
+        "url": "https://www.defensenews.com/global/europe/2026/09/15/france-experiments-with-smaller-tank-units-to-evade-drone-attacks/",
+        "summary": "French Army commanders want to know if dispersed “Lego bricks” of Leclerc tanks and support vehicles can make themselves uninteresting to adversaries."
       },
       {
-        "title": "Lockheed to build 4 more Vectis drones, 2027 first flight remains on target",
+        "title": "US Navy, Boeing ink first MQ-25A Stingray production contract",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/14/lockheed-to-build-4-more-vectis-drones-2027-first-flight-remains-on-target/",
-        "summary": "Lockheed Martin’s Skunk Works is slated to build four more Vectis uncrewed aircraft, with the first expected to fly by the end of 2027."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/15/us-navy-boeing-ink-first-mq-25a-stingray-production-contract/",
+        "summary": "The U.S. Navy awarded a $562 million fixed-price incentive contract to Boeing on Monday to start Lot 1 Low Rate Initial Production of the MQ-25A Stingray."
       },
       {
-        "title": "Geissele Automatics reveals ‘production-ready’ assault rifle for SOCOM",
+        "title": "US Air Force secretary reveals deployment of on-orbit space control weapons",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/14/geissele-automatics-reveals-production-ready-assault-rifle-for-socom/",
-        "summary": "The Pennsylvania gun company introduced a model of its Hypervelocity Improved Capability Assault Rifle."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-secretary-reveals-deployment-of-on-orbit-space-control-weapons/",
+        "summary": "Secretary of the Air Force Troy Meink revealed that the service deployed on-orbit space control weapons but did not offer details on the type of weapon."
       },
       {
-        "title": "US Air Force to stand up point defense career field within 2 years, Wilsbach says",
+        "title": "‘It’s not science fiction’: US Air Force must build trust in AI, says expert",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-to-stand-up-point-defense-career-field-within-2-years-wilsbach-says/",
-        "summary": "Within two years, the Air Force will establish a new career field focused on defending American air bases worldwide."
+        "url": "https://www.defensenews.com/air/2026/09/14/its-not-science-fiction-us-air-force-must-build-trust-in-ai-says-expert/",
+        "summary": "The military must work on how to combat fast and reckless enemy AI agents that don’t necessarily operate with the same oversight, according to experts."
       }
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan: Coğrafyamızın savaşlarla boğuştuğu zorlu dönemde, milletimizi tehlikelerden uzak tuttuk",
+        "title": "Su altı belgesel yapımcısı Ceylan, Neum Su Altı Film Festivali'nde Büyük Ödül'ü kazandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-cografyamizin-savaslarla-bogustugu-zorlu-donemde-milletimizi-tehlikelerden-uzak-tuttuk/4057132",
-        "summary": "Cumhurbaşkanı Erdoğan, \"Coğrafyamızın savaşlarla, çatışmalarla boğuştuğu zorlu dönemde, milletimizi bu tehlikelerden uzak tuttuk. Ülkemize tarihi başarılar, zaferler kazandırdık.\" ..."
+        "url": "https://www.aa.com.tr/tr/gundem/su-alti-belgesel-yapimcisi-ceylan-neum-su-alti-film-festivalinde-buyuk-odulu-kazandi/4057541",
+        "summary": "Su altı belgesel yapımcısı ve görüntü yönetmeni Tahsin Ceylan, \"Marine Turtles\" filminin Neum Su Altı Film Festivali'nde Büyük Ödül'e layık görülmesinin mutluluk verici olduğunu be..."
       },
       {
-        "title": "Silivri açıklarında batan geminin mürettebatını arama çalışmalarında bir cansız bedene ulaşıldı",
+        "title": "Yeşilay yeni dönemde Adana'daki 500 bin öğrenciye bağımlılıkla mücadeleyi anlatacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/silivri-aciklarinda-batan-geminin-murettebatini-arama-calismalarinda-bir-cansiz-bedene-ulasildi/4057106",
-        "summary": "Silivri açıklarında \"Alsu\" isimli gemiyle çarpıştıktan sonra batan \"Tuğberk İmamoğlu\" gemisindeki 10 kişilik kayıp mürettebata ulaşmak için yürütülen arama ve kurtarma çalışmaları ..."
+        "url": "https://www.aa.com.tr/tr/gundem/yesilay-yeni-donemde-adanadaki-500-bin-ogrenciye-bagimlilikla-mucadeleyi-anlatacak/4057492",
+        "summary": "Türkiye Yeşilay Cemiyeti, yeni eğitim-öğretim yılında Adana'daki 500 bin öğrenciyi bağımlılıkla mücadele yöntemleri konusunda bilgilendirecek."
       },
       {
-        "title": "İçişleri Bakanı Çiftçi: Okullarımızın güvenliğini en üst seviyeye çıkarmayı planlıyoruz",
+        "title": "Obezite ve yanlış beslenme prostat kanseri riskini artırıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-okullarimizin-guvenligini-en-ust-seviyeye-cikarmayi-planliyoruz/4057103",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"7 bakanlık ortak bir protokol hazırladık. Önümüzdeki günlerde bu protokolü imzalayıp okullarımızın güvenliğini en üst seviyeye çıkarmayı planlıyoru..."
+        "url": "https://www.aa.com.tr/tr/gundem/obezite-ve-yanlis-beslenme-prostat-kanseri-riskini-artiriyor/4057511",
+        "summary": "Antalya Amerikan Hastanesi Medikal Onkoloji Bölümünden Prof. Dr. Hakan Şat Bozcuk, erkeklerde sık görülen prostat kanseri riskini, obezite, hareketsizlik ve sağlıksız beslenmenin a..."
       },
       {
-        "title": "Türkiye ve Azerbaycan arasında medya ve iletişim işbirliği güçlendirilecek",
+        "title": "Antalya'da kırmızı LED uygulaması, caretta caretta yavrularının denize ulaşmasına yardımcı oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-ve-azerbaycan-arasinda-medya-ve-iletisim-isbirligi-guclendirilecek/4057084",
-        "summary": "Cumhurbaşkanlığı İletişim Başkan Yardımcısı Prof. Dr. Ferhat Pirinççi başkanlığındaki heyet, Azerbaycan temasları kapsamında Azerbaycan Medya ve Yayın Şurası Başkanı Ahmet İsmayılo..."
+        "url": "https://www.aa.com.tr/tr/gundem/antalyada-kirmizi-led-uygulamasi-caretta-caretta-yavrularinin-denize-ulasmasina-yardimci-oldu/4057553",
+        "summary": "Antalya'nın Manavgat ilçesinde caretta carettaların yuvalama alanı olan sahil şeridinde uygulanan kırmızı LED aydınlatma, yavru deniz kaplumbağalarının güvenle denize ulaşmasına ka..."
       }
     ]
   }
