@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 09:36:37",
+  "updated_at": "2026-09-16 19:48:52",
   "markets": {
     "usd_try_kapalicarsi": "48.66 TL",
     "eur_try_kapalicarsi": "56.15 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Tanker fleet modernization will continue for decades, US Air Force officials say",
-    "bullet_1": "Tanker fleet modernization will continue for decades, US Air Force officials say",
-    "bullet_2": "Iran war has cost $38 billion, depleted two-thirds of US missile interceptors, CBO says",
-    "bullet_3": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
+    "red_alert": "SON DAKİKA: US ‘not prepared’ to respond to nuclear attacks in space, report says",
+    "bullet_1": "US ‘not prepared’ to respond to nuclear attacks in space, report says",
+    "bullet_2": "Israel’s SPICE 1000 bombs can soon drop from F-35 fighters",
+    "bullet_3": "US military must adapt as formations will be ‘hunted’ by autonomous systems, Caine says",
     "defense_news": [
       {
-        "title": "Tanker fleet modernization will continue for decades, US Air Force officials say",
+        "title": "US ‘not prepared’ to respond to nuclear attacks in space, report says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/15/tanker-fleet-modernization-will-continue-for-decades-us-air-force-officials-say/",
-        "summary": "“The last KC-135 pilot has not been born,” Air Mobility Command Deputy Commander Maj. Gen. Gerald Donohue said Tuesday."
+        "url": "https://www.defensenews.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/",
+        "summary": "A recent war-gaming report found that the U.S. has no tested response to a nuclear detonation in space."
       },
       {
-        "title": "Iran war has cost $38 billion, depleted two-thirds of US missile interceptors, CBO says",
+        "title": "Israel’s SPICE 1000 bombs can soon drop from F-35 fighters",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/15/iran-war-has-cost-38-billion-depleted-two-thirds-of-us-missile-interceptors-cbo-says/",
-        "summary": "The U.S. military has incurred about $38 billion in costs from combat operations against Iran, a new Congressional Budget Office analysis found."
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/09/16/israels-spice-1000-bombs-can-soon-drop-from-f-35-fighters/",
+        "summary": "The Israeli air force can look forward to yet another bomb type for its F-35 fleet."
       },
       {
-        "title": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
+        "title": "US military must adapt as formations will be ‘hunted’ by autonomous systems, Caine says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/15/iranian-strikes-damaged-hundreds-of-us-military-buildings-dozens-of-aircraft/",
-        "summary": "Iranian strikes have damaged hundreds of U.S. military and diplomatic buildings, as well as dozens of aircraft, a Pentagon watchdog said."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/",
+        "summary": "Technology, such as AI and autonomous systems, is changing the character of war, Joint Chiefs of Staff Chairman Gen. Dan Caine said."
       },
       {
-        "title": "F-35 proved combat readiness during Middle East deployments, Air Force officials say",
+        "title": "Germany, US to expand shared production of Patriot interceptors, strike missiles",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/air/2026/09/15/f-35-proved-combat-readiness-during-middle-east-deployments-air-force-officials-say/",
-        "summary": "Top Air Force officials praised the F-35's warfighting prowess during combat operations in the Middle East despite recent concerns over readiness rates."
+        "url": "https://www.defensenews.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles/",
+        "summary": "German and U.S. defense leaders have signed an agreement positioning Germany as an additional production hub for scarce American defense equipment."
       }
     ],
     "geo_news": [
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Türk devletlerinin ortak kalkınma bankası kurması gerektiğini söyledi",
+        "title": "İçişleri Bakanı Çiftçi, İranlı mevkidaşı Mumini ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-turk-devletlerinin-ortak-kalkinma-bankasi-kurmasi-gerektigini-soyledi/4058737",
-        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Türk Devletleri Teşkilatı (TDT) üyesi ülkelerin dijital ticaret alanını hayata geçirmesi ve ..."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-iranli-mevkidasi-mumini-ile-gorustu/4059463",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, İran İçişleri Bakanı İskender Mumini ile Ankara'da bir araya geldi."
       },
       {
-        "title": "Dışişleri Bakanı Fidan: Kardeş Azerbaycan ile olan işbirliğimizi daha da derinleştirmeye devam edeceğiz",
+        "title": "Türkiye, Husilerin Mekke çevresinde önlenen İHA saldırısını kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-kardes-azerbaycan-ile-olan-isbirligimizi-daha-da-derinlestirmeye-devam-edecegiz/4058735",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan ziyaretini değerlendirerek, \"Kardeş Azerbaycan ile olan işbirliğimizi daha da derinleştirmeye, ortak hedeflerimiz doğrultusunda omuz omuza ..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-husilerin-mekke-cevresinde-onlenen-iha-saldirisini-kinadi/4059356",
+        "summary": "Dışişleri Bakanlığı, Husilerin, Mekke kentini hedef alan insansız hava aracı (İHA) saldırısını kınadı."
       },
       {
-        "title": "Ağır okul çantaları çocuklarda duruş bozukluğu ve kas ağrılarına yol açabilir",
+        "title": "Türkiye'den Lübnan'daki Filistinlilere ve yerinden edilenlere 2 bin ton un yardımı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/agir-okul-cantalari-cocuklarda-durus-bozuklugu-ve-kas-agrilarina-yol-acabilir/4058709",
-        "summary": "Trakya Üniversitesi Tıp Fakültesi Aile Hekimliği Ana Bilim Dalı Başkanı Prof. Dr. Hamdi Nezih Dağdeviren, ağır ve dengesiz kullanılan okul çantalarının çocuklarda kas ağrıları ve d..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyeden-lubnandaki-filistinlilere-ve-yerinden-edilenlere-2-bin-ton-un-yardimi/4059225",
+        "summary": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Lübnan'daki Filistinlilere ve yerinden edilmiş ailelere 2 bin ton un yardımı ulaştırdı."
       },
       {
-        "title": "İzmir'de Seferihisar Belediyesine yönelik rüşvet operasyonunda 29 zanlı tutuklandı",
+        "title": "Müstehcen içerikli paylaşım yapan 419 sosyal medya hesabına erişim engeli",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/izmirde-seferihisar-belediyesine-yonelik-rusvet-operasyonunda-29-zanli-tutuklandi/4058703",
-        "summary": "İzmir'in Seferihisar Belediyesine yönelik rüşvet ve usulsüzlük operasyonunda gözaltına alınan 47 şüpheliden 29'u tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/mustehcen-icerikli-paylasim-yapan-419-sosyal-medya-hesabina-erisim-engeli/4059325",
+        "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında, müstehcen içerikli paylaşım yaptığı tespit edilen 419 sosyal medya hesabına ve müstehcen içerik barındırdığı de..."
       }
     ]
   }
