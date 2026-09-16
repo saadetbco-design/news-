@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-09-15 19:56:06",
+  "updated_at": "2026-09-16 09:36:37",
   "markets": {
-    "usd_try_kapalicarsi": "48.64 TL",
-    "eur_try_kapalicarsi": "56.18 TL",
+    "usd_try_kapalicarsi": "48.66 TL",
+    "eur_try_kapalicarsi": "56.15 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
-    "bullet_1": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
-    "bullet_2": "F-35 proved combat readiness during Middle East deployments, Air Force officials say",
-    "bullet_3": "US Marine Stand-In Forces in the Pacific worry China, report details",
+    "red_alert": "SON DAKİKA: Tanker fleet modernization will continue for decades, US Air Force officials say",
+    "bullet_1": "Tanker fleet modernization will continue for decades, US Air Force officials say",
+    "bullet_2": "Iran war has cost $38 billion, depleted two-thirds of US missile interceptors, CBO says",
+    "bullet_3": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
     "defense_news": [
+      {
+        "title": "Tanker fleet modernization will continue for decades, US Air Force officials say",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/15/tanker-fleet-modernization-will-continue-for-decades-us-air-force-officials-say/",
+        "summary": "“The last KC-135 pilot has not been born,” Air Mobility Command Deputy Commander Maj. Gen. Gerald Donohue said Tuesday."
+      },
+      {
+        "title": "Iran war has cost $38 billion, depleted two-thirds of US missile interceptors, CBO says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/15/iran-war-has-cost-38-billion-depleted-two-thirds-of-us-missile-interceptors-cbo-says/",
+        "summary": "The U.S. military has incurred about $38 billion in costs from combat operations against Iran, a new Congressional Budget Office analysis found."
+      },
       {
         "title": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/air/2026/09/15/f-35-proved-combat-readiness-during-middle-east-deployments-air-force-officials-say/",
         "summary": "Top Air Force officials praised the F-35's warfighting prowess during combat operations in the Middle East despite recent concerns over readiness rates."
-      },
-      {
-        "title": "US Marine Stand-In Forces in the Pacific worry China, report details",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/15/us-marine-stand-in-forces-in-the-pacific-a-concern-to-china-report-details/",
-        "summary": "The Marine Corps' plan to reorganize for small-unit expeditionary warfare has sparked concern among some Chinese naval officers, a recent report details."
-      },
-      {
-        "title": "UN weighs moving Ukraine aid supplies underground after warehouse hits",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/15/un-weighs-moving-ukraine-aid-supplies-underground-after-warehouse-hits/",
-        "summary": "The United Nations is considering moving Ukraine aid supplies underground to dodge Russian strikes."
       }
     ],
     "geo_news": [
       {
-        "title": "Bakan Fidan, TÜRKPA Genel Sekreteri Hasan'ı Bakü'de kabul etti",
+        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Türk devletlerinin ortak kalkınma bankası kurması gerektiğini söyledi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkpa-genel-sekreteri-hasani-bakude-kabul-etti/4058330",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan'ın başkenti Bakü'ye gerçekleştirdiği ziyaret​​​​​​​i kapsamında Türk Devletleri Parlamenter Asamblesi (TÜRKPA) Genel Sekreteri Büyükelçi Ra..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-turk-devletlerinin-ortak-kalkinma-bankasi-kurmasi-gerektigini-soyledi/4058737",
+        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Türk Devletleri Teşkilatı (TDT) üyesi ülkelerin dijital ticaret alanını hayata geçirmesi ve ..."
       },
       {
-        "title": "İstanbul'da Gazzeli çocuklar için uçurtmalar uçuruldu",
+        "title": "Dışişleri Bakanı Fidan: Kardeş Azerbaycan ile olan işbirliğimizi daha da derinleştirmeye devam edeceğiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-gazzeli-cocuklar-icin-ucurtmalar-ucuruldu/4058249",
-        "summary": "İstanbul İl Milli Eğitim Müdürlüğünce, Gazzeli çocukların umuduna ortak olmak amacıyla \"Uçurtmalar Vurulmasın, Gökyüzü Çocuklara Kalsın\" etkinliği düzenlendi."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-kardes-azerbaycan-ile-olan-isbirligimizi-daha-da-derinlestirmeye-devam-edecegiz/4058735",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan ziyaretini değerlendirerek, \"Kardeş Azerbaycan ile olan işbirliğimizi daha da derinleştirmeye, ortak hedeflerimiz doğrultusunda omuz omuza ..."
       },
       {
-        "title": "TBMM Yapay Zeka Araştırma Komisyonu Başkanı Dönmez'den \"yapay zeka\" değerlendirmesi",
+        "title": "Ağır okul çantaları çocuklarda duruş bozukluğu ve kas ağrılarına yol açabilir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-yapay-zeka-arastirma-komisyonu-baskani-donmezden-yapay-zeka-degerlendirmesi/4058226",
-        "summary": "Fatih Dönmez, \"Nasıl sanayi çağında üretim altyapımızı, enerji çağında enerji altyapımızı, bilgi çağında dijital altyapımızı geliştirdiysek, bugün de yapay zeka çağının güvenlik, h..."
+        "url": "https://www.aa.com.tr/tr/gundem/agir-okul-cantalari-cocuklarda-durus-bozuklugu-ve-kas-agrilarina-yol-acabilir/4058709",
+        "summary": "Trakya Üniversitesi Tıp Fakültesi Aile Hekimliği Ana Bilim Dalı Başkanı Prof. Dr. Hamdi Nezih Dağdeviren, ağır ve dengesiz kullanılan okul çantalarının çocuklarda kas ağrıları ve d..."
       },
       {
-        "title": "Milli Eğitim Bakanı Tekin, Sudanlı mevkidaşı Hajar ile görüştü",
+        "title": "İzmir'de Seferihisar Belediyesine yönelik rüşvet operasyonunda 29 zanlı tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-sudanli-mevkidasi-hajar-ile-gorustu/4058194",
-        "summary": "Milli Eğitim Bakanı Yusuf Tekin, Sudan Eğitim Bakanı Tuhami El-Zain Hajar ile görüştü."
+        "url": "https://www.aa.com.tr/tr/gundem/izmirde-seferihisar-belediyesine-yonelik-rusvet-operasyonunda-29-zanli-tutuklandi/4058703",
+        "summary": "İzmir'in Seferihisar Belediyesine yönelik rüşvet ve usulsüzlük operasyonunda gözaltına alınan 47 şüpheliden 29'u tutuklandı."
       }
     ]
   }
