@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17 09:45:10",
+  "updated_at": "2026-09-17 19:57:23",
   "markets": {
     "usd_try_kapalicarsi": "48.68 TL",
     "eur_try_kapalicarsi": "56.00 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: AI military targeting may move faster than humans can authenticate, critics warn",
-    "bullet_1": "AI military targeting may move faster than humans can authenticate, critics warn",
-    "bullet_2": "US ‘not prepared’ to respond to nuclear attacks in space, report says",
-    "bullet_3": "Israel’s SPICE 1000 bombs can soon drop from F-35 fighters",
+    "red_alert": "SON DAKİKA: The US Army is looking for new drones to ferry blood supplies",
+    "bullet_1": "The US Army is looking for new drones to ferry blood supplies",
+    "bullet_2": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
+    "bullet_3": "US Navy should target carriers in fight with China, report says",
     "defense_news": [
       {
-        "title": "AI military targeting may move faster than humans can authenticate, critics warn",
+        "title": "The US Army is looking for new drones to ferry blood supplies",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/",
-        "summary": "AI military targeting may move faster than humans can authenticate, critics warned during a Wednesday hearing in Washington."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/17/the-us-army-is-looking-for-new-drones-to-ferry-blood-supplies/",
+        "summary": "As part of the U.S. Army Blood Link project, the service is seeking new drones that can transport blood supplies in the field."
       },
       {
-        "title": "US ‘not prepared’ to respond to nuclear attacks in space, report says",
+        "title": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/",
-        "summary": "A recent war-gaming report found that the U.S. has no tested response to a nuclear detonation in space."
+        "url": "https://www.defensenews.com/industry/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
+        "summary": "In an \"extraordinary\" 22-day turnaround, Lockheed Martin received its first shipment of critical components from General Motors for Patriot interceptors."
       },
       {
-        "title": "Israel’s SPICE 1000 bombs can soon drop from F-35 fighters",
+        "title": "US Navy should target carriers in fight with China, report says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/09/16/israels-spice-1000-bombs-can-soon-drop-from-f-35-fighters/",
-        "summary": "The Israeli air force can look forward to yet another bomb type for its F-35 fleet."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-navy-should-target-chinese-aircraft-carriers-report-says/",
+        "summary": "A U.S. think tank devised a strategy to target Chinese aircraft carriers by using similar tactics that China has planned against American ships."
       },
       {
-        "title": "US military must adapt as formations will be ‘hunted’ by autonomous systems, Caine says",
+        "title": "Pentagon, Lockheed sign framework deal to boost AIM-260 production",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/",
-        "summary": "Technology, such as AI and autonomous systems, is changing the character of war, Joint Chiefs of Staff Chairman Gen. Dan Caine said."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/17/pentagon-lockheed-sign-framework-deal-to-boost-aim-260-production/",
+        "summary": "The agreement was signed to expand production of the AIM-260 JATM, laying the groundwork for a future multiyear buy of the long-range air-to-air weapon."
       }
     ],
     "geo_news": [
       {
-        "title": "MSB: Suudi Arabistan'ı hedef alan İHA saldırısı ile Husiler tarafından gerçekleştirilen eylemleri kınıyoruz",
+        "title": "MSB'den Birliğin Gücü-2026 tatbikatına ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/msb-suudi-arabistani-hedef-alan-iha-saldirisi-ile-husiler-tarafindan-gerceklestirilen-eylemleri-kiniyoruz/4059886",
-        "summary": "MSB Sözcüsü Tuğamiral Aktürk, \"Suudi Arabistan'ı hedef alan İHA saldırısı ile Husiler tarafından gerçekleştirilen eylemleri kınıyor, bölgesel istikrarı tehdit eden bu tür girişimle..."
+        "url": "https://www.aa.com.tr/tr/gundem/msbden-birligin-gucu-2026-tatbikatina-iliskin-paylasim/4060545",
+        "summary": "Milli Savunma Bakanlığı (MSB), 14'üncü Mekanize Piyade Tugay Komutanlığınca Birliğin Gücü-2026 tatbikatı hazırlıklarının tamamlandığını bildirdi."
       },
       {
-        "title": "İletişim Başkanlığı \"Vesayet İnşalarına Karşı Milli İrade Mücadelesi Paneli\" düzenleyecek",
+        "title": "Sermaye piyasası işlemleri soruşturmalarında 1 kişi tutuklandı, 48 kişiye adli kontrol uygulandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligi-vesayet-insalarina-karsi-milli-irade-mucadelesi-paneli-duzenleyecek-/4059853",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca yarın İstanbul'da \"Vesayet İnşalarına Karşı Milli İrade Mücadelesi Paneli\" düzenlenecek."
+        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-1-kisi-tutuklandi-48-kisiye-adli-kontrol-uygulandi/4060540",
+        "summary": "Sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmalar kapsamında 1 şüpheli tutuklandı, 48 kişi hakkında \"yurt dışına çıkış yasağı\" adli kontrol tedbiri uyg..."
       },
       {
-        "title": "İstanbul'da yeni nesil suç örgütlerine yönelik operasyonda yakalanan 178 şüpheli adliyede",
+        "title": "Kalp krizine karşı \"tansiyon, şeker, kolesterol gibi risk faktörlerinin farkında olun\" uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-yeni-nesil-suc-orgutlerine-yonelik-operasyonda-yakalanan-178-supheli-adliyede-/4059846",
-        "summary": "İstanbul merkezli 20 ilde yeni nesil suç örgütlerine yönelik düzenlenen operasyonda gözaltına alınan 178 şüpheli adliyeye sevk edildi."
+        "url": "https://www.aa.com.tr/tr/gundem/kalp-krizine-karsi-tansiyon-seker-kolesterol-gibi-risk-faktorlerinin-farkinda-olun-uyarisi/4060486",
+        "summary": "Prof. Dr. Umuttan Doğan, \"Kalp krizine karşı önlem alıp ömrümüzü uzatabiliriz. Tansiyon, şeker, kolesterol gibi risk faktörlerini ölçtürün, kontrol altına alın. Unutmayın ki bu ris..."
       },
       {
-        "title": "\"Mavi vatan\"ın isimsiz kahramanları: \"DEGAK Timi\"",
+        "title": "Türk Telekom Genel Müdürlük binasına COP31 kapsamında \"Yarına Sözümüz Var\" mesajı yansıtıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mavi-vatanin-isimsiz-kahramanlari-degak-timi/4059803",
-        "summary": "Sahil Güvenlik Karadeniz Bölge Komutanlığı'nda faaliyet gösteren Dalış, Emniyet, Güvenlik, Arama ve Kurtarma (DEGAK) Timi, \"mavi vatan\"daki zorlu mesaisini başarıyla sürdürüyor."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-telekom-genel-mudurluk-binasina-cop31-kapsaminda-yarina-sozumuz-var-mesaji-yansitildi/4060463",
+        "summary": "Türk Telekom Genel Müdürlüğünün binasına Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında \"Yarına Sözümüz Var\" mesajı yansıt..."
       }
     ]
   }
