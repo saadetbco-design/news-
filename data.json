@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-09-17 19:57:23",
+  "updated_at": "2026-09-18 09:18:29",
   "markets": {
-    "usd_try_kapalicarsi": "48.68 TL",
-    "eur_try_kapalicarsi": "56.00 TL",
+    "usd_try_kapalicarsi": "48.73 TL",
+    "eur_try_kapalicarsi": "55.97 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: The US Army is looking for new drones to ferry blood supplies",
-    "bullet_1": "The US Army is looking for new drones to ferry blood supplies",
-    "bullet_2": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
-    "bullet_3": "US Navy should target carriers in fight with China, report says",
+    "red_alert": "SON DAKİKA: French Army wants to keep adversaries guessing on see-through battlefield",
+    "bullet_1": "French Army wants to keep adversaries guessing on see-through battlefield",
+    "bullet_2": "US Air Force to extend service of B-1, B-2 bombers, official says",
+    "bullet_3": "The US Army is looking for new drones to ferry blood supplies",
     "defense_news": [
+      {
+        "title": "French Army wants to keep adversaries guessing on see-through battlefield",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/09/18/french-army-wants-to-keep-adversaries-guessing-on-see-through-battlefield/",
+        "summary": "The French Future Combat Command is looking at what Baratz called “frugal artificial intelligence,” designed to consume as little energy as possible."
+      },
+      {
+        "title": "US Air Force to extend service of B-1, B-2 bombers, official says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
+        "summary": "The service lives of the B-1 Lancer and B-2 Spirit will be extended, with their pilots to be some of the first to fly the B-21 Raider."
+      },
       {
         "title": "The US Army is looking for new drones to ferry blood supplies",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
         "summary": "In an \"extraordinary\" 22-day turnaround, Lockheed Martin received its first shipment of critical components from General Motors for Patriot interceptors."
-      },
-      {
-        "title": "US Navy should target carriers in fight with China, report says",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-navy-should-target-chinese-aircraft-carriers-report-says/",
-        "summary": "A U.S. think tank devised a strategy to target Chinese aircraft carriers by using similar tactics that China has planned against American ships."
-      },
-      {
-        "title": "Pentagon, Lockheed sign framework deal to boost AIM-260 production",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/17/pentagon-lockheed-sign-framework-deal-to-boost-aim-260-production/",
-        "summary": "The agreement was signed to expand production of the AIM-260 JATM, laying the groundwork for a future multiyear buy of the long-range air-to-air weapon."
       }
     ],
     "geo_news": [
       {
-        "title": "MSB'den Birliğin Gücü-2026 tatbikatına ilişkin paylaşım",
+        "title": "İzmir'de FETÖ operasyonunda 21 şüpheli yakalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/msbden-birligin-gucu-2026-tatbikatina-iliskin-paylasim/4060545",
-        "summary": "Milli Savunma Bakanlığı (MSB), 14'üncü Mekanize Piyade Tugay Komutanlığınca Birliğin Gücü-2026 tatbikatı hazırlıklarının tamamlandığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/izmirde-feto-operasyonunda-21-supheli-yakalandi/4060828",
+        "summary": "İzmir'de Fetullahçı Terör Örgütü'ne (FETÖ) yönelik operasyonda, örgüt üyesi oldukları, örgüte aidiyetin devamı için fon sağladıkları ve topladıkları gerekçesiyle 21 şüpheli gözaltı..."
       },
       {
-        "title": "Sermaye piyasası işlemleri soruşturmalarında 1 kişi tutuklandı, 48 kişiye adli kontrol uygulandı",
+        "title": "Kahramanmaraş merkezli yasa dışı bahis operasyonunda gözaltına alınan zanlılardan 67'si tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-1-kisi-tutuklandi-48-kisiye-adli-kontrol-uygulandi/4060540",
-        "summary": "Sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmalar kapsamında 1 şüpheli tutuklandı, 48 kişi hakkında \"yurt dışına çıkış yasağı\" adli kontrol tedbiri uyg..."
+        "url": "https://www.aa.com.tr/tr/gundem/kahramanmaras-merkezli-yasa-disi-bahis-operasyonunda-gozaltina-alinan-zanlilardan-67si-tutuklandi/4060906",
+        "summary": "Kahramanmaraş merkezli 16 ilde 14 Eylül'de yapılan yasa dışı bahis operasyonlarında gözaltına alınan 77 şüpheliden 67'si tutuklandı."
       },
       {
-        "title": "Kalp krizine karşı \"tansiyon, şeker, kolesterol gibi risk faktörlerinin farkında olun\" uyarısı",
+        "title": "\"Elektronik Yabancı Dil Olarak Türkçe Sınavı\" yarın yapılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kalp-krizine-karsi-tansiyon-seker-kolesterol-gibi-risk-faktorlerinin-farkinda-olun-uyarisi/4060486",
-        "summary": "Prof. Dr. Umuttan Doğan, \"Kalp krizine karşı önlem alıp ömrümüzü uzatabiliriz. Tansiyon, şeker, kolesterol gibi risk faktörlerini ölçtürün, kontrol altına alın. Unutmayın ki bu ris..."
+        "url": "https://www.aa.com.tr/tr/gundem/elektronik-yabanci-dil-olarak-turkce-sinavi-yarin-yapilacak/4060929",
+        "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığı, 2026 Elektronik Yabancı Dil Olarak Türkçe Sınavı'nı (e-YDTS/2 Türkçe) yarın uygulayacak."
       },
       {
-        "title": "Türk Telekom Genel Müdürlük binasına COP31 kapsamında \"Yarına Sözümüz Var\" mesajı yansıtıldı",
+        "title": "Hatay'da ormanlık alanda yangın çıktı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-telekom-genel-mudurluk-binasina-cop31-kapsaminda-yarina-sozumuz-var-mesaji-yansitildi/4060463",
-        "summary": "Türk Telekom Genel Müdürlüğünün binasına Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında \"Yarına Sözümüz Var\" mesajı yansıt..."
+        "url": "https://www.aa.com.tr/tr/gundem/hatayda-ormanlik-alanda-yangin-cikti-/4060904",
+        "summary": "Hatay'ın Dörtyol ilçesinde ormanlık alanda çıkan yangına havadan ve karadan müdahale ediliyor."
       }
     ]
   }
