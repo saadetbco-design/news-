@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 09:18:29",
+  "updated_at": "2026-09-18 19:20:28",
   "markets": {
     "usd_try_kapalicarsi": "48.73 TL",
     "eur_try_kapalicarsi": "55.97 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: French Army wants to keep adversaries guessing on see-through battlefield",
-    "bullet_1": "French Army wants to keep adversaries guessing on see-through battlefield",
-    "bullet_2": "US Air Force to extend service of B-1, B-2 bombers, official says",
-    "bullet_3": "The US Army is looking for new drones to ferry blood supplies",
+    "red_alert": "SON DAKİKA: US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
+    "bullet_1": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
+    "bullet_2": "US Air Force has a $14 billion supply hole, service officials say",
+    "bullet_3": "Latvia chooses Czech howitzers over Swedish Archer offer",
     "defense_news": [
+      {
+        "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/18/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia/",
+        "summary": "The U.S. Department of State said on Thursday it had approved the potential sale of Lockheed Martin’s F-35 Lightning II fighter jets to Saudi Arabia."
+      },
+      {
+        "title": "US Air Force has a $14 billion supply hole, service officials say",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/18/us-air-force-has-a-14-billion-supply-hole-service-officials-say/",
+        "summary": "As the force grapples with supply chain and maintenance issues, sustainment funding to fill the $14 billion gap is becoming increasingly necessary."
+      },
+      {
+        "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
+        "summary": "Latvia will buy Czech Morana 155 mm howitzers, reversing an earlier decision to by the rival Archer artillery weapon from Sweden's BAE Systems Bofors."
+      },
       {
         "title": "French Army wants to keep adversaries guessing on see-through battlefield",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/09/18/french-army-wants-to-keep-adversaries-guessing-on-see-through-battlefield/",
         "summary": "The French Future Combat Command is looking at what Baratz called “frugal artificial intelligence,” designed to consume as little energy as possible."
-      },
-      {
-        "title": "US Air Force to extend service of B-1, B-2 bombers, official says",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
-        "summary": "The service lives of the B-1 Lancer and B-2 Spirit will be extended, with their pilots to be some of the first to fly the B-21 Raider."
-      },
-      {
-        "title": "The US Army is looking for new drones to ferry blood supplies",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/17/the-us-army-is-looking-for-new-drones-to-ferry-blood-supplies/",
-        "summary": "As part of the U.S. Army Blood Link project, the service is seeking new drones that can transport blood supplies in the field."
-      },
-      {
-        "title": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
-        "summary": "In an \"extraordinary\" 22-day turnaround, Lockheed Martin received its first shipment of critical components from General Motors for Patriot interceptors."
       }
     ],
     "geo_news": [
       {
-        "title": "İzmir'de FETÖ operasyonunda 21 şüpheli yakalandı",
+        "title": "Türkiye, Pakistan'da cami yakınında meydana gelen saldırıyı kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/izmirde-feto-operasyonunda-21-supheli-yakalandi/4060828",
-        "summary": "İzmir'de Fetullahçı Terör Örgütü'ne (FETÖ) yönelik operasyonda, örgüt üyesi oldukları, örgüte aidiyetin devamı için fon sağladıkları ve topladıkları gerekçesiyle 21 şüpheli gözaltı..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-pakistanda-cami-yakininda-meydana-gelen-saldiriyi-kinadi/4061520",
+        "summary": "Dışişleri Bakanlığı, Pakistan'ın kuzeybatısındaki Hayber Pahtunhva eyaletinde cuma namazı sırasında bir caminin yakınında meydana gelen saldırıyı kınadı."
       },
       {
-        "title": "Kahramanmaraş merkezli yasa dışı bahis operasyonunda gözaltına alınan zanlılardan 67'si tutuklandı",
+        "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" soruşturmasında ek iddianame düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kahramanmaras-merkezli-yasa-disi-bahis-operasyonunda-gozaltina-alinan-zanlilardan-67si-tutuklandi/4060906",
-        "summary": "Kahramanmaraş merkezli 16 ilde 14 Eylül'de yapılan yasa dışı bahis operasyonlarında gözaltına alınan 77 şüpheliden 67'si tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-sorusturmasinda-ek-iddianame-duzenlendi/4061505",
+        "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne yönelik soruşturma kapsamında, Ağaç ve Peyzaj AŞ üzerinden usulsüz ihale sistemi işletilerek ihalelere fesat karıştırıldığı iddiasıyla 29 şüphe..."
       },
       {
-        "title": "\"Elektronik Yabancı Dil Olarak Türkçe Sınavı\" yarın yapılacak",
+        "title": "Türk Kızılay İstanbul'da 20 yeni kan çalkalama cihazını hizmete aldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/elektronik-yabanci-dil-olarak-turkce-sinavi-yarin-yapilacak/4060929",
-        "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığı, 2026 Elektronik Yabancı Dil Olarak Türkçe Sınavı'nı (e-YDTS/2 Türkçe) yarın uygulayacak."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-kizilay-istanbulda-20-yeni-kan-calkalama-cihazini-hizmete-aldi/4061495",
+        "summary": "Türk Kızılay İstanbul İl Başkanlığı tarafından hayırseverlerin katkılarıyla kente kazandırılan 20 yeni kan çalkalama cihazı, Kuzey Marmara Bölge Kan Merkezi'nde düzenlenen törenle ..."
       },
       {
-        "title": "Hatay'da ormanlık alanda yangın çıktı",
+        "title": "DMM'den \"Somali'nin Türk vatandaşlarına vize kısıtlaması getirdiği\" iddiasına yalanlama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/hatayda-ormanlik-alanda-yangin-cikti-/4060904",
-        "summary": "Hatay'ın Dörtyol ilçesinde ormanlık alanda çıkan yangına havadan ve karadan müdahale ediliyor."
+        "url": "https://www.aa.com.tr/tr/gundem/dmmden-somalinin-turk-vatandaslarina-vize-kisitlamasi-getirdigi-iddiasina-yalanlama/4061492",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Somali'nin Türk vatandaşlarına vize kısıtlaması getirdiği\" yönündeki iddiaların doğru olmadığını bild..."
       }
     ]
   }
