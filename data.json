@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-18 19:20:28",
+  "updated_at": "2026-09-19 09:05:52",
   "markets": {
-    "usd_try_kapalicarsi": "48.73 TL",
-    "eur_try_kapalicarsi": "55.97 TL",
+    "usd_try_kapalicarsi": "48.78 TL",
+    "eur_try_kapalicarsi": "55.99 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Türkiye, Pakistan'da cami yakınında meydana gelen saldırıyı kınadı",
+        "title": "Kullanım dışı mühimmat, TSK tesisinde \"sıfır atık\" ilkesiyle geri kazanılıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-pakistanda-cami-yakininda-meydana-gelen-saldiriyi-kinadi/4061520",
-        "summary": "Dışişleri Bakanlığı, Pakistan'ın kuzeybatısındaki Hayber Pahtunhva eyaletinde cuma namazı sırasında bir caminin yakınında meydana gelen saldırıyı kınadı."
+        "url": "https://www.aa.com.tr/tr/gundem/kullanim-disi-muhimmat-tsk-tesisinde-sifir-atik-ilkesiyle-geri-kazaniliyor/4061779",
+        "summary": "Türk Silahlı Kuvvetleri (TSK) Mühimmat Ayırma ve Ayıklama Tesisi'nde (MAAT), kullanım dışı klasik mühimmat, roket, füze ve mayınlar, güvenli biçimde ana parçalarına ayrılarak imha ..."
       },
       {
-        "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" soruşturmasında ek iddianame düzenlendi",
+        "title": "Kemik iliği bağışı hayat kurtarıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-sorusturmasinda-ek-iddianame-duzenlendi/4061505",
-        "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne yönelik soruşturma kapsamında, Ağaç ve Peyzaj AŞ üzerinden usulsüz ihale sistemi işletilerek ihalelere fesat karıştırıldığı iddiasıyla 29 şüphe..."
+        "url": "https://www.aa.com.tr/tr/gundem/kemik-iligi-bagisi-hayat-kurtariyor/4061767",
+        "summary": "Lösemi ve diğer kan hastalıklarıyla mücadelede hayati önem taşıyan kemik iliği bağışı, nakil bekleyen hastalara umut oluyor."
       },
       {
-        "title": "Türk Kızılay İstanbul'da 20 yeni kan çalkalama cihazını hizmete aldı",
+        "title": "Türkiye'de geçen ay 66 \"meteorolojik afet\" kayıtlara geçti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-kizilay-istanbulda-20-yeni-kan-calkalama-cihazini-hizmete-aldi/4061495",
-        "summary": "Türk Kızılay İstanbul İl Başkanlığı tarafından hayırseverlerin katkılarıyla kente kazandırılan 20 yeni kan çalkalama cihazı, Kuzey Marmara Bölge Kan Merkezi'nde düzenlenen törenle ..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyede-gecen-ay-66-meteorolojik-afet-kayitlara-gecti/4061768",
+        "summary": "Türkiye genelinde ağustosta büyük çoğunluğu dolu, şiddetli yağış ve sel olmak üzere 66 şiddetli meteorolojik olay meydana geldi."
       },
       {
-        "title": "DMM'den \"Somali'nin Türk vatandaşlarına vize kısıtlaması getirdiği\" iddiasına yalanlama",
+        "title": "Yargıtay, boşandığı eşiyle aynı gelir düzeyindeki kadına nafaka bağlanması kararını bozdu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dmmden-somalinin-turk-vatandaslarina-vize-kisitlamasi-getirdigi-iddiasina-yalanlama/4061492",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Somali'nin Türk vatandaşlarına vize kısıtlaması getirdiği\" yönündeki iddiaların doğru olmadığını bild..."
+        "url": "https://www.aa.com.tr/tr/gundem/yargitay-bosandigi-esiyle-ayni-gelir-duzeyindeki-kadina-nafaka-baglanmasi-kararini-bozdu/4061774",
+        "summary": "Yargıtay 2. Hukuk Dairesi, boşandığı eşiyle aynı gelir düzeyinde olup düzenli geliri bulunan kadına nafaka bağlanması yönündeki yerel mahkeme kararını hukuka aykırı bularak bozdu."
       }
     ]
   }
