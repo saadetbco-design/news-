@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-19 19:05:46",
+  "updated_at": "2026-09-20 09:32:02",
   "markets": {
-    "usd_try_kapalicarsi": "48.78 TL",
-    "eur_try_kapalicarsi": "55.99 TL",
+    "usd_try_kapalicarsi": "48.80 TL",
+    "eur_try_kapalicarsi": "56.01 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: KKTC, dünyayla entegre şekilde refahını artırmaya devam edecektir",
+        "title": "Adalet Bakanı Gürlek, iki faili meçhul cinayetin aydınlatıldığını duyurdu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-kktc-dunyayla-entegre-sekilde-refahini-artirmaya-devam-edecektir/4062136",
-        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Çok farklı yöntemlerle, suyuyla, enerjisiyle, dijital altyapılarıyla Kuzey Kıbrıs Türk Cumhuriyeti dünyayla entegre bir şekilde refahını ar..."
+        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-iki-faili-mechul-cinayetin-aydinlatildigini-duyurdu/4062388",
+        "summary": "Adalet Bakanı Akın Gürlek, farklı tarihlerde İstanbul'un Gaziosmanpaşa ve Osmaniye'nin Düziçi ilçesinde işlenen faili meçhul iki cinayetin aydınlatıldığını bildirdi."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan BM 81. Genel Kurulu genel görüşmelerine katılmak üzere yarın ABD'ye gidecek",
+        "title": "Cumhurbaşkanı Erdoğan, 16'ncı kez Birleşmiş Milletler Genel Kurulu'na hitap edecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bm-81-genel-kurulu-genel-gorusmelerine-katilmak-uzere-yarin-abdye-gidecek/4062194",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın, Birleşmiş Milletler (BM) 81. Genel Kurulu genel görüşmelerine katılmak üzere 20-23 Eylül..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-16nci-kez-birlesmis-milletler-genel-kuruluna-hitap-edecek/4062383",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu'na 22 Eylül Salı günü 16'ncı kez hitap edecek."
       },
       {
-        "title": "Dışişleri Bakanı Fidan:  Mekke İttifakı gerçekten iyi bir aşamada",
+        "title": "Türkiye'den 90 üniversite en az bir bilim alanında dünya liginde yer aldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-mekke-ittifaki-gercekten-iyi-bir-asamada/4062183",
-        "summary": "Dışişleri Bakanı Hakan Fidan, \"Mekke İttifakı gerçekten iyi bir aşamada. Ortaya konmuş çok güçlü bir irade var. Bu iradenin harekete geçmesi için var gücümüzle çalışıyoruz.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyeden-90-universite-en-az-bir-bilim-alaninda-dunya-liginde-yer-aldi/4062378",
+        "summary": "ODTÜ Enformatik Enstitüsü bünyesinde yer alan University Ranking by Academic Performance Araştırma Laboratuvarınca açıklanan \"2025-2026 dünya alan sıralaması\"nda, Türkiye'den 90 ün..."
       },
       {
-        "title": "Yüz şehit yakını umreye gönderilecek",
+        "title": "Her yıl yaklaşık 10 milyon kişiye tanı konulan demans hastalığında risk belli oranda önlenebilir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yuz-sehit-yakini-umreye-gonderilecek/4062154",
-        "summary": "Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğü (VGM), 100 şehit yakınının iki ayrı kafile halinde umreye gönderileceğini duyurdu."
+        "url": "https://www.aa.com.tr/tr/gundem/her-yil-yaklasik-10-milyon-kisiye-tani-konulan-demans-hastaliginda-risk-belli-oranda-onlenebilir/4062370",
+        "summary": "Dünya genelinde 57 milyondan fazla kişinin demansla (bunama) yaşadığı ve bu rakamın 2050'ye kadar 139 milyona çıkacağı öngörülürken, tam tedavisi olmasa da demans riskinin belli or..."
       }
     ]
   }
