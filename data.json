@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-20 19:11:46",
+  "updated_at": "2026-09-21 10:19:12",
   "markets": {
-    "usd_try_kapalicarsi": "48.80 TL",
-    "eur_try_kapalicarsi": "56.01 TL",
+    "usd_try_kapalicarsi": "48.79 TL",
+    "eur_try_kapalicarsi": "56.00 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
-    "bullet_1": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
-    "bullet_2": "US Air Force has a $14 billion supply hole, service officials say",
-    "bullet_3": "Latvia chooses Czech howitzers over Swedish Archer offer",
+    "red_alert": "SON DAKİKA: Denmark says NATO shares responsibility for Arctic security under Greenland deal",
+    "bullet_1": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
+    "bullet_2": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
+    "bullet_3": "US Air Force has a $14 billion supply hole, service officials say",
     "defense_news": [
+      {
+        "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/09/21/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal/",
+        "summary": "An agreement on Greenland's security, including a role for NATO, is expected to be signed at the UN General Assembly in New York on Tuesday."
+      },
       {
         "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
         "summary": "Latvia will buy Czech Morana 155 mm howitzers, reversing an earlier decision to by the rival Archer artillery weapon from Sweden's BAE Systems Bofors."
-      },
-      {
-        "title": "French Army wants to keep adversaries guessing on see-through battlefield",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/18/french-army-wants-to-keep-adversaries-guessing-on-see-through-battlefield/",
-        "summary": "The French Future Combat Command is looking at what Baratz called “frugal artificial intelligence,” designed to consume as little energy as possible."
       }
     ],
     "geo_news": [
       {
-        "title": "İstanbul'da \"Umut Mutfağı Projesi\" ilk mezunlarını verdi",
+        "title": "Yargıtay Ceza Genel Kurulu Başkanı Ömeroğlu: Yargılamanın temel süjesi insandır",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-umut-mutfagi-projesi-ilk-mezunlarini-verdi/4062690",
-        "summary": "Aile ve Sosyal Hizmetler Bakanlığı İstanbul İl Müdürlüğüne bağlı kuruluşlarda koruma altındaki 13 gencin, mesleki beceriler kazanarak çalışma hayatına hazırlanmasını desteklemek am..."
+        "url": "https://www.aa.com.tr/tr/gundem/yargitay-ceza-genel-kurulu-baskani-omeroglu-yargilamanin-temel-sujesi-insandir/4063168",
+        "summary": "Yargıtay Ceza Genel Kurulu Başkanı Ahmet Ömeroğlu, \"Adalet düzeninin içine, hukuk düzeninin merkezine insanı koymadığınızda insanlığınızı kaybedersiniz ve asla adalet üretemezsiniz..."
       },
       {
-        "title": "Adalet Bakanı Gürlek'ten güncellenen UYAP'a ilişkin paylaşım",
+        "title": "\"Kişisel veri\" soruşturmasında 6 avukatlık ofisi ile 20 şirkette eş zamanlı operasyon",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-guncellenen-uyapa-iliskin-paylasim/4062659",
-        "summary": "Bakan Gürlek, UYAP'ın yeni güncellemesiyle vatandaşların işlemlerini dijital ortamda daha kolay takip edebilmesini, başvuru ve sorgulama süreçlerini hızlı ve pratik şekilde yürüteb..."
+        "url": "https://www.aa.com.tr/tr/gundem/kisisel-veri-sorusturmasinda-6-avukatlik-ofisi-ile-20-sirkette-es-zamanli-operasyon/4063173",
+        "summary": "Adalet Bakanı Akın Gürlek, vatandaşların kişisel verilerini ele geçirenlere yönelik soruşturma kapsamında düzenlenen operasyonda, 6 avukatlık ofisi ile 20 şirkette eş zamanlı arama..."
       },
       {
-        "title": "Eskişehir'de 11. Sivrihisar Hava Gösterileri sona erdi",
+        "title": "Demans dünyada yaklaşık 57 milyon kişiyi etkiliyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/eskisehirde-11-sivrihisar-hava-gosterileri-sona-erdi/4062609",
-        "summary": "Eskişehir'in Sivrihisar ilçesinde bu yıl 11'incisi düzenlenen \"Sivrihisar Hava Gösterileri\" sona erdi."
+        "url": "https://www.aa.com.tr/tr/gundem/demans-dunyada-yaklasik-57-milyon-kisiyi-etkiliyor/4063154",
+        "summary": "Sağlık Bakanlığı, Alzheimer'ın tüm demans vakalarının yaklaşık yüzde 60-70'ini oluşturan en yaygın demans türü olduğunu ve dünya genelinde 55-57 milyon kişide demans bulunduğunu bi..."
       },
       {
-        "title": "60 saniyede bugün (20 Eylül 2026)",
+        "title": "Adalet Bakan Yardımcısı Ayyıldız: Adli tıp ve adli bilimler kurumlarının sabit kalması düşünülemez",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-20-eylul-2026/4062563",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakan-yardimcisi-ayyildiz-adli-tip-ve-adli-bilimler-kurumlarinin-sabit-kalmasi-dusunulemez/4063146",
+        "summary": "Adalet Bakan Yardımcısı Sedat Ayyıldız, \"Adli tıp ve adli bilimler kurumlarının sabit kalması düşünülemez. Dünyadaki gelişmeleri takip eden ve bu gelişmelere yön verebilen kurumlar..."
       }
     ]
   }
