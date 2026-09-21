@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 10:19:12",
+  "updated_at": "2026-09-21 20:42:44",
   "markets": {
     "usd_try_kapalicarsi": "48.79 TL",
     "eur_try_kapalicarsi": "56.00 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Denmark says NATO shares responsibility for Arctic security under Greenland deal",
-    "bullet_1": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
-    "bullet_2": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
-    "bullet_3": "US Air Force has a $14 billion supply hole, service officials say",
+    "red_alert": "SON DAKİKA: The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+    "bullet_1": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+    "bullet_2": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
+    "bullet_3": "Hegseth to chair Pentagon’s new Homeland Defense advisory board",
     "defense_news": [
+      {
+        "title": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private/",
+        "summary": "The Pentagon remains mum about defense contractors' plans to boost weapons production and delivery following a 21-day deadline for companies to send ideas."
+      },
+      {
+        "title": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
+        "summary": "The United States is watching China’s presence in its Arctic zone “very closely” amid increasing concerns, a senior U.S. Arctic military official said."
+      },
+      {
+        "title": "Hegseth to chair Pentagon’s new Homeland Defense advisory board",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/",
+        "summary": "The newly established Homeland Defense Board aims to fill a gap Pentagon leaders see in providing military guidance to homeland security missions."
+      },
       {
         "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/09/21/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal/",
         "summary": "An agreement on Greenland's security, including a role for NATO, is expected to be signed at the UN General Assembly in New York on Tuesday."
-      },
-      {
-        "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/18/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia/",
-        "summary": "The U.S. Department of State said on Thursday it had approved the potential sale of Lockheed Martin’s F-35 Lightning II fighter jets to Saudi Arabia."
-      },
-      {
-        "title": "US Air Force has a $14 billion supply hole, service officials say",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/18/us-air-force-has-a-14-billion-supply-hole-service-officials-say/",
-        "summary": "As the force grapples with supply chain and maintenance issues, sustainment funding to fill the $14 billion gap is becoming increasingly necessary."
-      },
-      {
-        "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
-        "summary": "Latvia will buy Czech Morana 155 mm howitzers, reversing an earlier decision to by the rival Archer artillery weapon from Sweden's BAE Systems Bofors."
       }
     ],
     "geo_news": [
       {
-        "title": "Yargıtay Ceza Genel Kurulu Başkanı Ömeroğlu: Yargılamanın temel süjesi insandır",
+        "title": "Cumhurbaşkanı Erdoğan'ın yer aldığı COP31 tanıtım afişleri Türkevi'ne asıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yargitay-ceza-genel-kurulu-baskani-omeroglu-yargilamanin-temel-sujesi-insandir/4063168",
-        "summary": "Yargıtay Ceza Genel Kurulu Başkanı Ahmet Ömeroğlu, \"Adalet düzeninin içine, hukuk düzeninin merkezine insanı koymadığınızda insanlığınızı kaybedersiniz ve asla adalet üretemezsiniz..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdoganin-yer-aldigi-cop31-tanitim-afisleri-turkevine-asildi/4063559",
+        "summary": "Cumhurbaşkanı Erdoğan'ın BM kürsüsündeki görsellerinin yer aldığı, kasımda Antalya'da yapılacak COP31 tanıtım afişleri, BM 81. Genel Kurul haftası kapsamında Türkevi binasına asıld..."
       },
       {
-        "title": "\"Kişisel veri\" soruşturmasında 6 avukatlık ofisi ile 20 şirkette eş zamanlı operasyon",
+        "title": "Emine Erdoğan, Brezilya Devlet Başkanı'nın eşi Silva ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kisisel-veri-sorusturmasinda-6-avukatlik-ofisi-ile-20-sirkette-es-zamanli-operasyon/4063173",
-        "summary": "Adalet Bakanı Akın Gürlek, vatandaşların kişisel verilerini ele geçirenlere yönelik soruşturma kapsamında düzenlenen operasyonda, 6 avukatlık ofisi ile 20 şirkette eş zamanlı arama..."
+        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogan-brezilya-devlet-baskaninin-esi-silva-ile-gorustu/4063674",
+        "summary": "Birleşmiş Milletler (BM) Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Brezilya Devlet Başkanı Luiz Inacio Lula da Silva'nın eşi Rosangela Lula da Sil..."
       },
       {
-        "title": "Demans dünyada yaklaşık 57 milyon kişiyi etkiliyor",
+        "title": "DMM, Dışişleri Bakanlığına atfedilen \"Uganda\" konulu metni yalanladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/demans-dunyada-yaklasik-57-milyon-kisiyi-etkiliyor/4063154",
-        "summary": "Sağlık Bakanlığı, Alzheimer'ın tüm demans vakalarının yaklaşık yüzde 60-70'ini oluşturan en yaygın demans türü olduğunu ve dünya genelinde 55-57 milyon kişide demans bulunduğunu bi..."
+        "url": "https://www.aa.com.tr/tr/gundem/dmm-disisleri-bakanligina-atfedilen-uganda-konulu-metni-yalanladi/4063665",
+        "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Dışişleri Bakanlığı amblemi ve anteti kullanılarak \"Uganda Genelkurmay Başkanı Muhoozi Kainerugaba'nın Tehditleri Hakkı..."
       },
       {
-        "title": "Adalet Bakan Yardımcısı Ayyıldız: Adli tıp ve adli bilimler kurumlarının sabit kalması düşünülemez",
+        "title": "Sermaye piyasası işlemleri soruşturmalarında 2 şüpheli gözaltına alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakan-yardimcisi-ayyildiz-adli-tip-ve-adli-bilimler-kurumlarinin-sabit-kalmasi-dusunulemez/4063146",
-        "summary": "Adalet Bakan Yardımcısı Sedat Ayyıldız, \"Adli tıp ve adli bilimler kurumlarının sabit kalması düşünülemez. Dünyadaki gelişmeleri takip eden ve bu gelişmelere yön verebilen kurumlar..."
+        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-2-supheli-gozaltina-alindi/4063660",
+        "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmalar kapsamında 2 şüpheli gözaltına alındı."
       }
     ]
   }
