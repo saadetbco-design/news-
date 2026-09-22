@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-21 20:42:44",
+  "updated_at": "2026-09-22 09:34:12",
   "markets": {
-    "usd_try_kapalicarsi": "48.79 TL",
-    "eur_try_kapalicarsi": "56.00 TL",
+    "usd_try_kapalicarsi": "48.82 TL",
+    "eur_try_kapalicarsi": "56.01 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
-    "bullet_1": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
-    "bullet_2": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
-    "bullet_3": "Hegseth to chair Pentagon’s new Homeland Defense advisory board",
+    "red_alert": "SON DAKİKA: General Atomics delivers FQ-42 Vengeance to Nevada air base",
+    "bullet_1": "General Atomics delivers FQ-42 Vengeance to Nevada air base",
+    "bullet_2": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+    "bullet_3": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
     "defense_news": [
+      {
+        "title": "General Atomics delivers FQ-42 Vengeance to Nevada air base",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/21/general-atomics-delivers-fq-42-vengeance-to-nevada-air-base/",
+        "summary": "Creech Air Force Base received a new FQ-42 Vengeance aircraft on Friday, with the jet to continue regular test and evaluation operations."
+      },
       {
         "title": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/",
         "summary": "The newly established Homeland Defense Board aims to fill a gap Pentagon leaders see in providing military guidance to homeland security missions."
-      },
-      {
-        "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/21/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal/",
-        "summary": "An agreement on Greenland's security, including a role for NATO, is expected to be signed at the UN General Assembly in New York on Tuesday."
       }
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan'ın yer aldığı COP31 tanıtım afişleri Türkevi'ne asıldı",
+        "title": "Adli Tıp Günleri Türkiye'nin alandaki birikimini uluslararası zemine taşıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdoganin-yer-aldigi-cop31-tanitim-afisleri-turkevine-asildi/4063559",
-        "summary": "Cumhurbaşkanı Erdoğan'ın BM kürsüsündeki görsellerinin yer aldığı, kasımda Antalya'da yapılacak COP31 tanıtım afişleri, BM 81. Genel Kurul haftası kapsamında Türkevi binasına asıld..."
+        "url": "https://www.aa.com.tr/tr/gundem/adli-tip-gunleri-turkiyenin-alandaki-birikimini-uluslararasi-zemine-tasiyor/4064126",
+        "summary": "Uluslararası 21. Adli Tıp Günleri Kongresi Sekreteri ve Adli Tıp Kurumu 1. İhtisas Kurulu Üyesi Prof. Dr. Adem Karbuz, kongre aracılığıyla Türkiye'nin adli tıp alanındaki birikimin..."
       },
       {
-        "title": "Emine Erdoğan, Brezilya Devlet Başkanı'nın eşi Silva ile görüştü",
+        "title": "Malezya'nın yeni Ankara Büyükelçisi Shaffieq, Türkiye'yi büyük bir açık hava müzesine benzetti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogan-brezilya-devlet-baskaninin-esi-silva-ile-gorustu/4063674",
-        "summary": "Birleşmiş Milletler (BM) Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Brezilya Devlet Başkanı Luiz Inacio Lula da Silva'nın eşi Rosangela Lula da Sil..."
+        "url": "https://www.aa.com.tr/tr/gundem/malezyanin-yeni-ankara-buyukelcisi-shaffieq-turkiyeyi-buyuk-bir-acik-hava-muzesine-benzetti/4064206",
+        "summary": "Malezya'nın Ankara Büyükelçisi Adlan Mohd Shaffieq, Türkiye'yi büyük bir açık hava müzesine benzeterek, \"Çok derin bir kültüre sahip, bu yüzden Türkiye'yi keşfetmek benim için son ..."
       },
       {
-        "title": "DMM, Dışişleri Bakanlığına atfedilen \"Uganda\" konulu metni yalanladı",
+        "title": "2026-KPSS Din Hizmetleri Alan Bilgisi Sınavı başvuruları başladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dmm-disisleri-bakanligina-atfedilen-uganda-konulu-metni-yalanladi/4063665",
-        "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Dışişleri Bakanlığı amblemi ve anteti kullanılarak \"Uganda Genelkurmay Başkanı Muhoozi Kainerugaba'nın Tehditleri Hakkı..."
+        "url": "https://www.aa.com.tr/tr/gundem/2026-kpss-din-hizmetleri-alan-bilgisi-sinavi-basvurulari-basladi/4064187",
+        "summary": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) 1 Kasım'da yapılacak 2026-KPSS Din Hizmetleri Alan Bilgisi Sınavı (DHBT) başvuruları başladı."
       },
       {
-        "title": "Sermaye piyasası işlemleri soruşturmalarında 2 şüpheli gözaltına alındı",
+        "title": "Bakan Göktaş: Çocukların güvenliği en başından itibaren dijital sistemlerin içine yerleştirilmelidir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-2-supheli-gozaltina-alindi/4063660",
-        "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmalar kapsamında 2 şüpheli gözaltına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-cocuklarin-guvenligi-en-basindan-itibaren-dijital-sistemlerin-icine-yerlestirilmelidir/4064087",
+        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Çocukların güvenliği en başından itibaren dijital sistemlerin içine yerleştirilmelidir.\" dedi."
       }
     ]
   }
