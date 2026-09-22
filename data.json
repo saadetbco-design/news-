@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 09:34:12",
+  "updated_at": "2026-09-22 19:58:26",
   "markets": {
     "usd_try_kapalicarsi": "48.82 TL",
     "eur_try_kapalicarsi": "56.01 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: General Atomics delivers FQ-42 Vengeance to Nevada air base",
-    "bullet_1": "General Atomics delivers FQ-42 Vengeance to Nevada air base",
-    "bullet_2": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
-    "bullet_3": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
+    "red_alert": "SON DAKİKA: US Navy destroyers tested in Middle East as demands mount",
+    "bullet_1": "US Navy destroyers tested in Middle East as demands mount",
+    "bullet_2": "Royal Navy successfully launches US Mk 48 torpedo from uncrewed submersible",
+    "bullet_3": "Italian Navy plots race of two local machines: an F-35B against a Ferrari",
     "defense_news": [
       {
-        "title": "General Atomics delivers FQ-42 Vengeance to Nevada air base",
+        "title": "US Navy destroyers tested in Middle East as demands mount",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/21/general-atomics-delivers-fq-42-vengeance-to-nevada-air-base/",
-        "summary": "Creech Air Force Base received a new FQ-42 Vengeance aircraft on Friday, with the jet to continue regular test and evaluation operations."
+        "url": "https://www.defensenews.com/news/your-navy/2026/09/22/us-navy-destroyers-tested-in-middle-east-as-demands-mount/",
+        "summary": "The concentration of Navy destroyers in the Middle East raises questions about meeting sustained operational demand."
       },
       {
-        "title": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+        "title": "Royal Navy successfully launches US Mk 48 torpedo from uncrewed submersible",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private/",
-        "summary": "The Pentagon remains mum about defense contractors' plans to boost weapons production and delivery following a 21-day deadline for companies to send ideas."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/",
+        "summary": "Last week, the Royal Navy successfully launched a U.S.-made Mk 48 Heavyweight Torpedo from a British Excalibur uncrewed underwater vehicle."
       },
       {
-        "title": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
+        "title": "Italian Navy plots race of two local machines: an F-35B against a Ferrari",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
-        "summary": "The United States is watching China’s presence in its Arctic zone “very closely” amid increasing concerns, a senior U.S. Arctic military official said."
+        "url": "https://www.defensenews.com/global/europe/2026/09/22/italian-navy-plots-race-of-two-local-machines-an-f-35b-against-a-ferrari/",
+        "summary": "The Italian Navy wants to find out if one of its F-35B fighter jets can outrace a Ferrari SF90 on the ground."
       },
       {
-        "title": "Hegseth to chair Pentagon’s new Homeland Defense advisory board",
+        "title": "CENTCOM has become a battle lab for unmanned systems",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/",
-        "summary": "The newly established Homeland Defense Board aims to fill a gap Pentagon leaders see in providing military guidance to homeland security missions."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/22/centcom-has-become-a-battle-lab-for-unmanned-systems/",
+        "summary": "Unmanned systems have moved quickly from experimentation and exercises into the demands of an active war."
       }
     ],
     "geo_news": [
       {
-        "title": "Adli Tıp Günleri Türkiye'nin alandaki birikimini uluslararası zemine taşıyor",
+        "title": "Türkiye, diğer MIKTA ülkeleri ile insani yardım alanındaki yanlış ve zararlı söylemleri kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adli-tip-gunleri-turkiyenin-alandaki-birikimini-uluslararasi-zemine-tasiyor/4064126",
-        "summary": "Uluslararası 21. Adli Tıp Günleri Kongresi Sekreteri ve Adli Tıp Kurumu 1. İhtisas Kurulu Üyesi Prof. Dr. Adem Karbuz, kongre aracılığıyla Türkiye'nin adli tıp alanındaki birikimin..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-diger-mikta-ulkeleri-ile-insani-yardim-alanindaki-yanlis-ve-zararli-soylemleri-kinadi/4065340",
+        "summary": "Türkiye, diğer MIKTA üyeleri ile birlikte insani yardım kuruluşlarını yanlış şekilde tasvir eden ya da insani yardım faaliyetlerini engelleyen zararlı söylemlerin oluşturulmasını, ..."
       },
       {
-        "title": "Malezya'nın yeni Ankara Büyükelçisi Shaffieq, Türkiye'yi büyük bir açık hava müzesine benzetti",
+        "title": "Sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar sürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/malezyanin-yeni-ankara-buyukelcisi-shaffieq-turkiyeyi-buyuk-bir-acik-hava-muzesine-benzetti/4064206",
-        "summary": "Malezya'nın Ankara Büyükelçisi Adlan Mohd Shaffieq, Türkiye'yi büyük bir açık hava müzesine benzeterek, \"Çok derin bir kültüre sahip, bu yüzden Türkiye'yi keşfetmek benim için son ..."
+        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasinda-gerceklestirilen-islemlere-iliskin-sorusturmalar-suruyor/4065342",
+        "summary": "İstanbul Cumhuriyet Başsavcılığınca sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmalar kapsamında, gözaltındaki şüphelilere ilişkin adli işlemler ile za..."
       },
       {
-        "title": "2026-KPSS Din Hizmetleri Alan Bilgisi Sınavı başvuruları başladı",
+        "title": "Başkentte gök gürültülü sağanak etkili oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/2026-kpss-din-hizmetleri-alan-bilgisi-sinavi-basvurulari-basladi/4064187",
-        "summary": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) 1 Kasım'da yapılacak 2026-KPSS Din Hizmetleri Alan Bilgisi Sınavı (DHBT) başvuruları başladı."
+        "url": "https://www.aa.com.tr/tr/gundem/baskentte-gok-gurultulu-saganak-etkili-oldu/4065267",
+        "summary": "Ankara'da akşam başlayan gök gürültülü sağanak, trafiği olumsuz etkiledi, bazı cadde ve sokaklarda su birikintilerine neden oldu."
       },
       {
-        "title": "Bakan Göktaş: Çocukların güvenliği en başından itibaren dijital sistemlerin içine yerleştirilmelidir",
+        "title": "Ekrem İmamoğlu'nun şirket aracının giderlerini Beylikdüzü Belediyesine karşılattığı iddiasına ilişkin dava başladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-cocuklarin-guvenligi-en-basindan-itibaren-dijital-sistemlerin-icine-yerlestirilmelidir/4064087",
-        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Çocukların güvenliği en başından itibaren dijital sistemlerin içine yerleştirilmelidir.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/ekrem-imamoglunun-sirket-aracinin-giderlerini-beylikduzu-belediyesine-karsilattigi-iddiasina-iliskin-dava-basladi/4065219",
+        "summary": "Tutuklanmasının ardından İBB Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu'nun Beylikdüzü Belediye Başkanlığı döneminde kendi şirketine ait aracın masraflarını belediyeye kar..."
       }
     ]
   }
