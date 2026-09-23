@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23 09:39:40",
+  "updated_at": "2026-09-23 19:55:23",
   "markets": {
     "usd_try_kapalicarsi": "48.83 TL",
     "eur_try_kapalicarsi": "55.92 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Navy destroyers tested in Middle East as demands mount",
-    "bullet_1": "US Navy destroyers tested in Middle East as demands mount",
-    "bullet_2": "Royal Navy successfully launches US Mk 48 torpedo from uncrewed submersible",
-    "bullet_3": "Italian Navy plots race of two local machines: an F-35B against a Ferrari",
+    "red_alert": "SON DAKİKA: Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
+    "bullet_1": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
+    "bullet_2": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
+    "bullet_3": "Greenland welcomes US military pact but trust still shaky",
     "defense_news": [
       {
-        "title": "US Navy destroyers tested in Middle East as demands mount",
+        "title": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-navy/2026/09/22/us-navy-destroyers-tested-in-middle-east-as-demands-mount/",
-        "summary": "The concentration of Navy destroyers in the Middle East raises questions about meeting sustained operational demand."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers/",
+        "summary": "Despite an August order for the U.S. Navy to return to steam catapults on its newest carriers, the service appears to be sticking with electromagnetics."
       },
       {
-        "title": "Royal Navy successfully launches US Mk 48 torpedo from uncrewed submersible",
+        "title": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/",
-        "summary": "Last week, the Royal Navy successfully launched a U.S.-made Mk 48 Heavyweight Torpedo from a British Excalibur uncrewed underwater vehicle."
+        "url": "https://www.defensenews.com/air/2026/09/23/air-force-civilian-staff-dispute-status-of-china-aerospace-studies-institute/",
+        "summary": "CASI's director said the move will effectively end the institute, even as the service says CASI’s mission will continue."
       },
       {
-        "title": "Italian Navy plots race of two local machines: an F-35B against a Ferrari",
+        "title": "Greenland welcomes US military pact but trust still shaky",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/22/italian-navy-plots-race-of-two-local-machines-an-f-35b-against-a-ferrari/",
-        "summary": "The Italian Navy wants to find out if one of its F-35B fighter jets can outrace a Ferrari SF90 on the ground."
+        "url": "https://www.defensenews.com/global/europe/2026/09/23/greenland-welcomes-us-military-pact-but-trust-still-shaky/",
+        "summary": "Greenland’s government and residents expressed relief about a new military pact with the United States and Denmark."
       },
       {
-        "title": "CENTCOM has become a battle lab for unmanned systems",
+        "title": "German defense minister sees smooth sailing in parliament for his record defense budget",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/22/centcom-has-become-a-battle-lab-for-unmanned-systems/",
-        "summary": "Unmanned systems have moved quickly from experimentation and exercises into the demands of an active war."
+        "url": "https://www.defensenews.com/global/europe/2026/09/23/german-defense-minister-sees-smooth-sailing-in-parliament-for-his-record-defense-budget/",
+        "summary": "Pistorius is asking lawmakers to approve nearly €140 billion ($160 billion) for defense next year, a record sum."
       }
     ],
     "geo_news": [
       {
-        "title": "\"Yapay zeka, adli bilirkişilikte karar destek aracı olmalı\" değerlendirmesi",
+        "title": "Cumhurbaşkanı Erdoğan: İklim hedeflerimizi toplumsal gerçeklerle buluşturamadığımız her öneri başarısızlığa mahkum",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yapay-zeka-adli-bilirkisilikte-karar-destek-araci-olmali-degerlendirmesi/4066001",
-        "summary": "Adli Tıp Kurumu (ATK) Başkan Yardımcısı Muhammet Şimşek, bilirkişilik alanında yapay zekanın daha çok \"karar destek aracı\" olarak kullanılması gerektiğini belirtti."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-iklim-hedeflerimizi-toplumsal-gerceklerle-bulusturamadigimiz-her-oneri-basarisizliga-mahkum/4066704",
+        "summary": "Cumhurbaşkanı Erdoğan, \"İklim hedeflerimizi toplumsal ve ekonomik gerçeklerle buluşturamadığımız her öneri başarısızlığa mahkum olacaktır.\" dedi."
       },
       {
-        "title": "COP31 yolunda şehirlerin su vizyonu ve iklim direnci İstanbul'da masaya yatırılacak",
+        "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye hedefi doğrultusunda kararlılıkla ilerliyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31-yolunda-sehirlerin-su-vizyonu-ve-iklim-direnci-istanbulda-masaya-yatirilacak/4065888",
-        "summary": "AK Parti Genel Merkez Kadın Kolları Başkanlığınca \"Kadınla Yükselen Şehirler\" temasıyla düzenlenen programın bu seneki konusu, \"Kadınla Yükselen Şehirler: Suyun İzinde\" olacak."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-hedefi-dogrultusunda-kararlilikla-ilerliyoruz/4066867",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Bölgesel potansiyelimizi harekete geçirmek için Terörsüz Türkiye hedefi doğrultusunda kararlılıkla ilerliyoruz.\" ifadelerini kullandı."
       },
       {
-        "title": "İçişleri Bakanı Çiftçi, emniyet müdürlerine okul güvenliğine ilişkin talimat verdi",
+        "title": "Kurtulmuş: Mekke Ortak Savunma Anlaşması diğer ülkelerin de katılımıyla faydalı bir savunma anlaşmasına dönüşecektir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-emniyet-mudurlerine-okul-guvenligine-iliskin-talimat-verdi/4065970",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, emniyet müdürlerine hitabında, \"Okul güvenliği konusunda çok hassas olacaksınız. Her okulun risk durumunu ayrı ayrı değerlendirecek, okul çevresini ..."
+        "url": "https://www.aa.com.tr/tr/gundem/kurtulmus-mekke-ortak-savunma-anlasmasi-diger-ulkelerin-de-katilimiyla-faydali-bir-savunma-anlasmasina-donusecektir/4066803",
+        "summary": "TBMM Başkanı Kurtulmuş, Mekke Ortak Savunma Anlaşması'na ilişkin \"Ümit ediyorum ki bu anlaşma sağlam temeller üzerinde gelişerek, bölgemizdeki diğer ülkelerin de katılımıyla faydal..."
       },
       {
-        "title": "Başkentte selden çöken yolda onarım çalışmaları sürüyor",
+        "title": "Cumhurbaşkanı Erdoğan New York'ta temaslarda bulundu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/baskentte-selden-coken-yolda-onarim-calismalari-suruyor/4065975",
-        "summary": "Ankara'da dün akşam saatlerinde etkili olan sağanakta Keçiören ilçesinde çöken yolda onarım çalışmaları sürüyor."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-new-yorkta-temaslarda-bulundu/4066702",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ermenistan Başbakanı Nikol Paşinyan, Irak Başbakanı Ali ez-Zeydi ve Ukrayna Devlet Başkanı Volodimir Zelenskiy'i kabul etti."
       }
     ]
   }
