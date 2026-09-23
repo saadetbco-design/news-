@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-22 19:58:26",
+  "updated_at": "2026-09-23 09:39:40",
   "markets": {
-    "usd_try_kapalicarsi": "48.82 TL",
-    "eur_try_kapalicarsi": "56.01 TL",
+    "usd_try_kapalicarsi": "48.83 TL",
+    "eur_try_kapalicarsi": "55.92 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Türkiye, diğer MIKTA ülkeleri ile insani yardım alanındaki yanlış ve zararlı söylemleri kınadı",
+        "title": "\"Yapay zeka, adli bilirkişilikte karar destek aracı olmalı\" değerlendirmesi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-diger-mikta-ulkeleri-ile-insani-yardim-alanindaki-yanlis-ve-zararli-soylemleri-kinadi/4065340",
-        "summary": "Türkiye, diğer MIKTA üyeleri ile birlikte insani yardım kuruluşlarını yanlış şekilde tasvir eden ya da insani yardım faaliyetlerini engelleyen zararlı söylemlerin oluşturulmasını, ..."
+        "url": "https://www.aa.com.tr/tr/gundem/yapay-zeka-adli-bilirkisilikte-karar-destek-araci-olmali-degerlendirmesi/4066001",
+        "summary": "Adli Tıp Kurumu (ATK) Başkan Yardımcısı Muhammet Şimşek, bilirkişilik alanında yapay zekanın daha çok \"karar destek aracı\" olarak kullanılması gerektiğini belirtti."
       },
       {
-        "title": "Sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar sürüyor",
+        "title": "COP31 yolunda şehirlerin su vizyonu ve iklim direnci İstanbul'da masaya yatırılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasinda-gerceklestirilen-islemlere-iliskin-sorusturmalar-suruyor/4065342",
-        "summary": "İstanbul Cumhuriyet Başsavcılığınca sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmalar kapsamında, gözaltındaki şüphelilere ilişkin adli işlemler ile za..."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31-yolunda-sehirlerin-su-vizyonu-ve-iklim-direnci-istanbulda-masaya-yatirilacak/4065888",
+        "summary": "AK Parti Genel Merkez Kadın Kolları Başkanlığınca \"Kadınla Yükselen Şehirler\" temasıyla düzenlenen programın bu seneki konusu, \"Kadınla Yükselen Şehirler: Suyun İzinde\" olacak."
       },
       {
-        "title": "Başkentte gök gürültülü sağanak etkili oldu",
+        "title": "İçişleri Bakanı Çiftçi, emniyet müdürlerine okul güvenliğine ilişkin talimat verdi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/baskentte-gok-gurultulu-saganak-etkili-oldu/4065267",
-        "summary": "Ankara'da akşam başlayan gök gürültülü sağanak, trafiği olumsuz etkiledi, bazı cadde ve sokaklarda su birikintilerine neden oldu."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-emniyet-mudurlerine-okul-guvenligine-iliskin-talimat-verdi/4065970",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, emniyet müdürlerine hitabında, \"Okul güvenliği konusunda çok hassas olacaksınız. Her okulun risk durumunu ayrı ayrı değerlendirecek, okul çevresini ..."
       },
       {
-        "title": "Ekrem İmamoğlu'nun şirket aracının giderlerini Beylikdüzü Belediyesine karşılattığı iddiasına ilişkin dava başladı",
+        "title": "Başkentte selden çöken yolda onarım çalışmaları sürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ekrem-imamoglunun-sirket-aracinin-giderlerini-beylikduzu-belediyesine-karsilattigi-iddiasina-iliskin-dava-basladi/4065219",
-        "summary": "Tutuklanmasının ardından İBB Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu'nun Beylikdüzü Belediye Başkanlığı döneminde kendi şirketine ait aracın masraflarını belediyeye kar..."
+        "url": "https://www.aa.com.tr/tr/gundem/baskentte-selden-coken-yolda-onarim-calismalari-suruyor/4065975",
+        "summary": "Ankara'da dün akşam saatlerinde etkili olan sağanakta Keçiören ilçesinde çöken yolda onarım çalışmaları sürüyor."
       }
     ]
   }
