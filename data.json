@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-23 19:55:23",
+  "updated_at": "2026-09-24 09:38:36",
   "markets": {
-    "usd_try_kapalicarsi": "48.83 TL",
-    "eur_try_kapalicarsi": "55.92 TL",
+    "usd_try_kapalicarsi": "48.86 TL",
+    "eur_try_kapalicarsi": "55.69 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
-    "bullet_1": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
-    "bullet_2": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
-    "bullet_3": "Greenland welcomes US military pact but trust still shaky",
+    "red_alert": "SON DAKİKA: Army awards Palantir $48.1M to modernize ammo management",
+    "bullet_1": "Army awards Palantir $48.1M to modernize ammo management",
+    "bullet_2": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
+    "bullet_3": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
     "defense_news": [
+      {
+        "title": "Army awards Palantir $48.1M to modernize ammo management",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-army/2026/09/24/army-awards-palantir-481m-to-modernize-ammo-management/",
+        "summary": "The tech company has built AI software designed to process data for targeting and decision-making, and now, managing ammo."
+      },
       {
         "title": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/09/23/greenland-welcomes-us-military-pact-but-trust-still-shaky/",
         "summary": "Greenland’s government and residents expressed relief about a new military pact with the United States and Denmark."
-      },
-      {
-        "title": "German defense minister sees smooth sailing in parliament for his record defense budget",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/23/german-defense-minister-sees-smooth-sailing-in-parliament-for-his-record-defense-budget/",
-        "summary": "Pistorius is asking lawmakers to approve nearly €140 billion ($160 billion) for defense next year, a record sum."
       }
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan: İklim hedeflerimizi toplumsal gerçeklerle buluşturamadığımız her öneri başarısızlığa mahkum",
+        "title": "Türk-Japon Bilim ve Teknoloji Üniversitesi yüksek sıralamalı öğrencilerin tercihi oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-iklim-hedeflerimizi-toplumsal-gerceklerle-bulusturamadigimiz-her-oneri-basarisizliga-mahkum/4066704",
-        "summary": "Cumhurbaşkanı Erdoğan, \"İklim hedeflerimizi toplumsal ve ekonomik gerçeklerle buluşturamadığımız her öneri başarısızlığa mahkum olacaktır.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-japon-bilim-ve-teknoloji-universitesi-yuksek-siralamali-ogrencilerin-tercihi-oldu/4067542",
+        "summary": "Türk-Japon Bilim ve Teknoloji Üniversitesi (TJU), yüksek başarı sıralamasındaki öğrencilerin tercihi oldu."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye hedefi doğrultusunda kararlılıkla ilerliyoruz",
+        "title": "Kırmızı ışıkta aracına çarptığı öğretmenin ölümüne neden olan sürücünün cezası artırıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-hedefi-dogrultusunda-kararlilikla-ilerliyoruz/4066867",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Bölgesel potansiyelimizi harekete geçirmek için Terörsüz Türkiye hedefi doğrultusunda kararlılıkla ilerliyoruz.\" ifadelerini kullandı."
+        "url": "https://www.aa.com.tr/tr/gundem/kirmizi-isikta-aracina-carptigi-ogretmenin-olumune-neden-olan-surucunun-cezasi-artirildi/4067526",
+        "summary": "Konya'nın merkez Meram ilçesinde kırmızı ışıkta bekleyen öğretmen Mevlüt Külcü'nün aracına 229 kilometre hızla arkadan çarparak hayatını kaybetmesine neden olan sürücü hakkında, ye..."
       },
       {
-        "title": "Kurtulmuş: Mekke Ortak Savunma Anlaşması diğer ülkelerin de katılımıyla faydalı bir savunma anlaşmasına dönüşecektir",
+        "title": "Bakan Tekin: Çocukların sosyal medya platformlarında kurduğu ilişkiler aileler tarafından takip edilmeli",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kurtulmus-mekke-ortak-savunma-anlasmasi-diger-ulkelerin-de-katilimiyla-faydali-bir-savunma-anlasmasina-donusecektir/4066803",
-        "summary": "TBMM Başkanı Kurtulmuş, Mekke Ortak Savunma Anlaşması'na ilişkin \"Ümit ediyorum ki bu anlaşma sağlam temeller üzerinde gelişerek, bölgemizdeki diğer ülkelerin de katılımıyla faydal..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-tekin-cocuklarin-sosyal-medya-platformlarinda-kurdugu-iliskiler-aileler-tarafindan-takip-edilmeli/4067519",
+        "summary": "Milli Eğitim Bakanı Yusuf Tekin, çocukların sosyal medya platformlarında kurduğu ilişkilerin aileler tarafından takip edilmesi gerektiğini, takip edilmemesi durumunda çocuklar için..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan New York'ta temaslarda bulundu",
+        "title": "Rize'deki sağanak nedeniyle şimdiye kadar 1 milyar 42 milyon liralık hasar tespit edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-new-yorkta-temaslarda-bulundu/4066702",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ermenistan Başbakanı Nikol Paşinyan, Irak Başbakanı Ali ez-Zeydi ve Ukrayna Devlet Başkanı Volodimir Zelenskiy'i kabul etti."
+        "url": "https://www.aa.com.tr/tr/gundem/rizedeki-saganak-nedeniyle-simdiye-kadar-1-milyar-42-milyon-liralik-hasar-tespit-edildi/4067457",
+        "summary": "Rize Valisi İhsan Selim Baydaş, kentte 19 Eylül'deki sağanağın ardından şu ana kadar araç, iş yeri ve evlerde tespit edilen maddi zararlar ile duvar hasarlarının toplamının yaklaşı..."
       }
     ]
   }
