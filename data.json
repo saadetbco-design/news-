@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 09:38:36",
+  "updated_at": "2026-09-24 20:13:30",
   "markets": {
     "usd_try_kapalicarsi": "48.86 TL",
     "eur_try_kapalicarsi": "55.69 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Army awards Palantir $48.1M to modernize ammo management",
-    "bullet_1": "Army awards Palantir $48.1M to modernize ammo management",
-    "bullet_2": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
-    "bullet_3": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
+    "red_alert": "SON DAKİKA: Italy taps state-owned firms to build two naval destroyers in $4.2 billion deal",
+    "bullet_1": "Italy taps state-owned firms to build two naval destroyers in $4.2 billion deal",
+    "bullet_2": "US to provide critical but more limited capabilities to NATO, top commander says",
+    "bullet_3": "Why the last tactical mile is crucial to acquisition reform",
     "defense_news": [
       {
-        "title": "Army awards Palantir $48.1M to modernize ammo management",
+        "title": "Italy taps state-owned firms to build two naval destroyers in $4.2 billion deal",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-army/2026/09/24/army-awards-palantir-481m-to-modernize-ammo-management/",
-        "summary": "The tech company has built AI software designed to process data for targeting and decision-making, and now, managing ammo."
+        "url": "https://www.defensenews.com/global/europe/2026/09/24/italy-taps-state-owned-firms-to-build-two-naval-destroyers-in-42-billion-deal/",
+        "summary": "Italy has signed to buy two new naval destroyers that will mark a quantum leap in capabilities for the Italian navy, the ships’ builders have promised."
       },
       {
-        "title": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
+        "title": "US to provide critical but more limited capabilities to NATO, top commander says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers/",
-        "summary": "Despite an August order for the U.S. Navy to return to steam catapults on its newest carriers, the service appears to be sticking with electromagnetics."
+        "url": "https://www.defensenews.com/global/2026/09/24/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says/",
+        "summary": "NATO’s top commander said on Thursday the United States would continue to provide “critical but more limited capabilities” to the alliance."
       },
       {
-        "title": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
+        "title": "Why the last tactical mile is crucial to acquisition reform",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/air/2026/09/23/air-force-civilian-staff-dispute-status-of-china-aerospace-studies-institute/",
-        "summary": "CASI's director said the move will effectively end the institute, even as the service says CASI’s mission will continue."
+        "url": "https://www.defensenews.com/opinion/2026/09/24/why-the-last-tactical-mile-is-crucial-to-acquisition-reform/",
+        "summary": "If acquisition reform is to succeed, it must migrate to the warfighter's last tactical mile, the president and chief executive officer of CNA writes."
       },
       {
-        "title": "Greenland welcomes US military pact but trust still shaky",
+        "title": "With Denmark, Saildrone logs first flag registration for naval surveillance drone",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/23/greenland-welcomes-us-military-pact-but-trust-still-shaky/",
-        "summary": "Greenland’s government and residents expressed relief about a new military pact with the United States and Denmark."
+        "url": "https://www.defensenews.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/",
+        "summary": "U.S. naval drone maker Saildrone seeks to expand its footprint in Europe, with Denmark a key customer in the contested Baltic and North seas."
       }
     ],
     "geo_news": [
       {
-        "title": "Türk-Japon Bilim ve Teknoloji Üniversitesi yüksek sıralamalı öğrencilerin tercihi oldu",
+        "title": "AK Parti Genel Başkanvekili Ala'dan Netanyahu'ya tepki",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-japon-bilim-ve-teknoloji-universitesi-yuksek-siralamali-ogrencilerin-tercihi-oldu/4067542",
-        "summary": "Türk-Japon Bilim ve Teknoloji Üniversitesi (TJU), yüksek başarı sıralamasındaki öğrencilerin tercihi oldu."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-aladan-netanyahuya-tepki/4068563",
+        "summary": "AK Parti Genel Başkanvekili Efkan Ala, \"Bölgeyi kan gölüne çeviren politikaların sahibi Netanyahu'nun Sayın Cumhurbaşkanı'mız hakkında sarf ettiği hezeyanların kendi işledikleri su..."
       },
       {
-        "title": "Kırmızı ışıkta aracına çarptığı öğretmenin ölümüne neden olan sürücünün cezası artırıldı",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon soruşturmalarında ilgili tüm bakanlıklarımız gayretlerini sürdürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kirmizi-isikta-aracina-carptigi-ogretmenin-olumune-neden-olan-surucunun-cezasi-artirildi/4067526",
-        "summary": "Konya'nın merkez Meram ilçesinde kırmızı ışıkta bekleyen öğretmen Mevlüt Külcü'nün aracına 229 kilometre hızla arkadan çarparak hayatını kaybetmesine neden olan sürücü hakkında, ye..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-sorusturmalarinda-ilgili-tum-bakanliklarimiz-gayretlerini-surduruyor/4068527",
+        "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, fon soruşturmalarına ilişkin, \"Bu sorunu aştığımızda sermaye piyasalarımız eskisinden daha güçlü şekilde yoluna devam edecektir. İlgili tüm bakanlı..."
       },
       {
-        "title": "Bakan Tekin: Çocukların sosyal medya platformlarında kurduğu ilişkiler aileler tarafından takip edilmeli",
+        "title": "Bakan Fidan, \"Libya'da Barış, Birlik ve Refah İçin Uluslararası Destek\" konulu toplantıya katıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-tekin-cocuklarin-sosyal-medya-platformlarinda-kurdugu-iliskiler-aileler-tarafindan-takip-edilmeli/4067519",
-        "summary": "Milli Eğitim Bakanı Yusuf Tekin, çocukların sosyal medya platformlarında kurduğu ilişkilerin aileler tarafından takip edilmesi gerektiğini, takip edilmemesi durumunda çocuklar için..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-libyada-baris-birlik-ve-refah-icin-uluslararasi-destek-konulu-toplantiya-katildi/4068529",
+        "summary": "Dışişleri Bakanı Hakan Fidan, New York'ta \"Libya'da Barış, Birlik ve Refah İçin Uluslararası Destek\" konulu toplantıya katıldı."
       },
       {
-        "title": "Rize'deki sağanak nedeniyle şimdiye kadar 1 milyar 42 milyon liralık hasar tespit edildi",
+        "title": "DMM, \"Hazine ve Maliye Bakanı Mehmet Şimşek'in istifasını sunduğu\" iddialarını yalanladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/rizedeki-saganak-nedeniyle-simdiye-kadar-1-milyar-42-milyon-liralik-hasar-tespit-edildi/4067457",
-        "summary": "Rize Valisi İhsan Selim Baydaş, kentte 19 Eylül'deki sağanağın ardından şu ana kadar araç, iş yeri ve evlerde tespit edilen maddi zararlar ile duvar hasarlarının toplamının yaklaşı..."
+        "url": "https://www.aa.com.tr/tr/gundem/dmm-hazine-ve-maliye-bakani-mehmet-simsekin-istifasini-sundugu-iddialarini-yalanladi/4068504",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Hazine ve Maliye Bakanı Mehmet Şimşek'in istifasını sunduğu, bu yönde bir talebi olduğu\" iddialarının..."
       }
     ]
   }
