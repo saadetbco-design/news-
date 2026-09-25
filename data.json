@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-24 20:13:30",
+  "updated_at": "2026-09-25 09:56:08",
   "markets": {
-    "usd_try_kapalicarsi": "48.86 TL",
-    "eur_try_kapalicarsi": "55.69 TL",
+    "usd_try_kapalicarsi": "48.89 TL",
+    "eur_try_kapalicarsi": "55.65 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "AK Parti Genel Başkanvekili Ala'dan Netanyahu'ya tepki",
+        "title": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturmada ikinci dalga operasyon yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-aladan-netanyahuya-tepki/4068563",
-        "summary": "AK Parti Genel Başkanvekili Efkan Ala, \"Bölgeyi kan gölüne çeviren politikaların sahibi Netanyahu'nun Sayın Cumhurbaşkanı'mız hakkında sarf ettiği hezeyanların kendi işledikleri su..."
+        "url": "https://www.aa.com.tr/tr/gundem/muhsin-yazicioglunun-olumune-iliskin-sorusturmada-ikinci-dalga-operasyon-yapildi/4068871",
+        "summary": "Adalet Bakanı Akın Gürlek, Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma kapsamındaki ikinci dalga operasyonda 47 şüpheli hakkında adli işlem başlatıldığını bildirdi."
       },
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon soruşturmalarında ilgili tüm bakanlıklarımız gayretlerini sürdürüyor",
+        "title": "Adli Tıp Kurumu teknolojik altyapısıyla testlerinde güven veriyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-sorusturmalarinda-ilgili-tum-bakanliklarimiz-gayretlerini-surduruyor/4068527",
-        "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, fon soruşturmalarına ilişkin, \"Bu sorunu aştığımızda sermaye piyasalarımız eskisinden daha güçlü şekilde yoluna devam edecektir. İlgili tüm bakanlı..."
+        "url": "https://www.aa.com.tr/tr/gundem/adli-tip-kurumu-teknolojik-altyapisiyla-testlerinde-guven-veriyor/4068907",
+        "summary": "Adli Tıp Kurumu (ATK) Başkan Yardımcısı Ahmet Bensiz, kurumun adli tıp alanındaki son teknolojileri kullandığını belirterek, yapılan testlerin doğruluğuna güvendiklerini söyledi."
       },
       {
-        "title": "Bakan Fidan, \"Libya'da Barış, Birlik ve Refah İçin Uluslararası Destek\" konulu toplantıya katıldı",
+        "title": "Şanlıurfa'da 5,4 büyüklüğündeki depremin ardından hasar tespit çalışmaları sürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-libyada-baris-birlik-ve-refah-icin-uluslararasi-destek-konulu-toplantiya-katildi/4068529",
-        "summary": "Dışişleri Bakanı Hakan Fidan, New York'ta \"Libya'da Barış, Birlik ve Refah İçin Uluslararası Destek\" konulu toplantıya katıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/sanliurfada-5-4-buyuklugundeki-depremin-ardindan-hasar-tespit-calismalari-suruyor/4068975",
+        "summary": "Şanlıurfa'da dün meydana gelen 5,4 büyüklüğündeki depremin ardından Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü ekiplerinin kent genelindeki hasar tespit çalışmaları devam ..."
       },
       {
-        "title": "DMM, \"Hazine ve Maliye Bakanı Mehmet Şimşek'in istifasını sunduğu\" iddialarını yalanladı",
+        "title": "Yabancı uzmanlar Türkiye'deki adli tıp kongresini değerlendirdi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dmm-hazine-ve-maliye-bakani-mehmet-simsekin-istifasini-sundugu-iddialarini-yalanladi/4068504",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Hazine ve Maliye Bakanı Mehmet Şimşek'in istifasını sunduğu, bu yönde bir talebi olduğu\" iddialarının..."
+        "url": "https://www.aa.com.tr/tr/gundem/yabanci-uzmanlar-turkiyedeki-adli-tip-kongresini-degerlendirdi/4068974",
+        "summary": "Adli Tıp Kurumu tarafından düzenlenen ve Anadolu Ajansının \"Global İletişim Ortağı\" olduğu 21. Uluslararası Adli Tıp Günleri Kongresi, farklı ülkelerden uzmanları bir araya getirdi..."
       }
     ]
   }
