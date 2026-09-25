@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 09:56:08",
+  "updated_at": "2026-09-25 20:11:47",
   "markets": {
     "usd_try_kapalicarsi": "48.89 TL",
     "eur_try_kapalicarsi": "55.65 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Italy taps state-owned firms to build two naval destroyers in $4.2 billion deal",
-    "bullet_1": "Italy taps state-owned firms to build two naval destroyers in $4.2 billion deal",
-    "bullet_2": "US to provide critical but more limited capabilities to NATO, top commander says",
-    "bullet_3": "Why the last tactical mile is crucial to acquisition reform",
+    "red_alert": "SON DAKİKA: Trump administration obligates $307M for military aid to Ukraine",
+    "bullet_1": "Trump administration obligates $307M for military aid to Ukraine",
+    "bullet_2": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
+    "bullet_3": "US Navy stands up hub to prepare unmanned systems for combat",
     "defense_news": [
       {
-        "title": "Italy taps state-owned firms to build two naval destroyers in $4.2 billion deal",
+        "title": "Trump administration obligates $307M for military aid to Ukraine",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/24/italy-taps-state-owned-firms-to-build-two-naval-destroyers-in-42-billion-deal/",
-        "summary": "Italy has signed to buy two new naval destroyers that will mark a quantum leap in capabilities for the Italian navy, the ships’ builders have promised."
+        "url": "https://www.defensenews.com/global/europe/2026/09/25/trump-administration-obligates-307m-for-military-aid-to-ukraine/",
+        "summary": "The Trump administration has made legally binding commitments to spend almost all of the $400 million Congress approved for military aid to Ukraine."
       },
       {
-        "title": "US to provide critical but more limited capabilities to NATO, top commander says",
+        "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/2026/09/24/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says/",
-        "summary": "NATO’s top commander said on Thursday the United States would continue to provide “critical but more limited capabilities” to the alliance."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
+        "summary": "A federal appeals court upheld the Pentagon’s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon."
       },
       {
-        "title": "Why the last tactical mile is crucial to acquisition reform",
+        "title": "US Navy stands up hub to prepare unmanned systems for combat",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/opinion/2026/09/24/why-the-last-tactical-mile-is-crucial-to-acquisition-reform/",
-        "summary": "If acquisition reform is to succeed, it must migrate to the warfighter's last tactical mile, the president and chief executive officer of CNA writes."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
+        "summary": "U.S. Chief of Naval Operations Adm. Daryl Caudle announced a new autonomous development center to train sailors and test new technology."
       },
       {
-        "title": "With Denmark, Saildrone logs first flag registration for naval surveillance drone",
+        "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/",
-        "summary": "U.S. naval drone maker Saildrone seeks to expand its footprint in Europe, with Denmark a key customer in the contested Baltic and North seas."
+        "url": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software/",
+        "summary": "French firm Thales is “quite advanced” in discussions with a number of NATO countries about using its artificial intelligence-powered C2 system."
       }
     ],
     "geo_news": [
       {
-        "title": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturmada ikinci dalga operasyon yapıldı",
+        "title": "Manisa merkezli 12 ilde siber dolandırıcılık operasyonunda 14 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/muhsin-yazicioglunun-olumune-iliskin-sorusturmada-ikinci-dalga-operasyon-yapildi/4068871",
-        "summary": "Adalet Bakanı Akın Gürlek, Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma kapsamındaki ikinci dalga operasyonda 47 şüpheli hakkında adli işlem başlatıldığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/manisa-merkezli-12-ilde-siber-dolandiricilik-operasyonunda-14-supheli-tutuklandi/4069683",
+        "summary": "Manisa merkezli 12 ilde yatırım vaadiyle dolandırıcılık yaptıkları iddiasıyla gözaltına alınan 16 şüpheliden 14'ü tutuklandı."
       },
       {
-        "title": "Adli Tıp Kurumu teknolojik altyapısıyla testlerinde güven veriyor",
+        "title": "İletişim Başkanı Duran, vefatının 14. yılında Neşet Ertaş'ı andı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adli-tip-kurumu-teknolojik-altyapisiyla-testlerinde-guven-veriyor/4068907",
-        "summary": "Adli Tıp Kurumu (ATK) Başkan Yardımcısı Ahmet Bensiz, kurumun adli tıp alanındaki son teknolojileri kullandığını belirterek, yapılan testlerin doğruluğuna güvendiklerini söyledi."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-vefatinin-14-yilinda-neset-ertasi-andi/4069614",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, vefatının 14. yılında Neşet Ertaş'ı andı."
       },
       {
-        "title": "Şanlıurfa'da 5,4 büyüklüğündeki depremin ardından hasar tespit çalışmaları sürüyor",
+        "title": "Bolu Belediyesine yönelik \"irtikap\" davasında esasa ilişkin mütalaa mahkemeye sunuldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sanliurfada-5-4-buyuklugundeki-depremin-ardindan-hasar-tespit-calismalari-suruyor/4068975",
-        "summary": "Şanlıurfa'da dün meydana gelen 5,4 büyüklüğündeki depremin ardından Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü ekiplerinin kent genelindeki hasar tespit çalışmaları devam ..."
+        "url": "https://www.aa.com.tr/tr/gundem/bolu-belediyesine-yonelik-irtikap-davasinda-esasa-iliskin-mutalaa-mahkemeye-sunuldu/4069612",
+        "summary": "Bolu Belediyesine yönelik \"irtikap\" soruşturması kapsamında haklarında dava açılan, aralarında belediye başkanlığı görevinden uzaklaştırılan Tanju Özcan'ın da bulunduğu 19 sanığın ..."
       },
       {
-        "title": "Yabancı uzmanlar Türkiye'deki adli tıp kongresini değerlendirdi",
+        "title": "Genelkurmay Başkanı Orgeneral Bayraktaroğlu, Mekke Ortak Savunma Anlaşması kapsamındaki toplantıya katıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yabanci-uzmanlar-turkiyedeki-adli-tip-kongresini-degerlendirdi/4068974",
-        "summary": "Adli Tıp Kurumu tarafından düzenlenen ve Anadolu Ajansının \"Global İletişim Ortağı\" olduğu 21. Uluslararası Adli Tıp Günleri Kongresi, farklı ülkelerden uzmanları bir araya getirdi..."
+        "url": "https://www.aa.com.tr/tr/gundem/genelkurmay-baskani-orgeneral-bayraktaroglu-mekke-ortak-savunma-anlasmasi-kapsamindaki-toplantiya-katildi/4069587",
+        "summary": "Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Ortak Savunma Anlaşması kapsamında, Suudi Arabistan'ın başkenti Ri..."
       }
     ]
   }
