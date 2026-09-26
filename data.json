@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-25 20:11:47",
+  "updated_at": "2026-09-26 09:38:29",
   "markets": {
-    "usd_try_kapalicarsi": "48.89 TL",
-    "eur_try_kapalicarsi": "55.65 TL",
+    "usd_try_kapalicarsi": "48.92 TL",
+    "eur_try_kapalicarsi": "55.76 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Trump administration obligates $307M for military aid to Ukraine",
-    "bullet_1": "Trump administration obligates $307M for military aid to Ukraine",
-    "bullet_2": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
-    "bullet_3": "US Navy stands up hub to prepare unmanned systems for combat",
+    "red_alert": "SON DAKİKA: Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+    "bullet_1": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+    "bullet_2": "Trump administration obligates $307M for military aid to Ukraine",
+    "bullet_3": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
     "defense_news": [
+      {
+        "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
+        "summary": "Ukraine opens wartime battlefield data to Britain through Avengers AI Labs, giving British companies access to data for AI drone development."
+      },
       {
         "title": "Trump administration obligates $307M for military aid to Ukraine",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
         "summary": "U.S. Chief of Naval Operations Adm. Daryl Caudle announced a new autonomous development center to train sailors and test new technology."
-      },
-      {
-        "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software/",
-        "summary": "French firm Thales is “quite advanced” in discussions with a number of NATO countries about using its artificial intelligence-powered C2 system."
       }
     ],
     "geo_news": [
       {
-        "title": "Manisa merkezli 12 ilde siber dolandırıcılık operasyonunda 14 şüpheli tutuklandı",
+        "title": "Yurt genelindeki denetimlerde 230 düzensiz göçmen yakalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/manisa-merkezli-12-ilde-siber-dolandiricilik-operasyonunda-14-supheli-tutuklandi/4069683",
-        "summary": "Manisa merkezli 12 ilde yatırım vaadiyle dolandırıcılık yaptıkları iddiasıyla gözaltına alınan 16 şüpheliden 14'ü tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/yurt-genelindeki-denetimlerde-230-duzensiz-gocmen-yakalandi/4069981",
+        "summary": "İçişleri Bakanlığı, yurt genelinde düzenlenen denetimlerde 19 göçmen kaçakçısı ve 230 düzensiz göçmenin yakalandığını bildirdi."
       },
       {
-        "title": "İletişim Başkanı Duran, vefatının 14. yılında Neşet Ertaş'ı andı",
+        "title": "Marmara Denizi'nde akşam saatlerinde fırtına uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-vefatinin-14-yilinda-neset-ertasi-andi/4069614",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, vefatının 14. yılında Neşet Ertaş'ı andı."
+        "url": "https://www.aa.com.tr/tr/gundem/marmara-denizinde-aksam-saatlerinde-firtina-uyarisi/4069949",
+        "summary": "İstanbul Valiliği, Marmara Denizi'nde akşam saatlerinden itibaren beklenen fırtına nedeniyle vatandaşların dikkatli olması gerektiğini bildirdi."
       },
       {
-        "title": "Bolu Belediyesine yönelik \"irtikap\" davasında esasa ilişkin mütalaa mahkemeye sunuldu",
+        "title": "45 yıllık sigara bağımlılığından tedaviyle kurtuldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bolu-belediyesine-yonelik-irtikap-davasinda-esasa-iliskin-mutalaa-mahkemeye-sunuldu/4069612",
-        "summary": "Bolu Belediyesine yönelik \"irtikap\" soruşturması kapsamında haklarında dava açılan, aralarında belediye başkanlığı görevinden uzaklaştırılan Tanju Özcan'ın da bulunduğu 19 sanığın ..."
+        "url": "https://www.aa.com.tr/tr/gundem/45-yillik-sigara-bagimliligindan-tedaviyle-kurtuldu/4069933",
+        "summary": "Kırklareli'nde yaşayan Mediha Kayam, Sağlıklı Hayat Merkezi'nde uygulanan tedaviyle 45 yıl içtiği sigarayı bıraktı."
       },
       {
-        "title": "Genelkurmay Başkanı Orgeneral Bayraktaroğlu, Mekke Ortak Savunma Anlaşması kapsamındaki toplantıya katıldı",
+        "title": "İçişleri Bakanı Çiftçi: Interpol kanalıyla yurt dışına kaçan suçluların peşini bırakmıyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/genelkurmay-baskani-orgeneral-bayraktaroglu-mekke-ortak-savunma-anlasmasi-kapsamindaki-toplantiya-katildi/4069587",
-        "summary": "Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Ortak Savunma Anlaşması kapsamında, Suudi Arabistan'ın başkenti Ri..."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-interpol-kanaliyla-yurt-disina-kacan-suclularin-pesini-birakmiyoruz/4069859",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Interpol kanalıyla yurt dışına kaçan suçluların da peşini bırakmıyoruz. Bu sene içerisinde 42 ülkeden 640 organize suç örgütü liderini veya üyesini..."
       }
     ]
   }
