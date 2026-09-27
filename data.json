@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 10:18:10",
+  "updated_at": "2026-09-27 19:56:09",
   "markets": {
     "usd_try_kapalicarsi": "48.91 TL",
     "eur_try_kapalicarsi": "55.74 TL",
@@ -9,11 +9,17 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Ukraine’s deadly AI training platform for drone tech opens to UK companies",
-    "bullet_1": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
-    "bullet_2": "Trump administration obligates $307M for military aid to Ukraine",
-    "bullet_3": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
+    "red_alert": "SON DAKİKA: Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
+    "bullet_1": "Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
+    "bullet_2": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+    "bullet_3": "Trump administration obligates $307M for military aid to Ukraine",
     "defense_news": [
+      {
+        "title": "Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/27/terror-suspects-wanted-to-do-big-damage-to-air-base-used-by-us-trump-says/",
+        "summary": "British police on Sunday arrested five men on suspicion of explosive and terrorism offenses near an air base that hosts U.S. Air Force personnel."
+      },
       {
         "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
         "summary": "A federal appeals court upheld the Pentagon’s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon."
-      },
-      {
-        "title": "US Navy stands up hub to prepare unmanned systems for combat",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
-        "summary": "U.S. Chief of Naval Operations Adm. Daryl Caudle announced a new autonomous development center to train sailors and test new technology."
       }
     ],
     "geo_news": [
       {
-        "title": "İletişim Başkanı Duran'dan Dünya Turizm Günü paylaşımı",
+        "title": "İstanbul'un bazı bölgelerinde sağanak etkili oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-dunya-turizm-gunu-paylasimi/4070689",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, 27 Eylül Dünya Turizm Günü'nü kutladı."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulun-bazi-bolgelerinde-saganak-etkili-oldu/4070994",
+        "summary": "İstanbul Büyükşehir Belediyesi Afet Koordinasyon Merkezi'nin (AKOM) uyarılarının ardından kentteki bazı bölgelerde sağanak etkisini gösterdi."
       },
       {
-        "title": "Preveze Deniz Zaferi kapsamında İstanbul Boğazı'ndan geçiş yapıldı",
+        "title": "Eski MİT görevlisi Kozinoğlu'nun ölümüne ilişkin soruşturmanın şüphelisi doktor evinde ölü bulundu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/preveze-deniz-zaferi-kapsaminda-istanbul-bogazindan-gecis-yapildi/4070674",
-        "summary": "Preveze Deniz Zaferi'nin 488. yıl dönümü ve Deniz Kuvvetleri Günü kapsamında Türk Deniz Kuvvetlerine bağlı 13 gemi ve 2 denizaltılık kortej, İstanbul Boğazı'ndan geçti."
+        "url": "https://www.aa.com.tr/tr/gundem/eski-mit-gorevlisi-kozinoglunun-olumune-iliskin-sorusturmanin-suphelisi-doktor-evinde-olu-bulundu/4071003",
+        "summary": "Milli İstihbarat Teşkilatının (MİT) eski görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin yeniden başlatılan soruşturma kapsamında gözaltına alınan ve hakkında adli kontrol..."
       },
       {
-        "title": "İletişim Başkanı Duran, 2. Karabağ Savaşı şehitlerini andı",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: (Terörsüz Türkiye süreci) Yarın sabah ikinci toplantımızı yapacağız",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-2-karabag-savasi-sehitlerini-andi/4070676",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, 2. Karabağ Savaşı'nda şehit olanları rahmetle andı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-terorsuz-turkiye-sureci-yarin-sabah-ikinci-toplantimizi-yapacagiz/4070990",
+        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"(Terörsüz Türkiye süreci) Hükümet nezdinde, yürütmede benim başkanlığımda bir kurul teşkil ettirildi. Yarın sabah ikinci toplantımızı yapac..."
       },
       {
-        "title": "Dilekçe Komisyonu'nun kapısı en çok \"çalışma\" ile \"adalet\" konularında çalındı",
+        "title": "Türkiye, İsrailli aşırılık yanlısı grupların Mescid-i Aksa'ya düzenlediği baskını en güçlü biçimde kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dilekce-komisyonunun-kapisi-en-cok-calisma-ile-adalet-konularinda-calindi/4070635",
-        "summary": "TBMM Dilekçe Komisyonu'na 28. Dönem 4. Yasama Yılı'nda gerçekleştirilen 17 bin 489 başvurunun 3 bin 131'i çalışma ve sosyal güvenlik, 2 bin 261'i de adalet hizmetleri konusunda yap..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-israilli-asirilik-yanlisi-gruplarin-mescid-i-aksaya-duzenledigi-baskini-en-guclu-bicimde-kinadi/4070978",
+        "summary": "Dışişleri Bakanlığı, İsrailli aşırılık yanlısı grupların, İsrail işgal güçlerinin koruması altında Mescid-i Aksa’ya düzenlediği baskını en güçlü biçimde kınadı."
       }
     ]
   }
