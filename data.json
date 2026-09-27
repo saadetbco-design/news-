@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-26 19:30:26",
+  "updated_at": "2026-09-27 10:18:10",
   "markets": {
-    "usd_try_kapalicarsi": "48.92 TL",
-    "eur_try_kapalicarsi": "55.76 TL",
+    "usd_try_kapalicarsi": "48.91 TL",
+    "eur_try_kapalicarsi": "55.74 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan, Türk Silahlı Kuvvetlerini Güçlendirme Vakfının kuruluş yıl dönümünü kutladı",
+        "title": "İletişim Başkanı Duran'dan Dünya Turizm Günü paylaşımı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turk-silahli-kuvvetlerini-guclendirme-vakfinin-kurulus-yil-donumunu-kutladi/4070372",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Silahlı Kuvvetlerini Güçlendirme Vakfının 39'uncu yılını tebrik etti."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-dunya-turizm-gunu-paylasimi/4070689",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, 27 Eylül Dünya Turizm Günü'nü kutladı."
       },
       {
-        "title": "Bakan Fidan: Çatışmalara karşı diyaloğu, krizlere karşı diplomasiyi, bölünmelere karşı işbirliğini savunduk",
+        "title": "Preveze Deniz Zaferi kapsamında İstanbul Boğazı'ndan geçiş yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-catismalara-karsi-diyalogu-krizlere-karsi-diplomasiyi-bolunmelere-karsi-isbirligini-savunduk/4070359",
-        "summary": "Dışişleri Bakanı Fidan, BM 81. Genel Kurulu yüksek düzeyli haftası marjında 40'tan fazla ikili görüşme ve toplantıya iştirak ettiğini belirterek, \"Çatışmalara karşı diyaloğu, krizl..."
+        "url": "https://www.aa.com.tr/tr/gundem/preveze-deniz-zaferi-kapsaminda-istanbul-bogazindan-gecis-yapildi/4070674",
+        "summary": "Preveze Deniz Zaferi'nin 488. yıl dönümü ve Deniz Kuvvetleri Günü kapsamında Türk Deniz Kuvvetlerine bağlı 13 gemi ve 2 denizaltılık kortej, İstanbul Boğazı'ndan geçti."
       },
       {
-        "title": "Dışişleri Bakanı Fidan, KKTC Cumhurbaşkanı Erhürman ve Dışişleri Bakanı Ertuğruloğlu ile görüştü",
+        "title": "İletişim Başkanı Duran, 2. Karabağ Savaşı şehitlerini andı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-kktc-cumhurbaskani-erhurman-ve-disisleri-bakani-ertugruloglu-ile-gorustu/4070358",
-        "summary": "Dışişleri Bakanı Fidan, BM 81. Genel Kurulu Yüksek Düzeyli Haftası kapsamında, KKTC Cumhurbaşkanı Erhürman ve Dışişleri Bakanı Ertuğruloğlu ile bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-2-karabag-savasi-sehitlerini-andi/4070676",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, 2. Karabağ Savaşı'nda şehit olanları rahmetle andı."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Türk Dil Bayramı'nı kutladı",
+        "title": "Dilekçe Komisyonu'nun kapısı en çok \"çalışma\" ile \"adalet\" konularında çalındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turk-dil-bayramini-kutladi/4070357",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Dil Bayramı'nı tebrik etti."
+        "url": "https://www.aa.com.tr/tr/gundem/dilekce-komisyonunun-kapisi-en-cok-calisma-ile-adalet-konularinda-calindi/4070635",
+        "summary": "TBMM Dilekçe Komisyonu'na 28. Dönem 4. Yasama Yılı'nda gerçekleştirilen 17 bin 489 başvurunun 3 bin 131'i çalışma ve sosyal güvenlik, 2 bin 261'i de adalet hizmetleri konusunda yap..."
       }
     ]
   }
