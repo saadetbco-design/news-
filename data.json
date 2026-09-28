@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 11:21:14",
+  "updated_at": "2026-09-28 22:21:55",
   "markets": {
     "usd_try_kapalicarsi": "48.95 TL",
     "eur_try_kapalicarsi": "55.73 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: UK’s Healey puts defense in focus for reindustrialization push",
-    "bullet_1": "UK’s Healey puts defense in focus for reindustrialization push",
-    "bullet_2": "Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
-    "bullet_3": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+    "red_alert": "SON DAKİKA: Russia raises 2027 military spending by 27%, budget documents show",
+    "bullet_1": "Russia raises 2027 military spending by 27%, budget documents show",
+    "bullet_2": "EU nails down five defense priority areas to channel common spending",
+    "bullet_3": "UK’s Healey puts defense in focus for reindustrialization push",
     "defense_news": [
+      {
+        "title": "Russia raises 2027 military spending by 27%, budget documents show",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show/",
+        "summary": "Russia plans to spend 17.1 trillion roubles, or $202 billion, on defense in 2027, a 27% increase."
+      },
+      {
+        "title": "EU nails down five defense priority areas to channel common spending",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
+        "summary": "Drones, counter-drone tech, air defense, seabed defense and eastern flank protection top the EU's list of desired capability areas."
+      },
       {
         "title": "UK’s Healey puts defense in focus for reindustrialization push",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/09/27/terror-suspects-wanted-to-do-big-damage-to-air-base-used-by-us-trump-says/",
         "summary": "British police on Sunday arrested five men on suspicion of explosive and terrorism offenses near an air base that hosts U.S. Air Force personnel."
-      },
-      {
-        "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
-        "summary": "Ukraine opens wartime battlefield data to Britain through Avengers AI Labs, giving British companies access to data for AI drone development."
-      },
-      {
-        "title": "Trump administration obligates $307M for military aid to Ukraine",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/25/trump-administration-obligates-307m-for-military-aid-to-ukraine/",
-        "summary": "The Trump administration has made legally binding commitments to spend almost all of the $400 million Congress approved for military aid to Ukraine."
       }
     ],
     "geo_news": [
       {
-        "title": "Gazze'nin akademik mücadelesi 150 Bilim Kafe etkinliğinde anlatıldı",
+        "title": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma kapsamında 36 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/gazzenin-akademik-mucadelesi-150-bilim-kafe-etkinliginde-anlatildi/4071526",
-        "summary": "Yükseköğretim Kurulu Bilim İletişimi Ofisi koordinasyonunda 1 Eylül Dünya Barış Günü'nde başlatılan \"Gazze Üniversiteleri ile Dayanışma Programı\", Türkiye'nin her bölgesinde vatand..."
+        "url": "https://www.aa.com.tr/tr/gundem/muhsin-yazicioglunun-olumune-iliskin-sorusturma-kapsaminda-36-supheli-tutuklandi/4072083",
+        "summary": "Ankara Cumhuriyet Başsavcılığı, Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma kapsamında 36 şüphelinin tutuklandığını bildirdi."
       },
       {
-        "title": "Türkiye, İber-Amerika Konferansı'na \"Ortak Gözlemci\" başvurusunun kabul edilmesinden memnun",
+        "title": "Dışişleri Bakanı Fidan, BAE Devlet Başkanı Al Nahyan tarafından kabul edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-iber-amerika-konferansina-ortak-gozlemci-basvurusunun-kabul-edilmesinden-memnun/4071434",
-        "summary": "Dışişleri Bakanlığı, Türkiye'nin İber-Amerika Konferansı’na Ortak Gözlemci olma başvurusunun kabul edilmesinden memnuniyet duyulduğunu bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-bae-devlet-baskani-al-nahyan-tarafindan-kabul-edildi/4072036",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Muhammed bin Zayid Al Nahyan tarafından kabul edildi."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş, Türkiye'nin Lizbon Büyükelçiliğini ziyaret etti",
+        "title": "İçişleri Bakanı Çiftçi'den Kabine Toplantısı'na ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-turkiyenin-lizbon-buyukelciligini-ziyaret-etti/4071398",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, Portekiz'deki resmi temasları kapsamında Türkiye'nin Lizbon Büyükelçiliğini ziyaret etti."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kabine-toplantisina-iliskin-paylasim/4072034",
+        "summary": "İçişleri Bakanı Çiftçi, \"İçişleri Bakanlığı olarak, Türkiye'nin huzuru ve güvenliği için gece gündüz demeden çalışmaya devam edeceğiz. Milletimizin helal kazancına, alın terine ve ..."
       },
       {
-        "title": "Bakan Göktaş, evlilik kredisinden yararlanan yeni evli çiftin ilk misafiri oldu",
+        "title": "TBMM Başkanı Kurtulmuş, Portekiz'deki Müslüman toplumun temsilcileriyle bir araya geldi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-evlilik-kredisinden-yararlanan-yeni-evli-ciftin-ilk-misafiri-oldu/4071415",
-        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Aile ve Gençlik Fonu kapsamındaki \"Evlenecek Gençlerin Desteklenmesi Projesi\"nden yararlanarak yeni yuva kuran Esmanur ve Yi..."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-portekizdeki-musluman-toplumun-temsilcileriyle-bir-araya-geldi/4071998",
+        "summary": "TBMM Başkanı Numan Kurtulmuş, resmi ziyaret gerçekleştirdiği Portekiz'in başkenti Lizbon'da, Lizbon Merkezi Camisi'ni ziyaret ederek, Müslüman toplumun temsilcileriyle görüştü."
       }
     ]
   }
