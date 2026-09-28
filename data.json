@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-27 19:56:09",
+  "updated_at": "2026-09-28 11:21:14",
   "markets": {
-    "usd_try_kapalicarsi": "48.91 TL",
-    "eur_try_kapalicarsi": "55.74 TL",
+    "usd_try_kapalicarsi": "48.95 TL",
+    "eur_try_kapalicarsi": "55.73 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
-    "bullet_1": "Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
-    "bullet_2": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
-    "bullet_3": "Trump administration obligates $307M for military aid to Ukraine",
+    "red_alert": "SON DAKİKA: UK’s Healey puts defense in focus for reindustrialization push",
+    "bullet_1": "UK’s Healey puts defense in focus for reindustrialization push",
+    "bullet_2": "Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
+    "bullet_3": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
     "defense_news": [
+      {
+        "title": "UK’s Healey puts defense in focus for reindustrialization push",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/09/28/uks-healey-puts-defense-in-focus-for-reindustrialization-push/",
+        "summary": "British government leaders are converging around the message that the defense sector will be key in energizing the nation's anemic growth."
+      },
       {
         "title": "Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/09/25/trump-administration-obligates-307m-for-military-aid-to-ukraine/",
         "summary": "The Trump administration has made legally binding commitments to spend almost all of the $400 million Congress approved for military aid to Ukraine."
-      },
-      {
-        "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
-        "summary": "A federal appeals court upheld the Pentagon’s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon."
       }
     ],
     "geo_news": [
       {
-        "title": "İstanbul'un bazı bölgelerinde sağanak etkili oldu",
+        "title": "Gazze'nin akademik mücadelesi 150 Bilim Kafe etkinliğinde anlatıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulun-bazi-bolgelerinde-saganak-etkili-oldu/4070994",
-        "summary": "İstanbul Büyükşehir Belediyesi Afet Koordinasyon Merkezi'nin (AKOM) uyarılarının ardından kentteki bazı bölgelerde sağanak etkisini gösterdi."
+        "url": "https://www.aa.com.tr/tr/gundem/gazzenin-akademik-mucadelesi-150-bilim-kafe-etkinliginde-anlatildi/4071526",
+        "summary": "Yükseköğretim Kurulu Bilim İletişimi Ofisi koordinasyonunda 1 Eylül Dünya Barış Günü'nde başlatılan \"Gazze Üniversiteleri ile Dayanışma Programı\", Türkiye'nin her bölgesinde vatand..."
       },
       {
-        "title": "Eski MİT görevlisi Kozinoğlu'nun ölümüne ilişkin soruşturmanın şüphelisi doktor evinde ölü bulundu",
+        "title": "Türkiye, İber-Amerika Konferansı'na \"Ortak Gözlemci\" başvurusunun kabul edilmesinden memnun",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/eski-mit-gorevlisi-kozinoglunun-olumune-iliskin-sorusturmanin-suphelisi-doktor-evinde-olu-bulundu/4071003",
-        "summary": "Milli İstihbarat Teşkilatının (MİT) eski görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin yeniden başlatılan soruşturma kapsamında gözaltına alınan ve hakkında adli kontrol..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-iber-amerika-konferansina-ortak-gozlemci-basvurusunun-kabul-edilmesinden-memnun/4071434",
+        "summary": "Dışişleri Bakanlığı, Türkiye'nin İber-Amerika Konferansı’na Ortak Gözlemci olma başvurusunun kabul edilmesinden memnuniyet duyulduğunu bildirdi."
       },
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: (Terörsüz Türkiye süreci) Yarın sabah ikinci toplantımızı yapacağız",
+        "title": "TBMM Başkanı Kurtulmuş, Türkiye'nin Lizbon Büyükelçiliğini ziyaret etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-terorsuz-turkiye-sureci-yarin-sabah-ikinci-toplantimizi-yapacagiz/4070990",
-        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"(Terörsüz Türkiye süreci) Hükümet nezdinde, yürütmede benim başkanlığımda bir kurul teşkil ettirildi. Yarın sabah ikinci toplantımızı yapac..."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-turkiyenin-lizbon-buyukelciligini-ziyaret-etti/4071398",
+        "summary": "TBMM Başkanı Numan Kurtulmuş, Portekiz'deki resmi temasları kapsamında Türkiye'nin Lizbon Büyükelçiliğini ziyaret etti."
       },
       {
-        "title": "Türkiye, İsrailli aşırılık yanlısı grupların Mescid-i Aksa'ya düzenlediği baskını en güçlü biçimde kınadı",
+        "title": "Bakan Göktaş, evlilik kredisinden yararlanan yeni evli çiftin ilk misafiri oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-israilli-asirilik-yanlisi-gruplarin-mescid-i-aksaya-duzenledigi-baskini-en-guclu-bicimde-kinadi/4070978",
-        "summary": "Dışişleri Bakanlığı, İsrailli aşırılık yanlısı grupların, İsrail işgal güçlerinin koruması altında Mescid-i Aksa’ya düzenlediği baskını en güçlü biçimde kınadı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-evlilik-kredisinden-yararlanan-yeni-evli-ciftin-ilk-misafiri-oldu/4071415",
+        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Aile ve Gençlik Fonu kapsamındaki \"Evlenecek Gençlerin Desteklenmesi Projesi\"nden yararlanarak yeni yuva kuran Esmanur ve Yi..."
       }
     ]
   }
