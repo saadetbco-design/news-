@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 10:59:34",
+  "updated_at": "2026-09-29 21:11:16",
   "markets": {
     "usd_try_kapalicarsi": "49.00 TL",
     "eur_try_kapalicarsi": "55.73 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: French artillery regiment reorganizes guns to survive drone threats",
-    "bullet_1": "French artillery regiment reorganizes guns to survive drone threats",
-    "bullet_2": "New Zealand, Australia sign pact to deepen naval cooperation",
-    "bullet_3": "Russia raises 2027 military spending by 27%, budget documents show",
+    "red_alert": "SON DAKİKA: Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
+    "bullet_1": "Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
+    "bullet_2": "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX",
+    "bullet_3": "Estonia blames Russia in arson attack on military robotics firm Milrem",
     "defense_news": [
       {
-        "title": "French artillery regiment reorganizes guns to survive drone threats",
+        "title": "Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/2026/09/29/french-artillery-regiment-reorganizes-guns-to-survive-drone-threats/",
-        "summary": "A French artillery formation is trialing a new organization of its gun units and support procedures, prompted by drone lessons from the war in Ukraine."
+        "url": "https://www.defensenews.com/pentagon/2026/09/29/pentagon-awards-raytheon-up-to-207-billion-to-nearly-double-amraam-production/",
+        "summary": "The Defense Department has awarded Raytheon a multiyear contract worth up to $20.7 billion to build Advanced Medium-Range Air-to-Air Missiles, or AMRAAMs."
       },
       {
-        "title": "New Zealand, Australia sign pact to deepen naval cooperation",
+        "title": "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/29/new-zealand-australia-sign-pact-to-deepen-naval-cooperation/",
-        "summary": "The New Zealand and Australian navies signed “Plan Tasman” this month, formalizing a blueprint for integrating the two neighboring sea services."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/29/uss-klakring-sent-to-the-bottom-of-the-atlantic-in-joint-us-uk-sinkex/",
+        "summary": "A decommissioned U.S. guided-missile frigate was sent to the bottom of the Atlantic on Sept. 25 during a joint U.S.-U.K. naval exercise."
       },
       {
-        "title": "Russia raises 2027 military spending by 27%, budget documents show",
+        "title": "Estonia blames Russia in arson attack on military robotics firm Milrem",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show/",
-        "summary": "Russia plans to spend 17.1 trillion roubles, or $202 billion, on defense in 2027, a 27% increase."
+        "url": "https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/",
+        "summary": "Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said."
       },
       {
-        "title": "EU nails down five defense priority areas to channel common spending",
+        "title": "US forces exiting Iraq after 2 decades, leaving opening for Iran",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
-        "summary": "Drones, counter-drone tech, air defense, seabed defense and eastern flank protection top the EU's list of desired capability areas."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
+        "summary": "U.S. forces are set to depart from their last bases in Iraq by Wednesday, a move celebrated as a victory by Iran and its allies."
       }
     ],
     "geo_news": [
       {
-        "title": "Sağlık Bakanlığı 117 kalp merkeziyle ileri tanı ve tedavi hizmeti sunuyor",
+        "title": "33. Uluslararası Adana Altın Koza Film Festivali'nde \"Sinema ve Toplumsal Hafıza\" söyleşisi yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakanligi-117-kalp-merkeziyle-ileri-tani-ve-tedavi-hizmeti-sunuyor-/4072482",
-        "summary": "Sağlık Bakanlığı bünyesinde kamu hastanelerinde faaliyet gösteren 117 kalp merkezinde tanı, tedavi ve takip süreçleri yürütülürken, geçen yıl 46, bu yılın ilk yarısında ise 11 kalp..."
+        "url": "https://www.aa.com.tr/tr/gundem/33-uluslararasi-adana-altin-koza-film-festivalinde-sinema-ve-toplumsal-hafiza-soylesisi-yapildi/4073155",
+        "summary": "Adana'da bu yıl 33'üncüsü düzenlenen Uluslararası Adana Altın Koza Film Festivali kapsamında \"Sinema ve Toplumsal Hafıza\" başlıklı söyleşi gerçekleştirildi."
       },
       {
-        "title": "Dışişleri Bakanı Fidan, Almanya'nın Kuzey Ren-Vestfalya Eyaleti Başbakanı Wüst ile görüştü",
+        "title": "Sermaye piyasası işlemleri soruşturmalarında 2 şüpheli hakkında yakalama kararı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-almanyanin-kuzey-ren-vestfalya-eyaleti-basbakani-wust-ile-gorustu/4072462",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Almanya'nın Kuzey Ren-Vestfalya Eyaleti Başbakanı Hendrik Wüst ile bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-2-supheli-hakkinda-yakalama-karari/4073139",
+        "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında Melis Sütşurup ve babası Cihan Sütşurup hakkında yakalama kararı çıkarıldı."
       },
       {
-        "title": "Türk Yıldızları, Malatya'da gösteri uçuşu yapacak",
+        "title": "TBMM Başkanı Kurtulmuş: Sonuna kadar gidilmesi ve hesabının sorulması lazım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-yildizlari-malatyada-gosteri-ucusu-yapacak/4072453",
-        "summary": "Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, 2 Ekim Cuma günü Malatya'da gösteri uçuşu gerçekleştirecek."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-sonuna-kadar-gidilmesi-ve-hesabinin-sorulmasi-lazim/4072856",
+        "summary": "TBMM Başkanı Numan Kurtulmuş, fon soruşturmalarına ilişkin, \"Bu affedilecek, ihmal edilecek, küçük görülecek bir iş değildir. Sonuna kadar gidilmesi ve hesabının sorulması lazım.\" ..."
       },
       {
-        "title": "Yurdun kuzeyindeki bazı iller için kuvvetli yağış uyarısı",
+        "title": "Devlet Denetleme Kurulu Başkanı Tanrıkulu'ndan fon piyasalarındaki gelişmelere ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yurdun-kuzeyindeki-bazi-iller-icin-kuvvetli-yagis-uyarisi/4072420",
-        "summary": "Yurdun kuzeyindeki bazı iller için kuvvetli yağış uyarısında bulunuldu."
+        "url": "https://www.aa.com.tr/tr/gundem/devlet-denetleme-kurulu-baskani-tanrikulundan-fon-piyasalarindaki-gelismelere-iliskin-aciklama/4073110",
+        "summary": "Cumhurbaşkanlığı Devlet Denetleme Kurulu Başkanı Salih Tanrıkulu, sermaye piyasasında yatırım fonlarının işlemleriyle denetim faaliyetlerinin mevzuata uygun yürütülmesi ve  tedbirl..."
       }
     ]
   }
