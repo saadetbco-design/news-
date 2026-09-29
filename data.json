@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28 22:21:55",
+  "updated_at": "2026-09-29 10:59:34",
   "markets": {
-    "usd_try_kapalicarsi": "48.95 TL",
+    "usd_try_kapalicarsi": "49.00 TL",
     "eur_try_kapalicarsi": "55.73 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Russia raises 2027 military spending by 27%, budget documents show",
-    "bullet_1": "Russia raises 2027 military spending by 27%, budget documents show",
-    "bullet_2": "EU nails down five defense priority areas to channel common spending",
-    "bullet_3": "UK’s Healey puts defense in focus for reindustrialization push",
+    "red_alert": "SON DAKİKA: French artillery regiment reorganizes guns to survive drone threats",
+    "bullet_1": "French artillery regiment reorganizes guns to survive drone threats",
+    "bullet_2": "New Zealand, Australia sign pact to deepen naval cooperation",
+    "bullet_3": "Russia raises 2027 military spending by 27%, budget documents show",
     "defense_news": [
+      {
+        "title": "French artillery regiment reorganizes guns to survive drone threats",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/2026/09/29/french-artillery-regiment-reorganizes-guns-to-survive-drone-threats/",
+        "summary": "A French artillery formation is trialing a new organization of its gun units and support procedures, prompted by drone lessons from the war in Ukraine."
+      },
+      {
+        "title": "New Zealand, Australia sign pact to deepen naval cooperation",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/29/new-zealand-australia-sign-pact-to-deepen-naval-cooperation/",
+        "summary": "The New Zealand and Australian navies signed “Plan Tasman” this month, formalizing a blueprint for integrating the two neighboring sea services."
+      },
       {
         "title": "Russia raises 2027 military spending by 27%, budget documents show",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
         "summary": "Drones, counter-drone tech, air defense, seabed defense and eastern flank protection top the EU's list of desired capability areas."
-      },
-      {
-        "title": "UK’s Healey puts defense in focus for reindustrialization push",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/28/uks-healey-puts-defense-in-focus-for-reindustrialization-push/",
-        "summary": "British government leaders are converging around the message that the defense sector will be key in energizing the nation's anemic growth."
-      },
-      {
-        "title": "Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/27/terror-suspects-wanted-to-do-big-damage-to-air-base-used-by-us-trump-says/",
-        "summary": "British police on Sunday arrested five men on suspicion of explosive and terrorism offenses near an air base that hosts U.S. Air Force personnel."
       }
     ],
     "geo_news": [
       {
-        "title": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma kapsamında 36 şüpheli tutuklandı",
+        "title": "Sağlık Bakanlığı 117 kalp merkeziyle ileri tanı ve tedavi hizmeti sunuyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/muhsin-yazicioglunun-olumune-iliskin-sorusturma-kapsaminda-36-supheli-tutuklandi/4072083",
-        "summary": "Ankara Cumhuriyet Başsavcılığı, Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma kapsamında 36 şüphelinin tutuklandığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakanligi-117-kalp-merkeziyle-ileri-tani-ve-tedavi-hizmeti-sunuyor-/4072482",
+        "summary": "Sağlık Bakanlığı bünyesinde kamu hastanelerinde faaliyet gösteren 117 kalp merkezinde tanı, tedavi ve takip süreçleri yürütülürken, geçen yıl 46, bu yılın ilk yarısında ise 11 kalp..."
       },
       {
-        "title": "Dışişleri Bakanı Fidan, BAE Devlet Başkanı Al Nahyan tarafından kabul edildi",
+        "title": "Dışişleri Bakanı Fidan, Almanya'nın Kuzey Ren-Vestfalya Eyaleti Başbakanı Wüst ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-bae-devlet-baskani-al-nahyan-tarafindan-kabul-edildi/4072036",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Muhammed bin Zayid Al Nahyan tarafından kabul edildi."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-almanyanin-kuzey-ren-vestfalya-eyaleti-basbakani-wust-ile-gorustu/4072462",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Almanya'nın Kuzey Ren-Vestfalya Eyaleti Başbakanı Hendrik Wüst ile bir araya geldi."
       },
       {
-        "title": "İçişleri Bakanı Çiftçi'den Kabine Toplantısı'na ilişkin paylaşım",
+        "title": "Türk Yıldızları, Malatya'da gösteri uçuşu yapacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kabine-toplantisina-iliskin-paylasim/4072034",
-        "summary": "İçişleri Bakanı Çiftçi, \"İçişleri Bakanlığı olarak, Türkiye'nin huzuru ve güvenliği için gece gündüz demeden çalışmaya devam edeceğiz. Milletimizin helal kazancına, alın terine ve ..."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-yildizlari-malatyada-gosteri-ucusu-yapacak/4072453",
+        "summary": "Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, 2 Ekim Cuma günü Malatya'da gösteri uçuşu gerçekleştirecek."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş, Portekiz'deki Müslüman toplumun temsilcileriyle bir araya geldi",
+        "title": "Yurdun kuzeyindeki bazı iller için kuvvetli yağış uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-portekizdeki-musluman-toplumun-temsilcileriyle-bir-araya-geldi/4071998",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, resmi ziyaret gerçekleştirdiği Portekiz'in başkenti Lizbon'da, Lizbon Merkezi Camisi'ni ziyaret ederek, Müslüman toplumun temsilcileriyle görüştü."
+        "url": "https://www.aa.com.tr/tr/gundem/yurdun-kuzeyindeki-bazi-iller-icin-kuvvetli-yagis-uyarisi/4072420",
+        "summary": "Yurdun kuzeyindeki bazı iller için kuvvetli yağış uyarısında bulunuldu."
       }
     ]
   }
