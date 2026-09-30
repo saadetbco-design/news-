@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-09-29 21:11:16",
+  "updated_at": "2026-09-30 10:49:51",
   "markets": {
-    "usd_try_kapalicarsi": "49.00 TL",
-    "eur_try_kapalicarsi": "55.73 TL",
+    "usd_try_kapalicarsi": "49.02 TL",
+    "eur_try_kapalicarsi": "55.61 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
-    "bullet_1": "Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
-    "bullet_2": "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX",
-    "bullet_3": "Estonia blames Russia in arson attack on military robotics firm Milrem",
+    "red_alert": "SON DAKİKA: Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
+    "bullet_1": "Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
+    "bullet_2": "Why the Pentagon just dropped $450M on tungsten mining",
+    "bullet_3": "US Navy selects Boeing to build next-generation F/A-XX fighter",
     "defense_news": [
+      {
+        "title": "Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/unmanned/2026/09/30/ukraines-former-defense-minister-launches-manhattan-project-for-killer-robots/",
+        "summary": "Mykhailo Fedorov told Defense News he wants humanoid-like robots on the battlefield within six months and an assault without infantry within a year."
+      },
+      {
+        "title": "Why the Pentagon just dropped $450M on tungsten mining",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/why-the-pentagon-just-dropped-450m-on-tungsten-mining/",
+        "summary": "The Pentagon recently announced a $450 million investment in The Elmet Group to strengthen the U.S. supply chain for the critical mineral tungsten."
+      },
+      {
+        "title": "US Navy selects Boeing to build next-generation F/A-XX fighter",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
+        "summary": "Boeing has officially been selected to build the Navy’s sixth-generation carrier-based strike fighter, dubbed F/A-XX."
+      },
       {
         "title": "Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/pentagon/2026/09/29/pentagon-awards-raytheon-up-to-207-billion-to-nearly-double-amraam-production/",
         "summary": "The Defense Department has awarded Raytheon a multiyear contract worth up to $20.7 billion to build Advanced Medium-Range Air-to-Air Missiles, or AMRAAMs."
-      },
-      {
-        "title": "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/29/uss-klakring-sent-to-the-bottom-of-the-atlantic-in-joint-us-uk-sinkex/",
-        "summary": "A decommissioned U.S. guided-missile frigate was sent to the bottom of the Atlantic on Sept. 25 during a joint U.S.-U.K. naval exercise."
-      },
-      {
-        "title": "Estonia blames Russia in arson attack on military robotics firm Milrem",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/",
-        "summary": "Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said."
-      },
-      {
-        "title": "US forces exiting Iraq after 2 decades, leaving opening for Iran",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
-        "summary": "U.S. forces are set to depart from their last bases in Iraq by Wednesday, a move celebrated as a victory by Iran and its allies."
       }
     ],
     "geo_news": [
       {
-        "title": "33. Uluslararası Adana Altın Koza Film Festivali'nde \"Sinema ve Toplumsal Hafıza\" söyleşisi yapıldı",
+        "title": "Kaldırımda yürüyen anne ve kızının ölümüne neden olan sürücüye 22,5 yıla kadar hapis istemi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/33-uluslararasi-adana-altin-koza-film-festivalinde-sinema-ve-toplumsal-hafiza-soylesisi-yapildi/4073155",
-        "summary": "Adana'da bu yıl 33'üncüsü düzenlenen Uluslararası Adana Altın Koza Film Festivali kapsamında \"Sinema ve Toplumsal Hafıza\" başlıklı söyleşi gerçekleştirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/kaldirimda-yuruyen-anne-ve-kizinin-olumune-neden-olan-surucuye-22-5-yila-kadar-hapis-istemi/4073664",
+        "summary": "Konya'da kaldırımda yürüyen anne ve kızına 113 kilometre hızla çarparak ölümlerine neden olan sürücü hakkında \"bilinçli taksirle öldürme\" suçundan 2 yıl 8 aydan 22,5 yıla kadar hap..."
       },
       {
-        "title": "Sermaye piyasası işlemleri soruşturmalarında 2 şüpheli hakkında yakalama kararı",
+        "title": "Güneydoğu ve Doğu Akdeniz için kuvvetli yağış uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-2-supheli-hakkinda-yakalama-karari/4073139",
-        "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında Melis Sütşurup ve babası Cihan Sütşurup hakkında yakalama kararı çıkarıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/guneydogu-ve-dogu-akdeniz-icin-kuvvetli-yagis-uyarisi/4073658",
+        "summary": "Güneydoğu ve Doğu Akdeniz için kuvvetli yağış uyarısında bulunuldu."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş: Sonuna kadar gidilmesi ve hesabının sorulması lazım",
+        "title": "Romanlara konu olan Orient Express, yılın ikinci seferi için Türkiye'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-sonuna-kadar-gidilmesi-ve-hesabinin-sorulmasi-lazim/4072856",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, fon soruşturmalarına ilişkin, \"Bu affedilecek, ihmal edilecek, küçük görülecek bir iş değildir. Sonuna kadar gidilmesi ve hesabının sorulması lazım.\" ..."
+        "url": "https://www.aa.com.tr/tr/gundem/romanlara-konu-olan-orient-express-yilin-ikinci-seferi-icin-turkiyede/4073640",
+        "summary": "Paris'ten hareket eden tarihi Venice Simplon Orient Express treni, yılın ikinci seferi için Kapıkule Garı'ndan Türkiye'ye giriş yaptı."
       },
       {
-        "title": "Devlet Denetleme Kurulu Başkanı Tanrıkulu'ndan fon piyasalarındaki gelişmelere ilişkin açıklama",
+        "title": "İsrail saldırılarında yaralanan Filistinli Sıla, sağlığına Türkiye'de kavuşacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/devlet-denetleme-kurulu-baskani-tanrikulundan-fon-piyasalarindaki-gelismelere-iliskin-aciklama/4073110",
-        "summary": "Cumhurbaşkanlığı Devlet Denetleme Kurulu Başkanı Salih Tanrıkulu, sermaye piyasasında yatırım fonlarının işlemleriyle denetim faaliyetlerinin mevzuata uygun yürütülmesi ve  tedbirl..."
+        "url": "https://www.aa.com.tr/tr/gundem/israil-saldirilarinda-yaralanan-filistinli-sila-sagligina-turkiyede-kavusacak/4073636",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırıda şarapnel parçasının isabet etmesi sonucu omurgasından yaralanarak dik durma ve normal oturma yetisini kaybeden 6 yaşındaki Filistinl..."
       }
     ]
   }
