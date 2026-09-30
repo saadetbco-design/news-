@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 10:49:51",
+  "updated_at": "2026-09-30 21:06:23",
   "markets": {
     "usd_try_kapalicarsi": "49.02 TL",
     "eur_try_kapalicarsi": "55.61 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
-    "bullet_1": "Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
-    "bullet_2": "Why the Pentagon just dropped $450M on tungsten mining",
-    "bullet_3": "US Navy selects Boeing to build next-generation F/A-XX fighter",
+    "red_alert": "SON DAKİKA: US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
+    "bullet_1": "US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
+    "bullet_2": "White House nominates next general to helm US Space Command",
+    "bullet_3": "Operation Atlantic City ushers Marines on rare trip to ... remote Arctic island",
     "defense_news": [
       {
-        "title": "Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
+        "title": "US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/unmanned/2026/09/30/ukraines-former-defense-minister-launches-manhattan-project-for-killer-robots/",
-        "summary": "Mykhailo Fedorov told Defense News he wants humanoid-like robots on the battlefield within six months and an assault without infantry within a year."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-air-force-awards-238b-contract-to-boeing-for-22-f-15ex/",
+        "summary": "The service awarded Boeing a contract for 22 more F-15EX aircraft, bringing the number to a total of 120 to be manufactured by the defense company."
       },
       {
-        "title": "Why the Pentagon just dropped $450M on tungsten mining",
+        "title": "White House nominates next general to helm US Space Command",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/why-the-pentagon-just-dropped-450m-on-tungsten-mining/",
-        "summary": "The Pentagon recently announced a $450 million investment in The Elmet Group to strengthen the U.S. supply chain for the critical mineral tungsten."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/white-house-nominates-next-general-to-helm-us-space-command/",
+        "summary": "If confirmed, Lt. Gen. David N. Miller Jr. would take over command from Gen. Stephen Whiting after his upcoming retirement."
       },
       {
-        "title": "US Navy selects Boeing to build next-generation F/A-XX fighter",
+        "title": "Operation Atlantic City ushers Marines on rare trip to ... remote Arctic island",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
-        "summary": "Boeing has officially been selected to build the Navy’s sixth-generation carrier-based strike fighter, dubbed F/A-XX."
+        "url": "https://www.defensenews.com/news/your-military/2026/09/30/operation-atlantic-city-ushers-marines-on-rare-trip-to-remote-arctic-island/",
+        "summary": "U.S. Marines participated in a NATO exercise on a remote Arctic island as the alliance increases its focus on the region amid worries about Russia."
       },
       {
-        "title": "Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
+        "title": "US Army selects five companies for PrSM development",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/09/29/pentagon-awards-raytheon-up-to-207-billion-to-nearly-double-amraam-production/",
-        "summary": "The Defense Department has awarded Raytheon a multiyear contract worth up to $20.7 billion to build Advanced Medium-Range Air-to-Air Missiles, or AMRAAMs."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-army-selects-five-companies-for-prsm-development/",
+        "summary": "The Army on Tuesday signed agreements with Anduril, Castelion, Lockheed Martin, Mach Industries and RTX to create advanced long-range missile prototypes."
       }
     ],
     "geo_news": [
       {
-        "title": "Kaldırımda yürüyen anne ve kızının ölümüne neden olan sürücüye 22,5 yıla kadar hapis istemi",
+        "title": "Ticaret Bakanı Bolat, Suudi Arabistan Ticaret Bakanı Macid el-Kasabi ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kaldirimda-yuruyen-anne-ve-kizinin-olumune-neden-olan-surucuye-22-5-yila-kadar-hapis-istemi/4073664",
-        "summary": "Konya'da kaldırımda yürüyen anne ve kızına 113 kilometre hızla çarparak ölümlerine neden olan sürücü hakkında \"bilinçli taksirle öldürme\" suçundan 2 yıl 8 aydan 22,5 yıla kadar hap..."
+        "url": "https://www.aa.com.tr/tr/gundem/ticaret-bakani-bolat-suudi-arabistan-ticaret-bakani-macid-el-kasabi-ile-gorustu/4074299",
+        "summary": "Ticaret Bakanı Ömer Bolat, Suudi Arabistan Ticaret Bakanı Macid el-Kasabi ile yaptığı görüşmede, iki ülke arasındaki ticaretin daha da artırılmasına yönelik işbirliği imkanlarını e..."
       },
       {
-        "title": "Güneydoğu ve Doğu Akdeniz için kuvvetli yağış uyarısı",
+        "title": "Sermaye piyasası işlemleri soruşturmalarında şarkıcı Nil Özalp gözaltına alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/guneydogu-ve-dogu-akdeniz-icin-kuvvetli-yagis-uyarisi/4073658",
-        "summary": "Güneydoğu ve Doğu Akdeniz için kuvvetli yağış uyarısında bulunuldu."
+        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-sarkici-nil-ozalp-gozaltina-alindi-/4074266",
+        "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında şarkıcı Nil Özalp gözaltına alındı."
       },
       {
-        "title": "Romanlara konu olan Orient Express, yılın ikinci seferi için Türkiye'de",
+        "title": "AKPM'deki Türk milletvekilleri UCM'ye yönelik baskılara tepki verdi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/romanlara-konu-olan-orient-express-yilin-ikinci-seferi-icin-turkiyede/4073640",
-        "summary": "Paris'ten hareket eden tarihi Venice Simplon Orient Express treni, yılın ikinci seferi için Kapıkule Garı'ndan Türkiye'ye giriş yaptı."
+        "url": "https://www.aa.com.tr/tr/gundem/akpmdeki-turk-milletvekilleri-ucmye-yonelik-baskilara-tepki-verdi/4074229",
+        "summary": "Avrupa Konseyi Parlamenter Meclisi'nde (AKPM) söz alan Türk milletvekilleri, görevini yerine getiren Uluslararası Ceza Mahkemesine (UCM) yönelik baskılara tepki verdi."
       },
       {
-        "title": "İsrail saldırılarında yaralanan Filistinli Sıla, sağlığına Türkiye'de kavuşacak",
+        "title": "Cumhurbaşkanı Erdoğan'dan Konyaspor-Filistin Milli Takımı dostluk maçına ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/israil-saldirilarinda-yaralanan-filistinli-sila-sagligina-turkiyede-kavusacak/4073636",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırıda şarapnel parçasının isabet etmesi sonucu omurgasından yaralanarak dik durma ve normal oturma yetisini kaybeden 6 yaşındaki Filistinl..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-konyaspor-filistin-milli-takimi-dostluk-macina-iliskin-paylasim/4074242",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Konyaspor ile Filistin Milli Takımı arasında Konya'da oynanan dostluk maçının, iki ülke arasındaki kardeşliği, dayanışmayı, gönül birlikteliğini..."
       }
     ]
   }
