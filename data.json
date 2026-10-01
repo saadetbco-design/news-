@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 11:16:49",
+  "updated_at": "2026-10-01 21:30:48",
   "markets": {
     "usd_try_kapalicarsi": "49.05 TL",
     "eur_try_kapalicarsi": "55.62 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
-    "bullet_1": "US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
-    "bullet_2": "White House nominates next general to helm US Space Command",
-    "bullet_3": "Operation Atlantic City ushers Marines on rare trip to ... remote Arctic island",
+    "red_alert": "SON DAKİKA: Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
+    "bullet_1": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
+    "bullet_2": "Boeing adds to big week with first full-rate Grey Wolf helicopter order",
+    "bullet_3": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
     "defense_news": [
       {
-        "title": "US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
+        "title": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-air-force-awards-238b-contract-to-boeing-for-22-f-15ex/",
-        "summary": "The service awarded Boeing a contract for 22 more F-15EX aircraft, bringing the number to a total of 120 to be manufactured by the defense company."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
+        "summary": "Ukraine has deployed its FP-7 tactical ballistic missile in combat for the first time, President Volodymyr Zelenskyy said on Thursday."
       },
       {
-        "title": "White House nominates next general to helm US Space Command",
+        "title": "Boeing adds to big week with first full-rate Grey Wolf helicopter order",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/white-house-nominates-next-general-to-helm-us-space-command/",
-        "summary": "If confirmed, Lt. Gen. David N. Miller Jr. would take over command from Gen. Stephen Whiting after his upcoming retirement."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/boeing-adds-to-big-week-with-first-full-rate-grey-wolf-helicopter-order/",
+        "summary": "The U.S. Air Force awarded Boeing a roughly $85 million contract for four more MH-139A Grey Wolf helicopters, with the first under full-rate production."
       },
       {
-        "title": "Operation Atlantic City ushers Marines on rare trip to ... remote Arctic island",
+        "title": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/30/operation-atlantic-city-ushers-marines-on-rare-trip-to-remote-arctic-island/",
-        "summary": "U.S. Marines participated in a NATO exercise on a remote Arctic island as the alliance increases its focus on the region amid worries about Russia."
+        "url": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
+        "summary": "Belgium is pushing to get new naval frigates on time, as a joint procurement with the Netherlands is delayed by years."
       },
       {
-        "title": "US Army selects five companies for PrSM development",
+        "title": "Taiwan takes a page from Ukraine’s playbook in steeling society for an invasion",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-army-selects-five-companies-for-prsm-development/",
-        "summary": "The Army on Tuesday signed agreements with Anduril, Castelion, Lockheed Martin, Mach Industries and RTX to create advanced long-range missile prototypes."
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/01/taiwan-takes-a-page-from-ukraines-playbook-in-steeling-society-for-an-invasion/",
+        "summary": "Taiwan leaders are working to embed resistance against an occupying force into civilian life."
       }
     ],
     "geo_news": [
       {
-        "title": "Bakan Memişoğlu: Temmuz 2024'ten bu yana normal doğum oranımızı yüzde 15,8 artırdık",
+        "title": "Dışişleri Bakanlığı, Husilerin Suudi Arabistan'daki sivil altyapıya yönelik saldırısını şiddetle kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-temmuz-2024ten-bu-yana-normal-dogum-oranimizi-yuzde-15-8-artirdik/4074820",
-        "summary": "Sağlık Bakanı Kemal Memişoğlu, Temmuz 2024'ten bu yana normal doğum oranını yüzde 15,8 artırdıklarını, bu çalışmaları daha da güçlendireceklerini bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-husilerin-suudi-arabistandaki-sivil-altyapiya-yonelik-saldirisini-siddetle-kinadi/4075552",
+        "summary": "Dışişleri Bakanlığı, \"Husilerin, Medine-i Münevvere'de Mescid-i Nebevi'ye hizmet veren sivil altyapıya yönelik saldırısını şiddetle kınıyoruz.\" açıklamasında bulundu."
       },
       {
-        "title": "TBMM'de 28. Dönem 5. Yasama Yılı açılışı dolayısıyla tören düzenlendi",
+        "title": "\"Hakemler dosyası\" soruşturmasında 2 hakem gözaltına alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmmde-28-donem-5-yasama-yili-acilisi-dolayisiyla-toren-duzenlendi/4074800",
-        "summary": "28. Dönem 5. Yasama Yılı açılışı dolayısıyla Meclis'teki Atatürk Anıtı önünde tören yapıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/hakemler-dosyasi-sorusturmasinda-2-hakem-gozaltina-alindi-/4075525",
+        "summary": "İstanbul'da \"hakemler dosyası\" olarak bilinen soruşturma kapsamında Süper Lig hakemi Yasin Kol ile Süper Lig yardımcı hakemi Göktuğ Hazar Erel gözaltına alındı."
       },
       {
-        "title": "Meteorolojiden İstanbul ve çevresi için gök gürültülü sağanak uyarısı",
+        "title": "Şarkıcı Güllü'nün ölümüne ilişkin davanın ilk duruşmasında mütalaa açıklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/meteorolojiden-istanbul-ve-cevresi-icin-gok-gurultulu-saganak-uyarisi/4074750",
-        "summary": "Meteoroloji, İstanbul ve çevre illerde gece saatlerinden itibaren beklenen gök gürültülü sağanak nedeniyle meydana gelebilecek olumsuzluklara karşı uyarıda bulundu."
+        "url": "https://www.aa.com.tr/tr/gundem/sarkici-gullunun-olumune-iliskin-davanin-ilk-durusmasinda-mutalaa-aciklandi/4075494",
+        "summary": "\"Güllü\" adıyla tanınan şarkıcı Gül Tut'un ölümüne ilişkin kızı Tuğyan Ülkem Gülter'in yargılandığı davanın ilk duruşmasında mütalaa açıklandı."
       },
       {
-        "title": "Kırıkkale Belediyesine yönelik rüşvet operasyonunda 3 belediye çalışanı gözaltına alındı",
+        "title": "Bahçeli: Terörsüz Türkiye süreci artık cumhuriyet hükümetinin devlet politikası haline gelmiştir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kirikkale-belediyesine-yonelik-rusvet-operasyonunda-3-belediye-calisani-gozaltina-alindi/4074706",
-        "summary": "Kırıkkale Belediyesi İmar ve Şehircilik Müdürlüğüne yönelik rüşvet operasyonunda 3 belediye çalışanı gözaltına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/bahceli-terorsuz-turkiye-sureci-artik-cumhuriyet-hukumetinin-devlet-politikasi-haline-gelmistir/4075429",
+        "summary": "MHP Genel Başkanı Devlet Bahçeli, Terörsüz Türkiye sürecine ilişkin, \"Artık bu, cumhuriyet hükümetinin devlet politikası haline gelmiştir. Onların alacağı tedbirleri saygıyla karşı..."
       }
     ]
   }
