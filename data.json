@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-30 21:06:23",
+  "updated_at": "2026-10-01 11:16:49",
   "markets": {
-    "usd_try_kapalicarsi": "49.02 TL",
-    "eur_try_kapalicarsi": "55.61 TL",
+    "usd_try_kapalicarsi": "49.05 TL",
+    "eur_try_kapalicarsi": "55.62 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Ticaret Bakanı Bolat, Suudi Arabistan Ticaret Bakanı Macid el-Kasabi ile görüştü",
+        "title": "Bakan Memişoğlu: Temmuz 2024'ten bu yana normal doğum oranımızı yüzde 15,8 artırdık",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ticaret-bakani-bolat-suudi-arabistan-ticaret-bakani-macid-el-kasabi-ile-gorustu/4074299",
-        "summary": "Ticaret Bakanı Ömer Bolat, Suudi Arabistan Ticaret Bakanı Macid el-Kasabi ile yaptığı görüşmede, iki ülke arasındaki ticaretin daha da artırılmasına yönelik işbirliği imkanlarını e..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-temmuz-2024ten-bu-yana-normal-dogum-oranimizi-yuzde-15-8-artirdik/4074820",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, Temmuz 2024'ten bu yana normal doğum oranını yüzde 15,8 artırdıklarını, bu çalışmaları daha da güçlendireceklerini bildirdi."
       },
       {
-        "title": "Sermaye piyasası işlemleri soruşturmalarında şarkıcı Nil Özalp gözaltına alındı",
+        "title": "TBMM'de 28. Dönem 5. Yasama Yılı açılışı dolayısıyla tören düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-sarkici-nil-ozalp-gozaltina-alindi-/4074266",
-        "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında şarkıcı Nil Özalp gözaltına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmmde-28-donem-5-yasama-yili-acilisi-dolayisiyla-toren-duzenlendi/4074800",
+        "summary": "28. Dönem 5. Yasama Yılı açılışı dolayısıyla Meclis'teki Atatürk Anıtı önünde tören yapıldı."
       },
       {
-        "title": "AKPM'deki Türk milletvekilleri UCM'ye yönelik baskılara tepki verdi",
+        "title": "Meteorolojiden İstanbul ve çevresi için gök gürültülü sağanak uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/akpmdeki-turk-milletvekilleri-ucmye-yonelik-baskilara-tepki-verdi/4074229",
-        "summary": "Avrupa Konseyi Parlamenter Meclisi'nde (AKPM) söz alan Türk milletvekilleri, görevini yerine getiren Uluslararası Ceza Mahkemesine (UCM) yönelik baskılara tepki verdi."
+        "url": "https://www.aa.com.tr/tr/gundem/meteorolojiden-istanbul-ve-cevresi-icin-gok-gurultulu-saganak-uyarisi/4074750",
+        "summary": "Meteoroloji, İstanbul ve çevre illerde gece saatlerinden itibaren beklenen gök gürültülü sağanak nedeniyle meydana gelebilecek olumsuzluklara karşı uyarıda bulundu."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan'dan Konyaspor-Filistin Milli Takımı dostluk maçına ilişkin paylaşım",
+        "title": "Kırıkkale Belediyesine yönelik rüşvet operasyonunda 3 belediye çalışanı gözaltına alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-konyaspor-filistin-milli-takimi-dostluk-macina-iliskin-paylasim/4074242",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Konyaspor ile Filistin Milli Takımı arasında Konya'da oynanan dostluk maçının, iki ülke arasındaki kardeşliği, dayanışmayı, gönül birlikteliğini..."
+        "url": "https://www.aa.com.tr/tr/gundem/kirikkale-belediyesine-yonelik-rusvet-operasyonunda-3-belediye-calisani-gozaltina-alindi/4074706",
+        "summary": "Kırıkkale Belediyesi İmar ve Şehircilik Müdürlüğüne yönelik rüşvet operasyonunda 3 belediye çalışanı gözaltına alındı."
       }
     ]
   }
