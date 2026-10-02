@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 10:48:57",
+  "updated_at": "2026-10-02 21:06:02",
   "markets": {
     "usd_try_kapalicarsi": "49.12 TL",
     "eur_try_kapalicarsi": "55.36 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Navy awards RTX’s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
-    "bullet_1": "US Navy awards RTX’s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
-    "bullet_2": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
-    "bullet_3": "Boeing adds to big week with first full-rate Grey Wolf helicopter order",
+    "red_alert": "SON DAKİKA: Saudis plan assault on Houthis to break Red Sea chokehold",
+    "bullet_1": "Saudis plan assault on Houthis to break Red Sea chokehold",
+    "bullet_2": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
+    "bullet_3": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China",
     "defense_news": [
       {
-        "title": "US Navy awards RTX’s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
+        "title": "Saudis plan assault on Houthis to break Red Sea chokehold",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
-        "summary": "The deal for the SM-6 interceptors comes as the Pentagon pushes to replenish munitions stockpiles depleted by conflicts in the Middle East."
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/10/02/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
+        "summary": "More than 100,000 Yemeni troops could be mobilized in the offensive, depending on the scale, officials said."
       },
       {
-        "title": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
+        "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
-        "summary": "Ukraine has deployed its FP-7 tactical ballistic missile in combat for the first time, President Volodymyr Zelenskyy said on Thursday."
+        "url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
+        "summary": "Italian military planners risk losing out on billions in funding as government and opposition parties seek to cut defense spending and Ukraine support."
       },
       {
-        "title": "Boeing adds to big week with first full-rate Grey Wolf helicopter order",
+        "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/boeing-adds-to-big-week-with-first-full-rate-grey-wolf-helicopter-order/",
-        "summary": "The U.S. Air Force awarded Boeing a roughly $85 million contract for four more MH-139A Grey Wolf helicopters, with the first under full-rate production."
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defenses-against-china/",
+        "summary": "The first two of a batch of 66 new F-16V Block 70 fighter jets ordered in 2019 arrived in Taiwan on Friday after months of delays."
       },
       {
-        "title": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
+        "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
-        "summary": "Belgium is pushing to get new naval frigates on time, as a joint procurement with the Netherlands is delayed by years."
+        "url": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
+        "summary": "The French Air Force plans to fly crewed fighter jets in collaboration with AI-powered combat drones in 2028, under project Hypairion."
       }
     ],
     "geo_news": [
       {
-        "title": "Türkiye-Azerbaycan-Gürcistan Üçlü Savunma Bakanları Toplantısı Şuşa'da düzenlendi",
+        "title": "Bakan Göktaş: Bugün 83 bini aşkın engelli kardeşimiz kamuda görev yapıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-azerbaycan-gurcistan-uclu-savunma-bakanlari-toplantisi-susada-duzenlendi/4075862",
-        "summary": "Türkiye-Azerbaycan-Gürcistan Üçlü Savunma Bakanları 13. Toplantısı, Azerbaycan'ın Şuşa şehrinde düzenlendi."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-bugun-83-bini-askin-engelli-kardesimiz-kamuda-gorev-yapiyor/4076345",
+        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, bugün 83 bini aşkın engellinin kamuda görev yaptığını söyledi."
       },
       {
-        "title": "Fon Kurulunda SPK'nın hesaplara ilişkin ödeme takvimi değerlendirildi",
+        "title": "MHP Genel Başkanı Bahçeli'den \"3 Ekim Türk Dünyası Günü\" mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/fon-kurulunda-spknin-hesaplara-iliskin-odeme-takvimi-degerlendirildi/4075964",
-        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında toplanan Fon Kurulunda, Sermaye Piyasası Kurulunun (SPK) fon hesaplarına ilişkin ödeme takviminin değerlendirildiği bildirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-3-ekim-turk-dunyasi-gunu-mesaji/4076448",
+        "summary": "MHP Genel Başkanı Devlet Bahçeli,  \"3 Ekim Türk Dünyası Günü\" dolayısıyla yazılı açıklama yaptı."
       },
       {
-        "title": "Şam Uluslararası Recep Tayyip Erdoğan Türk Okulu, 4 Ekim'de açılacak",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: KKTC'nin kalkınma yolculuğuna kararlılıkla destek sunmaya devam edeceğiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sam-uluslararasi-recep-tayyip-erdogan-turk-okulu-4-ekimde-acilacak/4075944",
-        "summary": "Türkiye ile Suriye arasında eğitim alanında sürdürülen işbirliği kapsamında yapımı tamamlanan Şam Uluslararası Recep Tayyip Erdoğan Türk Okulu, 4 Ekim Pazar günü öğrencilere kapıla..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-kktcnin-kalkinma-yolculuguna-kararlilikla-destek-sunmaya-devam-edecegiz/4076407",
+        "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Türkiye Cumhuriyeti ve Kuzey Kıbrıs Türk Cumhuriyeti kader birliği içinde geleceklerini en güçlü şekilde inşa ediyorlar, etmeye de devam edecekler..."
       },
       {
-        "title": "İstanbul'da tütünle mücadele için kurulan özel ekip sigarayı bırakmak isteyenler için sahada",
+        "title": "İçişleri Bakanı Çiftçi: Türkiye Yüzyılı'nı aynı zamanda 'Huzurun ve Güvenin Yüzyılı' olarak inşa etmekte kararlıyız",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-tutunle-mucadele-icin-kurulan-ozel-ekip-sigarayi-birakmak-isteyenler-icin-sahada/4075782",
-        "summary": "İstanbul İl Sağlık Müdürlüğü tarafından oluşturulan Tütün İle Mücadele Timleri, sokak, meydan ve vatandaşların yoğun bulunduğu alanlarda sigara kullananlara ulaşarak tütün ürünleri..."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-turkiye-yuzyilini-ayni-zamanda-huzurun-ve-guvenin-yuzyili-olarak-insa-etmekte-kararliyiz/4076336",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Şehirlerimizi güçlendirecek, üretimin ve yatırımın önünü açacak, milletimizin huzurunu tahkim edecek eserleri, ülkemizin dört bir yanıyla buluşturm..."
       }
     ]
   }
