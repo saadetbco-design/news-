@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-02 21:06:02",
+  "updated_at": "2026-10-03 10:08:43",
   "markets": {
-    "usd_try_kapalicarsi": "49.12 TL",
-    "eur_try_kapalicarsi": "55.36 TL",
+    "usd_try_kapalicarsi": "49.13 TL",
+    "eur_try_kapalicarsi": "55.29 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Bakan Göktaş: Bugün 83 bini aşkın engelli kardeşimiz kamuda görev yapıyor",
+        "title": "COP31 kapsamında 30 ilde \"Gençlik İklim Çalıştayları\" yapılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-bugun-83-bini-askin-engelli-kardesimiz-kamuda-gorev-yapiyor/4076345",
-        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, bugün 83 bini aşkın engellinin kamuda görev yaptığını söyledi."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-30-ilde-genclik-iklim-calistaylari-yapilacak/4076885",
+        "summary": "31. Taraflar Konferansı (COP31) hazırlıkları çerçevesinde, Milli Eğitim Bakanlığı (MEB) Ortaöğretim Genel Müdürlüğünce 6-8 Ekim'de Gençlik İklim Çalıştayları gerçekleştirilecek."
       },
       {
-        "title": "MHP Genel Başkanı Bahçeli'den \"3 Ekim Türk Dünyası Günü\" mesajı",
+        "title": "Türkiye ile Fransa arasında \"Savunma İş Birliği Yol Haritası\" imzalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-3-ekim-turk-dunyasi-gunu-mesaji/4076448",
-        "summary": "MHP Genel Başkanı Devlet Bahçeli,  \"3 Ekim Türk Dünyası Günü\" dolayısıyla yazılı açıklama yaptı."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-ile-fransa-arasinda-savunma-is-birligi-yol-haritasi-imzalandi/4076878",
+        "summary": "Milli Savunma Bakanlığı (MSB), Türkiye ile Fransa arasındaki askeri işbirliği faaliyetleri kapsamında, \"Savunma İş Birliği Yol Haritası\"nın imzalandığını bildirdi."
       },
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: KKTC'nin kalkınma yolculuğuna kararlılıkla destek sunmaya devam edeceğiz",
+        "title": "Adalet Bakanı Gürlek'ten \"faili meçhul\" dosyalara ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-kktcnin-kalkinma-yolculuguna-kararlilikla-destek-sunmaya-devam-edecegiz/4076407",
-        "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Türkiye Cumhuriyeti ve Kuzey Kıbrıs Türk Cumhuriyeti kader birliği içinde geleceklerini en güçlü şekilde inşa ediyorlar, etmeye de devam edecekler..."
+        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-faili-mechul-dosyalara-iliskin-aciklama/4076870",
+        "summary": "Adalet Bakanı Akın Gürlek, 7 faili meçhul dosyada 8 cinayeti aydınlattıklarını, 58 dosyada 65 cinayeti faili meçhul olmaktan çıkardıklarını belirtti."
       },
       {
-        "title": "İçişleri Bakanı Çiftçi: Türkiye Yüzyılı'nı aynı zamanda 'Huzurun ve Güvenin Yüzyılı' olarak inşa etmekte kararlıyız",
+        "title": "Gençlerin sağlığı için kampüsler dumansızlaşıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-turkiye-yuzyilini-ayni-zamanda-huzurun-ve-guvenin-yuzyili-olarak-insa-etmekte-kararliyiz/4076336",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Şehirlerimizi güçlendirecek, üretimin ve yatırımın önünü açacak, milletimizin huzurunu tahkim edecek eserleri, ülkemizin dört bir yanıyla buluşturm..."
+        "url": "https://www.aa.com.tr/tr/gundem/genclerin-sagligi-icin-kampusler-dumansizlasiyor/4076770",
+        "summary": "Tütün ürünlerinin kullanımını azaltmaya yönelik çalışmalar kapsamında İstanbul'daki bazı üniversitelerde hayata geçirilen \"Dumansız Kampüs\" uygulamasıyla öğrencilerin tütün ürünler..."
       }
     ]
   }
