@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-03 19:37:05",
+  "updated_at": "2026-10-04 10:49:36",
   "markets": {
-    "usd_try_kapalicarsi": "49.13 TL",
+    "usd_try_kapalicarsi": "49.14 TL",
     "eur_try_kapalicarsi": "55.29 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "İletişim Başkanı Duran'dan TEKNOFEST Güneydoğu paylaşımı",
+        "title": "Jandarmanın hava gösterileri, TEKNOFEST Güneydoğu etkinliklerine renk kattı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-teknofest-guneydogu-paylasimi/4077293",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, TEKNOFEST Güneydoğu'ya ilişkin, \"Göklerde, denizlerde ve karada kendi teknolojisini geliştiren Türkiye, şimdi gençlerinin hayalleriyle çok ..."
+        "url": "https://www.aa.com.tr/tr/gundem/jandarmanin-hava-gosterileri-teknofest-guneydogu-etkinliklerine-renk-katti/4077505",
+        "summary": "Şanlıurfa'da düzenlenen dünyanın en büyük havacılık, uzay ve teknoloji festivali TEKNOFEST Güneydoğu'nun son gününde jandarma ekiplerinin helikopterlerle yaptığı gösteriler coşkuyl..."
       },
       {
-        "title": "Bakan Güler TEKNOFEST Güneydoğu'da Türk Silahlı Kuvvetlerinin gösterilerini izledi",
+        "title": "Kars'ın yüksek kesimlerine kar yağdı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-guler-teknofest-guneydoguda-turk-silahli-kuvvetlerinin-gosterilerini-izledi/4077238",
-        "summary": "Milli Savunma Bakanı Güler, Genelkurmay Başkanı Orgeneral Bayraktaroğlu, Deniz Kuvvetleri Komutanı Oramiral Tatlıoğlu ve Kara Kuvvetleri Komutanı Orgeneral Tokel, TEKNOFEST Güneydo..."
+        "url": "https://www.aa.com.tr/tr/gundem/karsin-yuksek-kesimlerine-kar-yagdi-/4077469",
+        "summary": "Kars'ı çevreleyen yüksek kesimlerdeki bazı dağlara kar yağdı."
       },
       {
-        "title": "Ulaştırma ve Altyapı Bakanı Uraloğlu, TEKNOFEST Güneydoğu'da stantları ziyaret etti",
+        "title": "Tuz Gölü'nde ortaya çıkan tuz kütleleri fotoğraf tutkunlarının ilgisini çekiyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ulastirma-ve-altyapi-bakani-uraloglu-teknofest-guneydoguda-stantlari-ziyaret-etti/4077031",
-        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, TEKNOFEST Güneydoğu'da yer alan standları ziyaret etti."
+        "url": "https://www.aa.com.tr/tr/gundem/tuz-golunde-ortaya-cikan-tuz-kutleleri-fotograf-tutkunlarinin-ilgisini-cekiyor/4077455",
+        "summary": "Tuz Gölü'nün Aksaray'ın Eskil ilçesi sınırlarındaki bölümünde suların çekilmesiyle oluşan farklı şekillerdeki tuz kütleleri, fotoğraf tutkunlarının ilgisini çekiyor."
       },
       {
-        "title": "Yurt genelinde serin ve yağışlı hava etkisini sürdürecek",
+        "title": "Bakan Fidan, yarın Riyad'da Mekke Ortak Savunma Anlaşması'nın Komite Toplantısı'na katılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yurt-genelinde-serin-ve-yagisli-hava-etkisini-surdurecek/4077216",
-        "summary": "Yurdun büyük bir kesiminde serin ve yağışlı hava etkisini sürdürecek."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-yarin-riyadda-mekke-ortak-savunma-anlasmasinin-komite-toplantisina-katilacak/4077503",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Mekke Ortak Savunma Anlaşması kapsamında tesis edilen Stratejik Siyasi ve Savunma Komitesi'nin yarın Suudi Arabistan'ın başkenti Riyad'da düzenlenecek..."
       }
     ]
   }
