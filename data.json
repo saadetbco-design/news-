@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-10-04 19:51:29",
+  "updated_at": "2026-10-05 11:57:24",
   "markets": {
-    "usd_try_kapalicarsi": "49.14 TL",
-    "eur_try_kapalicarsi": "55.29 TL",
+    "usd_try_kapalicarsi": "49.16 TL",
+    "eur_try_kapalicarsi": "55.31 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Saudis plan assault on Houthis to break Red Sea chokehold",
-    "bullet_1": "Saudis plan assault on Houthis to break Red Sea chokehold",
-    "bullet_2": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
-    "bullet_3": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China",
+    "red_alert": "SON DAKİKA: Missiles, satellites and warplanes — Ukraine, Europe advance key arms projects",
+    "bullet_1": "Missiles, satellites and warplanes — Ukraine, Europe advance key arms projects",
+    "bullet_2": "US removes B-1 bombers from UK base amid security concerns",
+    "bullet_3": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
     "defense_news": [
+      {
+        "title": "Missiles, satellites and warplanes — Ukraine, Europe advance key arms projects",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects/",
+        "summary": "Ukraine’s Fire Point said the firm is developing an extended-range tactical ballistic missile after its FP-7 weapon was used in combat for the first time."
+      },
+      {
+        "title": "US removes B-1 bombers from UK base amid security concerns",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/",
+        "summary": "The United States removed its B-1 bombers from a U.K. air base one week after several men were arrested there on suspicion of preparing terrorist acts."
+      },
+      {
+        "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/",
+        "summary": "Yemen’s Saudi-backed government said on Sunday it was launching a major military campaign to recapture all areas controlled by the Iran-backed Houthis."
+      },
       {
         "title": "Saudis plan assault on Houthis to break Red Sea chokehold",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/mideast-africa/2026/10/02/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
         "summary": "More than 100,000 Yemeni troops could be mobilized in the offensive, depending on the scale, officials said."
-      },
-      {
-        "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
-        "summary": "Italian military planners risk losing out on billions in funding as government and opposition parties seek to cut defense spending and Ukraine support."
-      },
-      {
-        "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defenses-against-china/",
-        "summary": "The first two of a batch of 66 new F-16V Block 70 fighter jets ordered in 2019 arrived in Taiwan on Friday after months of delays."
-      },
-      {
-        "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
-        "summary": "The French Air Force plans to fly crewed fighter jets in collaboration with AI-powered combat drones in 2028, under project Hypairion."
       }
     ],
     "geo_news": [
       {
-        "title": "Türk Yıldızları, Malatyalı vatandaşlara unutulmaz gösteri sundu",
+        "title": "Cumhurbaşkanı Erdoğan AileFest'i ziyaret etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-yildizlari-malatyali-vatandaslara-unutulmaz-gosteri-sundu/4077857",
-        "summary": "Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, Malatyalılara unutulmaz bir gösteri sundu."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-ailefesti-ziyaret-etti/4078472",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Aile ve Nüfus On Yılı\" kapsamında Rami Kütüphanesi'nde yapılan AileFest'i ziyaret etti."
       },
       {
-        "title": "Sermaye piyasasındaki işlemlere ilişkin soruşturma sürüyor",
+        "title": "Özel Kuvvetler, 3 bin 37,5 metrekarelik dev Türk bayrağını gökyüzünde dalgalandırdı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasindaki-islemlere-iliskin-sorusturma-suruyor/4077825",
-        "summary": "İstanbul Cumhuriyet Başsavcılığınca sermaye piyasasındaki işlemlere ilişkin yürütülen soruşturmalar kapsamında 217 şüpheli hakkında adli işlem yapıldı, tutuklananların sayısı ise 8..."
+        "url": "https://www.aa.com.tr/tr/gundem/ozel-kuvvetler-3-bin-37-5-metrekarelik-dev-turk-bayragini-gokyuzunde-dalgalandirdi/4078355",
+        "summary": "Milli Savunma Bakanlığı, Özel Kuvvetler Komutanlığının 3 bin 37,5 metrekarelik dev Türk bayrağını gökyüzünde dalgalandırdığını bildirdi."
       },
       {
-        "title": "Şanlıurfa'da TEKNOFEST'e yoğun ilgi Yeşilayı memnun etti",
+        "title": "COP31 Başkanı Kurum, Fiji'de \"COP31 Eylem Gündemi\"ni anlattı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sanliurfada-teknofeste-yogun-ilgi-yesilayi-memnun-etti/4077733",
-        "summary": "Yeşilay Şanlıurfa Şube Başkanı Aziz Çiftçi, \"Yeşilay teknolojiye karşı değil. Teknoloji bağımlılığıyla mücadele ederken yerinde ve yeterince teknoloji, çocuğun gelişimine etki yara..."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31-baskani-kurum-fijide-cop31-eylem-gundemini-anlatti/4078433",
+        "summary": "COP31 Başkanı Kurum, \"Eylem gündemimizi 10 öncelikli tema, 6 küresel hedef, 11 girişim ve 13 destekleyici çıktı üzerine kurduk. Hedefimiz, tüm unsurları somut sonuç üreten bütüncül..."
       },
       {
-        "title": "Felsefeci Prof. Dr. İoanna Kuçuradi, son yolculuğuna uğurlandı",
+        "title": "Adalet Bakanı Gürlek, AA Editör Masası'na konuk olacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/felsefeci-prof-dr-ioanna-kucuradi-son-yolculuguna-ugurlandi/4077698",
-        "summary": "Felsefe ve insan hakları alanındaki çalışmalarıyla tanınan, Türkiye Felsefe Kurumu Başkanı ve Dünya Felsefe Kuruluşları Federasyonu Onursal Başkanı Prof. Dr. İoanna Kuçuradi, son y..."
+        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-aa-editor-masasina-konuk-olacak/4078379",
+        "summary": "Adalet Bakanı Akın Gürlek, Anadolu Ajansı (AA) Editör Masası'na katılacak."
       }
     ]
   }
