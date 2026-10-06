@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 11:37:07",
+  "updated_at": "2026-10-06 21:24:16",
   "markets": {
     "usd_try_kapalicarsi": "49.16 TL",
     "eur_try_kapalicarsi": "55.11 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Lithuania says it would pay the cost if US establishes military base",
-    "bullet_1": "Lithuania says it would pay the cost if US establishes military base",
-    "bullet_2": "Boeing locks in 7-year deal to triple PAC-3 MSE seeker output",
-    "bullet_3": "Has the Pentagon given up on AI polygraph analysis of trustworthiness?",
+    "red_alert": "SON DAKİKA: It’s official: US Army’s improved M8 rifle to begin fielding in December",
+    "bullet_1": "It’s official: US Army’s improved M8 rifle to begin fielding in December",
+    "bullet_2": "Pentagon names 4 directed-energy weapons for counter-drone program at US bases",
+    "bullet_3": "France fires upgraded nuclear-capable missile from submarine for first time",
     "defense_news": [
       {
-        "title": "Lithuania says it would pay the cost if US establishes military base",
+        "title": "It’s official: US Army’s improved M8 rifle to begin fielding in December",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/06/lithuania-says-it-would-pay-the-cost-if-us-establishes-military-base/",
-        "summary": "Lithuania is ready to pay the cost to set up a permanent U.S. military base if Washington should agree to establish one there, the prime minister said."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
+        "summary": "The U.S. Army will begin fielding Sig Sauer’s M8 rifle in December, replacing the M7 with a lighter, shorter carbine based on soldier feedback."
       },
       {
-        "title": "Boeing locks in 7-year deal to triple PAC-3 MSE seeker output",
+        "title": "Pentagon names 4 directed-energy weapons for counter-drone program at US bases",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/boeing-locks-in-7-year-deal-to-triple-pac-3-mse-seeker-output/",
-        "summary": "The agreement follows a framework deal that was announced in April. Production will span seven years and be completed at Boeing’s Huntsville facility."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
+        "summary": "The Pentagon named four directed energy weapons for a homeland counter-drone program, the first systems to be fielded and tested at U.S. bases."
       },
       {
-        "title": "Has the Pentagon given up on AI polygraph analysis of trustworthiness?",
+        "title": "France fires upgraded nuclear-capable missile from submarine for first time",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/",
-        "summary": "AI-aided scanning of speech patterns, vocal stress or facial expressions to read minds lacks scientific backing and will compound errors, critics argue."
+        "url": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time/",
+        "summary": "France test-fired an upgraded version of its M51 strategic ballistic missile from a submarine for the first time on Tuesday."
       },
       {
-        "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
+        "title": "Northrop Grumman’s YFQ-48A CCA completes first fully autonomous flight",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises/",
-        "summary": "The service is seeking to sharpen its defenses against the growing threat of drone use by cartels."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
+        "summary": "The successful flight came just weeks after U.S. Air Force officials announced their intention to have 500 autonomous aircraft in service by 2032."
       }
     ],
     "geo_news": [
       {
-        "title": "\"Esnafım Elimde Kur'an'ım\" projesiyle esnaf iş yerinde Kur'an-ı Kerim okumayı öğreniyor",
+        "title": "Ankara'da yarın bazı yollar araç trafiğine kapatılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/esnafim-elimde-kuranim-projesiyle-esnaf-is-yerinde-kuran-i-kerim-okumayi-ogreniyor/4079604",
-        "summary": "Kağıthane Çeliktepe Merkez Camisi İmam Hatibi Mürsel Çakmak, \"Esnafım Elimde Kur'an'ım\" projesi kapsamında, iş yoğunluğu nedeniyle cami ve kurslara zaman ayıramayan mahalle esnafın..."
+        "url": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak/4080198",
+        "summary": "Başkentte, Filistin'e destek amacıyla düzenlenecek yürüyüş nedeniyle yarın bazı yolların araç trafiğine kapatılacağı bildirildi."
       },
       {
-        "title": "Hatay'ın Arsuz ilçesinde sağanak ve dolu etkili oldu",
+        "title": "Cumhurbaşkanı Erdoğan, Filistinli Hind Rajab'ın ailesini kabul etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/hatayin-arsuz-ilcesinde-saganak-ve-dolu-etkili-oldu-/4079625",
-        "summary": "Hatay'ın Arsuz ilçesinde sağanak ve dolu hayatı olumsuz etkiledi."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-filistinli-hind-rajabin-ailesini-kabul-etti/4080107",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Gazze'de İsrail'in saldırısı sonucu bir araçta mahsur kalarak hayatını kaybeden 6 yaşındaki Filistinli Hind Rajab'ın ailesini kabul etti."
       },
       {
-        "title": "Fethiye sahillerinde yaklaşık 6 bin caretta caretta yavrusu denizle buluştu",
+        "title": "İletişim İhtisas Kütüphanesine \"Kurumsal Sorumluluk\" özel ödülü verildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/fethiye-sahillerinde-yaklasik-6-bin-caretta-caretta-yavrusu-denizle-bulustu/4079390",
-        "summary": "Muğla'nın Fethiye ilçesinde deniz kaplumbağalarının yuva yaptığı sahillerden, bu üreme döneminde yaklaşık 6 bin caretta caretta yavrusu denize ulaştı."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-ihtisas-kutuphanesine-kurumsal-sorumluluk-ozel-odulu-verildi/4080079",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı bünyesinde hizmet veren İletişim İhtisas Kütüphanesi, Marka Konseyi tarafından düzenlenen TAMGA Marka Ödülleri Yarışması \"Kurumsal Sorumluluk\" ..."
       },
       {
-        "title": "Bakan Çiftçi: Yeni nesil teknolojileri güvenliğimizin güçlü birer unsuru haline getiriyoruz",
+        "title": "Bakan Kurum: Tüm dünyayı ortak geleceğimiz için harekete geçmeye davet ediyorum",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-yeni-nesil-teknolojileri-guvenligimizin-guclu-birer-unsuru-haline-getiriyoruz/4079383",
-        "summary": "İçişleri Bakanı Çiftçi, \"Teknolojinin beraberinde getirdiği risklere karşı teknolojinin sunduğu imkanlardan yararlanıyor, yapay zekayı, erken uyarı sistemlerini ve yeni nesil tekno..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-kurum-tum-dunyayi-ortak-gelecegimiz-icin-harekete-gecmeye-davet-ediyorum/4080068",
+        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum, \"Kasım ayında Antalya'da COP31'e hazırlanırken tüm tarafları, tüm dünyayı ortak geleceğimiz için hareket..."
       }
     ]
   }
