@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-10-05 23:01:27",
+  "updated_at": "2026-10-06 11:37:07",
   "markets": {
     "usd_try_kapalicarsi": "49.16 TL",
-    "eur_try_kapalicarsi": "55.31 TL",
+    "eur_try_kapalicarsi": "55.11 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Army tests counter-drone tech at Mexican border as cartel drone use rises",
-    "bullet_1": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
-    "bullet_2": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
-    "bullet_3": "Germany to set up first drone regiment next year, modeled after Ukraine war lessons",
+    "red_alert": "SON DAKİKA: Lithuania says it would pay the cost if US establishes military base",
+    "bullet_1": "Lithuania says it would pay the cost if US establishes military base",
+    "bullet_2": "Boeing locks in 7-year deal to triple PAC-3 MSE seeker output",
+    "bullet_3": "Has the Pentagon given up on AI polygraph analysis of trustworthiness?",
     "defense_news": [
+      {
+        "title": "Lithuania says it would pay the cost if US establishes military base",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/10/06/lithuania-says-it-would-pay-the-cost-if-us-establishes-military-base/",
+        "summary": "Lithuania is ready to pay the cost to set up a permanent U.S. military base if Washington should agree to establish one there, the prime minister said."
+      },
+      {
+        "title": "Boeing locks in 7-year deal to triple PAC-3 MSE seeker output",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/boeing-locks-in-7-year-deal-to-triple-pac-3-mse-seeker-output/",
+        "summary": "The agreement follows a framework deal that was announced in April. Production will span seven years and be completed at Boeing’s Huntsville facility."
+      },
+      {
+        "title": "Has the Pentagon given up on AI polygraph analysis of trustworthiness?",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/",
+        "summary": "AI-aided scanning of speech patterns, vocal stress or facial expressions to read minds lacks scientific backing and will compound errors, critics argue."
+      },
       {
         "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises/",
         "summary": "The service is seeking to sharpen its defenses against the growing threat of drone use by cartels."
-      },
-      {
-        "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
-        "summary": "“This is Europe catching up rather than the U.S. slowing,” Dealroom said of the trend. “EU 27 funding more than doubled in a year.”"
-      },
-      {
-        "title": "Germany to set up first drone regiment next year, modeled after Ukraine war lessons",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons/",
-        "summary": "Germany plans to stand up its first dedicated drone regiment next year, Defense Minister Boris Pistorius has announced."
-      },
-      {
-        "title": "US Marine Corps anti-ship weaponry to see exercise action on remote Japan island near Taiwan",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan/",
-        "summary": "The U.S. Marine Corps will deploy its ground-based anti-ship and air-defense systems to Japan’s southwesternmost island for exercises this month."
       }
     ],
     "geo_news": [
       {
-        "title": "Fatma Betül Sayan Kaya ve eşinin hesaplarındaki miktarların Birleşik Fon Bankasına gönderilmesi için yazı yazıldı",
+        "title": "\"Esnafım Elimde Kur'an'ım\" projesiyle esnaf iş yerinde Kur'an-ı Kerim okumayı öğreniyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/fatma-betul-sayan-kaya-ve-esinin-hesaplarindaki-miktarlarin-birlesik-fon-bankasina-gonderilmesi-icin-yazi-yazildi/4079086",
-        "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında, Fatma Betül Sayan Kaya ile eşi İlyas Kaya'nın hesaplarında bulunan miktarların Birleşik..."
+        "url": "https://www.aa.com.tr/tr/gundem/esnafim-elimde-kuranim-projesiyle-esnaf-is-yerinde-kuran-i-kerim-okumayi-ogreniyor/4079604",
+        "summary": "Kağıthane Çeliktepe Merkez Camisi İmam Hatibi Mürsel Çakmak, \"Esnafım Elimde Kur'an'ım\" projesi kapsamında, iş yoğunluğu nedeniyle cami ve kurslara zaman ayıramayan mahalle esnafın..."
       },
       {
-        "title": "Yolcu uçağında \"bomba\" ihbarı asılsız çıktı",
+        "title": "Hatay'ın Arsuz ilçesinde sağanak ve dolu etkili oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yolcu-ucaginda-bomba-ihbari-asilsiz-cikti/4079085",
-        "summary": "Şanlıurfa GAP Havalimanı'na iniş yapan bir yolcu uçağında \"patlayıcı madde bulunduğu\" ihbarı asılsız çıktı."
+        "url": "https://www.aa.com.tr/tr/gundem/hatayin-arsuz-ilcesinde-saganak-ve-dolu-etkili-oldu-/4079625",
+        "summary": "Hatay'ın Arsuz ilçesinde sağanak ve dolu hayatı olumsuz etkiledi."
       },
       {
-        "title": "Soma'da 5 işçinin öldüğü maden göçüğü soruşturmasında 9 şüpheli tutuklandı",
+        "title": "Fethiye sahillerinde yaklaşık 6 bin caretta caretta yavrusu denizle buluştu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/somada-5-iscinin-oldugu-maden-gocugu-sorusturmasinda-9-supheli-tutuklandi/4079078",
-        "summary": "Manisa'nın Soma ilçesindeki bir maden işletmesinde 5 işçinin yaşamını yitirdiği göçüğe ilişkin soruşturmada gözaltına alınan, ilgili firmanın genel müdürünün de aralarında bulunduğ..."
+        "url": "https://www.aa.com.tr/tr/gundem/fethiye-sahillerinde-yaklasik-6-bin-caretta-caretta-yavrusu-denizle-bulustu/4079390",
+        "summary": "Muğla'nın Fethiye ilçesinde deniz kaplumbağalarının yuva yaptığı sahillerden, bu üreme döneminde yaklaşık 6 bin caretta caretta yavrusu denize ulaştı."
       },
       {
-        "title": "Bakan Çiftçi başkanlığında \"asayiş\" konulu güvenlik toplantısı yapıldı",
+        "title": "Bakan Çiftçi: Yeni nesil teknolojileri güvenliğimizin güçlü birer unsuru haline getiriyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-baskanliginda-asayis-konulu-guvenlik-toplantisi-yapildi/4079034",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi başkanlığında \"asayiş\" konulu güvenlik toplantısı yapıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-yeni-nesil-teknolojileri-guvenligimizin-guclu-birer-unsuru-haline-getiriyoruz/4079383",
+        "summary": "İçişleri Bakanı Çiftçi, \"Teknolojinin beraberinde getirdiği risklere karşı teknolojinin sunduğu imkanlardan yararlanıyor, yapay zekayı, erken uyarı sistemlerini ve yeni nesil tekno..."
       }
     ]
   }
