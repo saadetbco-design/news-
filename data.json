@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-06 21:24:16",
+  "updated_at": "2026-10-07 11:26:44",
   "markets": {
-    "usd_try_kapalicarsi": "49.16 TL",
-    "eur_try_kapalicarsi": "55.11 TL",
+    "usd_try_kapalicarsi": "49.19 TL",
+    "eur_try_kapalicarsi": "55.35 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Ankara'da yarın bazı yollar araç trafiğine kapatılacak",
+        "title": "KKTC'de batan gemide yaşamını yitiren Özgür Gönül ve Mahmut Demir'in cenazeleri defnedildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak/4080198",
-        "summary": "Başkentte, Filistin'e destek amacıyla düzenlenecek yürüyüş nedeniyle yarın bazı yolların araç trafiğine kapatılacağı bildirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/kktcde-batan-gemide-yasamini-yitiren-ozgur-gonul-ve-mahmut-demirin-cenazeleri-defnedildi/4080899",
+        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne Limanı açıklarında yolcu gemisinin batması sonucu hayatını kaybeden Özgür Gönül'ün cenazesi Mersin'de, Mahmut Demir'in naaşı da Hatay..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Filistinli Hind Rajab'ın ailesini kabul etti",
+        "title": "COP31 Başkanı Kurum: 1,5 derece hedefini korumak için sizleri Antalya'ya davet ediyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-filistinli-hind-rajabin-ailesini-kabul-etti/4080107",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Gazze'de İsrail'in saldırısı sonucu bir araçta mahsur kalarak hayatını kaybeden 6 yaşındaki Filistinli Hind Rajab'ın ailesini kabul etti."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31-baskani-kurum-1-5-derece-hedefini-korumak-icin-sizleri-antalyaya-davet-ediyoruz/4080830",
+        "summary": "COP31 Başkanı Kurum, \"1,5 derece hedefini korumak, aşımı mümkün olduğunca sınırlamak ve iklim eylemini bugünden geleceğe uzanan güçlü bir uygulama sürecine dönüştürmek için sizleri..."
       },
       {
-        "title": "İletişim İhtisas Kütüphanesine \"Kurumsal Sorumluluk\" özel ödülü verildi",
+        "title": "Bakan Göktaş: Bugüne kadar 66 bin 743 gencimizi kamu kurum ve kuruluşlarına yerleştirdik",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-ihtisas-kutuphanesine-kurumsal-sorumluluk-ozel-odulu-verildi/4080079",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı bünyesinde hizmet veren İletişim İhtisas Kütüphanesi, Marka Konseyi tarafından düzenlenen TAMGA Marka Ödülleri Yarışması \"Kurumsal Sorumluluk\" ..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-bugune-kadar-66-bin-743-gencimizi-kamu-kurum-ve-kuruluslarina-yerlestirdik/4080624",
+        "summary": "Bakan Göktaş, devlet korumasındaki gençlerin kamu kurumlarına yerleştirilmesi töreninde yaptığı konuşmada,  \"Bugüne kadar 66 bin 743 gencimizi kamu kurum ve kuruluşlarına yerleştir..."
       },
       {
-        "title": "Bakan Kurum: Tüm dünyayı ortak geleceğimiz için harekete geçmeye davet ediyorum",
+        "title": "Şehit polis Türkoğlu için Ankara Emniyet Müdürlüğünde tören düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-kurum-tum-dunyayi-ortak-gelecegimiz-icin-harekete-gecmeye-davet-ediyorum/4080068",
-        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum, \"Kasım ayında Antalya'da COP31'e hazırlanırken tüm tarafları, tüm dünyayı ortak geleceğimiz için hareket..."
+        "url": "https://www.aa.com.tr/tr/gundem/sehit-polis-turkoglu-icin-ankara-emniyet-mudurlugunde-toren-duzenlendi/4080876",
+        "summary": "Ankara'daki polis uygulama noktasında ateş açılması sonucu şehit olan polis memuru Ahmet Türkoğlu için Ankara Emniyet Müdürlüğünde tören düzenlendi."
       }
     ]
   }
