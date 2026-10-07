@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 11:26:44",
+  "updated_at": "2026-10-07 21:43:22",
   "markets": {
     "usd_try_kapalicarsi": "49.19 TL",
     "eur_try_kapalicarsi": "55.35 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: It’s official: US Army’s improved M8 rifle to begin fielding in December",
-    "bullet_1": "It’s official: US Army’s improved M8 rifle to begin fielding in December",
-    "bullet_2": "Pentagon names 4 directed-energy weapons for counter-drone program at US bases",
-    "bullet_3": "France fires upgraded nuclear-capable missile from submarine for first time",
+    "red_alert": "SON DAKİKA: Rubio says US, Greece to jointly combat security threats",
+    "bullet_1": "Rubio says US, Greece to jointly combat security threats",
+    "bullet_2": "Embraer, Lockheed Martin vie for India’s $10.5B military transport aircraft deal",
+    "bullet_3": "It’s official: US Army’s improved M8 rifle to begin fielding in December",
     "defense_news": [
+      {
+        "title": "Rubio says US, Greece to jointly combat security threats",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
+        "summary": "The U.S. and Greece are launching a joint security program to strengthen counterterrorism information sharing between their law enforcement agencies."
+      },
+      {
+        "title": "Embraer, Lockheed Martin vie for India’s $10.5B military transport aircraft deal",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
+        "summary": "The Indian government wants one of its biggest military aviation contracts to deepen the country’s local aerospace industrial base."
+      },
       {
         "title": "It’s official: US Army’s improved M8 rifle to begin fielding in December",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
         "summary": "The Pentagon named four directed energy weapons for a homeland counter-drone program, the first systems to be fielded and tested at U.S. bases."
-      },
-      {
-        "title": "France fires upgraded nuclear-capable missile from submarine for first time",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time/",
-        "summary": "France test-fired an upgraded version of its M51 strategic ballistic missile from a submarine for the first time on Tuesday."
-      },
-      {
-        "title": "Northrop Grumman’s YFQ-48A CCA completes first fully autonomous flight",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
-        "summary": "The successful flight came just weeks after U.S. Air Force officials announced their intention to have 500 autonomous aircraft in service by 2032."
       }
     ],
     "geo_news": [
       {
-        "title": "KKTC'de batan gemide yaşamını yitiren Özgür Gönül ve Mahmut Demir'in cenazeleri defnedildi",
+        "title": "İstanbul'da \"Filistin Dayanışma Günleri\" etkinlikleri düzenleniyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kktcde-batan-gemide-yasamini-yitiren-ozgur-gonul-ve-mahmut-demirin-cenazeleri-defnedildi/4080899",
-        "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne Limanı açıklarında yolcu gemisinin batması sonucu hayatını kaybeden Özgür Gönül'ün cenazesi Mersin'de, Mahmut Demir'in naaşı da Hatay..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-filistin-dayanisma-gunleri-etkinlikleri-duzenleniyor/4081469",
+        "summary": "Üsküdar'da, Filistin halkıyla dayanışmayı büyütmek amacıyla ülke genelinde başlatılan \"Filistin Dayanışma Günleri\" kapsamında çeşitli etkinlikler gerçekleştiriliyor."
       },
       {
-        "title": "COP31 Başkanı Kurum: 1,5 derece hedefini korumak için sizleri Antalya'ya davet ediyoruz",
+        "title": "Galata Kulesi Filistin bayrağının renklerine büründü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31-baskani-kurum-1-5-derece-hedefini-korumak-icin-sizleri-antalyaya-davet-ediyoruz/4080830",
-        "summary": "COP31 Başkanı Kurum, \"1,5 derece hedefini korumak, aşımı mümkün olduğunca sınırlamak ve iklim eylemini bugünden geleceğe uzanan güçlü bir uygulama sürecine dönüştürmek için sizleri..."
+        "url": "https://www.aa.com.tr/tr/gundem/galata-kulesi-filistin-bayraginin-renklerine-burundu/4081455",
+        "summary": "İstanbul'un simge yapılarından Galata Kulesi'ne Filistin bayrağı yansıtıldı."
       },
       {
-        "title": "Bakan Göktaş: Bugüne kadar 66 bin 743 gencimizi kamu kurum ve kuruluşlarına yerleştirdik",
+        "title": "İsrail'in Gazze'de uyguladığı soykırım birçok ilde protesto edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-bugune-kadar-66-bin-743-gencimizi-kamu-kurum-ve-kuruluslarina-yerlestirdik/4080624",
-        "summary": "Bakan Göktaş, devlet korumasındaki gençlerin kamu kurumlarına yerleştirilmesi töreninde yaptığı konuşmada,  \"Bugüne kadar 66 bin 743 gencimizi kamu kurum ve kuruluşlarına yerleştir..."
+        "url": "https://www.aa.com.tr/tr/gundem/israilin-gazzede-uyguladigi-soykirim-bircok-ilde-protesto-edildi/4081386",
+        "summary": "İsrail'in Ekim 2023'ten bu yana Gazze'de uyguladığı soykırım birçok ilde protesto edildi."
       },
       {
-        "title": "Şehit polis Türkoğlu için Ankara Emniyet Müdürlüğünde tören düzenlendi",
+        "title": "Dünyanın en büyük penguen kolonisinde popülasyonun çeyreğinden fazlası öldü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sehit-polis-turkoglu-icin-ankara-emniyet-mudurlugunde-toren-duzenlendi/4080876",
-        "summary": "Ankara'daki polis uygulama noktasında ateş açılması sonucu şehit olan polis memuru Ahmet Türkoğlu için Ankara Emniyet Müdürlüğünde tören düzenlendi."
+        "url": "https://www.aa.com.tr/tr/gundem/dunyanin-en-buyuk-penguen-kolonisinde-populasyonun-ceyreginden-fazlasi-oldu/4081432",
+        "summary": "İngiliz Antarktika Araştırmaları Enstitüsü (BAS), Antarktika yakınlarındaki Zavodovski Adası'ndaki penguen nüfusunun, 2011'den bu yana 4'te 1'inden fazlasının öldüğünü ve buranın \"..."
       }
     ]
   }
