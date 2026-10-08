@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 11:42:18",
+  "updated_at": "2026-10-08 21:40:32",
   "markets": {
     "usd_try_kapalicarsi": "49.22 TL",
     "eur_try_kapalicarsi": "55.12 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: German lawmakers approve funds for eight-ship fleet of sub-hunting frigates",
-    "bullet_1": "German lawmakers approve funds for eight-ship fleet of sub-hunting frigates",
-    "bullet_2": "Rubio says US, Greece to jointly combat security threats",
-    "bullet_3": "Embraer, Lockheed Martin vie for India’s $10.5B military transport aircraft deal",
+    "red_alert": "SON DAKİKA: Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
+    "bullet_1": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
+    "bullet_2": "Sig Sauer develops 25-round mag for Army’s next-gen rifle",
+    "bullet_3": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
     "defense_news": [
       {
-        "title": "German lawmakers approve funds for eight-ship fleet of sub-hunting frigates",
+        "title": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/08/german-lawmakers-approve-funds-for-eight-ship-fleet-of-sub-hunting-frigates/",
-        "summary": "The German ships will support NATO missions in the Baltic and North seas, the Atlantic and the High North, according to the announcement."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/08/pentagon-barred-qatar-base-access-to-hide-iran-war-damage-us-senator-claims/",
+        "summary": "Sen. Chris Murphy, D-Conn., was denied access to Al Udeid Air Base, Qatar, during a recent Congressional Delegation trip in what he calls a \"cover-up.\""
       },
       {
-        "title": "Rubio says US, Greece to jointly combat security threats",
+        "title": "Sig Sauer develops 25-round mag for Army’s next-gen rifle",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
-        "summary": "The U.S. and Greece are launching a joint security program to strengthen counterterrorism information sharing between their law enforcement agencies."
+        "url": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
+        "summary": "Soldier feedback, from the constructive to the blistering, has been instrumental in guiding Sig Sauer in its development of the M8 carbine."
       },
       {
-        "title": "Embraer, Lockheed Martin vie for India’s $10.5B military transport aircraft deal",
+        "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
-        "summary": "The Indian government wants one of its biggest military aviation contracts to deepen the country’s local aerospace industrial base."
+        "url": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
+        "summary": "The Congressional Research Service pointed to the war in Ukraine, where armored vehicles have largely been driven from the battlefield by drones."
       },
       {
-        "title": "It’s official: US Army’s improved M8 rifle to begin fielding in December",
+        "title": "US Air Force, Army eye industry access on test ranges",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
-        "summary": "The U.S. Army will begin fielding Sig Sauer’s M8 rifle in December, replacing the M7 with a lighter, shorter carbine based on soldier feedback."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges/",
+        "summary": "The U.S. Air Force is partnering with the U.S. Army to open its test ranges to approved defense firms."
       }
     ],
     "geo_news": [
       {
-        "title": "Milli Eğitim Bakanı Tekin: Türkiye'de eğitim süresinin kısaltılması mutlaka gündeme gelecektir",
+        "title": "İstanbul Valiliği: Maltepe'de kısmen çöken binadaki enkazdan 11 kişi çıkarıldı 2 kişi hayatını kaybetti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-turkiyede-egitim-suresinin-kisaltilmasi-mutlaka-gundeme-gelecektir/4082094",
-        "summary": "Milli Eğitim Bakanı Tekin, zorunlu eğitim süresi sebebiyle öğrencilerin üretime ve toplumsal hayata atılmasının uzun sürdüğünü belirterek, \"Türkiye'de eğitim süresinin kısaltılması..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-valiligi-maltepede-kismen-coken-binadaki-enkazdan-11-kisi-cikarildi-2-kisi-hayatini-kaybetti/4082812",
+        "summary": "İstanbul Valiliği, Maltepe'de kısmen çöken binanın enkazından toplam 11 kişinin çıkarıldığını, 1 kişinin olay yerinde, 1 kişinin ise kaldırıldığı hastanede hayatını kaybettiğini bi..."
       },
       {
-        "title": "Bakan Yumaklı: Yapay zeka destekli sulama otomasyon sistemlerini devreye alacağız",
+        "title": "Bakan Göktaş'tan Yeni Parti milletvekilleri Özlale ve Enginyurt hakkında suç duyurusu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-yumakli-yapay-zeka-destekli-sulama-otomasyon-sistemlerini-devreye-alacagiz/4082074",
-        "summary": "Tarım ve Orman Bakanı Yumaklı, \"Önümüzdeki yıl 11 ilde 22 bin hektarlık alanda yapay zeka destekli sulama otomasyon sistemlerini devreye alacağız.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-yeni-parti-milletvekilleri-ozlale-ve-enginyurt-hakkinda-suc-duyurusu/4082800",
+        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, fon soruşturmasına ilişkin iddialar nedeniyle Yeni Parti milletvekilleri Ümit Özlale ve Cemal Enginyurt hakkında suç duyurus..."
       },
       {
-        "title": "Bakan Fidan: Mekke Anlaşması saldırı anlaşması değil",
+        "title": "MİT Başkanı Kalın, Suriye Dışişleri Bakanı Şeybani ile Ankara'da görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-mekke-anlasmasi-saldiri-anlasmasi-degil/4082098",
-        "summary": "Dışişleri Bakanı Fidan, Mekke Anlaşması ile ilgili, \"Anlaşmaya taraf olan ülke saldırıya uğradığı zaman, savunması için yanında olursunuz. Bu saldırı anlaşması değil.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-suriye-disisleri-bakani-seybani-ile-ankarada-gorustu/4082780",
+        "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile Ankara'da bir araya geldi."
       },
       {
-        "title": "YÖK'ün Veri Analizi Okulu \"Dijital Üniversite Platformu\"na dönüşecek",
+        "title": "TDT, İstanbul'da Türk Devletleri İşbirliği Günü nedeniyle resepsiyon düzenledi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yokun-veri-analizi-okulu-dijital-universite-platformuna-donusecek/4082084",
-        "summary": "Yükseköğretim Kurulunca (YÖK) geçen yıl hayata geçirilen Veri Analizi Okulu, kapsamı genişletilerek, 2026-2027 akademik yılında \"Dijital Üniversite Platformu\"na dönüşecek."
+        "url": "https://www.aa.com.tr/tr/gundem/tdt-istanbulda-turk-devletleri-isbirligi-gunu-nedeniyle-resepsiyon-duzenledi/4082763",
+        "summary": "Türk Devletleri Teşkilatı (TDT), 3 Ekim Türk Devletleri İşbirliği Günü ve TDT Genel Sekreteri Kubanıçbek Ömüraliyev'in görev süresinin sona ermesi nedeniyle resepsiyon düzenledi."
       }
     ]
   }
