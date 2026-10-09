@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 11:35:31",
+  "updated_at": "2026-10-09 21:24:39",
   "markets": {
     "usd_try_kapalicarsi": "49.28 TL",
     "eur_try_kapalicarsi": "55.23 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Estonia’s KrattWorks crafting Shahed-like dummy drone for target practice",
-    "bullet_1": "Estonia’s KrattWorks crafting Shahed-like dummy drone for target practice",
-    "bullet_2": "Century-old houses getting new life at Fort Bragg",
-    "bullet_3": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
+    "red_alert": "SON DAKİKA: Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
+    "bullet_1": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
+    "bullet_2": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific",
+    "bullet_3": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
     "defense_news": [
       {
-        "title": "Estonia’s KrattWorks crafting Shahed-like dummy drone for target practice",
+        "title": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice/",
-        "summary": "The Estonian company, which has announced a Shahed-like target drone, will show its products at this year's AUSA conference in Washington."
+        "url": "https://www.defensenews.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/",
+        "summary": "The contract \"supports urgent replenishment of missile defense inventory that has been successfully used in combat,\" Raytheon said."
       },
       {
-        "title": "Century-old houses getting new life at Fort Bragg",
+        "title": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-army/2026/10/08/century-old-houses-getting-new-life-at-fort-bragg/",
-        "summary": "230 homes built before 1940 are being renovated at Fort Bragg."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
+        "summary": "The new 4th Multi-Domain Task Force includes four battalions and is planned to grow to 2,100 soldiers."
       },
       {
-        "title": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
+        "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/08/pentagon-barred-qatar-base-access-to-hide-iran-war-damage-us-senator-claims/",
-        "summary": "Sen. Chris Murphy, D-Conn., was denied access to Al Udeid Air Base, Qatar, during a recent Congressional Delegation trip in what he calls a \"cover-up.\""
+        "url": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
+        "summary": "A chart published by GAO shows a sharp decline in the agency's decisions to make mitigation plans for wildlife and habitat protection from 2022 to 2025."
       },
       {
-        "title": "Sig Sauer develops 25-round mag for Army’s next-gen rifle",
+        "title": "Official poster depicts the US Army’s newest threat: The Iranian soldier",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
-        "summary": "Soldier feedback, from the constructive to the blistering, has been instrumental in guiding Sig Sauer in its development of the M8 carbine."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
+        "summary": "The U.S. Army recently published a quick-recognition guide to help soldiers identify members of the Iranian army."
       }
     ],
     "geo_news": [
       {
-        "title": "Adalet Bakanı Gürlek: Adalet paylaşıldıkça barış da çoğalır",
+        "title": "Yahşihan Belediyesine yönelik yolsuzluk operasyonunda 5 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-adalet-paylasildikca-baris-da-cogalir/4083422",
-        "summary": "Adalet Bakanı Akın Gürlek, \"Adaleti yalnızca kendimiz için değil herkes için isteyelim çünkü adalet paylaşıldıkça barış da çoğalır. Hukuk herkes için eşit gözetildiğinde güven de b..."
+        "url": "https://www.aa.com.tr/tr/gundem/yahsihan-belediyesine-yonelik-yolsuzluk-operasyonunda-5-supheli-tutuklandi/4084073",
+        "summary": "Kırıkkale'nin Yahşihan Belediyesine yönelik 2 ilde düzenlenen yolsuzluk operasyonunda gözaltına alınan şüphelilerden 5'i tutuklandı."
       },
       {
-        "title": "Huzurevinde sosyal medyadan arkadaşlık teklifiyle başlayan aşk nikahla taçlandı",
+        "title": "Türk Dünyası Gençlik Buluşması, Kocaeli'de başladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/huzurevinde-sosyal-medyadan-arkadaslik-teklifiyle-baslayan-ask-nikahla-taclandi/4081933",
-        "summary": "İstanbul'da aynı huzurevinde yaşayan Fatma ile Haluk Yüksel, önce birbirlerini uzaktan tanımaya çalıştı, ardından sosyal medyada başlayan mesajlaşmaları çay sohbetlerine dönüştü ve..."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-genclik-bulusmasi-kocaelide-basladi/4084040",
+        "summary": "AK Parti Türk Devletleri ile İlişkiler Başkanlığı koordinasyonunda, Kocaeli Büyükşehir Belediyesinin ev sahipliğinde, \"Ortak Miras, Tek Yürek\" temasıyla düzenlenen \"Türk Dünyası Ge..."
       },
       {
-        "title": "Öğretmenler Günü 81 ilde çeşitli etkinliklerle kutlanacak",
+        "title": "DMM'den Türkiye ve Azerbaycan ilişkilerine ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ogretmenler-gunu-81-ilde-cesitli-etkinliklerle-kutlanacak/4083330",
-        "summary": "Milli Eğitim Bakanlığınca (MEB), 81 il valiliğine 24 Kasım Öğretmenler Günü kapsamında yurt içinde ve dış temsilciliklerde düzenlenecek etkinliklere ilişkin genelge gönderildi."
+        "url": "https://www.aa.com.tr/tr/gundem/dmmden-turkiye-ve-azerbaycan-iliskilerine-iliskin-aciklama/4084008",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi'nden (DMM), Türkiye ve Azerbaycan'ın ortak tarih, kültür ve sarsılmaz bir kardeşlik temelinde yükselen ilişki..."
       },
       {
-        "title": "Aydın Doğan Vakfından Dünya Kız Çocukları Günü Konferansı",
+        "title": "Türkiye, Husilerin Suudi Arabistan'daki havalimanlarına saldırılarını kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/aydin-dogan-vakfindan-dunya-kiz-cocuklari-gunu-konferansi/4083329",
-        "summary": "Aydın Doğan Vakfı, 11 Ekim Dünya Kız Çocukları Günü dolayısıyla konferans düzenledi."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-husilerin-suudi-arabistandaki-havalimanlarina-saldirilarini-kinadi/4083993",
+        "summary": "Dışişleri Bakanlığı, Yemen'deki İran destekli Husilerin Suudi Arabistan'daki 2 havalimanını hedef almasını en güçlü biçimde kınadı."
       }
     ]
   }
