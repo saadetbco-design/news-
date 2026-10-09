@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-10-08 21:40:32",
+  "updated_at": "2026-10-09 11:35:31",
   "markets": {
-    "usd_try_kapalicarsi": "49.22 TL",
-    "eur_try_kapalicarsi": "55.12 TL",
+    "usd_try_kapalicarsi": "49.28 TL",
+    "eur_try_kapalicarsi": "55.23 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
-    "bullet_1": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
-    "bullet_2": "Sig Sauer develops 25-round mag for Army’s next-gen rifle",
-    "bullet_3": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
+    "red_alert": "SON DAKİKA: Estonia’s KrattWorks crafting Shahed-like dummy drone for target practice",
+    "bullet_1": "Estonia’s KrattWorks crafting Shahed-like dummy drone for target practice",
+    "bullet_2": "Century-old houses getting new life at Fort Bragg",
+    "bullet_3": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
     "defense_news": [
+      {
+        "title": "Estonia’s KrattWorks crafting Shahed-like dummy drone for target practice",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice/",
+        "summary": "The Estonian company, which has announced a Shahed-like target drone, will show its products at this year's AUSA conference in Washington."
+      },
+      {
+        "title": "Century-old houses getting new life at Fort Bragg",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-army/2026/10/08/century-old-houses-getting-new-life-at-fort-bragg/",
+        "summary": "230 homes built before 1940 are being renovated at Fort Bragg."
+      },
       {
         "title": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
         "summary": "Soldier feedback, from the constructive to the blistering, has been instrumental in guiding Sig Sauer in its development of the M8 carbine."
-      },
-      {
-        "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
-        "summary": "The Congressional Research Service pointed to the war in Ukraine, where armored vehicles have largely been driven from the battlefield by drones."
-      },
-      {
-        "title": "US Air Force, Army eye industry access on test ranges",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges/",
-        "summary": "The U.S. Air Force is partnering with the U.S. Army to open its test ranges to approved defense firms."
       }
     ],
     "geo_news": [
       {
-        "title": "İstanbul Valiliği: Maltepe'de kısmen çöken binadaki enkazdan 11 kişi çıkarıldı 2 kişi hayatını kaybetti",
+        "title": "Adalet Bakanı Gürlek: Adalet paylaşıldıkça barış da çoğalır",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-valiligi-maltepede-kismen-coken-binadaki-enkazdan-11-kisi-cikarildi-2-kisi-hayatini-kaybetti/4082812",
-        "summary": "İstanbul Valiliği, Maltepe'de kısmen çöken binanın enkazından toplam 11 kişinin çıkarıldığını, 1 kişinin olay yerinde, 1 kişinin ise kaldırıldığı hastanede hayatını kaybettiğini bi..."
+        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-adalet-paylasildikca-baris-da-cogalir/4083422",
+        "summary": "Adalet Bakanı Akın Gürlek, \"Adaleti yalnızca kendimiz için değil herkes için isteyelim çünkü adalet paylaşıldıkça barış da çoğalır. Hukuk herkes için eşit gözetildiğinde güven de b..."
       },
       {
-        "title": "Bakan Göktaş'tan Yeni Parti milletvekilleri Özlale ve Enginyurt hakkında suç duyurusu",
+        "title": "Huzurevinde sosyal medyadan arkadaşlık teklifiyle başlayan aşk nikahla taçlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-yeni-parti-milletvekilleri-ozlale-ve-enginyurt-hakkinda-suc-duyurusu/4082800",
-        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, fon soruşturmasına ilişkin iddialar nedeniyle Yeni Parti milletvekilleri Ümit Özlale ve Cemal Enginyurt hakkında suç duyurus..."
+        "url": "https://www.aa.com.tr/tr/gundem/huzurevinde-sosyal-medyadan-arkadaslik-teklifiyle-baslayan-ask-nikahla-taclandi/4081933",
+        "summary": "İstanbul'da aynı huzurevinde yaşayan Fatma ile Haluk Yüksel, önce birbirlerini uzaktan tanımaya çalıştı, ardından sosyal medyada başlayan mesajlaşmaları çay sohbetlerine dönüştü ve..."
       },
       {
-        "title": "MİT Başkanı Kalın, Suriye Dışişleri Bakanı Şeybani ile Ankara'da görüştü",
+        "title": "Öğretmenler Günü 81 ilde çeşitli etkinliklerle kutlanacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-suriye-disisleri-bakani-seybani-ile-ankarada-gorustu/4082780",
-        "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile Ankara'da bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/ogretmenler-gunu-81-ilde-cesitli-etkinliklerle-kutlanacak/4083330",
+        "summary": "Milli Eğitim Bakanlığınca (MEB), 81 il valiliğine 24 Kasım Öğretmenler Günü kapsamında yurt içinde ve dış temsilciliklerde düzenlenecek etkinliklere ilişkin genelge gönderildi."
       },
       {
-        "title": "TDT, İstanbul'da Türk Devletleri İşbirliği Günü nedeniyle resepsiyon düzenledi",
+        "title": "Aydın Doğan Vakfından Dünya Kız Çocukları Günü Konferansı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tdt-istanbulda-turk-devletleri-isbirligi-gunu-nedeniyle-resepsiyon-duzenledi/4082763",
-        "summary": "Türk Devletleri Teşkilatı (TDT), 3 Ekim Türk Devletleri İşbirliği Günü ve TDT Genel Sekreteri Kubanıçbek Ömüraliyev'in görev süresinin sona ermesi nedeniyle resepsiyon düzenledi."
+        "url": "https://www.aa.com.tr/tr/gundem/aydin-dogan-vakfindan-dunya-kiz-cocuklari-gunu-konferansi/4083329",
+        "summary": "Aydın Doğan Vakfı, 11 Ekim Dünya Kız Çocukları Günü dolayısıyla konferans düzenledi."
       }
     ]
   }
