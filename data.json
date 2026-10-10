@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 10:53:25",
+  "updated_at": "2026-10-10 20:24:15",
   "markets": {
     "usd_try_kapalicarsi": "49.34 TL",
     "eur_try_kapalicarsi": "55.29 TL",
@@ -9,11 +9,17 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
-    "bullet_1": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
-    "bullet_2": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific",
-    "bullet_3": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
+    "red_alert": "SON DAKİKA: Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
+    "bullet_1": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
+    "bullet_2": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
+    "bullet_3": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific",
     "defense_news": [
+      {
+        "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/",
+        "summary": "Lockheed Martin said PAC-3 Edge incorporates a new seeker, upgraded flight controls and a multi-pulse rocket motor supplied by Northrop Grumman."
+      },
       {
         "title": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
         "summary": "A chart published by GAO shows a sharp decline in the agency's decisions to make mitigation plans for wildlife and habitat protection from 2022 to 2025."
-      },
-      {
-        "title": "Official poster depicts the US Army’s newest threat: The Iranian soldier",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
-        "summary": "The U.S. Army recently published a quick-recognition guide to help soldiers identify members of the Iranian army."
       }
     ],
     "geo_news": [
       {
-        "title": "İstanbul'da İETT otobüsü kazasında 4 kişi yaralandı",
+        "title": "Türkiye, Panama'daki depremden derin üzüntü duyduğunu bildirdi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-iett-otobusu-kazasinda-4-kisi-yaralandi/4084365",
-        "summary": "Sultangazi'de kontrolden çıkan İETT otobüsünün istinat duvarına ve kaldırıma çarpması sonucu 4 yolcu yaralandı."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-panamadaki-depremden-derin-uzuntu-duydugunu-bildirdi/4084739",
+        "summary": "Dışişleri Bakanlığı, Panama'da dün meydana gelen depremin yol açtığı zarardan derin üzüntü duyulduğunu bildirdi."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu: Turan dediğimiz idealin açılış kapısı Türkiye-Azerbaycan kardeşliğidir",
+        "title": "AK Parti Grup Başkanvekili Zengin'den Özgür Özel'in açıklamasına tepki",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-turan-dedigimiz-idealin-acilis-kapisi-turkiye-azerbaycan-kardesligidir/4084362",
-        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, \"Turan dediğimiz idealin açılış kapısı Türkiye-Azerbaycan kardeşliğidir, dostluğudur, işbirl..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-grup-baskanvekili-zenginden-ozgur-ozelin-aciklamasina-tepki/4084722",
+        "summary": "AK Parti Grup Başkanvekili Özlem Zengin, Genel Kurul'a katılamamasına ilişkin Yeni Parti Genel Başkanı Özgür Özel'in açıklamalarıyla ilgili, \"Allah muhalefet seçmeninin yardımcısı ..."
       },
       {
-        "title": "Bahçeli: Terörle mücadelede geri dönüş yoktur",
+        "title": "Kartal Koşuyolu Eğitim ve Araştırma Hastanesinin çatısında çıkan yangın söndürüldü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bahceli-terorle-mucadelede-geri-donus-yoktur/4084352",
-        "summary": ""
+        "url": "https://www.aa.com.tr/tr/gundem/-kartal-kosuyolu-egitim-ve-arastirma-hastanesinin-catisinda-cikan-yangin-sonduruldu/4084692",
+        "summary": "Kartal Koşuyolu Yüksek İhtisas Eğitim ve Araştırma Hastanesinin tadilat yapılan boş ek binasının çatısında çıkan yangın söndürüldü."
       },
       {
-        "title": "33 ilde göçmen kaçakçılığı operasyonlarında 51 şüpheli yakalandı",
+        "title": "Ankara'da yarın bazı yollar araç trafiğine kapatılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/33-ilde-gocmen-kacakciligi-operasyonlarinda-51-supheli-yakalandi/4084329",
-        "summary": "Jandarma Genel Komutanlığınca 33 ilde düzenlenen göçmen kaçakçılığı operasyonlarında 51 şüpheli yakalandı."
+        "url": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak/4084677",
+        "summary": "Ankara'da yarın düzenlenecek \"Cumhurbaşkanlığı Yarı Maratonu\" nedeniyle bazı yollar araç trafiğine kapalı olacak."
       }
     ]
   }
