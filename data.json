@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-10-10 20:24:15",
+  "updated_at": "2026-10-11 11:07:50",
   "markets": {
-    "usd_try_kapalicarsi": "49.34 TL",
-    "eur_try_kapalicarsi": "55.29 TL",
+    "usd_try_kapalicarsi": "49.33 TL",
+    "eur_try_kapalicarsi": "55.28 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
-    "bullet_1": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
-    "bullet_2": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
-    "bullet_3": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific",
+    "red_alert": "SON DAKİKA: US Army, Kaizen Laboratories to establish common software platform for classified material",
+    "bullet_1": "US Army, Kaizen Laboratories to establish common software platform for classified material",
+    "bullet_2": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
+    "bullet_3": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
     "defense_news": [
+      {
+        "title": "US Army, Kaizen Laboratories to establish common software platform for classified material",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
+        "summary": "The U.S. Army recently awarded $43 million to Kaizen Laboratories to create application software for highly sensitive military material."
+      },
       {
         "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
         "summary": "The new 4th Multi-Domain Task Force includes four battalions and is planned to grow to 2,100 soldiers."
-      },
-      {
-        "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
-        "summary": "A chart published by GAO shows a sharp decline in the agency's decisions to make mitigation plans for wildlife and habitat protection from 2022 to 2025."
       }
     ],
     "geo_news": [
       {
-        "title": "Türkiye, Panama'daki depremden derin üzüntü duyduğunu bildirdi",
+        "title": "Bakan Memişoğlu: Önceliğimiz 18 yaş altındaki çocuklarımızı tütünün zararlı etkilerinden korumak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-panamadaki-depremden-derin-uzuntu-duydugunu-bildirdi/4084739",
-        "summary": "Dışişleri Bakanlığı, Panama'da dün meydana gelen depremin yol açtığı zarardan derin üzüntü duyulduğunu bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-onceligimiz-18-yas-altindaki-cocuklarimizi-tutunun-zararli-etkilerinden-korumak/4085080",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Vatandaşlarımız müsterih olsun, önceliğimiz 18 yaş altındaki çocuklarımıza yaş doğrulaması yaparak tütün ürünü satışını önlemek ve onları tütünün za..."
       },
       {
-        "title": "AK Parti Grup Başkanvekili Zengin'den Özgür Özel'in açıklamasına tepki",
+        "title": "Aldıkları desteklerle yıllar süren sigara bağımlılığından kurtuldular",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-grup-baskanvekili-zenginden-ozgur-ozelin-aciklamasina-tepki/4084722",
-        "summary": "AK Parti Grup Başkanvekili Özlem Zengin, Genel Kurul'a katılamamasına ilişkin Yeni Parti Genel Başkanı Özgür Özel'in açıklamalarıyla ilgili, \"Allah muhalefet seçmeninin yardımcısı ..."
+        "url": "https://www.aa.com.tr/tr/gundem/aldiklari-desteklerle-yillar-suren-sigara-bagimliligindan-kurtuldular/4085048",
+        "summary": "Ardahan ve Kilis'te sigara bağımlılığından kurtulup dumansız hayata \"merhaba\" diyenler, süreçte yaşadıklarını anlatıp bağımlılara tavsiyelerde bulundu."
       },
       {
-        "title": "Kartal Koşuyolu Eğitim ve Araştırma Hastanesinin çatısında çıkan yangın söndürüldü",
+        "title": "Manisa'da çekici ile tur otobüsü çarpıştı, 11 kişi hayatını kaybetti, 27 kişi yaralandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/-kartal-kosuyolu-egitim-ve-arastirma-hastanesinin-catisinda-cikan-yangin-sonduruldu/4084692",
-        "summary": "Kartal Koşuyolu Yüksek İhtisas Eğitim ve Araştırma Hastanesinin tadilat yapılan boş ek binasının çatısında çıkan yangın söndürüldü."
+        "url": "https://www.aa.com.tr/tr/gundem/manisada-cekici-ile-tur-otobusu-carpisti-11-kisi-hayatini-kaybetti-27-kisi-yaralandi/4085043",
+        "summary": "Manisa'nın Akhisar ilçesinde çekici ile tur otobüsünün çarpışması sonucu 11 kişi hayatını kaybetti, 27 kişi yaralandı."
       },
       {
-        "title": "Ankara'da yarın bazı yollar araç trafiğine kapatılacak",
+        "title": "TBMM'de bu hafta Türk Kızılay Kanunu Teklifi ele alınacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak/4084677",
-        "summary": "Ankara'da yarın düzenlenecek \"Cumhurbaşkanlığı Yarı Maratonu\" nedeniyle bazı yollar araç trafiğine kapalı olacak."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmmde-bu-hafta-turk-kizilay-kanunu-teklifi-ele-alinacak/4084922",
+        "summary": "TBMM Genel Kurulu, Türk Kızılay Derneğinin görev alanına giren faaliyetleri daha etkin bir yapıda yürütebilmesi için görev ve yetkileriyle hak ve muafiyetleri düzenleyen Türk Kızıl..."
       }
     ]
   }
