@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-10-11 20:43:11",
+  "updated_at": "2026-10-12 12:36:29",
   "markets": {
-    "usd_try_kapalicarsi": "49.33 TL",
-    "eur_try_kapalicarsi": "55.28 TL",
+    "usd_try_kapalicarsi": "49.34 TL",
+    "eur_try_kapalicarsi": "55.27 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Army, Kaizen Laboratories to establish common software platform for classified material",
-    "bullet_1": "US Army, Kaizen Laboratories to establish common software platform for classified material",
-    "bullet_2": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
-    "bullet_3": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
+    "red_alert": "SON DAKİKA: US Army helicopter pilots test new in-flight ‘relief’ system",
+    "bullet_1": "US Army helicopter pilots test new in-flight ‘relief’ system",
+    "bullet_2": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
+    "bullet_3": "Vector, Nammo expand push to mass-produce armed drones",
     "defense_news": [
+      {
+        "title": "US Army helicopter pilots test new in-flight ‘relief’ system",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
+        "summary": "The 101st Combat Aviation Brigade recently completed the Army’s first-ever helicopter test flights using the Advanced Inflight Relief Universal System."
+      },
+      {
+        "title": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
+        "summary": "The U.S. Army has taken delivery of its first Korean-made mobile tactical cannon less than a year after first issuing a solicitation."
+      },
+      {
+        "title": "Vector, Nammo expand push to mass-produce armed drones",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones/",
+        "summary": "Executives from both companies say they’re scaling up production of systems that reflect “the realities of how warfighters will employ them.”"
+      },
       {
         "title": "US Army, Kaizen Laboratories to establish common software platform for classified material",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
         "summary": "The U.S. Army recently awarded $43 million to Kaizen Laboratories to create application software for highly sensitive military material."
-      },
-      {
-        "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/",
-        "summary": "Lockheed Martin said PAC-3 Edge incorporates a new seeker, upgraded flight controls and a multi-pulse rocket motor supplied by Northrop Grumman."
-      },
-      {
-        "title": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/",
-        "summary": "The contract \"supports urgent replenishment of missile defense inventory that has been successfully used in combat,\" Raytheon said."
-      },
-      {
-        "title": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
-        "summary": "The new 4th Multi-Domain Task Force includes four battalions and is planned to grow to 2,100 soldiers."
       }
     ],
     "geo_news": [
       {
-        "title": "İbn Haldun Üniversitesi Mütevelli Heyeti Başkan Vekili Erdoğan: Gazze'deki insani durum ciddiyetini koruyor",
+        "title": "Cumhurbaşkanı Erdoğan: Gıda israfının arttığı bir dünyada ne barıştan, ne huzurdan ne de refahtan bahsedebiliriz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ibn-haldun-universitesi-mutevelli-heyeti-baskan-vekili-erdogan-gazzedeki-insani-durum-ciddiyetini-koruyor/4085475",
-        "summary": "İbn Haldun Üniversitesi Mütevelli Heyeti Başkan Vekili Bilal Erdoğan, Gazze'deki insani durumun ateşkese rağmen ciddiyetini koruduğunu belirterek, \"Maalesef soykırım her gün devam ..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-gida-israfinin-arttigi-bir-dunyada-ne-baristan-ne-huzurdan-ne-de-refahtan-bahsedebiliriz/4086102",
+        "summary": "Cumhurbaşkanı Erdoğan, bir yanda kuru ekmek bulamayan milyonların yaşam mücadelesine tanık olunurken diğer yanda gıda israfının arttığı bir dünyada barıştan, huzurdan ve refahtan b..."
       },
       {
-        "title": "Tokat'ta bulantı ve kusma gibi şikayetlerle 2 bin 914 kişi hastanelere başvurdu",
+        "title": "Cumhurbaşkanlığı Kabinesi toplandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tokatta-bulanti-ve-kusma-gibi-sikayetlerle-2-bin-914-kisi-hastanelere-basvurdu/4085423",
-        "summary": "Tokat'ta bulantı, kusma, karın ağrısı ve ishal şikayetleriyle sağlık kuruluşlarına başvuranların sayısının 2 bin 914'e ulaştığı, yatarak tedavi gören 18 çocuktan 6'sının taburcu ed..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-kabinesi-toplandi/4086080",
+        "summary": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı."
       },
       {
-        "title": "İstanbul Boğazı'nda gemi trafiği arızalanan tanker nedeniyle askıya alındı",
+        "title": "Mardin’de toz taşınımı etkili oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-bogazinda-gemi-trafigi-arizalanan-tanker-nedeniyle-askiya-alindi/4085391",
-        "summary": "İtalya'ya seyreden Malta bandralı 110 metre uzunluğundaki tankerin makine arızası yapması nedeniyle İstanbul Boğazı'nda gemi trafiği askıya alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/mardin-de-toz-tasinimi-etkili-oldu/4086073",
+        "summary": "Mardin'de toz taşınımı hayatı olumsuz etkiledi."
       },
       {
-        "title": "Osmaniye merkezli 8 ilde yasa dışı bahis suçuna yönelik operasyonlarda 59 şüpheli yakalandı",
+        "title": "İstanbul'da suç örgütlerine yönelik operasyonlarda 175 zanlı tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/osmaniye-merkezli-8-ilde-yasa-disi-bahis-sucuna-yonelik-operasyonlarda-59-supheli-yakalandi/4085356",
-        "summary": "İçişleri Bakanlığı, Osmaniye merkezli 8 ilde yasa dışı bahis suçuna yönelik operasyonlarda 59 şüphelinin gözaltına alındığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutlerine-yonelik-operasyonlarda-175-zanli-tutuklandi/4086064",
+        "summary": "İstanbul'da suç örgütlerine yönelik son 1 ayda düzenlenen operasyonlarda gözaltına alınan 289 şüpheliden 175'i tutuklandı."
       }
     ]
   }
