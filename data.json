@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 12:36:29",
+  "updated_at": "2026-10-12 23:23:58",
   "markets": {
     "usd_try_kapalicarsi": "49.34 TL",
     "eur_try_kapalicarsi": "55.27 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Army helicopter pilots test new in-flight ‘relief’ system",
-    "bullet_1": "US Army helicopter pilots test new in-flight ‘relief’ system",
-    "bullet_2": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
-    "bullet_3": "Vector, Nammo expand push to mass-produce armed drones",
+    "red_alert": "SON DAKİKA: The US Army is back in the jungle. Panamanians are showing soldiers the way.",
+    "bullet_1": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
+    "bullet_2": "Twenty-Six Defense unveils new soldier-worn tech",
+    "bullet_3": "Italy eyes MBDA armaments for new Italo-Turkish drone",
     "defense_news": [
       {
-        "title": "US Army helicopter pilots test new in-flight ‘relief’ system",
+        "title": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
-        "summary": "The 101st Combat Aviation Brigade recently completed the Army’s first-ever helicopter test flights using the Advanced Inflight Relief Universal System."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
+        "summary": "Panamanian service members have trained, lived — and in some cases, fought — in the jungle. Now, they are teaching U.S. service members."
       },
       {
-        "title": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
+        "title": "Twenty-Six Defense unveils new soldier-worn tech",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
-        "summary": "The U.S. Army has taken delivery of its first Korean-made mobile tactical cannon less than a year after first issuing a solicitation."
+        "url": "https://www.defensenews.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech/",
+        "summary": "The defense firm formerly known as Elbit America introduced Primex, a headset designed with night vision and augmented reality capabilities."
       },
       {
-        "title": "Vector, Nammo expand push to mass-produce armed drones",
+        "title": "Italy eyes MBDA armaments for new Italo-Turkish drone",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones/",
-        "summary": "Executives from both companies say they’re scaling up production of systems that reflect “the realities of how warfighters will employ them.”"
+        "url": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
+        "summary": "The Italian air force is due to acquire six of the drones, which are derived from Baykar’s TB-3 and are being assembled in Italy by LBA Systems."
       },
       {
-        "title": "US Army, Kaizen Laboratories to establish common software platform for classified material",
+        "title": "US Army creates robotics technician job to focus on drone warfare",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
-        "summary": "The U.S. Army recently awarded $43 million to Kaizen Laboratories to create application software for highly sensitive military material."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
+        "summary": "As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations."
       }
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan: Gıda israfının arttığı bir dünyada ne barıştan, ne huzurdan ne de refahtan bahsedebiliriz",
+        "title": "Esenyurt'ta atölyede çıkan yangın hasara yol açtı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-gida-israfinin-arttigi-bir-dunyada-ne-baristan-ne-huzurdan-ne-de-refahtan-bahsedebiliriz/4086102",
-        "summary": "Cumhurbaşkanı Erdoğan, bir yanda kuru ekmek bulamayan milyonların yaşam mücadelesine tanık olunurken diğer yanda gıda israfının arttığı bir dünyada barıştan, huzurdan ve refahtan b..."
+        "url": "https://www.aa.com.tr/tr/gundem/esenyurtta-atolyede-cikan-yangin-hasara-yol-acti/4086630",
+        "summary": "Esenyurt'ta yorgan üretimi yapılan atölyede çıkan yangın itfaiye ekiplerinin müdahalesiyle söndürüldü."
       },
       {
-        "title": "Cumhurbaşkanlığı Kabinesi toplandı",
+        "title": "TBMM Başkanı Kurtulmuş: Hemen sınır bölgemizde asla ve asla terör örgütünün hiçbir şekilde unsuru kalmayacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-kabinesi-toplandi/4086080",
-        "summary": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-hemen-sinir-bolgemizde-asla-ve-asla-teror-orgutunun-hicbir-sekilde-unsuru-kalmayacak/4086513",
+        "summary": "TBMM Başkanı Kurtulmuş, \"Metina bölgesinde örgütün elinde bulunan bazı mağaraların devlet kurumlarına devriyle ilgili süreçte önemli bir adım atıldı. Böylece hemen sınır bölgemizde..."
       },
       {
-        "title": "Mardin’de toz taşınımı etkili oldu",
+        "title": "BM Komiseri Türk, Husilerin Suudi Arabistan'ı hedef alan saldırıları karşısında dehşete kapıldığını belirtti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mardin-de-toz-tasinimi-etkili-oldu/4086073",
-        "summary": "Mardin'de toz taşınımı hayatı olumsuz etkiledi."
+        "url": "https://www.aa.com.tr/tr/gundem/bm-komiseri-turk-husilerin-suudi-arabistani-hedef-alan-saldirilari-karsisinda-dehsete-kapildigini-belirtti/4086438",
+        "summary": "Birleşmiş Milletler İnsan Hakları Yüksek Komiseri Volker Türk, Husilerin başkent Riyad'daki Kral Halid Uluslararası Havalimanı başta olmak üzere, Suudi Arabistan'daki havalimanları..."
       },
       {
-        "title": "İstanbul'da suç örgütlerine yönelik operasyonlarda 175 zanlı tutuklandı",
+        "title": "Ankara'da yarın bazı yollar trafiğe kapatılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutlerine-yonelik-operasyonlarda-175-zanli-tutuklandi/4086064",
-        "summary": "İstanbul'da suç örgütlerine yönelik son 1 ayda düzenlenen operasyonlarda gözaltına alınan 289 şüpheliden 175'i tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-trafige-kapatilacak/4086448",
+        "summary": "Ankara'nın başkent oluşunun 103. yıl dönümü kutlamaları kapsamında yarın bazı yollar araç trafiğine kapatılacak."
       }
     ]
   }
