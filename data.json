@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-10-12 23:23:58",
+  "updated_at": "2026-10-13 12:22:20",
   "markets": {
-    "usd_try_kapalicarsi": "49.34 TL",
-    "eur_try_kapalicarsi": "55.27 TL",
+    "usd_try_kapalicarsi": "49.36 TL",
+    "eur_try_kapalicarsi": "55.14 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: The US Army is back in the jungle. Panamanians are showing soldiers the way.",
-    "bullet_1": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
-    "bullet_2": "Twenty-Six Defense unveils new soldier-worn tech",
-    "bullet_3": "Italy eyes MBDA armaments for new Italo-Turkish drone",
+    "red_alert": "SON DAKİKA: Drone carrying M250 machine gun completes firing test",
+    "bullet_1": "Drone carrying M250 machine gun completes firing test",
+    "bullet_2": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
+    "bullet_3": "Twenty-Six Defense unveils new soldier-worn tech",
     "defense_news": [
+      {
+        "title": "Drone carrying M250 machine gun completes firing test",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/",
+        "summary": "A heavy-duty quadcopter carrying Sig Sauer’s new M250 light machine gun has completed a test requiring it to identify and engage targets from the air."
+      },
       {
         "title": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
         "summary": "The Italian air force is due to acquire six of the drones, which are derived from Baykar’s TB-3 and are being assembled in Italy by LBA Systems."
-      },
-      {
-        "title": "US Army creates robotics technician job to focus on drone warfare",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
-        "summary": "As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations."
       }
     ],
     "geo_news": [
       {
-        "title": "Esenyurt'ta atölyede çıkan yangın hasara yol açtı",
+        "title": "Bakan Memişoğlu: Çocuklarımıza, gençlerimize sigara satışını engellemeye çalışıyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/esenyurtta-atolyede-cikan-yangin-hasara-yol-acti/4086630",
-        "summary": "Esenyurt'ta yorgan üretimi yapılan atölyede çıkan yangın itfaiye ekiplerinin müdahalesiyle söndürüldü."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-cocuklarimiza-genclerimize-sigara-satisini-engellemeye-calisiyoruz/4087277",
+        "summary": "Sağlık Bakanı Memişoğlu, \"Sadece 18 yaş altına sigara satılmasını engelleyecek bir yöntemle insanlarımıza, çocuklarımıza, gençlerimize bu zararlı maddenin satılmasını engellemeye ç..."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş: Hemen sınır bölgemizde asla ve asla terör örgütünün hiçbir şekilde unsuru kalmayacak",
+        "title": "AK Parti Genel Başkan Yardımcısı Zorlu: Fon soruşturması konusunu kısa süre sonra tümüyle çözdüğümüzü göreceksiniz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-hemen-sinir-bolgemizde-asla-ve-asla-teror-orgutunun-hicbir-sekilde-unsuru-kalmayacak/4086513",
-        "summary": "TBMM Başkanı Kurtulmuş, \"Metina bölgesinde örgütün elinde bulunan bazı mağaraların devlet kurumlarına devriyle ilgili süreçte önemli bir adım atıldı. Böylece hemen sınır bölgemizde..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-fon-sorusturmasi-konusunu-kisa-sure-sonra-tumuyle-cozdugumuzu-goreceksiniz/4087221",
+        "summary": "AK Parti Genel Başkan Yardımcısı Zorlu, fon soruşturmasına ilişkin, \"Milletimiz bize güvensin. Cumhurbaşkanımız olaya tam hakimdir ve gelişmeleri çok yakından takip etmiştir. Bu ko..."
       },
       {
-        "title": "BM Komiseri Türk, Husilerin Suudi Arabistan'ı hedef alan saldırıları karşısında dehşete kapıldığını belirtti",
+        "title": "Boran-8 Uluslararası Keskin Nişancı Yarışması başladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bm-komiseri-turk-husilerin-suudi-arabistani-hedef-alan-saldirilari-karsisinda-dehsete-kapildigini-belirtti/4086438",
-        "summary": "Birleşmiş Milletler İnsan Hakları Yüksek Komiseri Volker Türk, Husilerin başkent Riyad'daki Kral Halid Uluslararası Havalimanı başta olmak üzere, Suudi Arabistan'daki havalimanları..."
+        "url": "https://www.aa.com.tr/tr/gundem/boran-8-uluslararasi-keskin-nisanci-yarismasi-basladi/4087232",
+        "summary": "Jandarma Genel Komutanlığınca düzenlenen Boran-8 Uluslararası Keskin Nişancı Yarışması İzmir'in Foça ilçesinde başladı."
       },
       {
-        "title": "Ankara'da yarın bazı yollar trafiğe kapatılacak",
+        "title": "Erzurum-Rize Yolu'ndaki 3 bin 105 metrelik Dallıkavak Tüneli 16 Ekim'de hizmete açılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-trafige-kapatilacak/4086448",
-        "summary": "Ankara'nın başkent oluşunun 103. yıl dönümü kutlamaları kapsamında yarın bazı yollar araç trafiğine kapatılacak."
+        "url": "https://www.aa.com.tr/tr/gundem/erzurum-rize-yolundaki-3-bin-105-metrelik-dallikavak-tuneli-16-ekimde-hizmete-acilacak/4087174",
+        "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, Erzurum-Rize Yolu'nda yapımı tamamlanan 3 bin 105 metre uzunluğundaki çift tüplü Dallıkavak Tüneli ile birlikte toplam 9 kilometrelik kesimin ..."
       }
     ]
   }
