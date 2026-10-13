@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 12:22:20",
+  "updated_at": "2026-10-13 21:39:31",
   "markets": {
     "usd_try_kapalicarsi": "49.36 TL",
     "eur_try_kapalicarsi": "55.14 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Drone carrying M250 machine gun completes firing test",
-    "bullet_1": "Drone carrying M250 machine gun completes firing test",
-    "bullet_2": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
-    "bullet_3": "Twenty-Six Defense unveils new soldier-worn tech",
+    "red_alert": "SON DAKİKA: Anduril awarded contract to expand US Army’s next-gen battlefield command system",
+    "bullet_1": "Anduril awarded contract to expand US Army’s next-gen battlefield command system",
+    "bullet_2": "LaNeve to industry: ‘We are not walking away from modernization’",
+    "bullet_3": "BAE Systems unveils new layered air-defense system",
     "defense_news": [
       {
-        "title": "Drone carrying M250 machine gun completes firing test",
+        "title": "Anduril awarded contract to expand US Army’s next-gen battlefield command system",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/",
-        "summary": "A heavy-duty quadcopter carrying Sig Sauer’s new M250 light machine gun has completed a test requiring it to identify and engage targets from the air."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/",
+        "summary": "Anduril Industries received an Army contract worth up to $1.8 billion to continue expanding the service's Next Generation Command and Control."
       },
       {
-        "title": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
+        "title": "LaNeve to industry: ‘We are not walking away from modernization’",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
-        "summary": "Panamanian service members have trained, lived — and in some cases, fought — in the jungle. Now, they are teaching U.S. service members."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization/",
+        "summary": "The U.S. Army's Futures and Concepts Command has been redesignated as U.S. Army Futures and Autonomous Systems, the service's top officer announced."
       },
       {
-        "title": "Twenty-Six Defense unveils new soldier-worn tech",
+        "title": "BAE Systems unveils new layered air-defense system",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech/",
-        "summary": "The defense firm formerly known as Elbit America introduced Primex, a headset designed with night vision and augmented reality capabilities."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
+        "summary": "The weapons include the long-awaited Multi-Domain Artillery Cannon System and a High-Power Microwave."
       },
       {
-        "title": "Italy eyes MBDA armaments for new Italo-Turkish drone",
+        "title": "How autonomous weapons are changing the way brigades fight",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
-        "summary": "The Italian air force is due to acquire six of the drones, which are derived from Baykar’s TB-3 and are being assembled in Italy by LBA Systems."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
+        "summary": "At Fort Bragg in August, Army soldiers tested how unmanned systems could help troops breach obstacles while reducing their exposure to battlefield hazards."
       }
     ],
     "geo_news": [
       {
-        "title": "Bakan Memişoğlu: Çocuklarımıza, gençlerimize sigara satışını engellemeye çalışıyoruz",
+        "title": "İletişim Başkanı Duran: Türkiye Yüzyılı'nı aynı zamanda İletişimin Yüzyılı haline getirmek için gayret gösteriyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-cocuklarimiza-genclerimize-sigara-satisini-engellemeye-calisiyoruz/4087277",
-        "summary": "Sağlık Bakanı Memişoğlu, \"Sadece 18 yaş altına sigara satılmasını engelleyecek bir yöntemle insanlarımıza, çocuklarımıza, gençlerimize bu zararlı maddenin satılmasını engellemeye ç..."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-turkiye-yuzyilini-ayni-zamanda-iletisimin-yuzyili-haline-getirmek-icin-gayret-gosteriyoruz/4087869",
+        "summary": "İletişim Başkanı Duran, \"Türkiye Yüzyılı'nı aynı zamanda İletişimin Yüzyılı haline getirmek, bu vizyon doğrultusunda adil ve etkili bir iletişim ekosistemi inşa etmek için gayret g..."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu: Fon soruşturması konusunu kısa süre sonra tümüyle çözdüğümüzü göreceksiniz",
+        "title": "DMM, TSK'nın \"Resulayn'da bulunan bazı köy sakinlerinin evlerine dönüşünü engellediği\" iddialarını yalanladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-fon-sorusturmasi-konusunu-kisa-sure-sonra-tumuyle-cozdugumuzu-goreceksiniz/4087221",
-        "summary": "AK Parti Genel Başkan Yardımcısı Zorlu, fon soruşturmasına ilişkin, \"Milletimiz bize güvensin. Cumhurbaşkanımız olaya tam hakimdir ve gelişmeleri çok yakından takip etmiştir. Bu ko..."
+        "url": "https://www.aa.com.tr/tr/gundem/dmm-tsknin-resulaynda-bulunan-bazi-koy-sakinlerinin-evlerine-donusunu-engelledigi-iddialarini-yalanladi/4087782",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türk Silahlı Kuvvetleri Suriye-Resulayn'da bulunan bazı köylerin sakinlerinin evlerine dönüşünü engel..."
       },
       {
-        "title": "Boran-8 Uluslararası Keskin Nişancı Yarışması başladı",
+        "title": "İstanbul Cumhuriyet Başsavcılığından sermaye piyasası işlemleri soruşturmalarına ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/boran-8-uluslararasi-keskin-nisanci-yarismasi-basladi/4087232",
-        "summary": "Jandarma Genel Komutanlığınca düzenlenen Boran-8 Uluslararası Keskin Nişancı Yarışması İzmir'in Foça ilçesinde başladı."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-cumhuriyet-bassavciligindan-sermaye-piyasasi-islemleri-sorusturmalarina-iliskin-aciklama/4087714",
+        "summary": "İstanbul Cumhuriyet Başsavcılığı, sermaye piyasası işlemlerine ilişkin soruşturmalar kapsamında bazı şüphelilerin finansal işlemlerine kısıtlama getirildiğine ilişkin haberlerle il..."
       },
       {
-        "title": "Erzurum-Rize Yolu'ndaki 3 bin 105 metrelik Dallıkavak Tüneli 16 Ekim'de hizmete açılacak",
+        "title": "Türkiye'nin NATO Temsilcisi, Karadeniz'de bir ateşkes için iki tarafla çalıştıklarını söyledi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/erzurum-rize-yolundaki-3-bin-105-metrelik-dallikavak-tuneli-16-ekimde-hizmete-acilacak/4087174",
-        "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, Erzurum-Rize Yolu'nda yapımı tamamlanan 3 bin 105 metre uzunluğundaki çift tüplü Dallıkavak Tüneli ile birlikte toplam 9 kilometrelik kesimin ..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyenin-nato-temsilcisi-karadenizde-bir-ateskes-icin-iki-tarafla-calistiklarini-soyledi/4087698",
+        "summary": "Türkiye'nin NATO Nezdinde Daimi Temsilcisi Büyükelçi Basat Öztürk, Karadeniz'de sivil mallar taşıyan ticari gemilerin hedef alınmasını önlemek amacıyla geçici ve kısmi bir ateşkes ..."
       }
     ]
   }
