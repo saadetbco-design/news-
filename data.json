@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-10-13 21:39:31",
+  "updated_at": "2026-10-14 09:51:24",
   "markets": {
-    "usd_try_kapalicarsi": "49.36 TL",
-    "eur_try_kapalicarsi": "55.14 TL",
+    "usd_try_kapalicarsi": "49.38 TL",
+    "eur_try_kapalicarsi": "55.27 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Anduril awarded contract to expand US Army’s next-gen battlefield command system",
-    "bullet_1": "Anduril awarded contract to expand US Army’s next-gen battlefield command system",
-    "bullet_2": "LaNeve to industry: ‘We are not walking away from modernization’",
-    "bullet_3": "BAE Systems unveils new layered air-defense system",
+    "red_alert": "SON DAKİKA: US Army transfers 600 enlisted soldiers to Space Operations Branch",
+    "bullet_1": "US Army transfers 600 enlisted soldiers to Space Operations Branch",
+    "bullet_2": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
+    "bullet_3": "US Army, Navy research labs team up to combat Arctic cold",
     "defense_news": [
       {
-        "title": "Anduril awarded contract to expand US Army’s next-gen battlefield command system",
+        "title": "US Army transfers 600 enlisted soldiers to Space Operations Branch",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/",
-        "summary": "Anduril Industries received an Army contract worth up to $1.8 billion to continue expanding the service's Next Generation Command and Control."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-transfers-600-enlisted-soldiers-to-space-operations-branch/",
+        "summary": "The U.S. Army bolstered its Space Operations Branch by 600 soldiers, officially creating the branch’s first permanent enlisted cadre."
       },
       {
-        "title": "LaNeve to industry: ‘We are not walking away from modernization’",
+        "title": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization/",
-        "summary": "The U.S. Army's Futures and Concepts Command has been redesignated as U.S. Army Futures and Autonomous Systems, the service's top officer announced."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
+        "summary": "The Army's Operation Jailbreak initiative asked defense companies to hack into each other's autonomous systems and machines, enabling them to communicate."
       },
       {
-        "title": "BAE Systems unveils new layered air-defense system",
+        "title": "US Army, Navy research labs team up to combat Arctic cold",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
-        "summary": "The weapons include the long-awaited Multi-Domain Artillery Cannon System and a High-Power Microwave."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
+        "summary": "As the Department of Defense eyes greater operability in the Arctic, it needs equipment that can operate in temps as low as -50 degrees Fahrenheit."
       },
       {
-        "title": "How autonomous weapons are changing the way brigades fight",
+        "title": "97% of US soldiers complete brain health assessment",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
-        "summary": "At Fort Bragg in August, Army soldiers tested how unmanned systems could help troops breach obstacles while reducing their exposure to battlefield hazards."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/97-of-us-soldiers-complete-brain-health-assessment/",
+        "summary": "Medical professionals use the data to monitor soldiers' cognitive health throughout their military careers, allowing them to spot significant changes."
       }
     ],
     "geo_news": [
       {
-        "title": "İletişim Başkanı Duran: Türkiye Yüzyılı'nı aynı zamanda İletişimin Yüzyılı haline getirmek için gayret gösteriyoruz",
+        "title": "Tekirdağ ve Muğla'da olumsuz hava günlük yaşamı etkiliyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-turkiye-yuzyilini-ayni-zamanda-iletisimin-yuzyili-haline-getirmek-icin-gayret-gosteriyoruz/4087869",
-        "summary": "İletişim Başkanı Duran, \"Türkiye Yüzyılı'nı aynı zamanda İletişimin Yüzyılı haline getirmek, bu vizyon doğrultusunda adil ve etkili bir iletişim ekosistemi inşa etmek için gayret g..."
+        "url": "https://www.aa.com.tr/tr/gundem/tekirdag-ve-muglada-olumsuz-hava-gunluk-yasami-etkiliyor/4088277",
+        "summary": "Tekirdağ ve Muğlada etkili olan sağanak ve hayatı olumsuz etkiledi. Bodrum'da denizde sürüklenen 15 metrelik yelkenli tekne, Kumbahçe Mahallesi sahilinde karaya oturdu."
       },
       {
-        "title": "DMM, TSK'nın \"Resulayn'da bulunan bazı köy sakinlerinin evlerine dönüşünü engellediği\" iddialarını yalanladı",
+        "title": "Amasra'daki patlamada hayatını kaybeden 43 madenci anıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dmm-tsknin-resulaynda-bulunan-bazi-koy-sakinlerinin-evlerine-donusunu-engelledigi-iddialarini-yalanladi/4087782",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türk Silahlı Kuvvetleri Suriye-Resulayn'da bulunan bazı köylerin sakinlerinin evlerine dönüşünü engel..."
+        "url": "https://www.aa.com.tr/tr/gundem/amasradaki-patlamada-hayatini-kaybeden-43-madenci-anildi/4087968",
+        "summary": "Türkiye Taşkömürü Kurumu (TTK) Amasra Müessesesine ait maden ocağında 14 Ekim 2022'deki patlamada yaşamını yitiren 43 madenci anıldı."
       },
       {
-        "title": "İstanbul Cumhuriyet Başsavcılığından sermaye piyasası işlemleri soruşturmalarına ilişkin açıklama",
+        "title": "Bakan Uraloğlu: Ankara-Samsun hızlı demir yolu hattının Delice-Çorum etabında ilerleme yüzde 40'ı aştı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-cumhuriyet-bassavciligindan-sermaye-piyasasi-islemleri-sorusturmalarina-iliskin-aciklama/4087714",
-        "summary": "İstanbul Cumhuriyet Başsavcılığı, sermaye piyasası işlemlerine ilişkin soruşturmalar kapsamında bazı şüphelilerin finansal işlemlerine kısıtlama getirildiğine ilişkin haberlerle il..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-ankara-samsun-hizli-demir-yolu-hattinin-delice-corum-etabinda-ilerleme-yuzde-40i-asti/4088222",
+        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Delice'den başlayıp Samsun'a ulaşacak Ankara-Kırıkkale-Çorum-Samsun Hızlı Demir Yolu Projesi'nin Delice-Çorum kesiminde yüzde 40'ın..."
       },
       {
-        "title": "Türkiye'nin NATO Temsilcisi, Karadeniz'de bir ateşkes için iki tarafla çalıştıklarını söyledi",
+        "title": "Eylül ayı son 56 yılın en sıcak 13'üncü eylülü oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyenin-nato-temsilcisi-karadenizde-bir-ateskes-icin-iki-tarafla-calistiklarini-soyledi/4087698",
-        "summary": "Türkiye'nin NATO Nezdinde Daimi Temsilcisi Büyükelçi Basat Öztürk, Karadeniz'de sivil mallar taşıyan ticari gemilerin hedef alınmasını önlemek amacıyla geçici ve kısmi bir ateşkes ..."
+        "url": "https://www.aa.com.tr/tr/gundem/eylul-ayi-son-56-yilin-en-sicak-13uncu-eylulu-oldu/4088172",
+        "summary": "Türkiye'de 2026 yılı eylül ayı, ortalama 21,5 derece sıcaklıkla son 56 yılın en sıcak 13'üncü eylül ayı olarak kayıtlara geçti."
       }
     ]
   }
