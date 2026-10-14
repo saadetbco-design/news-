@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 09:51:24",
+  "updated_at": "2026-10-14 20:23:06",
   "markets": {
     "usd_try_kapalicarsi": "49.38 TL",
     "eur_try_kapalicarsi": "55.27 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Army transfers 600 enlisted soldiers to Space Operations Branch",
-    "bullet_1": "US Army transfers 600 enlisted soldiers to Space Operations Branch",
-    "bullet_2": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
-    "bullet_3": "US Army, Navy research labs team up to combat Arctic cold",
+    "red_alert": "SON DAKİKA: Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army’s new warfare guidance",
+    "bullet_1": "Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army’s new warfare guidance",
+    "bullet_2": "European officials weigh mix of high-tech drones and heavy armor",
+    "bullet_3": "‘You’re a coward’: Protesters heckle Hegseth during AUSA panel",
     "defense_news": [
       {
-        "title": "US Army transfers 600 enlisted soldiers to Space Operations Branch",
+        "title": "Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army’s new warfare guidance",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-transfers-600-enlisted-soldiers-to-space-operations-branch/",
-        "summary": "The U.S. Army bolstered its Space Operations Branch by 600 soldiers, officially creating the branch’s first permanent enlisted cadre."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
+        "summary": "“How The Army Fights” is a new 46-page U.S. Army-issued guide on how the service should fight — and survive — on the modern battlefield."
       },
       {
-        "title": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
+        "title": "European officials weigh mix of high-tech drones and heavy armor",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
-        "summary": "The Army's Operation Jailbreak initiative asked defense companies to hack into each other's autonomous systems and machines, enabling them to communicate."
+        "url": "https://www.defensenews.com/global/europe/2026/10/14/european-officials-weigh-mix-of-high-tech-drones-and-heavy-armor/",
+        "summary": "European leaders are figuring out the right mix between unmanned systems and heavy armor to secure NATO's eastern flank."
       },
       {
-        "title": "US Army, Navy research labs team up to combat Arctic cold",
+        "title": "‘You’re a coward’: Protesters heckle Hegseth during AUSA panel",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
-        "summary": "As the Department of Defense eyes greater operability in the Arctic, it needs equipment that can operate in temps as low as -50 degrees Fahrenheit."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/youre-a-coward-protesters-heckle-hegseth-during-ausa-panel/",
+        "summary": "Protesters derailed a Washington, D.C., panel featuring Defense Secretary Pete Hegseth on Wednesday, calling him a “war criminal” and “Nazi.”"
       },
       {
-        "title": "97% of US soldiers complete brain health assessment",
+        "title": "US Army generals propose larger-footprint, more frequent military exercises in Korea",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/14/97-of-us-soldiers-complete-brain-health-assessment/",
-        "summary": "Medical professionals use the data to monitor soldiers' cognitive health throughout their military careers, allowing them to spot significant changes."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-generals-propose-larger-footprint-more-frequent-military-exercises-in-korea/",
+        "summary": "After Trump scaled back a joint exercise with South Korea, a U.S. Army commander called for more frequent drills modeled on lessons from Ukraine."
       }
     ],
     "geo_news": [
       {
-        "title": "Tekirdağ ve Muğla'da olumsuz hava günlük yaşamı etkiliyor",
+        "title": "İstanbul'da metro, tramvay ve füniküler hatlarında seferler saat 02.00'ye kadar uzatıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tekirdag-ve-muglada-olumsuz-hava-gunluk-yasami-etkiliyor/4088277",
-        "summary": "Tekirdağ ve Muğlada etkili olan sağanak ve hayatı olumsuz etkiledi. Bodrum'da denizde sürüklenen 15 metrelik yelkenli tekne, Kumbahçe Mahallesi sahilinde karaya oturdu."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-metro-tramvay-ve-funikuler-hatlarinda-seferler-saat-0200ye-kadar-uzatildi/4089027",
+        "summary": "İstanbul'da etkili olan yoğun yağış ve olumsuz hava koşulları nedeniyle bazı metro, tramvay ve füniküler hatlarında seferlerin saat 02.00'ye kadar uzatıldığı bildirildi."
       },
       {
-        "title": "Amasra'daki patlamada hayatını kaybeden 43 madenci anıldı",
+        "title": "Bazı illerde sağanak nedeniyle yarın eğitime ara verildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/amasradaki-patlamada-hayatini-kaybeden-43-madenci-anildi/4087968",
-        "summary": "Türkiye Taşkömürü Kurumu (TTK) Amasra Müessesesine ait maden ocağında 14 Ekim 2022'deki patlamada yaşamını yitiren 43 madenci anıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-nedeniyle-yarin-egitime-ara-verildi/4089031",
+        "summary": "Kocaeli'de etkisini artırması beklenen sağanak nedeniyle yarın il genelindeki tüm eğitim kurumlarında eğitime bir gün ara verildi."
       },
       {
-        "title": "Bakan Uraloğlu: Ankara-Samsun hızlı demir yolu hattının Delice-Çorum etabında ilerleme yüzde 40'ı aştı",
+        "title": "ÖNDER'den başörtülülerin eğitim hakkından mahrum bırakılmasına ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-ankara-samsun-hizli-demir-yolu-hattinin-delice-corum-etabinda-ilerleme-yuzde-40i-asti/4088222",
-        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Delice'den başlayıp Samsun'a ulaşacak Ankara-Kırıkkale-Çorum-Samsun Hızlı Demir Yolu Projesi'nin Delice-Çorum kesiminde yüzde 40'ın..."
+        "url": "https://www.aa.com.tr/tr/gundem/onderden-basortululerin-egitim-hakkindan-mahrum-birakilmasina-iliskin-aciklama/4089034",
+        "summary": "ÖNDER İmam Hatipliler Derneği, son günlerde Azerbaycan'da okullarda gündeme gelen kısıtlamaların temel hak ve özgürlükler çerçevesinde yeniden değerlendirilmesi gerektiğini belirtt..."
       },
       {
-        "title": "Eylül ayı son 56 yılın en sıcak 13'üncü eylülü oldu",
+        "title": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi komisyonda kabul edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/eylul-ayi-son-56-yilin-en-sicak-13uncu-eylulu-oldu/4088172",
-        "summary": "Türkiye'de 2026 yılı eylül ayı, ortalama 21,5 derece sıcaklıkla son 56 yılın en sıcak 13'üncü eylül ayı olarak kayıtlara geçti."
+        "url": "https://www.aa.com.tr/tr/gundem/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda-kabul-edildi/4089013",
+        "summary": "TBMM Plan ve Bütçe Komisyonunda kabul edilen kanun teklifine göre, fonların tasfiyesi SPK'nın gözetim ve denetiminde tasfiye ile görevli kuruluşlar tarafından yürütülecek."
       }
     ]
   }
