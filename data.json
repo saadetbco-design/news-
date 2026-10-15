@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-10-14 20:23:06",
+  "updated_at": "2026-10-15 09:32:01",
   "markets": {
-    "usd_try_kapalicarsi": "49.38 TL",
-    "eur_try_kapalicarsi": "55.27 TL",
+    "usd_try_kapalicarsi": "49.45 TL",
+    "eur_try_kapalicarsi": "55.29 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army’s new warfare guidance",
-    "bullet_1": "Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army’s new warfare guidance",
-    "bullet_2": "European officials weigh mix of high-tech drones and heavy armor",
-    "bullet_3": "‘You’re a coward’: Protesters heckle Hegseth during AUSA panel",
+    "red_alert": "SON DAKİKA: Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
+    "bullet_1": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
+    "bullet_2": "Acting US Army secretary creates task force for HVAC repairs",
+    "bullet_3": "US soldiers must train on ‘new basics’ of unmanned systems, officials say",
     "defense_news": [
       {
-        "title": "Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army’s new warfare guidance",
+        "title": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
-        "summary": "“How The Army Fights” is a new 46-page U.S. Army-issued guide on how the service should fight — and survive — on the modern battlefield."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/",
+        "summary": "Honeywell Aerospace’s SAMURAI system is designed to bring information from disparate sources into a single interface."
       },
       {
-        "title": "European officials weigh mix of high-tech drones and heavy armor",
+        "title": "Acting US Army secretary creates task force for HVAC repairs",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/14/european-officials-weigh-mix-of-high-tech-drones-and-heavy-armor/",
-        "summary": "European leaders are figuring out the right mix between unmanned systems and heavy armor to secure NATO's eastern flank."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs/",
+        "summary": "A new, enterprise-level Heating, Ventilation and Air Conditioning Task Force has identified more than $100 million in projects for early 2027."
       },
       {
-        "title": "‘You’re a coward’: Protesters heckle Hegseth during AUSA panel",
+        "title": "US soldiers must train on ‘new basics’ of unmanned systems, officials say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/14/youre-a-coward-protesters-heckle-hegseth-during-ausa-panel/",
-        "summary": "Protesters derailed a Washington, D.C., panel featuring Defense Secretary Pete Hegseth on Wednesday, calling him a “war criminal” and “Nazi.”"
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-soldiers-must-train-on-new-basics-of-unmanned-systems-officials-say/",
+        "summary": "As the U.S. Army trains soldiers for multi-domain operations, the service needs to prepare them with “new basics.\""
       },
       {
-        "title": "US Army generals propose larger-footprint, more frequent military exercises in Korea",
+        "title": "Northrop Grumman breaks out the big guns at AUSA",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-generals-propose-larger-footprint-more-frequent-military-exercises-in-korea/",
-        "summary": "After Trump scaled back a joint exercise with South Korea, a U.S. Army commander called for more frequent drills modeled on lessons from Ukraine."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/northrop-grumman-breaks-out-the-big-guns-at-ausa/",
+        "summary": "Amid the cruise missiles and microelectronics, the company also had something a little more familiar: guns. Big guns. Like, really big guns."
       }
     ],
     "geo_news": [
       {
-        "title": "İstanbul'da metro, tramvay ve füniküler hatlarında seferler saat 02.00'ye kadar uzatıldı",
+        "title": "İçişleri Bakanı Çiftçi: 55 bin 560 personelimiz, 6 bin 574 aracımız ve 20 botumuz teyakkuz halindedir",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-metro-tramvay-ve-funikuler-hatlarinda-seferler-saat-0200ye-kadar-uzatildi/4089027",
-        "summary": "İstanbul'da etkili olan yoğun yağış ve olumsuz hava koşulları nedeniyle bazı metro, tramvay ve füniküler hatlarında seferlerin saat 02.00'ye kadar uzatıldığı bildirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-55-bin-560-personelimiz-6-bin-574-aracimiz-ve-20-botumuz-teyakkuz-halindedir/4089459",
+        "summary": "İçişleri Bakanı Çiftçi, kuvvetli yağışlardan etkilenen illerdeki son duruma ilişkin, \"Ülke genelinde toplam 55 bin 560 personelimiz, 6 bin 574 aracımız ve 20 botumuz teyakkuz halin..."
       },
       {
-        "title": "Bazı illerde sağanak nedeniyle yarın eğitime ara verildi",
+        "title": "MSB: Geçen hafta 2 PKK'lı terörist teslim olmuştur",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-nedeniyle-yarin-egitime-ara-verildi/4089031",
-        "summary": "Kocaeli'de etkisini artırması beklenen sağanak nedeniyle yarın il genelindeki tüm eğitim kurumlarında eğitime bir gün ara verildi."
+        "url": "https://www.aa.com.tr/tr/gundem/msb-gecen-hafta-2-pkkli-terorist-teslim-olmustur/4089460",
+        "summary": "Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, geçen hafta 2 PKK'lı teröristin daha teslim olduğunu bildirdi."
       },
       {
-        "title": "ÖNDER'den başörtülülerin eğitim hakkından mahrum bırakılmasına ilişkin açıklama",
+        "title": "Bakan Yumaklı: Hayatımızın her alanında olduğu gibi, tarımın kalbinde de kadın çiftçilerimizin emeği var",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/onderden-basortululerin-egitim-hakkindan-mahrum-birakilmasina-iliskin-aciklama/4089034",
-        "summary": "ÖNDER İmam Hatipliler Derneği, son günlerde Azerbaycan'da okullarda gündeme gelen kısıtlamaların temel hak ve özgürlükler çerçevesinde yeniden değerlendirilmesi gerektiğini belirtt..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-yumakli-hayatimizin-her-alaninda-oldugu-gibi-tarimin-kalbinde-de-kadin-ciftcilerimizin-emegi-var/4089297",
+        "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, hayatın her alanında olduğu gibi, tarımın, kalkınmanın ve üretimin kalbinde de kadın çiftçilerin sarsılmaz emeğinin, alın terinin ve eşsiz ga..."
       },
       {
-        "title": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi komisyonda kabul edildi",
+        "title": "Türkiye, Kolombiya'nın Tel Aviv'deki Büyükelçiliğini Kudüs'e taşıma kararını kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda-kabul-edildi/4089013",
-        "summary": "TBMM Plan ve Bütçe Komisyonunda kabul edilen kanun teklifine göre, fonların tasfiyesi SPK'nın gözetim ve denetiminde tasfiye ile görevli kuruluşlar tarafından yürütülecek."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-kolombiyanin-tel-avivdeki-buyukelciligini-kuduse-tasima-kararini-kinadi/4089422",
+        "summary": "Dışişleri Bakanlığı, Kolombiya'nın Tel Aviv'deki Büyükelçiliğini Kudüs'e taşıma kararını kınadığını bildirdi."
       }
     ]
   }
