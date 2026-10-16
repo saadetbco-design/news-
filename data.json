@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-10-15 20:07:47",
+  "updated_at": "2026-10-16 09:24:41",
   "markets": {
-    "usd_try_kapalicarsi": "49.45 TL",
-    "eur_try_kapalicarsi": "55.29 TL",
+    "usd_try_kapalicarsi": "49.48 TL",
+    "eur_try_kapalicarsi": "55.49 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Army eyes developing soldier-worn drone detection gear",
-    "bullet_1": "US Army eyes developing soldier-worn drone detection gear",
-    "bullet_2": "‘Revolutionary’: Bell touts MV-75 Cheyenne II as combat game changer",
-    "bullet_3": "Kratos combat drone completes first Euro flight, advances turbojet engine production",
+    "red_alert": "SON DAKİKA: New human-machine interface will help Boxer punch above its weight",
+    "bullet_1": "New human-machine interface will help Boxer punch above its weight",
+    "bullet_2": "Lockheed invests $300M in Texas plant to feed missile surge",
+    "bullet_3": "Killer balloons an option as US Army seeks to ‘exploit the stratosphere’",
     "defense_news": [
       {
-        "title": "US Army eyes developing soldier-worn drone detection gear",
+        "title": "New human-machine interface will help Boxer punch above its weight",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
-        "summary": "The Army is in the early stages of developing and testing a wearable or lightweight device that could alert soldiers to the presence of hostile drones."
+        "url": "https://www.defensenews.com/land/2026/10/14/new-human-machine-interface-will-help-boxer-punch-above-its-weight/",
+        "summary": "An Australian startup has teamed with Rheinmetall to enable soldiers to direct nearby drones with voice commands from aboard Boxer vehicles."
       },
       {
-        "title": "‘Revolutionary’: Bell touts MV-75 Cheyenne II as combat game changer",
+        "title": "Lockheed invests $300M in Texas plant to feed missile surge",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/revolutionary-bell-touts-mv-75-cheyenne-ii-as-combat-game-changer/",
-        "summary": "The Army's MV-75 Cheyenne II is expected to bring increased capability through its speed, range and modular open systems approach."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge/",
+        "summary": "Lockheed is investing $300 million to expand its Grand Prairie, Texas, plant, which supports all programs within its Missiles and Fire Control business."
       },
       {
-        "title": "Kratos combat drone completes first Euro flight, advances turbojet engine production",
+        "title": "Killer balloons an option as US Army seeks to ‘exploit the stratosphere’",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/kratos-combat-drone-completes-first-euro-flight-advances-turbojet-engine-production/",
-        "summary": "The company said it is positioning itself to support a range of unmanned missions with new aircraft and engine capabilities."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
+        "summary": "While using balloons as shooters likely presents more challenges than using them for sensing, nothing is off the table, an Army official said."
       },
       {
-        "title": "US Army to stand up second expeditionary cyber battalion in coming months",
+        "title": "Ukrainian officials blame Pentagon for withholding life-saving intel from Kyiv",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-to-stand-up-second-expeditionary-cyber-battalion-in-coming-months/",
-        "summary": "The head of U.S. Army Cyber Command said this week that the service would be building an exact replica of the 11th Cyber Battalion in the next few months."
+        "url": "https://www.defensenews.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/",
+        "summary": "The U.S. appears to have stopped sharing some forms of key intelligence with Kyiv, Ukrainian officials said Wednesday."
       }
     ],
     "geo_news": [
       {
-        "title": "İstanbul'da Afet Koordinasyon Toplantısı düzenlendi",
+        "title": "Türk Devletleri Teşkilatı üyeleri medya işbirliğini geliştirmek için toplandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-afet-koordinasyon-toplantisi-duzenlendi/4090350",
-        "summary": "İstanbul Valiliği, kentte etkili olan yağışa karşı yürütülen çalışmalara ilişkin Afet Koordinasyon Toplantısı'nın Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'un başka..."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-devletleri-teskilati-uyeleri-medya-isbirligini-gelistirmek-icin-toplandi/4090752",
+        "summary": "TDT Medya ve Enformasyondan Sorumlu Bakanlar ve Üst Düzey Yetkililer 8. Toplantısı'nda, üye ülkeler arasında medya işbirliğinin geliştirilmesi, dezenformasyonla mücadele ve yapay z..."
       },
       {
-        "title": "Bakan Çiftçi: İstanbul ve Kocaeli’deki yağışlarda 3 kişi hayatını kaybetti, kayıp 6 kişi aranıyor",
+        "title": "Ücretsiz tren seyahatlerinde \"dijital doğrulama\" dönemi 29 Ekim'de başlıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-istanbul-ve-kocaeli-deki-yagislarda-3-kisi-hayatini-kaybetti-kayip-6-kisi-araniyor/4090333",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, İstanbul'da şiddetli yağış sonucu 3 kişinin hayatını kaybettiğini, hakkında kayıp ihbarı yapılan İstanbul'da 5, Kocaeli'de 1 olmak üzere 6 kişi için..."
+        "url": "https://www.aa.com.tr/tr/gundem/ucretsiz-tren-seyahatlerinde-dijital-dogrulama-donemi-29-ekimde-basliyor/4090754",
+        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Uygulama engelli, ağır engelli, gazi, gazi yakını, şehit yakını, vazife malulü ve devlet sporcusu gibi ücretsiz seyahat hakkına sa..."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş, Kanada Avam Meclisi Başkanı Scarpaleggia ile görüştü",
+        "title": "Türkiye'de eylül yağışları geçen yıla göre yüzde 51 arttı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-kanada-avam-meclisi-baskani-scarpaleggia-ile-gorustu/4090267",
-        "summary": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, Avrupa Parlamento Başkanları Konferansı dolayısıyla bulunduğu İtalya'nın başkenti Roma'da, Kanada Avam Meclisi Başkanı Francis..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyede-eylul-yagislari-gecen-yila-gore-yuzde-51-artti/4090679",
+        "summary": "Türkiye genelinde eylülde yağışlar, geçen yılın aynı dönemine göre yüzde 51, uzun yıllar ortalamasına göre ise yüzde 30 arttı."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş, Ürdün Senatosu Başkanı Faisal Al Fayez ile bir araya geldi",
+        "title": "İstanbul sonbaharın ilk iki ayında aldığı yağıştan fazlasını iki günde gördü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-urdun-senatosu-baskani-faisal-al-fayez-ile-bir-araya-geldi/4090161",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, Ürdün Senatosu Başkanı Faisal Al Fayez ile bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-sonbaharin-ilk-iki-ayinda-aldigi-yagistan-fazlasini-iki-gunde-gordu/4090741",
+        "summary": "İstanbul genelinde 13-15 Ekim arasındaki 48 saatte metrekareye düşen yağış miktarı, eylül-ekim aylarının uzun dönem ortalamasını geçti."
       }
     ]
   }
