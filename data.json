@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 09:24:41",
+  "updated_at": "2026-10-16 19:46:18",
   "markets": {
     "usd_try_kapalicarsi": "49.48 TL",
     "eur_try_kapalicarsi": "55.49 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: New human-machine interface will help Boxer punch above its weight",
-    "bullet_1": "New human-machine interface will help Boxer punch above its weight",
-    "bullet_2": "Lockheed invests $300M in Texas plant to feed missile surge",
-    "bullet_3": "Killer balloons an option as US Army seeks to ‘exploit the stratosphere’",
+    "red_alert": "SON DAKİKA: US Army’s 8th Psychological Operations Group inactivated",
+    "bullet_1": "US Army’s 8th Psychological Operations Group inactivated",
+    "bullet_2": "Arizona Guard first to field Gray Eagle 25M drone",
+    "bullet_3": "Order to limit Starshield for Ukraine came from inside White House, sources say",
     "defense_news": [
       {
-        "title": "New human-machine interface will help Boxer punch above its weight",
+        "title": "US Army’s 8th Psychological Operations Group inactivated",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/land/2026/10/14/new-human-machine-interface-will-help-boxer-punch-above-its-weight/",
-        "summary": "An Australian startup has teamed with Rheinmetall to enable soldiers to direct nearby drones with voice commands from aboard Boxer vehicles."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated/",
+        "summary": "The Army's 8th Psychological Operations Group inactivated as the service reshapes its PSYOP and information warfare forces to counter global adversaries."
       },
       {
-        "title": "Lockheed invests $300M in Texas plant to feed missile surge",
+        "title": "Arizona Guard first to field Gray Eagle 25M drone",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge/",
-        "summary": "Lockheed is investing $300 million to expand its Grand Prairie, Texas, plant, which supports all programs within its Missiles and Fire Control business."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/arizona-guard-first-to-field-gray-eagle-25m-drone/",
+        "summary": "The state will receive 12 of the unmanned aircraft systems by the end of 2029."
       },
       {
-        "title": "Killer balloons an option as US Army seeks to ‘exploit the stratosphere’",
+        "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
-        "summary": "While using balloons as shooters likely presents more challenges than using them for sensing, nothing is off the table, an Army official said."
+        "url": "https://www.defensenews.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/",
+        "summary": "The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House."
       },
       {
-        "title": "Ukrainian officials blame Pentagon for withholding life-saving intel from Kyiv",
+        "title": "South Korean lasers down three drones in Army demo, Hanwha says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/",
-        "summary": "The U.S. appears to have stopped sharing some forms of key intelligence with Kyiv, Ukrainian officials said Wednesday."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/south-korean-lasers-down-three-drones-in-army-demo-hanwha-says/",
+        "summary": "Hanwha Systems laser weapons shot down target drones during a South Korean Army demonstration, the company said."
       }
     ],
     "geo_news": [
       {
-        "title": "Türk Devletleri Teşkilatı üyeleri medya işbirliğini geliştirmek için toplandı",
+        "title": "Üsküdar Belediye Başkan Vekili seçimi 20 Ekim'de yapılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-devletleri-teskilati-uyeleri-medya-isbirligini-gelistirmek-icin-toplandi/4090752",
-        "summary": "TDT Medya ve Enformasyondan Sorumlu Bakanlar ve Üst Düzey Yetkililer 8. Toplantısı'nda, üye ülkeler arasında medya işbirliğinin geliştirilmesi, dezenformasyonla mücadele ve yapay z..."
+        "url": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekili-secimi-20-ekimde-yapilacak/4091431",
+        "summary": "İstanbul Valiliği, Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in trafik kazasında hayatını kaybetmesi nedeniyle Belediye Meclisinin yeni başkan vekilinin seçilmesi için 20..."
       },
       {
-        "title": "Ücretsiz tren seyahatlerinde \"dijital doğrulama\" dönemi 29 Ekim'de başlıyor",
+        "title": "TİHEK'ten ilkokul öğrencilerine yönelik \"İnsan Hakları Atölyesi\"",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ucretsiz-tren-seyahatlerinde-dijital-dogrulama-donemi-29-ekimde-basliyor/4090754",
-        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Uygulama engelli, ağır engelli, gazi, gazi yakını, şehit yakını, vazife malulü ve devlet sporcusu gibi ücretsiz seyahat hakkına sa..."
+        "url": "https://www.aa.com.tr/tr/gundem/tihekten-ilkokul-ogrencilerine-yonelik-insan-haklari-atolyesi/4091387",
+        "summary": "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK), insan hakları alanında toplumsal duyarlılığı eğitim yoluyla geliştirmek amacıyla \"İnsan Hakları Atölyesi\" düzenledi."
       },
       {
-        "title": "Türkiye'de eylül yağışları geçen yıla göre yüzde 51 arttı",
+        "title": "ÖSYM, İstanbul'da hafta sonu yapılacak sınavların ertelendiğini duyurdu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyede-eylul-yagislari-gecen-yila-gore-yuzde-51-artti/4090679",
-        "summary": "Türkiye genelinde eylülde yağışlar, geçen yılın aynı dönemine göre yüzde 51, uzun yıllar ortalamasına göre ise yüzde 30 arttı."
+        "url": "https://www.aa.com.tr/tr/gundem/osym-istanbulda-hafta-sonu-yapilacak-sinavlarin-ertelendigini-duyurdu/4091376",
+        "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), İstanbul'da hafta sonu beklenen şiddetli yağış nedeniyle kentte gerçekleştirilecek sınavların ertelendiğini bildirdi."
       },
       {
-        "title": "İstanbul sonbaharın ilk iki ayında aldığı yağıştan fazlasını iki günde gördü",
+        "title": "TBMM Başkanı Kurtulmuş, Roma İslam Merkezi'ni ziyaret etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-sonbaharin-ilk-iki-ayinda-aldigi-yagistan-fazlasini-iki-gunde-gordu/4090741",
-        "summary": "İstanbul genelinde 13-15 Ekim arasındaki 48 saatte metrekareye düşen yağış miktarı, eylül-ekim aylarının uzun dönem ortalamasını geçti."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-roma-islam-merkezini-ziyaret-etti/4091368",
+        "summary": "TBMM Başkanı Numan Kurtulmuş, İtalya programı kapsamında Roma İslam Merkezi'ni ziyaret etti."
       }
     ]
   }
