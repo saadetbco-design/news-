@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-10-16 19:46:18",
+  "updated_at": "2026-10-17 08:56:41",
   "markets": {
-    "usd_try_kapalicarsi": "49.48 TL",
-    "eur_try_kapalicarsi": "55.49 TL",
+    "usd_try_kapalicarsi": "49.52 TL",
+    "eur_try_kapalicarsi": "55.67 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Army’s 8th Psychological Operations Group inactivated",
-    "bullet_1": "US Army’s 8th Psychological Operations Group inactivated",
-    "bullet_2": "Arizona Guard first to field Gray Eagle 25M drone",
-    "bullet_3": "Order to limit Starshield for Ukraine came from inside White House, sources say",
+    "red_alert": "SON DAKİKA: US Special Operations adopts new half-mask and goggles",
+    "bullet_1": "US Special Operations adopts new half-mask and goggles",
+    "bullet_2": "What is Starshield, SpaceX’s military version of Starlink?",
+    "bullet_3": "US Army’s 8th Psychological Operations Group inactivated",
     "defense_news": [
+      {
+        "title": "US Special Operations adopts new half-mask and goggles",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles/",
+        "summary": "Avon Protection's MITR half-mask and goggle system is designed to protect wearers from dangerous chemicals and toxic substances in the atmosphere."
+      },
+      {
+        "title": "What is Starshield, SpaceX’s military version of Starlink?",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink/",
+        "summary": "Ukraine said on Wednesday that SpaceX had restricted “military-grade” Starlink services, hampering Ukrainian drone strike missions and air defenses."
+      },
       {
         "title": "US Army’s 8th Psychological Operations Group inactivated",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/arizona-guard-first-to-field-gray-eagle-25m-drone/",
         "summary": "The state will receive 12 of the unmanned aircraft systems by the end of 2029."
-      },
-      {
-        "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/",
-        "summary": "The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House."
-      },
-      {
-        "title": "South Korean lasers down three drones in Army demo, Hanwha says",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/south-korean-lasers-down-three-drones-in-army-demo-hanwha-says/",
-        "summary": "Hanwha Systems laser weapons shot down target drones during a South Korean Army demonstration, the company said."
       }
     ],
     "geo_news": [
       {
-        "title": "Üsküdar Belediye Başkan Vekili seçimi 20 Ekim'de yapılacak",
+        "title": "Okulların 2027 yılı pansiyon ücretleri belirlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekili-secimi-20-ekimde-yapilacak/4091431",
-        "summary": "İstanbul Valiliği, Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in trafik kazasında hayatını kaybetmesi nedeniyle Belediye Meclisinin yeni başkan vekilinin seçilmesi için 20..."
+        "url": "https://www.aa.com.tr/tr/gundem/okullarin-2027-yili-pansiyon-ucretleri-belirlendi/4091705",
+        "summary": "Milli Eğitim Bakanlığına bağlı eğitim kurumlarının pansiyon ücretleri ilköğretim kurumlarında ve ortaöğretim okullarında 68 bin lira, özel eğitim okullarında 89 bin lira, mesleki v..."
       },
       {
-        "title": "TİHEK'ten ilkokul öğrencilerine yönelik \"İnsan Hakları Atölyesi\"",
+        "title": "İçişleri Bakanı Çiftçi'den sel ve su taşkınlarına ilişkin uyarı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tihekten-ilkokul-ogrencilerine-yonelik-insan-haklari-atolyesi/4091387",
-        "summary": "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK), insan hakları alanında toplumsal duyarlılığı eğitim yoluyla geliştirmek amacıyla \"İnsan Hakları Atölyesi\" düzenledi."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-sel-ve-su-taskinlarina-iliskin-uyari/4091706",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, kuvvetli yağışlar nedeniyle oluşabilecek sel ve su taşkınlarına karşı vatandaşların tedbirli olması ve resmi uyarıları dikkate alması gerektiğini be..."
       },
       {
-        "title": "ÖSYM, İstanbul'da hafta sonu yapılacak sınavların ertelendiğini duyurdu",
+        "title": "Sarıkamış Kayak Merkezi'ndeki kurtarma tatbikatı gerçeğini aratmadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/osym-istanbulda-hafta-sonu-yapilacak-sinavlarin-ertelendigini-duyurdu/4091376",
-        "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), İstanbul'da hafta sonu beklenen şiddetli yağış nedeniyle kentte gerçekleştirilecek sınavların ertelendiğini bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/sarikamis-kayak-merkezindeki-kurtarma-tatbikati-gercegini-aratmadi/4091736",
+        "summary": "Kars'taki Sarıkamış Kayak Merkezi'nde, telesiyejde meydana gelebilecek arızalar ve soğuk hava nedeniyle rahatsızlanan kişilere yönelik yağış altında kurtarma tatbikatı gerçekleştir..."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş, Roma İslam Merkezi'ni ziyaret etti",
+        "title": "Yaz Dönemi Gençlik Kampları'ndan devlet korumasındaki 2 bin 240 çocuk yararlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-roma-islam-merkezini-ziyaret-etti/4091368",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, İtalya programı kapsamında Roma İslam Merkezi'ni ziyaret etti."
+        "url": "https://www.aa.com.tr/tr/gundem/yaz-donemi-genclik-kamplarindan-devlet-korumasindaki-2-bin-240-cocuk-yararlandi/4091727",
+        "summary": "Aile ve Sosyal Hizmetler Bakanlığına bağlı kuruluşlarda koruma ve bakım altında bulunan çocukların psikososyal gelişimine katkıda bulunmak amacıyla düzenlenen \"2026 Yılı Yaz Dönemi..."
       }
     ]
   }
