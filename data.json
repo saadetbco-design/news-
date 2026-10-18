@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 09:15:12",
+  "updated_at": "2026-10-18 19:07:05",
   "markets": {
     "usd_try_kapalicarsi": "49.53 TL",
     "eur_try_kapalicarsi": "55.67 TL",
@@ -9,11 +9,17 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Special Operations adopts new half-mask and goggles",
-    "bullet_1": "US Special Operations adopts new half-mask and goggles",
-    "bullet_2": "What is Starshield, SpaceX’s military version of Starlink?",
-    "bullet_3": "US Army’s 8th Psychological Operations Group inactivated",
+    "red_alert": "SON DAKİKA: US arms firm Anduril could make interceptors in Europe, executive says",
+    "bullet_1": "US arms firm Anduril could make interceptors in Europe, executive says",
+    "bullet_2": "US Special Operations adopts new half-mask and goggles",
+    "bullet_3": "What is Starshield, SpaceX’s military version of Starlink?",
     "defense_news": [
+      {
+        "title": "US arms firm Anduril could make interceptors in Europe, executive says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
+        "summary": "U.S. defense firm Anduril could eventually manufacture its newly unveiled Steelfin interceptor missiles in Europe, a company executive said."
+      },
       {
         "title": "US Special Operations adopts new half-mask and goggles",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated/",
         "summary": "The Army's 8th Psychological Operations Group inactivated as the service reshapes its PSYOP and information warfare forces to counter global adversaries."
-      },
-      {
-        "title": "Arizona Guard first to field Gray Eagle 25M drone",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/arizona-guard-first-to-field-gray-eagle-25m-drone/",
-        "summary": "The state will receive 12 of the unmanned aircraft systems by the end of 2029."
       }
     ],
     "geo_news": [
       {
-        "title": "Kocaeli'de sağanağın ardından bazı bölgelerde tarım arazileri ve yollar su altında kaldı",
+        "title": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden biri hayatını kaybetti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kocaelide-saganagin-ardindan-bazi-bolgelerde-tarim-arazileri-ve-yollar-su-altinda-kaldi/4092451",
-        "summary": "Kocaeli'de gece boyunca etkili olan sağanağın ardından bazı bölgelerde tarım arazileri, yollar ve evlerin bahçeleri suyla doldu."
+        "url": "https://www.aa.com.tr/tr/gundem/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-biri-hayatini-kaybetti/4092865",
+        "summary": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllü grubundan bir kişinin cansız bedenine ulaşıldı. Mahsur kalan 13 kişiyi kurtarma çalışm..."
       },
       {
-        "title": "Dışişleri Bakanlığı, Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yılını kutladı",
+        "title": "Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-azerbaycanin-bagimsizligini-yeniden-kazanmasinin-35-yilini-kutladi/4092462",
-        "summary": "Dışişleri Bakanlığı, Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yıl dönümünü kutladı."
+        "url": "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-olustu/4092757",
+        "summary": "Bulgaristan'ın Kapitan Andrevo Sınır Kapısı'ndaki yenileme çalışmaları nedeniyle Kapıkule'deki yoğunluğun kaydığı Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu."
       },
       {
-        "title": "Uzmanlar, okullarda şiddeti önlemede aile-okul işbirliğinin önemini anlattı",
+        "title": "Türkiye'nin FAO Genel Direktör adayı Eker'den küresel açlıkla mücadelede vurgusu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/uzmanlar-okullarda-siddeti-onlemede-aile-okul-isbirliginin-onemini-anlatti/4092446",
-        "summary": "Uzmanlar, okullarda yaşanan şiddet olaylarının önlenmesinde öğrencilerin davranışlarındaki risk işaretlerinin erken fark edilmesinin ve ebeveynlerle okul yönetimleri arasındaki ile..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyenin-fao-genel-direktor-adayi-ekerden-kuresel-aclikla-mucadelede-vurgusu/4091204",
+        "summary": "Türkiye'nin FAO Genel Direktör adayı Mehdi Eker, Türkiye'nin küresel açlıkla mücadeledeki eksikliklerin giderilmesi için söyleyecek sözünün olduğunu belirtti."
       },
       {
-        "title": "Emniyet ve jandarma ekipleri geçmiş yıllara ait 60 cinayeti aydınlattı",
+        "title": "Erzincan-Erzurum kara yolundaki heyelan ve ekiplerin çalışması dronla görüntülendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/emniyet-ve-jandarma-ekipleri-gecmis-yillara-ait-60-cinayeti-aydinlatti/4092434",
-        "summary": "Emniyet ve jandarma ekiplerinin çalışmalarıyla bu sene geçmiş yıllara ait 60 cinayet aydınlatıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/erzincan-erzurum-kara-yolundaki-heyelan-ve-ekiplerin-calismasi-dronla-goruntulendi/4092716",
+        "summary": "Erzincan-Erzurum kara yolundaki heyelanın büyüklüğü ve ekiplerin heyelan nedeniyle kapanan yolun bir şeridini ulaşıma açmak için yürüttüğü çalışmalar dronla görüntülendi."
       }
     ]
   }
