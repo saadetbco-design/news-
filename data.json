@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17 18:57:24",
+  "updated_at": "2026-10-18 09:15:12",
   "markets": {
-    "usd_try_kapalicarsi": "49.52 TL",
+    "usd_try_kapalicarsi": "49.53 TL",
     "eur_try_kapalicarsi": "55.67 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan, vefatının 8. yılında Ara Güler'i andı",
+        "title": "Kocaeli'de sağanağın ardından bazı bölgelerde tarım arazileri ve yollar su altında kaldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-vefatinin-8-yilinda-ara-guleri-andi/4092207",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, duayen foto muhabiri Ara Güler'i vefatının 8'inci yılında yad etti."
+        "url": "https://www.aa.com.tr/tr/gundem/kocaelide-saganagin-ardindan-bazi-bolgelerde-tarim-arazileri-ve-yollar-su-altinda-kaldi/4092451",
+        "summary": "Kocaeli'de gece boyunca etkili olan sağanağın ardından bazı bölgelerde tarım arazileri, yollar ve evlerin bahçeleri suyla doldu."
       },
       {
-        "title": "İstanbul'da bazı yollar yarın trafiğe kapatılacak",
+        "title": "Dışişleri Bakanlığı, Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yılını kutladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-bazi-yollar-yarin-trafige-kapatilacak/4092198",
-        "summary": "İstanbul'da düzenlenecek etkinlikler kapsamında yarın bazı yolların trafiğe kapatılacağı duyuruldu."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-azerbaycanin-bagimsizligini-yeniden-kazanmasinin-35-yilini-kutladi/4092462",
+        "summary": "Dışişleri Bakanlığı, Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yıl dönümünü kutladı."
       },
       {
-        "title": "Bakan Çiftçi:  İnşallah Terörsüz Türkiye, terörsüz bölge, bu süreç başarıya ulaşacak",
+        "title": "Uzmanlar, okullarda şiddeti önlemede aile-okul işbirliğinin önemini anlattı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-insallah-terorsuz-turkiye-terorsuz-bolge-bu-surec-basariya-ulasacak/4092171",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"İnşallah Terörsüz Türkiye, terörsüz bölge, bu süreç başarıya ulaşacak. Ben bundan en ufak bir endişe ve şüphe duymuyorum.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/uzmanlar-okullarda-siddeti-onlemede-aile-okul-isbirliginin-onemini-anlatti/4092446",
+        "summary": "Uzmanlar, okullarda yaşanan şiddet olaylarının önlenmesinde öğrencilerin davranışlarındaki risk işaretlerinin erken fark edilmesinin ve ebeveynlerle okul yönetimleri arasındaki ile..."
       },
       {
-        "title": "Dışişleri Bakanı Fidan: Sayın Zeydi'nin Türkiye ile ilişkileri ileri taşımada çok ciddi bir vizyonu var",
+        "title": "Emniyet ve jandarma ekipleri geçmiş yıllara ait 60 cinayeti aydınlattı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-sayin-zeydinin-turkiye-ile-iliskileri-ileri-tasimada-cok-ciddi-bir-vizyonu-var/4092197",
-        "summary": "Dışişleri Bakanı Fidan, İİT 52. Dışişleri Bakanları Konseyi Toplantısı marjında Irak Başbakanı Zeydi ile bir araya geldiğini belirterek, \"Sayın Zeydi'nin gerçekten Türkiye ile iliş..."
+        "url": "https://www.aa.com.tr/tr/gundem/emniyet-ve-jandarma-ekipleri-gecmis-yillara-ait-60-cinayeti-aydinlatti/4092434",
+        "summary": "Emniyet ve jandarma ekiplerinin çalışmalarıyla bu sene geçmiş yıllara ait 60 cinayet aydınlatıldı."
       }
     ]
   }
