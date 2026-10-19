@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-10-18 19:07:05",
+  "updated_at": "2026-10-19 10:25:06",
   "markets": {
-    "usd_try_kapalicarsi": "49.53 TL",
-    "eur_try_kapalicarsi": "55.67 TL",
+    "usd_try_kapalicarsi": "49.54 TL",
+    "eur_try_kapalicarsi": "55.61 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US arms firm Anduril could make interceptors in Europe, executive says",
-    "bullet_1": "US arms firm Anduril could make interceptors in Europe, executive says",
-    "bullet_2": "US Special Operations adopts new half-mask and goggles",
-    "bullet_3": "What is Starshield, SpaceX’s military version of Starlink?",
+    "red_alert": "SON DAKİKA: A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
+    "bullet_1": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
+    "bullet_2": "US Army fields new system for sweeping munitions planning, management",
+    "bullet_3": "US arms firm Anduril could make interceptors in Europe, executive says",
     "defense_news": [
+      {
+        "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
+        "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve."
+      },
+      {
+        "title": "US Army fields new system for sweeping munitions planning, management",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
+        "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30."
+      },
       {
         "title": "US arms firm Anduril could make interceptors in Europe, executive says",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles/",
         "summary": "Avon Protection's MITR half-mask and goggle system is designed to protect wearers from dangerous chemicals and toxic substances in the atmosphere."
-      },
-      {
-        "title": "What is Starshield, SpaceX’s military version of Starlink?",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink/",
-        "summary": "Ukraine said on Wednesday that SpaceX had restricted “military-grade” Starlink services, hampering Ukrainian drone strike missions and air defenses."
-      },
-      {
-        "title": "US Army’s 8th Psychological Operations Group inactivated",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated/",
-        "summary": "The Army's 8th Psychological Operations Group inactivated as the service reshapes its PSYOP and information warfare forces to counter global adversaries."
       }
     ],
     "geo_news": [
       {
-        "title": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden biri hayatını kaybetti",
+        "title": "Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı yarın Brüksel'de yapılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-biri-hayatini-kaybetti/4092865",
-        "summary": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan 14 kişilik İHH gönüllü grubundan bir kişinin cansız bedenine ulaşıldı. Mahsur kalan 13 kişiyi kurtarma çalışm..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisi-yarin-brukselde-yapilacak/4093273",
+        "summary": "\"Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı\", Dışişleri Bakanı Hakan Fidan, İçişleri Bakanı Mustafa Çiftçi ve Adalet Bakanı Akın Gürlek'in katılımıyla ya..."
       },
       {
-        "title": "Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu",
+        "title": "Bakan Uraloğlu: Kalkınma Yolu Projesi'nin 10 yıllık periyotta ekonomiye 55 milyar dolarlık katkı sağlamasını bekliyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-olustu/4092757",
-        "summary": "Bulgaristan'ın Kapitan Andrevo Sınır Kapısı'ndaki yenileme çalışmaları nedeniyle Kapıkule'deki yoğunluğun kaydığı Hamzabeyli Sınır Kapısı'nda 27 kilometrelik tır kuyruğu oluştu."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-kalkinma-yolu-projesinin-10-yillik-periyotta-ekonomiye-55-milyar-dolarlik-katki-saglamasini-bekliyoruz/4093265",
+        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Kalkınma Yolu Projesi'nin 10 yıllık periyotta ekonomiye yaklaşık 55 milyar dolarlık katkı sağlamasının ve her yıl ortalama 70 bin v..."
       },
       {
-        "title": "Türkiye'nin FAO Genel Direktör adayı Eker'den küresel açlıkla mücadelede vurgusu",
+        "title": "İletişim Başkanı Duran, Aliya İzetbegoviç'i andı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyenin-fao-genel-direktor-adayi-ekerden-kuresel-aclikla-mucadelede-vurgusu/4091204",
-        "summary": "Türkiye'nin FAO Genel Direktör adayı Mehdi Eker, Türkiye'nin küresel açlıkla mücadeledeki eksikliklerin giderilmesi için söyleyecek sözünün olduğunu belirtti."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-aliya-izetbegovici-andi/4093213",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Bosna Hersek'in ilk Cumhurbaşkanı Aliya İzetbegoviç'i anma mesajı yayımladı."
       },
       {
-        "title": "Erzincan-Erzurum kara yolundaki heyelan ve ekiplerin çalışması dronla görüntülendi",
+        "title": "İstanbul'da bu yıl 125 bin kişiye meme kanseri taraması yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/erzincan-erzurum-kara-yolundaki-heyelan-ve-ekiplerin-calismasi-dronla-goruntulendi/4092716",
-        "summary": "Erzincan-Erzurum kara yolundaki heyelanın büyüklüğü ve ekiplerin heyelan nedeniyle kapanan yolun bir şeridini ulaşıma açmak için yürüttüğü çalışmalar dronla görüntülendi."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-bu-yil-125-bin-kisiye-meme-kanseri-taramasi-yapildi/4093109",
+        "summary": "İstanbul İl Sağlık Müdürü Abdullah Emre Güner, bu yıl 125 bin kişiye tarama yaptıklarını, riskli bulunan 8 bin kişiden 500'üne herhangi bir şikayeti bulunmadığı halde meme kanseri ..."
       }
     ]
   }
