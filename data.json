@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 10:25:06",
+  "updated_at": "2026-10-19 21:18:34",
   "markets": {
     "usd_try_kapalicarsi": "49.54 TL",
     "eur_try_kapalicarsi": "55.61 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
-    "bullet_1": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
-    "bullet_2": "US Army fields new system for sweeping munitions planning, management",
-    "bullet_3": "US arms firm Anduril could make interceptors in Europe, executive says",
+    "red_alert": "SON DAKİKA: Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+    "bullet_1": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+    "bullet_2": "US Army competition explores military uses for humanoid robots",
+    "bullet_3": "Shield AI software cuts autonomous flight development to six weeks",
     "defense_news": [
       {
-        "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
+        "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
-        "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve."
+        "url": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
+        "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year."
       },
       {
-        "title": "US Army fields new system for sweeping munitions planning, management",
+        "title": "US Army competition explores military uses for humanoid robots",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
-        "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
+        "summary": "They're still a long way off from mass-producing Terminators."
       },
       {
-        "title": "US arms firm Anduril could make interceptors in Europe, executive says",
+        "title": "Shield AI software cuts autonomous flight development to six weeks",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
-        "summary": "U.S. defense firm Anduril could eventually manufacture its newly unveiled Steelfin interceptor missiles in Europe, a company executive said."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks/",
+        "summary": "Shield AI said this week that its Hivemind software helped Honeywell Aerospace achieve autonomous flight after six weeks, down from 54 weeks."
       },
       {
-        "title": "US Special Operations adopts new half-mask and goggles",
+        "title": "Groups seek clarity on motive behind Pentagon’s study of women in combat",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles/",
-        "summary": "Avon Protection's MITR half-mask and goggle system is designed to protect wearers from dangerous chemicals and toxic substances in the atmosphere."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
+        "summary": "Citing concerns about Hegseth’s views on the topic, the lawsuit asks for records showing the scope, purpose, methodology and anticipated use of the study."
       }
     ],
     "geo_news": [
       {
-        "title": "Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı yarın Brüksel'de yapılacak",
+        "title": "TCG Anadolu, Arnavutluk'ta Neptune Strike 2026 tatbikatına katıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisi-yarin-brukselde-yapilacak/4093273",
-        "summary": "\"Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı\", Dışişleri Bakanı Hakan Fidan, İçişleri Bakanı Mustafa Çiftçi ve Adalet Bakanı Akın Gürlek'in katılımıyla ya..."
+        "url": "https://www.aa.com.tr/tr/gundem/tcg-anadolu-arnavutlukta-neptune-strike-2026-tatbikatina-katildi/4093853",
+        "summary": "Çok maksatlı amfibi hücum gemisi TCG Anadolu, NATO'nun Neptune Strike 2026 tatbikatının dördüncü ve son aşaması kapsamında Arnavutluk'ta düzenlenen tatbikata katıldı."
       },
       {
-        "title": "Bakan Uraloğlu: Kalkınma Yolu Projesi'nin 10 yıllık periyotta ekonomiye 55 milyar dolarlık katkı sağlamasını bekliyoruz",
+        "title": "Dışişleri Bakanı Fidan, Belçikalı mevkidaşı Prevot ile Brüksel'de görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-uraloglu-kalkinma-yolu-projesinin-10-yillik-periyotta-ekonomiye-55-milyar-dolarlik-katki-saglamasini-bekliyoruz/4093265",
-        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Kalkınma Yolu Projesi'nin 10 yıllık periyotta ekonomiye yaklaşık 55 milyar dolarlık katkı sağlamasının ve her yıl ortalama 70 bin v..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-belcikali-mevkidasi-prevot-ile-brukselde-gorustu/4093844",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Belçika'nın başkenti Brüksel'de Belçika Başbakan Yardımcısı ve Dışişleri Bakanı Maxime Prevot ile görüştü."
       },
       {
-        "title": "İletişim Başkanı Duran, Aliya İzetbegoviç'i andı",
+        "title": "TBMM Başkanı Kurtulmuş, Türkiye'nin Bişkek Büyükelçiliğini ziyaret etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-aliya-izetbegovici-andi/4093213",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Bosna Hersek'in ilk Cumhurbaşkanı Aliya İzetbegoviç'i anma mesajı yayımladı."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-turkiyenin-biskek-buyukelciligini-ziyaret-etti/4093810",
+        "summary": "TBMM Başkanı Numan Kurtulmuş, Kırgızistan'daki resmi ziyareti kapsamında Türkiye'nin Bişkek Büyükelçiliğini ziyaret etti."
       },
       {
-        "title": "İstanbul'da bu yıl 125 bin kişiye meme kanseri taraması yapıldı",
+        "title": "TDT Aksakallar Konseyi Başkanı Yıldırım: Küresel çocuk eğitim fonu kuralım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-bu-yil-125-bin-kisiye-meme-kanseri-taramasi-yapildi/4093109",
-        "summary": "İstanbul İl Sağlık Müdürü Abdullah Emre Güner, bu yıl 125 bin kişiye tarama yaptıklarını, riskli bulunan 8 bin kişiden 500'üne herhangi bir şikayeti bulunmadığı halde meme kanseri ..."
+        "url": "https://www.aa.com.tr/tr/gundem/tdt-aksakallar-konseyi-baskani-yildirim-kuresel-cocuk-egitim-fonu-kuralim/4093828",
+        "summary": "TDT Aksakallar Konseyi Başkanı Yıldırım, orta ve düşük gelirli ülkelerin 2030 eğitim hedefleri için yıllık 100 milyar dolarlık kaynağa ihtiyaç duyduğunu belirterek milli geliri yük..."
       }
     ]
   }
