@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-10-19 21:18:34",
+  "updated_at": "2026-10-20 09:44:18",
   "markets": {
-    "usd_try_kapalicarsi": "49.54 TL",
-    "eur_try_kapalicarsi": "55.61 TL",
+    "usd_try_kapalicarsi": "49.58 TL",
+    "eur_try_kapalicarsi": "55.62 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
-    "bullet_1": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
-    "bullet_2": "US Army competition explores military uses for humanoid robots",
-    "bullet_3": "Shield AI software cuts autonomous flight development to six weeks",
+    "red_alert": "SON DAKİKA: Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+    "bullet_1": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+    "bullet_2": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+    "bullet_3": "US Army competition explores military uses for humanoid robots",
     "defense_news": [
+      {
+        "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture/",
+        "summary": "Understanding these dynamics, American leaders should recalibrate and opt to rely less on forward defense, writes analyst Lyle Goldstein."
+      },
       {
         "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks/",
         "summary": "Shield AI said this week that its Hivemind software helped Honeywell Aerospace achieve autonomous flight after six weeks, down from 54 weeks."
-      },
-      {
-        "title": "Groups seek clarity on motive behind Pentagon’s study of women in combat",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
-        "summary": "Citing concerns about Hegseth’s views on the topic, the lawsuit asks for records showing the scope, purpose, methodology and anticipated use of the study."
       }
     ],
     "geo_news": [
       {
-        "title": "TCG Anadolu, Arnavutluk'ta Neptune Strike 2026 tatbikatına katıldı",
+        "title": "TBMM Başkanı Kurtulmuş: Tüm insanlığın kurtuluşu, adil bir dünya sisteminin kurulmasından geçiyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tcg-anadolu-arnavutlukta-neptune-strike-2026-tatbikatina-katildi/4093853",
-        "summary": "Çok maksatlı amfibi hücum gemisi TCG Anadolu, NATO'nun Neptune Strike 2026 tatbikatının dördüncü ve son aşaması kapsamında Arnavutluk'ta düzenlenen tatbikata katıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-tum-insanligin-kurtulusu-adil-bir-dunya-sisteminin-kurulmasindan-geciyor/4094379",
+        "summary": "TBMM Başkanı Kurtulmuş, haksızlık, çifte standart, savaş ve insanlık suçları, çatışma, gerilim ve yoksullukların sona ermesi için adil ve hakkaniyetli bir dünya sisteminin kurulmas..."
       },
       {
-        "title": "Dışişleri Bakanı Fidan, Belçikalı mevkidaşı Prevot ile Brüksel'de görüştü",
+        "title": "Üsküdar Belediye Başkan Vekilliğine AK Partili Sarıoğlu seçildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-belcikali-mevkidasi-prevot-ile-brukselde-gorustu/4093844",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Belçika'nın başkenti Brüksel'de Belçika Başbakan Yardımcısı ve Dışişleri Bakanı Maxime Prevot ile görüştü."
+        "url": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekilligine-ak-partili-sarioglu-secildi/4094324",
+        "summary": "Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in vefatı nedeniyle Belediye Meclisinde yapılan seçimin 3. turunda 24 oyun tamamını alan AK Parti'li Meclis Üyesi Muhammed Emin ..."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş, Türkiye'nin Bişkek Büyükelçiliğini ziyaret etti",
+        "title": "Selden etkilenen Ayazağa'da ıslah çalışmaları sürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-turkiyenin-biskek-buyukelciligini-ziyaret-etti/4093810",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, Kırgızistan'daki resmi ziyareti kapsamında Türkiye'nin Bişkek Büyükelçiliğini ziyaret etti."
+        "url": "https://www.aa.com.tr/tr/gundem/selden-etkilenen-ayazagada-islah-calismalari-suruyor/4094312",
+        "summary": "Sarıyer ilçesinde selden etkilenen Ayazağa Mahallesi'nde dere yatağındaki bazı yapıların yıkılmasının ardından bölgede ıslah çalışmaları devam ediyor."
       },
       {
-        "title": "TDT Aksakallar Konseyi Başkanı Yıldırım: Küresel çocuk eğitim fonu kuralım",
+        "title": "Siber Güvenlik Başkanı Önal: Geleceğin güçlü devletleri teknolojiyi kendi iradesiyle yönetebilenler olacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tdt-aksakallar-konseyi-baskani-yildirim-kuresel-cocuk-egitim-fonu-kuralim/4093828",
-        "summary": "TDT Aksakallar Konseyi Başkanı Yıldırım, orta ve düşük gelirli ülkelerin 2030 eğitim hedefleri için yıllık 100 milyar dolarlık kaynağa ihtiyaç duyduğunu belirterek milli geliri yük..."
+        "url": "https://www.aa.com.tr/tr/gundem/siber-guvenlik-baskani-onal-gelecegin-guclu-devletleri-teknolojiyi-kendi-iradesiyle-yonetebilenler-olacak/4094347",
+        "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanı Ümit Önal, \"Geleceğin güçlü devletleri, teknolojiyi kendi iradesiyle yönetebilen, krizler karşısında ayakta durabilen ve dijital dünyada kar..."
       }
     ]
   }
