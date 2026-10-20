@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 09:44:18",
+  "updated_at": "2026-10-20 20:14:10",
   "markets": {
     "usd_try_kapalicarsi": "49.58 TL",
     "eur_try_kapalicarsi": "55.62 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
-    "bullet_1": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
-    "bullet_2": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
-    "bullet_3": "US Army competition explores military uses for humanoid robots",
+    "red_alert": "SON DAKİKA: Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
+    "bullet_1": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
+    "bullet_2": "US Army support for Golden Dome missile shield takes shape",
+    "bullet_3": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
     "defense_news": [
       {
-        "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+        "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture/",
-        "summary": "Understanding these dynamics, American leaders should recalibrate and opt to rely less on forward defense, writes analyst Lyle Goldstein."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor/",
+        "summary": "Medal of Honor recipient Dakota Meyer was selected as Secretary Hegseth's senior advisor and will visit military installations across the country."
       },
       {
-        "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+        "title": "US Army support for Golden Dome missile shield takes shape",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
-        "summary": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year."
+        "url": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
+        "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed."
       },
       {
-        "title": "US Army competition explores military uses for humanoid robots",
+        "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
-        "summary": "They're still a long way off from mass-producing Terminators."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
+        "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft."
       },
       {
-        "title": "Shield AI software cuts autonomous flight development to six weeks",
+        "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks/",
-        "summary": "Shield AI said this week that its Hivemind software helped Honeywell Aerospace achieve autonomous flight after six weeks, down from 54 weeks."
+        "url": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
+        "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says."
       }
     ],
     "geo_news": [
       {
-        "title": "TBMM Başkanı Kurtulmuş: Tüm insanlığın kurtuluşu, adil bir dünya sisteminin kurulmasından geçiyor",
+        "title": "Dışişleri Bakanı Fidan, Libyalı yetkililer Dibeybe ve Hafter ile telefonda görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-tum-insanligin-kurtulusu-adil-bir-dunya-sisteminin-kurulmasindan-geciyor/4094379",
-        "summary": "TBMM Başkanı Kurtulmuş, haksızlık, çifte standart, savaş ve insanlık suçları, çatışma, gerilim ve yoksullukların sona ermesi için adil ve hakkaniyetli bir dünya sisteminin kurulmas..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-libyali-yetkililer-dibeybe-ve-hafter-ile-telefonda-gorustu/4095072",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibeybe ve Libya Ulusal Ordusu Genel Komutan Yardımcısı Saddam Hafter ile telefonda görüştü."
       },
       {
-        "title": "Üsküdar Belediye Başkan Vekilliğine AK Partili Sarıoğlu seçildi",
+        "title": "Ankara'da belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu 24 kişi yaralandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekilligine-ak-partili-sarioglu-secildi/4094324",
-        "summary": "Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in vefatı nedeniyle Belediye Meclisinde yapılan seçimin 3. turunda 24 oyun tamamını alan AK Parti'li Meclis Üyesi Muhammed Emin ..."
+        "url": "https://www.aa.com.tr/tr/gundem/ankarada-belediye-otobusunun-yaya-ust-gecidinin-ayagina-carpmasi-sonucu-24-kisi-yaralandi/4095054",
+        "summary": "Ankara'nın Etimesgut ilçesinde belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı."
       },
       {
-        "title": "Selden etkilenen Ayazağa'da ıslah çalışmaları sürüyor",
+        "title": "Bakan Gürlek, Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı'na katıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/selden-etkilenen-ayazagada-islah-calismalari-suruyor/4094312",
-        "summary": "Sarıyer ilçesinde selden etkilenen Ayazağa Mahallesi'nde dere yatağındaki bazı yapıların yıkılmasının ardından bölgede ıslah çalışmaları devam ediyor."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisina-katildi/4095014",
+        "summary": "Adalet Bakanı Akın Gürlek, \"Müttefik ülke Belçika'nın özellikle FETÖ'nün kendi ülkesindeki yapılanmasına karşı somut ve etkili tedbirler almasını bekliyoruz.\" ifadesini kullandı."
       },
       {
-        "title": "Siber Güvenlik Başkanı Önal: Geleceğin güçlü devletleri teknolojiyi kendi iradesiyle yönetebilenler olacak",
+        "title": "İzmir'de polisin şehit olduğu saldırıya ilişkin davada karar",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/siber-guvenlik-baskani-onal-gelecegin-guclu-devletleri-teknolojiyi-kendi-iradesiyle-yonetebilenler-olacak/4094347",
-        "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanı Ümit Önal, \"Geleceğin güçlü devletleri, teknolojiyi kendi iradesiyle yönetebilen, krizler karşısında ayakta durabilen ve dijital dünyada kar..."
+        "url": "https://www.aa.com.tr/tr/gundem/izmirde-polisin-sehit-oldugu-saldiriya-iliskin-davada-karar/4095008",
+        "summary": "İzmir'in Seferihisar ilçesinde 20 Kasım 2024'te 1 polisin şehit olduğu, 2 polisin yaralandığı silahlı saldırıya ilişkin davada, 2 sanık ağırlaştırılmış müebbet ve 2 polisi yaralama..."
       }
     ]
   }
