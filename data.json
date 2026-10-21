@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 09:45:30",
+  "updated_at": "2026-10-21 20:25:02",
   "markets": {
     "usd_try_kapalicarsi": "49.60 TL",
     "eur_try_kapalicarsi": "55.68 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
-    "bullet_1": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
-    "bullet_2": "US Army support for Golden Dome missile shield takes shape",
-    "bullet_3": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
+    "red_alert": "SON DAKİKA: US Air Force outlines the fighter fleet it needs by 2035",
+    "bullet_1": "US Air Force outlines the fighter fleet it needs by 2035",
+    "bullet_2": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+    "bullet_3": "Got milk? US Army refines its pasteurization power",
     "defense_news": [
       {
-        "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
+        "title": "US Air Force outlines the fighter fleet it needs by 2035",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor/",
-        "summary": "Medal of Honor recipient Dakota Meyer was selected as Secretary Hegseth's senior advisor and will visit military installations across the country."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
+        "summary": "A new Air Force report calls for 1,509 combat-coded fighters by 2035, with F-35s making up 40% of the fleet and F-47s replacing F-22s."
       },
       {
-        "title": "US Army support for Golden Dome missile shield takes shape",
+        "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
-        "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+        "summary": "The Pentagon office tapped in 2022 to oversee the military’s responsible use of AI had filled just three of 10 authorized positions as of February 2026."
       },
       {
-        "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
+        "title": "Got milk? US Army refines its pasteurization power",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
-        "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
+        "summary": "Thirteen U.S. Army Veterinary Corps officers milked a trip to Denmark last month, completing Europe Dairy Pasteurization Audit Training."
       },
       {
-        "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
+        "title": "German military raises sabotage threat level amid warning of Russian attacks: report",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
-        "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says."
+        "url": "https://www.defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report/",
+        "summary": "German forces themselves could face attacks at home, according to a classified internal analysis reported by public broadcaster WDR and newspaper SZ."
       }
     ],
     "geo_news": [
       {
-        "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+        "title": "Türkiye ile İran arasında sınır güvenliği toplantısı yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4095262",
-        "summary": "Cumhurbaşkanı Erdoğan, AK Parti TBMM Grup Toplantısı'nda konuşuyor."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-ile-iran-arasinda-sinir-guvenligi-toplantisi-yapildi/4096476",
+        "summary": "Türkiye ile İran arasında, sınır güvenliğine ilişkin konuların ele alındığı Mutat Toplantı, İran'ın Maku kentinde gerçekleştirildi."
       },
       {
-        "title": "Milli Savunma Bakanı Güler, Katarlı mevkidaşı Al Sani ile görüştü",
+        "title": "İstanbul'da kara para aklama soruşturmasında gözaltına alınan Emir Sarıgül tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-katarli-mevkidasi-al-sani-ile-gorustu/4095482",
-        "summary": "Milli Savunma Bakanı Yaşar Güler, Katar Başbakan Yardımcısı ve Savunma Bakanı Suud bin Abdurrahman Al Sani ile bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-kara-para-aklama-sorusturmasinda-gozaltina-alinan-emir-sarigul-tutuklandi/4096473",
+        "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına..."
       },
       {
-        "title": "Bakan Gürlek: İsrailli yasa dışı yerleşimcilerin vandallıklarına 'Dur' diyen küresel adalet sistemine ihtiyacımız var",
+        "title": "Cumhurbaşkanı Erdoğan, Bulgaristan Başbakanı Radev ile telefonda görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-israilli-yasa-disi-yerlesimcilerin-vandalliklarina-dur-diyen-kuresel-adalet-sistemine-ihtiyacimiz-var/4095360",
-        "summary": "Bakan Gürlek, \"OECD ülkelerinin, Gazze'de yerinden edilen 1,5 milyon insanın haklarını savunmak için en gür sesle haykırması gerekmekte. İsrailli yasa dışı yerleşimcilerin vandallı..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bulgaristan-basbakani-radev-ile-telefonda-gorustu/4096345",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bulgaristan Başbakanı Rumen Radev ile telefon görüşmesi gerçekleştirdi."
       },
       {
-        "title": "MSB personeline patentli buluşları için kıdemli albay aylığının 14 katına kadar ödül",
+        "title": "Adalet Bakanı Gürlek'ten sermaye piyasalarındaki manipülatif işlemlere ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/msb-personeline-patentli-buluslari-icin-kidemli-albay-ayliginin-14-katina-kadar-odul/4095467",
-        "summary": "Milli Savunma Bakanlığı (MSB) personeline, Türk Silahlı Kuvvetleri (TSK) ihtiyaçlarına yönelik geliştirdikleri ürün ve projelere patent alınması durumunda, kıdemli albay aylığının ..."
+        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-sermaye-piyasalarindaki-manipulatif-islemlere-iliskin-aciklama/4096253",
+        "summary": "Bakan Gürlek, sermaye piyasalarındaki manipülatif işlemlere dair soruşturmalarda 404 kişi hakkında adli işlem yapıldığını, 88 şüphelinin tutuklandığını, 26 şüphelinin gözaltına alı..."
       }
     ]
   }
