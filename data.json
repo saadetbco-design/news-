@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-20 20:14:10",
+  "updated_at": "2026-10-21 09:45:30",
   "markets": {
-    "usd_try_kapalicarsi": "49.58 TL",
-    "eur_try_kapalicarsi": "55.62 TL",
+    "usd_try_kapalicarsi": "49.60 TL",
+    "eur_try_kapalicarsi": "55.68 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Dışişleri Bakanı Fidan, Libyalı yetkililer Dibeybe ve Hafter ile telefonda görüştü",
+        "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-libyali-yetkililer-dibeybe-ve-hafter-ile-telefonda-gorustu/4095072",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibeybe ve Libya Ulusal Ordusu Genel Komutan Yardımcısı Saddam Hafter ile telefonda görüştü."
+        "url": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4095262",
+        "summary": "Cumhurbaşkanı Erdoğan, AK Parti TBMM Grup Toplantısı'nda konuşuyor."
       },
       {
-        "title": "Ankara'da belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu 24 kişi yaralandı",
+        "title": "Milli Savunma Bakanı Güler, Katarlı mevkidaşı Al Sani ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ankarada-belediye-otobusunun-yaya-ust-gecidinin-ayagina-carpmasi-sonucu-24-kisi-yaralandi/4095054",
-        "summary": "Ankara'nın Etimesgut ilçesinde belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-katarli-mevkidasi-al-sani-ile-gorustu/4095482",
+        "summary": "Milli Savunma Bakanı Yaşar Güler, Katar Başbakan Yardımcısı ve Savunma Bakanı Suud bin Abdurrahman Al Sani ile bir araya geldi."
       },
       {
-        "title": "Bakan Gürlek, Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı'na katıldı",
+        "title": "Bakan Gürlek: İsrailli yasa dışı yerleşimcilerin vandallıklarına 'Dur' diyen küresel adalet sistemine ihtiyacımız var",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisina-katildi/4095014",
-        "summary": "Adalet Bakanı Akın Gürlek, \"Müttefik ülke Belçika'nın özellikle FETÖ'nün kendi ülkesindeki yapılanmasına karşı somut ve etkili tedbirler almasını bekliyoruz.\" ifadesini kullandı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-israilli-yasa-disi-yerlesimcilerin-vandalliklarina-dur-diyen-kuresel-adalet-sistemine-ihtiyacimiz-var/4095360",
+        "summary": "Bakan Gürlek, \"OECD ülkelerinin, Gazze'de yerinden edilen 1,5 milyon insanın haklarını savunmak için en gür sesle haykırması gerekmekte. İsrailli yasa dışı yerleşimcilerin vandallı..."
       },
       {
-        "title": "İzmir'de polisin şehit olduğu saldırıya ilişkin davada karar",
+        "title": "MSB personeline patentli buluşları için kıdemli albay aylığının 14 katına kadar ödül",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/izmirde-polisin-sehit-oldugu-saldiriya-iliskin-davada-karar/4095008",
-        "summary": "İzmir'in Seferihisar ilçesinde 20 Kasım 2024'te 1 polisin şehit olduğu, 2 polisin yaralandığı silahlı saldırıya ilişkin davada, 2 sanık ağırlaştırılmış müebbet ve 2 polisi yaralama..."
+        "url": "https://www.aa.com.tr/tr/gundem/msb-personeline-patentli-buluslari-icin-kidemli-albay-ayliginin-14-katina-kadar-odul/4095467",
+        "summary": "Milli Savunma Bakanlığı (MSB) personeline, Türk Silahlı Kuvvetleri (TSK) ihtiyaçlarına yönelik geliştirdikleri ürün ve projelere patent alınması durumunda, kıdemli albay aylığının ..."
       }
     ]
   }
