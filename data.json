@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 09:45:10",
+  "updated_at": "2026-10-22 20:21:23",
   "markets": {
     "usd_try_kapalicarsi": "49.64 TL",
     "eur_try_kapalicarsi": "55.76 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Ukraine to be able to buy military supplies via NATO agency: report",
-    "bullet_1": "Ukraine to be able to buy military supplies via NATO agency: report",
-    "bullet_2": "US Air Force outlines the fighter fleet it needs by 2035",
-    "bullet_3": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+    "red_alert": "SON DAKİKA: US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+    "bullet_1": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+    "bullet_2": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
+    "bullet_3": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
     "defense_news": [
       {
-        "title": "Ukraine to be able to buy military supplies via NATO agency: report",
+        "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
-        "summary": "The deal comes amid worsening U.S.-Ukraine relations since U.S. President Trump announced a diesel export deal with Russia this month to lower U.S. prices."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
+        "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand."
       },
       {
-        "title": "US Air Force outlines the fighter fleet it needs by 2035",
+        "title": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
-        "summary": "A new Air Force report calls for 1,509 combat-coded fighters by 2035, with F-35s making up 40% of the fleet and F-47s replacing F-22s."
+        "url": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/",
+        "summary": "Copenhagen wants to acquire the capability to strike back at enemies attacking first, hoping for a deterrent effect."
       },
       {
-        "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+        "title": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
-        "summary": "The Pentagon office tapped in 2022 to oversee the military’s responsible use of AI had filled just three of 10 authorized positions as of February 2026."
+        "url": "https://www.defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison/",
+        "summary": "Stephen Hubbard, a retired teacher and U.S. Air Force veteran, was released from Russian custody on Wednesday after spending over four years in prison."
       },
       {
-        "title": "Got milk? US Army refines its pasteurization power",
+        "title": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
-        "summary": "Thirteen U.S. Army Veterinary Corps officers milked a trip to Denmark last month, completing Europe Dairy Pasteurization Audit Training."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
+        "summary": "The decade-long framework guarantees at least 850 F-35 Lightning II fighters for the U.S. military, pending congressional approval and funding."
       }
     ],
     "geo_news": [
       {
-        "title": "Şehit annelerinin ve eşlerinin ördüğü battaniyeler devlet korumasındaki bebeklere sarıldı",
+        "title": "Vakıflar Genel Müdürlüğünün yükseköğrenim burs başvuruları başladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sehit-annelerinin-ve-eslerinin-ordugu-battaniyeler-devlet-korumasindaki-bebeklere-sarildi/4096938",
-        "summary": "Evlat acısı yaşayan şehit anneleri ile eşlerinin ellerinden çıkan ve bir annenin şefkatini taşıyan battaniyeler, \"İlk Battaniyem Projesi\" kapsamında devlet korumasındaki bebeklere ..."
+        "url": "https://www.aa.com.tr/tr/gundem/vakiflar-genel-mudurlugunun-yuksekogrenim-burs-basvurulari-basladi/4097796",
+        "summary": "Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğünün (VGM) 2026-2027 eğitim öğretim yılı yükseköğrenim burs başvuruları başladı."
       },
       {
-        "title": "e-Devlet Kapısı'ndaki güvenlik incelemesi tamamlandı",
+        "title": "Nobel ödüllü Prof. Dr. Aziz Sancar Diyarbakır'da beyin kanseriyle ilgili çalışmasını anlattı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/e-devlet-kapisindaki-guvenlik-incelemesi-tamamlandi/4096933",
-        "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, PHP yazılımında tespit edilen kritik güvenlik açıklarına ilişkin e-Devlet Kapısı'nda gerçekleştirilen güvenlik kontrollerinin tamamlandı..."
+        "url": "https://www.aa.com.tr/tr/gundem/nobel-odullu-prof-dr-aziz-sancar-diyarbakirda-beyin-kanseriyle-ilgili-calismasini-anlatti/4097757",
+        "summary": "Nobel ödüllü Türk akademisyen Prof. Dr. Aziz Sancar, \"Biz farelerde tedavi konusunda önemli ilerleme yaptık fakat bu insanlarda çalışır mı, çalışmaz mı bilmiyorum. Bunu bilmek için..."
       },
       {
-        "title": "MSB: HÜRKUŞ-II uçağının envantere alınması planlanıyor",
+        "title": "4. Kamu Yönetimi Semineri Cumhurbaşkanlığı Millet Kütüphanesi'nde gerçekleştirildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/msb-hurkus-ii-ucaginin-envantere-alinmasi-planlaniyor/4096897",
-        "summary": "Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, Hava Kuvvetleri Komutanlığınca 2 HÜRKUŞ-II uçağının envantere alınmasının planlandığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/4-kamu-yonetimi-semineri-cumhurbaskanligi-millet-kutuphanesinde-gerceklestirildi/4097747",
+        "summary": "Cumhurbaşkanlığı Genel Sekreterliği tarafından düzenlenen 4. Kamu Yönetimi Semineri, Cumhurbaşkanlığı Millet Kütüphanesi'nde gerçekleştirildi."
       },
       {
-        "title": "Dışişleri Bakanı Fidan, yarın İstanbul'da R4 ve R4+E3 toplantılarına ev sahipliği yapacak",
+        "title": "İstanbul merkezli yasa dışı \"üreme hücresi\" ticareti operasyonunda yakalanan 8 zanlı tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-yarin-istanbulda-r4-ve-r4-e3-toplantilarina-ev-sahipligi-yapacak-/4096885",
-        "summary": "Dışişleri Bakanı Hakan Fidan, yarın İstanbul'da R4 (Türkiye, Mısır, Pakistan, Suudi Arabistan) ve R4+E3 (İngiltere, Almanya, Fransa) Dışişleri Bakanları Toplantıları'na ev sahipliğ..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-yasa-disi-ureme-hucresi-ticareti-operasyonunda-yakalanan-8-zanli-tutuklandi/4097736",
+        "summary": "İstanbul merkezli 14 ilde düzenlenen yasa dışı \"üreme hücresi\" ticaretine yönelik operasyonda gözaltına alınan 44 şüpheliden 8'inin tutuklandığı, 36'sı hakkında adli kontrol kararı..."
       }
     ]
   }
