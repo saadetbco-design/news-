@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-10-21 20:25:02",
+  "updated_at": "2026-10-22 09:45:10",
   "markets": {
-    "usd_try_kapalicarsi": "49.60 TL",
-    "eur_try_kapalicarsi": "55.68 TL",
+    "usd_try_kapalicarsi": "49.64 TL",
+    "eur_try_kapalicarsi": "55.76 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Air Force outlines the fighter fleet it needs by 2035",
-    "bullet_1": "US Air Force outlines the fighter fleet it needs by 2035",
-    "bullet_2": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
-    "bullet_3": "Got milk? US Army refines its pasteurization power",
+    "red_alert": "SON DAKİKA: Ukraine to be able to buy military supplies via NATO agency: report",
+    "bullet_1": "Ukraine to be able to buy military supplies via NATO agency: report",
+    "bullet_2": "US Air Force outlines the fighter fleet it needs by 2035",
+    "bullet_3": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
     "defense_news": [
+      {
+        "title": "Ukraine to be able to buy military supplies via NATO agency: report",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
+        "summary": "The deal comes amid worsening U.S.-Ukraine relations since U.S. President Trump announced a diesel export deal with Russia this month to lower U.S. prices."
+      },
       {
         "title": "US Air Force outlines the fighter fleet it needs by 2035",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
         "summary": "Thirteen U.S. Army Veterinary Corps officers milked a trip to Denmark last month, completing Europe Dairy Pasteurization Audit Training."
-      },
-      {
-        "title": "German military raises sabotage threat level amid warning of Russian attacks: report",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report/",
-        "summary": "German forces themselves could face attacks at home, according to a classified internal analysis reported by public broadcaster WDR and newspaper SZ."
       }
     ],
     "geo_news": [
       {
-        "title": "Türkiye ile İran arasında sınır güvenliği toplantısı yapıldı",
+        "title": "Şehit annelerinin ve eşlerinin ördüğü battaniyeler devlet korumasındaki bebeklere sarıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-ile-iran-arasinda-sinir-guvenligi-toplantisi-yapildi/4096476",
-        "summary": "Türkiye ile İran arasında, sınır güvenliğine ilişkin konuların ele alındığı Mutat Toplantı, İran'ın Maku kentinde gerçekleştirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/sehit-annelerinin-ve-eslerinin-ordugu-battaniyeler-devlet-korumasindaki-bebeklere-sarildi/4096938",
+        "summary": "Evlat acısı yaşayan şehit anneleri ile eşlerinin ellerinden çıkan ve bir annenin şefkatini taşıyan battaniyeler, \"İlk Battaniyem Projesi\" kapsamında devlet korumasındaki bebeklere ..."
       },
       {
-        "title": "İstanbul'da kara para aklama soruşturmasında gözaltına alınan Emir Sarıgül tutuklandı",
+        "title": "e-Devlet Kapısı'ndaki güvenlik incelemesi tamamlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-kara-para-aklama-sorusturmasinda-gozaltina-alinan-emir-sarigul-tutuklandi/4096473",
-        "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına..."
+        "url": "https://www.aa.com.tr/tr/gundem/e-devlet-kapisindaki-guvenlik-incelemesi-tamamlandi/4096933",
+        "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, PHP yazılımında tespit edilen kritik güvenlik açıklarına ilişkin e-Devlet Kapısı'nda gerçekleştirilen güvenlik kontrollerinin tamamlandı..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Bulgaristan Başbakanı Radev ile telefonda görüştü",
+        "title": "MSB: HÜRKUŞ-II uçağının envantere alınması planlanıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-bulgaristan-basbakani-radev-ile-telefonda-gorustu/4096345",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Bulgaristan Başbakanı Rumen Radev ile telefon görüşmesi gerçekleştirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/msb-hurkus-ii-ucaginin-envantere-alinmasi-planlaniyor/4096897",
+        "summary": "Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, Hava Kuvvetleri Komutanlığınca 2 HÜRKUŞ-II uçağının envantere alınmasının planlandığını bildirdi."
       },
       {
-        "title": "Adalet Bakanı Gürlek'ten sermaye piyasalarındaki manipülatif işlemlere ilişkin açıklama",
+        "title": "Dışişleri Bakanı Fidan, yarın İstanbul'da R4 ve R4+E3 toplantılarına ev sahipliği yapacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-sermaye-piyasalarindaki-manipulatif-islemlere-iliskin-aciklama/4096253",
-        "summary": "Bakan Gürlek, sermaye piyasalarındaki manipülatif işlemlere dair soruşturmalarda 404 kişi hakkında adli işlem yapıldığını, 88 şüphelinin tutuklandığını, 26 şüphelinin gözaltına alı..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-yarin-istanbulda-r4-ve-r4-e3-toplantilarina-ev-sahipligi-yapacak-/4096885",
+        "summary": "Dışişleri Bakanı Hakan Fidan, yarın İstanbul'da R4 (Türkiye, Mısır, Pakistan, Suudi Arabistan) ve R4+E3 (İngiltere, Almanya, Fransa) Dışişleri Bakanları Toplantıları'na ev sahipliğ..."
       }
     ]
   }
