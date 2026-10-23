@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 09:41:07",
+  "updated_at": "2026-10-23 20:09:45",
   "markets": {
     "usd_try_kapalicarsi": "49.68 TL",
     "eur_try_kapalicarsi": "55.72 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: New Zealand defense chief resigns over ‘inappropriate relationship’",
-    "bullet_1": "New Zealand defense chief resigns over ‘inappropriate relationship’",
-    "bullet_2": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-    "bullet_3": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
+    "red_alert": "SON DAKİKA: US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
+    "bullet_1": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
+    "bullet_2": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite",
+    "bullet_3": "France, UK carry out joint airborne nuclear-strike exercise for first time",
     "defense_news": [
       {
-        "title": "New Zealand defense chief resigns over ‘inappropriate relationship’",
+        "title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship/",
-        "summary": "“These matters revolved around an inappropriate relationship I had when in a position of unit command, and I regret not disclosing this.\""
+        "url": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
+        "summary": "Ret. Army Gen. David Petraeus praised the Pentagon’s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war."
       },
       {
-        "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+        "title": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
-        "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand."
+        "url": "https://www.defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite/",
+        "summary": "Washington blamed Moscow for deliberately moving a Russian military satellite with an undisclosed mission close last week to a U.S.-registered satellite."
       },
       {
-        "title": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
+        "title": "France, UK carry out joint airborne nuclear-strike exercise for first time",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/",
-        "summary": "Copenhagen wants to acquire the capability to strike back at enemies attacking first, hoping for a deterrent effect."
+        "url": "https://www.defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time/",
+        "summary": "“This is a revolution for the Strategic Air Forces, which have always operated in complete autonomy since their creation in the 1960s,” said one analyst."
       },
       {
-        "title": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
+        "title": "US Air Force wants AI to assist aerial refueling",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison/",
-        "summary": "Stephen Hubbard, a retired teacher and U.S. Air Force veteran, was released from Russian custody on Wednesday after spending over four years in prison."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+        "summary": "The goal is for AI to automatically analyze refueling operations from cameras mounted on the tankers and provide “hot wash” feedback to the tanker crews."
       }
     ],
     "geo_news": [
       {
-        "title": "Van depreminin 15. yılında hayatını kaybedenler anıldı",
+        "title": "Cumhurbaşkanı Erdoğan, Türkiye'ye gelen bazı ülkelerin dışişleri bakanlarını kabul etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/van-depreminin-15-yilinda-hayatini-kaybedenler-anildi/4098222",
-        "summary": "Van'da 23 Ekim 2011'de meydana gelen 7,2 büyüklüğündeki depremin 15. yıl dönümünde, hayatını kaybedenler Erciş ilçesinde kabirleri başında anıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiyeye-gelen-bazi-ulkelerin-disisleri-bakanlarini-kabul-etti/4098978",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İtalya'nın da katıldığı R4+E3 Dışişleri Bakanları Toplantısı için İstanbul'a gelen bazı ülkelerin dışişleri bakanlarını kabul etti."
       },
       {
-        "title": "\"Sumud Filosu\"na yapılan silahlı müdahaleye ilişkin 35 sanığın yargılanmasına başlandı",
+        "title": "Zonguldak'ta çöken binayla ilgili gözaltına alınan 5 şüpheliden 3'ü tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sumud-filosuna-yapilan-silahli-mudahaleye-iliskin-35-sanigin-yargilanmasina-baslandi/4098287",
-        "summary": "Gazze'ye insani yardım taşıyan Küresel Sumud Filosu'na silahlı müdahalede bulunulmasına ilişkin, aralarında İsrail Başbakanı Binyamin Netanyahu'nun da bulunduğu 35 sanığın yargılan..."
+        "url": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binayla-ilgili-gozaltina-alinan-5-supheliden-3u-tutuklandi/4098972",
+        "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı binanın çökmesiyle ilgili gözaltına alınan 5 zanlıdan 3'ü tutuklandı."
       },
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz, Macaristan Başbakanı Magyar ile görüştü",
+        "title": "Çukurova Belediye Başkanı Kozay görevinden uzaklaştırıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-macaristan-basbakani-magyar-ile-gorustu/4098260",
-        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Macaristan Başbakanı Peter Magyar ile bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/cukurova-belediye-baskani-kozay-gorevinden-uzaklastirildi/4098968",
+        "summary": "İçişleri Bakanlığı, Çukurova Belediye Başkanı Emrah Kozay'ın görevinden uzaklaştırıldığını bildirdi."
       },
       {
-        "title": "Emine Erdoğan'dan Özbekistan ziyaretine ilişkin paylaşım",
+        "title": "Çocuklar umreyi yaşlarına uygun etkinliklerle keşfediyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-ozbekistan-ziyaretine-iliskin-paylasim/4098250",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Özbekistan'a gerçekleştirdiği ziyarete ilişkin sosyal medya hesabından paylaşımda bulundu."
+        "url": "https://www.aa.com.tr/tr/gundem/cocuklar-umreyi-yaslarina-uygun-etkinliklerle-kesfediyor/4098964",
+        "summary": "Aileleriyle umreye giden çocuklar, özel rehberler eşliğinde kutsal toprakları ziyaret ederek İslam tarihindeki önemli olaylar ile umre ibadetini yaş ve gelişim düzeylerine uygun, s..."
       }
     ]
   }
