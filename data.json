@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-10-22 20:21:23",
+  "updated_at": "2026-10-23 09:41:07",
   "markets": {
-    "usd_try_kapalicarsi": "49.64 TL",
-    "eur_try_kapalicarsi": "55.76 TL",
+    "usd_try_kapalicarsi": "49.68 TL",
+    "eur_try_kapalicarsi": "55.72 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-    "bullet_1": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-    "bullet_2": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
-    "bullet_3": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
+    "red_alert": "SON DAKİKA: New Zealand defense chief resigns over ‘inappropriate relationship’",
+    "bullet_1": "New Zealand defense chief resigns over ‘inappropriate relationship’",
+    "bullet_2": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+    "bullet_3": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
     "defense_news": [
+      {
+        "title": "New Zealand defense chief resigns over ‘inappropriate relationship’",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship/",
+        "summary": "“These matters revolved around an inappropriate relationship I had when in a position of unit command, and I regret not disclosing this.\""
+      },
       {
         "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison/",
         "summary": "Stephen Hubbard, a retired teacher and U.S. Air Force veteran, was released from Russian custody on Wednesday after spending over four years in prison."
-      },
-      {
-        "title": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
-        "summary": "The decade-long framework guarantees at least 850 F-35 Lightning II fighters for the U.S. military, pending congressional approval and funding."
       }
     ],
     "geo_news": [
       {
-        "title": "Vakıflar Genel Müdürlüğünün yükseköğrenim burs başvuruları başladı",
+        "title": "Van depreminin 15. yılında hayatını kaybedenler anıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/vakiflar-genel-mudurlugunun-yuksekogrenim-burs-basvurulari-basladi/4097796",
-        "summary": "Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğünün (VGM) 2026-2027 eğitim öğretim yılı yükseköğrenim burs başvuruları başladı."
+        "url": "https://www.aa.com.tr/tr/gundem/van-depreminin-15-yilinda-hayatini-kaybedenler-anildi/4098222",
+        "summary": "Van'da 23 Ekim 2011'de meydana gelen 7,2 büyüklüğündeki depremin 15. yıl dönümünde, hayatını kaybedenler Erciş ilçesinde kabirleri başında anıldı."
       },
       {
-        "title": "Nobel ödüllü Prof. Dr. Aziz Sancar Diyarbakır'da beyin kanseriyle ilgili çalışmasını anlattı",
+        "title": "\"Sumud Filosu\"na yapılan silahlı müdahaleye ilişkin 35 sanığın yargılanmasına başlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/nobel-odullu-prof-dr-aziz-sancar-diyarbakirda-beyin-kanseriyle-ilgili-calismasini-anlatti/4097757",
-        "summary": "Nobel ödüllü Türk akademisyen Prof. Dr. Aziz Sancar, \"Biz farelerde tedavi konusunda önemli ilerleme yaptık fakat bu insanlarda çalışır mı, çalışmaz mı bilmiyorum. Bunu bilmek için..."
+        "url": "https://www.aa.com.tr/tr/gundem/sumud-filosuna-yapilan-silahli-mudahaleye-iliskin-35-sanigin-yargilanmasina-baslandi/4098287",
+        "summary": "Gazze'ye insani yardım taşıyan Küresel Sumud Filosu'na silahlı müdahalede bulunulmasına ilişkin, aralarında İsrail Başbakanı Binyamin Netanyahu'nun da bulunduğu 35 sanığın yargılan..."
       },
       {
-        "title": "4. Kamu Yönetimi Semineri Cumhurbaşkanlığı Millet Kütüphanesi'nde gerçekleştirildi",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz, Macaristan Başbakanı Magyar ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/4-kamu-yonetimi-semineri-cumhurbaskanligi-millet-kutuphanesinde-gerceklestirildi/4097747",
-        "summary": "Cumhurbaşkanlığı Genel Sekreterliği tarafından düzenlenen 4. Kamu Yönetimi Semineri, Cumhurbaşkanlığı Millet Kütüphanesi'nde gerçekleştirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-macaristan-basbakani-magyar-ile-gorustu/4098260",
+        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Macaristan Başbakanı Peter Magyar ile bir araya geldi."
       },
       {
-        "title": "İstanbul merkezli yasa dışı \"üreme hücresi\" ticareti operasyonunda yakalanan 8 zanlı tutuklandı",
+        "title": "Emine Erdoğan'dan Özbekistan ziyaretine ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-yasa-disi-ureme-hucresi-ticareti-operasyonunda-yakalanan-8-zanli-tutuklandi/4097736",
-        "summary": "İstanbul merkezli 14 ilde düzenlenen yasa dışı \"üreme hücresi\" ticaretine yönelik operasyonda gözaltına alınan 44 şüpheliden 8'inin tutuklandığı, 36'sı hakkında adli kontrol kararı..."
+        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-ozbekistan-ziyaretine-iliskin-paylasim/4098250",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Özbekistan'a gerçekleştirdiği ziyarete ilişkin sosyal medya hesabından paylaşımda bulundu."
       }
     ]
   }
