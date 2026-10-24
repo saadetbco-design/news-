@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-23 20:09:45",
+  "updated_at": "2026-10-24 09:13:44",
   "markets": {
-    "usd_try_kapalicarsi": "49.68 TL",
-    "eur_try_kapalicarsi": "55.72 TL",
+    "usd_try_kapalicarsi": "49.73 TL",
+    "eur_try_kapalicarsi": "55.71 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan, Türkiye'ye gelen bazı ülkelerin dışişleri bakanlarını kabul etti",
+        "title": "KDK'nin girişimiyle, bursu kesilen öğrenciye geriye dönük ödeme yapılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiyeye-gelen-bazi-ulkelerin-disisleri-bakanlarini-kabul-etti/4098978",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İtalya'nın da katıldığı R4+E3 Dışişleri Bakanları Toplantısı için İstanbul'a gelen bazı ülkelerin dışişleri bakanlarını kabul etti."
+        "url": "https://www.aa.com.tr/tr/gundem/kdknin-girisimiyle-bursu-kesilen-ogrenciye-geriye-donuk-odeme-yapilacak/4099314",
+        "summary": "Kamu Denetçiliği Kurumu (KDK), ara dönemde başvuru yaptığı gerekçesiyle yüksek lisans bursu kesilen öğrencinin mağduriyetini gidererek, bursunun yeniden bağlanmasını ve geriye dönü..."
       },
       {
-        "title": "Zonguldak'ta çöken binayla ilgili gözaltına alınan 5 şüpheliden 3'ü tutuklandı",
+        "title": "Acil servise başvuranların yarısından fazlası acil olmayan hastalar",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binayla-ilgili-gozaltina-alinan-5-supheliden-3u-tutuklandi/4098972",
-        "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı binanın çökmesiyle ilgili gözaltına alınan 5 zanlıdan 3'ü tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/acil-servise-basvuranlarin-yarisindan-fazlasi-acil-olmayan-hastalar/4099308",
+        "summary": "Türkiye Acil Tıp Vakfı Yönetim Kurulu Başkanı Prof. Dr. Şahin Çolak, Türkiye'de acil servislere başvuran hastaların yüzde 50'den fazlasının acil olmayan şikayetlerle geldiğini beli..."
       },
       {
-        "title": "Çukurova Belediye Başkanı Kozay görevinden uzaklaştırıldı",
+        "title": "İlaç sektöründe eczacı istihdamının artırılması çağrısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cukurova-belediye-baskani-kozay-gorevinden-uzaklastirildi/4098968",
-        "summary": "İçişleri Bakanlığı, Çukurova Belediye Başkanı Emrah Kozay'ın görevinden uzaklaştırıldığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/ilac-sektorunde-eczaci-istihdaminin-artirilmasi-cagrisi/4099286",
+        "summary": "Türk Eczacıları Birliği (TEB) Başkanı Mehmet İrfan Demirci, ilaç sanayisinde çalışan eczacıların oranının yaklaşık yüzde 1 seviyesinde olduğunu belirterek, bu alanda eczacı istihda..."
       },
       {
-        "title": "Çocuklar umreyi yaşlarına uygun etkinliklerle keşfediyor",
+        "title": "Sahil güvenlik ekipleri 9 ayda 3 bin 194 kişiyi kurtardı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cocuklar-umreyi-yaslarina-uygun-etkinliklerle-kesfediyor/4098964",
-        "summary": "Aileleriyle umreye giden çocuklar, özel rehberler eşliğinde kutsal toprakları ziyaret ederek İslam tarihindeki önemli olaylar ile umre ibadetini yaş ve gelişim düzeylerine uygun, s..."
+        "url": "https://www.aa.com.tr/tr/gundem/sahil-guvenlik-ekipleri-9-ayda-3-bin-194-kisiyi-kurtardi/4099298",
+        "summary": "İçişleri Bakanlığına bağlı Sahil Güvenlik Komutanlığı ekipleri, bu yılın 9 ayında 3 bin 194 kişinin kurtarılmasını sağladı."
       }
     ]
   }
