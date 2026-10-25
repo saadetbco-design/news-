@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-24 19:10:31",
+  "updated_at": "2026-10-25 09:30:43",
   "markets": {
-    "usd_try_kapalicarsi": "49.73 TL",
-    "eur_try_kapalicarsi": "55.71 TL",
+    "usd_try_kapalicarsi": "49.74 TL",
+    "eur_try_kapalicarsi": "55.73 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Şarkıcı Güllü'nün ölümüne ilişkin kızına verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı",
+        "title": "Öğretmen ve öğrencilerden çiftçilerin traktörlerine tarlada ücretsiz bakım desteği",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sarkici-gullunun-olumune-iliskin-kizina-verilen-agirlastirilmis-muebbet-hapis-cezasinin-gerekceli-karari-aciklandi/4099795",
-        "summary": "Yalova'da \"Güllü\" adıyla tanınan şarkıcı Gül Tut'un ölümüne ilişkin davada, kızı Tuğyan Ülkem Gülter'e verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/ogretmen-ve-ogrencilerden-ciftcilerin-traktorlerine-tarlada-ucretsiz-bakim-destegi/4100111",
+        "summary": "Erzincan'da meslek lisesi öğretmen ve öğrencileri, sosyal sorumluluk projesi kapsamında tarlalara giderek çiftçilere ait traktörlerin periyodik bakım ve kontrollerini ücretsiz yapı..."
       },
       {
-        "title": "Sermaye piyasası işlemleri soruşturmalarında Ertan Aydın'a tutuklama talebi",
+        "title": "Türkiye ile Ermenistan arasındaki Ani Köprüsü'nün restorasyonunda yeni aşama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-ertan-aydina-tutuklama-talebi/4099789",
-        "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda gözaltına alınan araştırma ve kampanya şirketi kurucusu Ert..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-ile-ermenistan-arasindaki-ani-koprusunun-restorasyonunda-yeni-asama-/4100112",
+        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye ile Ermenistan sınırında bulunan tarihi Ani Köprüsü'nün yeniden inşası için ihale sürecini tamamladıklarını bildirdi."
       },
       {
-        "title": "AK Parti Sözcüsü Çelik, Birleşmiş Milletlerin 81. kuruluş yıl dönümünü kutladı",
+        "title": "Meclis'e \"60 yaş ve üstü vatandaşlara yeşil pasaport hakkı verilsin\" talebi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-birlesmis-milletlerin-81-kurulus-yil-donumunu-kutladi/4099777",
-        "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, 24 Ekim Birleşmiş Milletler Günü ve Birleşmiş Milletler Teşkilatının 81. kuruluş yıl dönümünü kutladı."
+        "url": "https://www.aa.com.tr/tr/gundem/meclise-60-yas-ve-ustu-vatandaslara-yesil-pasaport-hakki-verilsin-talebi/4100104",
+        "summary": "TBMM Dilekçe Komisyonuna gelen başvurular arasında, 60 yaş ve üzerindeki vatandaşlara yeşil pasaport hakkı tanınması talebi de yer aldı."
       },
       {
-        "title": "YTB Başkanı Turus'tan Yunanistan'ın Gümülcine ve İskeçe'ye müftü atamasına tepki",
+        "title": "AİLEM Engelsiz İletişim Merkezi, 335 bin 288 çağrıya çeviri desteği sağladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ytb-baskani-turustan-yunanistanin-gumulcine-ve-iskeceye-muftu-atamasina-tepki/4099727",
-        "summary": "YTB Başkanı Abdulhadi Turus, \"Yunanistan makamlarını, Batı Trakya Türk Azınlığının iradesine saygı göstermeye, seçilmiş müftüleri tanımaya ve bu dayatmacı uygulamalardan vazgeçmeye..."
+        "url": "https://www.aa.com.tr/tr/gundem/ailem-engelsiz-iletisim-merkezi-335-bin-288-cagriya-ceviri-destegi-sagladi/4100066",
+        "summary": "Bakan Göktaş, işitme engelli bireylerin kamu hizmetlerine, bilgiye ve sosyal hayata erişimlerini kolaylaştırmak amacıyla hizmete sunulan AİLEM Engelsiz İletişim Merkezi aracılığıyl..."
       }
     ]
   }
