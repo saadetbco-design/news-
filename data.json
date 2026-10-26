@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 10:40:11",
+  "updated_at": "2026-10-26 21:16:23",
   "markets": {
     "usd_try_kapalicarsi": "49.79 TL",
     "eur_try_kapalicarsi": "55.81 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
-    "bullet_1": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
-    "bullet_2": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite",
-    "bullet_3": "France, UK carry out joint airborne nuclear-strike exercise for first time",
+    "red_alert": "SON DAKİKA: BCE Consulting outlines the critical elements of layered air defense architecture",
+    "bullet_1": "BCE Consulting outlines the critical elements of layered air defense architecture",
+    "bullet_2": "US Army practices digging temporary battlefield graves",
+    "bullet_3": "Helsing unveils interceptor missiles designed to chase Russia’s fast-flying Geran drones",
     "defense_news": [
       {
-        "title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
+        "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
-        "summary": "Ret. Army Gen. David Petraeus praised the Pentagon’s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war."
+        "url": "https://www.defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
+        "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces."
       },
       {
-        "title": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite",
+        "title": "US Army practices digging temporary battlefield graves",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite/",
-        "summary": "Washington blamed Moscow for deliberately moving a Russian military satellite with an undisclosed mission close last week to a U.S.-registered satellite."
+        "url": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
+        "summary": "The Army is preparing for the grim possibility of burying fallen soldiers on the battlefield, testing how fast it can dig temporary graves while preserving remains for eventual ide..."
       },
       {
-        "title": "France, UK carry out joint airborne nuclear-strike exercise for first time",
+        "title": "Helsing unveils interceptor missiles designed to chase Russia’s fast-flying Geran drones",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time/",
-        "summary": "“This is a revolution for the Strategic Air Forces, which have always operated in complete autonomy since their creation in the 1960s,” said one analyst."
+        "url": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
+        "summary": "Germany’s Helsing is offering a novel pair of air-defense missiles, plus the requisite AI software to organize intercepts, for downing fast attack drones for under $100,000 per sho..."
       },
       {
-        "title": "US Air Force wants AI to assist aerial refueling",
+        "title": "Pentagon announces first US submarine joining Submarine Rotational Force-West",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
-        "summary": "The goal is for AI to automatically analyze refueling operations from cameras mounted on the tankers and provide “hot wash” feedback to the tanker crews."
+        "url": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
+        "summary": "The Pentagon announced that the USS Colorado will be the first submarine to join Submarine Rotational Force-West in Australia."
       }
     ],
     "geo_news": [
       {
-        "title": "Türk Kızılay, \"2. Kan Elçileri Çalıştayı\" düzenledi",
+        "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan: Türkiye, eğitim sonuçlarıyla en başarılı ülkelerle yarışan bir ülke",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-kizilay-2-kan-elcileri-calistayi-duzenledi/4101085",
-        "summary": "Türk Kızılay tarafından gençler arasında gönüllü ve düzenli kan bağışı kültürünü yaygınlaştırmak amacıyla yürütülen \"Gençliğin Kanında Hayat Var\" Projesi kapsamında \"2. Kan Elçiler..."
+        "url": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-turkiye-egitim-sonuclariyla-en-basarili-ulkelerle-yarisan-bir-ulke/4101663",
+        "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, \"Türkiye bugün ortaöğretim ve ilköğretim eğitim sonuçları itibarıyla dünyanın en başarılı ülkeleriyle yarışan bir ülke konu..."
       },
       {
-        "title": "Yurdun kuzeybatı kesimleri için gök gürültülü sağanak uyarısı",
+        "title": "Kurtulmuş: 'Terörsüz Türkiye' sürecini bozmak için provokasyon yapmak isteyeceklere karşı mutlaka dikkatli olmamız lazım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yurdun-kuzeybati-kesimleri-icin-gok-gurultulu-saganak-uyarisi/4101066",
-        "summary": "Türkiye'nin kuzeybatısı için gök gürültülü sağanak uyarısında bulunuldu."
+        "url": "https://www.aa.com.tr/tr/gundem/kurtulmus-terorsuz-turkiye-surecini-bozmak-icin-provokasyon-yapmak-isteyeceklere-karsi-mutlaka-dikkatli-olmamiz-lazim/4101584",
+        "summary": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye sürecine ilişkin, \"Bu süreci bozmak için provokasyon yapmak isteyeceklere karşı mutlaka dikkatli olmamız lazım. Bunun için de dillerimize, ..."
       },
       {
-        "title": "Milli Savunma Bakanı Güler, KKTC Başbakanı Üstel ile görüştü",
+        "title": "İstanbul'da akşam saatlerinde trafik yoğunluğu yaşanıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-kktc-basbakani-ustel-ile-gorustu/4100998",
-        "summary": "Milli Savunma Bakanı Yaşar Güler, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanı Ünal Üstel ile görüştü."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yasaniyor/4101586",
+        "summary": "İstanbul'da haftanın ilk iş günü akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu arttı."
       },
       {
-        "title": "Bakan Gürlek: 2017'den günümüze kadar 2 milyondan fazla dosyada mağdur ile şüpheli uzlaştı",
+        "title": "Cumhurbaşkanı Erdoğan: Siyasette de dış politikada da tek pusulamız Türkiye'nin çıkarlarıdır",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-2017den-gunumuze-kadar-2-milyondan-fazla-dosyada-magdur-ile-supheli-uzlasti/4100961",
-        "summary": "Adalet Bakanı Akın Gürlek, \"2017 yılından günümüze kadar 2 milyondan fazla dosyada mağdur ile şüpheli uzlaşmıştır.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-siyasette-de-dis-politikada-da-tek-pusulamiz-turkiyenin-cikarlaridir/4101283",
+        "summary": "Cumhurbaşkanı Erdoğan, \"Siyasette de dış politikada da tek pusulamız Türkiye'nin çıkarlarıdır. Ucunda bedel ödemek dahi olsa Türkiye, Türk milleti için doğru, hayırlı olanı yapmakt..."
       }
     ]
   }
