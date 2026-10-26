@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-25 19:24:09",
+  "updated_at": "2026-10-26 10:40:11",
   "markets": {
-    "usd_try_kapalicarsi": "49.74 TL",
-    "eur_try_kapalicarsi": "55.73 TL",
+    "usd_try_kapalicarsi": "49.79 TL",
+    "eur_try_kapalicarsi": "55.81 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Bakan Gürlek'ten fon soruşturmasına ilişkin açıklama",
+        "title": "Türk Kızılay, \"2. Kan Elçileri Çalıştayı\" düzenledi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama/4100355",
-        "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Gönüllü iade yapılması, tek başına hiçbir gerçek veya tüzel kişinin hukuki sorumluluğunu ortadan kaldırmaz.\" ifadelerini kul..."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-kizilay-2-kan-elcileri-calistayi-duzenledi/4101085",
+        "summary": "Türk Kızılay tarafından gençler arasında gönüllü ve düzenli kan bağışı kültürünü yaygınlaştırmak amacıyla yürütülen \"Gençliğin Kanında Hayat Var\" Projesi kapsamında \"2. Kan Elçiler..."
       },
       {
-        "title": "Türk Yıldızları Fethiye’de gösteri uçuşu yaptı",
+        "title": "Yurdun kuzeybatı kesimleri için gök gürültülü sağanak uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-yildizlari-fethiye-de-gosteri-ucusu-yapti/4100284",
-        "summary": "Muğla'nın Fethiye ilçesinde düzenlenen 26. Uluslararası Ölüdeniz Hava Oyunları Festivali kapsamında, Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, gösteri uçuşu gerçekleşt..."
+        "url": "https://www.aa.com.tr/tr/gundem/yurdun-kuzeybati-kesimleri-icin-gok-gurultulu-saganak-uyarisi/4101066",
+        "summary": "Türkiye'nin kuzeybatısı için gök gürültülü sağanak uyarısında bulunuldu."
       },
       {
-        "title": "Sermaye piyasası işlemleri soruşturmalarında Gürol Sami Özer gözaltına alındı",
+        "title": "Milli Savunma Bakanı Güler, KKTC Başbakanı Üstel ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-gurol-sami-ozer-gozaltina-alindi/4100308",
-        "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında, Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakani-guler-kktc-basbakani-ustel-ile-gorustu/4100998",
+        "summary": "Milli Savunma Bakanı Yaşar Güler, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanı Ünal Üstel ile görüştü."
       },
       {
-        "title": "60 saniyede bugün (25 Ekim 2026)",
+        "title": "Bakan Gürlek: 2017'den günümüze kadar 2 milyondan fazla dosyada mağdur ile şüpheli uzlaştı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-25-ekim-2026/4100258",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-2017den-gunumuze-kadar-2-milyondan-fazla-dosyada-magdur-ile-supheli-uzlasti/4100961",
+        "summary": "Adalet Bakanı Akın Gürlek, \"2017 yılından günümüze kadar 2 milyondan fazla dosyada mağdur ile şüpheli uzlaşmıştır.\" dedi."
       }
     ]
   }
