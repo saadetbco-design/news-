@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-10-26 21:16:23",
+  "updated_at": "2026-10-27 10:08:15",
   "markets": {
     "usd_try_kapalicarsi": "49.79 TL",
-    "eur_try_kapalicarsi": "55.81 TL",
+    "eur_try_kapalicarsi": "55.70 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: BCE Consulting outlines the critical elements of layered air defense architecture",
-    "bullet_1": "BCE Consulting outlines the critical elements of layered air defense architecture",
-    "bullet_2": "US Army practices digging temporary battlefield graves",
-    "bullet_3": "Helsing unveils interceptor missiles designed to chase Russia’s fast-flying Geran drones",
+    "red_alert": "SON DAKİKA: Britain will not join Canada-led defense bank initiative",
+    "bullet_1": "Britain will not join Canada-led defense bank initiative",
+    "bullet_2": "BCE Consulting outlines the critical elements of layered air defense architecture",
+    "bullet_3": "US Army practices digging temporary battlefield graves",
     "defense_news": [
+      {
+        "title": "Britain will not join Canada-led defense bank initiative",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative/",
+        "summary": "Britain will not join the Canada-led Defence, Security and Resilience Bank, in a setback to efforts to create the world's first global defense bank, according to a person familiar ..."
+      },
       {
         "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
         "summary": "Germany’s Helsing is offering a novel pair of air-defense missiles, plus the requisite AI software to organize intercepts, for downing fast attack drones for under $100,000 per sho..."
-      },
-      {
-        "title": "Pentagon announces first US submarine joining Submarine Rotational Force-West",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
-        "summary": "The Pentagon announced that the USS Colorado will be the first submarine to join Submarine Rotational Force-West in Australia."
       }
     ],
     "geo_news": [
       {
-        "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan: Türkiye, eğitim sonuçlarıyla en başarılı ülkelerle yarışan bir ülke",
+        "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi TBMM Dışişleri Komisyonunda",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-turkiye-egitim-sonuclariyla-en-basarili-ulkelerle-yarisan-bir-ulke/4101663",
-        "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, \"Türkiye bugün ortaöğretim ve ilköğretim eğitim sonuçları itibarıyla dünyanın en başarılı ülkeleriyle yarışan bir ülke konu..."
+        "url": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmm-disisleri-komisyonunda/4102235",
+        "summary": "Dışişleri Bakan Yardımcısı Büyükelçi Gümrükçü, \"Mekke Anlaşması, 3 ülke arasındaki özel dostluk ilişkilerinin uzantısı olmanın yanı sıra bölgemizde ihtiyacı giderek daha fazla hiss..."
       },
       {
-        "title": "Kurtulmuş: 'Terörsüz Türkiye' sürecini bozmak için provokasyon yapmak isteyeceklere karşı mutlaka dikkatli olmamız lazım",
+        "title": "Yağışlar ve su rezervlerindeki artış yeni üretim sezonu için olumlu sinyaller veriyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kurtulmus-terorsuz-turkiye-surecini-bozmak-icin-provokasyon-yapmak-isteyeceklere-karsi-mutlaka-dikkatli-olmamiz-lazim/4101584",
-        "summary": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye sürecine ilişkin, \"Bu süreci bozmak için provokasyon yapmak isteyeceklere karşı mutlaka dikkatli olmamız lazım. Bunun için de dillerimize, ..."
+        "url": "https://www.aa.com.tr/tr/gundem/yagislar-ve-su-rezervlerindeki-artis-yeni-uretim-sezonu-icin-olumlu-sinyaller-veriyor/4102221",
+        "summary": "Yağışların artması ve su rezervlerindeki iyileşme, 1 Ekim itibarıyla başlayan yeni tarımsal üretim sezonu açısından olumlu koşullar oluştururken, yeni dönemde meteorolojik koşullar..."
       },
       {
-        "title": "İstanbul'da akşam saatlerinde trafik yoğunluğu yaşanıyor",
+        "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi TBMM Dışişleri Komisyonunda",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yasaniyor/4101586",
-        "summary": "İstanbul'da haftanın ilk iş günü akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu arttı."
+        "url": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmm-disisleri-komisyonunda/4102156",
+        "summary": "TBMM Dışişleri Komisyonunda, Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulundu..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: Siyasette de dış politikada da tek pusulamız Türkiye'nin çıkarlarıdır",
+        "title": "Kentsel dönüşüm strateji belgeleri zorunlu hale getirilecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-siyasette-de-dis-politikada-da-tek-pusulamiz-turkiyenin-cikarlaridir/4101283",
-        "summary": "Cumhurbaşkanı Erdoğan, \"Siyasette de dış politikada da tek pusulamız Türkiye'nin çıkarlarıdır. Ucunda bedel ödemek dahi olsa Türkiye, Türk milleti için doğru, hayırlı olanı yapmakt..."
+        "url": "https://www.aa.com.tr/tr/gundem/kentsel-donusum-strateji-belgeleri-zorunlu-hale-getirilecek/4102199",
+        "summary": "Kentsel dönüşüm strateji belgelerinin hazırlanması zorunlu hale getirilecek, dönüşüm uygulamalarında karşılaşılan hukuki sorunların çözümüne yönelik mevzuat çalışmaları yürütülecek..."
       }
     ]
   }
