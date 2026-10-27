@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 10:08:15",
+  "updated_at": "2026-10-27 21:03:28",
   "markets": {
     "usd_try_kapalicarsi": "49.79 TL",
     "eur_try_kapalicarsi": "55.70 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Britain will not join Canada-led defense bank initiative",
-    "bullet_1": "Britain will not join Canada-led defense bank initiative",
-    "bullet_2": "BCE Consulting outlines the critical elements of layered air defense architecture",
-    "bullet_3": "US Army practices digging temporary battlefield graves",
+    "red_alert": "SON DAKİKA: US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+    "bullet_1": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+    "bullet_2": "Pentagon creates advisory council on human performance, health",
+    "bullet_3": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
     "defense_news": [
       {
-        "title": "Britain will not join Canada-led defense bank initiative",
+        "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative/",
-        "summary": "Britain will not join the Canada-led Defence, Security and Resilience Bank, in a setback to efforts to create the world's first global defense bank, according to a person familiar ..."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
+        "summary": "The Air Force granted Lockheed Martin a $694 million contract in late September for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, or ARRW."
       },
       {
-        "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
+        "title": "Pentagon creates advisory council on human performance, health",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
-        "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces."
+        "url": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
+        "summary": "After creating a new directorate on warfighter optimization within the Department of Defense, the Pentagon announced it will form a federal advisory committee to weigh in on issues..."
       },
       {
-        "title": "US Army practices digging temporary battlefield graves",
+        "title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
-        "summary": "The Army is preparing for the grim possibility of burying fallen soldiers on the battlefield, testing how fast it can dig temporary graves while preserving remains for eventual ide..."
+        "url": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
+        "summary": "The U.S. Army published a market survey Monday in an effort to learn whether the defense industrial base could deliver 9,000 ISV-9s and about 12,000 ISV-Us."
       },
       {
-        "title": "Helsing unveils interceptor missiles designed to chase Russia’s fast-flying Geran drones",
+        "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
-        "summary": "Germany’s Helsing is offering a novel pair of air-defense missiles, plus the requisite AI software to organize intercepts, for downing fast attack drones for under $100,000 per sho..."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
+        "summary": "Amid renewed interest in high-altitude balloons, soldiers are looking to them to extend their reach along the first island chain."
       }
     ],
     "geo_news": [
       {
-        "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi TBMM Dışişleri Komisyonunda",
+        "title": "İçişleri Bakanı Çiftçi'den \"Anadolu Ajansı Haber Ödülleri\"ne ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmm-disisleri-komisyonunda/4102235",
-        "summary": "Dışişleri Bakan Yardımcısı Büyükelçi Gümrükçü, \"Mekke Anlaşması, 3 ülke arasındaki özel dostluk ilişkilerinin uzantısı olmanın yanı sıra bölgemizde ihtiyacı giderek daha fazla hiss..."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-anadolu-ajansi-haber-odullerine-iliskin-paylasim/4103055",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Milli Mücadele yıllarından bugüne milletimizin sesini dünyaya duyuran Anadolu Ajansının, bugün de mazlum coğrafyaların sesi olan çalışmalarını takd..."
       },
       {
-        "title": "Yağışlar ve su rezervlerindeki artış yeni üretim sezonu için olumlu sinyaller veriyor",
+        "title": "Sermaye piyasası işlemlerine ilişkin soruşturmada yakalanan 2 zanlıya tutuklama talebi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yagislar-ve-su-rezervlerindeki-artis-yeni-uretim-sezonu-icin-olumlu-sinyaller-veriyor/4102221",
-        "summary": "Yağışların artması ve su rezervlerindeki iyileşme, 1 Ekim itibarıyla başlayan yeni tarımsal üretim sezonu açısından olumlu koşullar oluştururken, yeni dönemde meteorolojik koşullar..."
+        "url": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-yakalanan-2-zanliya-tutuklama-talebi-/4102964",
+        "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 4 şüpheliden 2'si tutuklama talebiyle sulh ceza hakimliğine sevk edi..."
       },
       {
-        "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi TBMM Dışişleri Komisyonunda",
+        "title": "Gazze El-Ezher Üniversitesinden 16 Filistinli tıp öğrencisi İstanbul'da mezun oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmm-disisleri-komisyonunda/4102156",
-        "summary": "TBMM Dışişleri Komisyonunda, Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulundu..."
+        "url": "https://www.aa.com.tr/tr/gundem/gazze-el-ezher-universitesinden-16-filistinli-tip-ogrencisi-istanbulda-mezun-oldu/4102956",
+        "summary": "Tıp eğitimlerini İstanbul Medeniyet Üniversitesi'nde (İMÜ) tamamlayan Gazze El-Ezher Üniversitesi Tıp Fakültesi öğrencisi 16 Filistinli için mezuniyet töreni yapıldı."
       },
       {
-        "title": "Kentsel dönüşüm strateji belgeleri zorunlu hale getirilecek",
+        "title": "Dışişleri Bakanlığından, Türkiye'nin Ege ve Doğu Akdeniz politikasına ilişkin iddialara yönelik açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kentsel-donusum-strateji-belgeleri-zorunlu-hale-getirilecek/4102199",
-        "summary": "Kentsel dönüşüm strateji belgelerinin hazırlanması zorunlu hale getirilecek, dönüşüm uygulamalarında karşılaşılan hukuki sorunların çözümüne yönelik mevzuat çalışmaları yürütülecek..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-turkiyenin-ege-ve-dogu-akdeniz-politikasina-iliskin-iddialara-yonelik-aciklama/4102897",
+        "summary": "Dışişleri Bakanlığı, gündeme getirilen iddialara ilişkin, \"Şimdiye kadar olduğu gibi bundan sonra da Ege ve Doğu Akdeniz’deki meşru hak ve menfaatlerimizi taviz vermeksizin korumay..."
       }
     ]
   }
