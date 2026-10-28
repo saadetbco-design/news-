@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 10:54:54",
+  "updated_at": "2026-10-28 21:27:45",
   "markets": {
     "usd_try_kapalicarsi": "49.81 TL",
     "eur_try_kapalicarsi": "55.50 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
-    "bullet_1": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
-    "bullet_2": "Pentagon creates advisory council on human performance, health",
-    "bullet_3": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
+    "red_alert": "SON DAKİKA: Cost estimate for Iran war rises to more than $47 billion",
+    "bullet_1": "Cost estimate for Iran war rises to more than $47 billion",
+    "bullet_2": "Inside MSI’s Next Generation of Counter-Drone Defense",
+    "bullet_3": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
     "defense_news": [
       {
-        "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+        "title": "Cost estimate for Iran war rises to more than $47 billion",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
-        "summary": "The Air Force granted Lockheed Martin a $694 million contract in late September for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, or ARRW."
+        "url": "https://www.defensenews.com/video/2026/10/28/cost-estimate-for-iran-war-rises-to-more-than-47-billion/",
+        "summary": "The U.S. military has spent about 25% more on the war in Iran than estimates projected in July, according to Pentagon data obtained by Reuters."
       },
       {
-        "title": "Pentagon creates advisory council on human performance, health",
+        "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
-        "summary": "After creating a new directorate on warfighter optimization within the Department of Defense, the Pentagon announced it will form a federal advisory committee to weigh in on issues..."
+        "url": "https://www.defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense/",
+        "summary": "MSI discusses its EAGLS air defense platform, development of EAGLS X and new approaches to modular, cost-effective counter-drone capabilities."
       },
       {
-        "title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
+        "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
-        "summary": "The U.S. Army published a market survey Monday in an effort to learn whether the defense industrial base could deliver 9,000 ISV-9s and about 12,000 ISV-Us."
+        "url": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+        "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July."
       },
       {
-        "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
+        "title": "Trump’s Russian diesel deal benefits Moscow more than US consumers, experts say",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
-        "summary": "Amid renewed interest in high-altitude balloons, soldiers are looking to them to extend their reach along the first island chain."
+        "url": "https://www.defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say/",
+        "summary": "Trump’s diesel deal gives Moscow cash and leverage, while Ukraine is pressed to give up one of its few advantages on the battlefield and in negotiations, experts and U.S. lawmakers..."
       }
     ],
     "geo_news": [
       {
-        "title": "İletişim Başkanlığından 8. Fon Koordinasyon Kurulu Toplantısı'na ilişkin açıklama",
+        "title": "Başkentte Türk Devletleri Teşkilatı Zirvesi kapsamında bazı yollar trafiğe kapatılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-8-fon-koordinasyon-kurulu-toplantisina-iliskin-aciklama/4103674",
-        "summary": "İletişim Başkanlığı, TBMM'de kabul edilen 7596 sayılı Kanun ve ilgili SPK usul ve esas Kararı ile süreçleri netleşen olağanüstü tasfiye kapsamında bulunan fonlarla ilgili ilk ara ö..."
+        "url": "https://www.aa.com.tr/tr/gundem/baskentte-turk-devletleri-teskilati-zirvesi-kapsaminda-bazi-yollar-trafige-kapatilacak/4104380",
+        "summary": "Ankara'da düzenlenecek Türk Devletleri Teşkilatı 13. Zirvesi kapsamında bazı yollar ihtiyaç olması halinde iki gün süreyle araç trafiğine kapatılacak."
       },
       {
-        "title": "Bakan Güler, Sofya'da Türkiye-Bulgaristan-Romanya Savunma Bakanları Toplantısı'na katıldı",
+        "title": "İstanbul'da \"Filistin Dayanışma Günleri\" etkinliği başladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-guler-sofyada-turkiye-bulgaristan-romanya-savunma-bakanlari-toplantisina-katildi/4103652",
-        "summary": "Milli Savunma Bakanı Yaşar Güler, Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu ile Sofya'da düzenlenen Türkiye-Bulgaristan-Romanya Savunma Bakanları ve Genelkurmay Başkanları..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-filistin-dayanisma-gunleri-etkinligi-basladi/4104272",
+        "summary": "Filistin halkının özgürlük mücadelesine destek olmak, Gazze'de yaşananları unutturmamak ve toplumsal dayanışmayı güçlendirmek amacıyla düzenlenen \"Filistin Dayanışma Günleri\" etkin..."
       },
       {
-        "title": "Türk Devletleri Teşkilatı Dışişleri Bakanları Konseyi Toplantısı yarın Ankara'da yapılacak",
+        "title": "Trafik kazasında yaralanan polis memuru Tayfun Akalan şehit oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-devletleri-teskilati-disisleri-bakanlari-konseyi-toplantisi-yarin-ankarada-yapilacak/4103611",
-        "summary": "Dışişleri Bakanı Hakan Fidan, 29-30 Ekim'de Ankara'da düzenlenecek Türk Devletleri Teşkilatının (TDT) 13. Zirvesi kapsamında, yarın gerçekleştirilecek Dışişleri Bakanları Konseyi T..."
+        "url": "https://www.aa.com.tr/tr/gundem/trafik-kazasinda-yaralanan-polis-memuru-tayfun-akalan-sehit-oldu/4104359",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, trafik kazasında yaralanan polis memuru Tayfun Akalan'ın müdahalelere rağmen şehit olduğunu bildirdi."
       },
       {
-        "title": "32 ildeki uyuşturucu operasyonlarında yakalanan 423 şüpheliden 298'i tutuklandı",
+        "title": "İletişim Başkanı Duran'dan Kazakistan Cumhurbaşkanı Tokayev'in Türkiye ziyaretine ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/32-ildeki-uyusturucu-operasyonlarinda-yakalanan-423-supheliden-298i-tutuklandi/4103585",
-        "summary": "İçişleri Bakanlığı, Jandarma Genel Komutanlığı ekiplerince 32 ilde düzenlenen uyuşturucu operasyonlarında yakalanan 423 şüpheliden 298'inin tutuklandığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-kazakistan-cumhurbaskani-tokayevin-turkiye-ziyaretine-iliskin-paylasim/4104347",
+        "summary": "İletişim Başkanı Burhanettin Duran, \"Cumhurbaşkanımızın liderliğinde Türkiye Yüzyılı hedefleri doğrultusunda, dost ve ortak ülkelerle ilişkilerimizi daha ileriye taşımaya ve ortak ..."
       }
     ]
   }
