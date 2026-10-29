@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 11:12:17",
+  "updated_at": "2026-10-29 21:29:41",
   "markets": {
     "usd_try_kapalicarsi": "49.86 TL",
     "eur_try_kapalicarsi": "55.57 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: NATO’s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
-    "bullet_1": "NATO’s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
-    "bullet_2": "After Vucic ouster, Serbia’s weapons-buying habits are under the microscope",
-    "bullet_3": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
+    "red_alert": "SON DAKİKA: New tactical comms system for US ground troops aims to break network silos",
+    "bullet_1": "New tactical comms system for US ground troops aims to break network silos",
+    "bullet_2": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
+    "bullet_3": "Senior US general fired, accused of leaking classified information",
     "defense_news": [
       {
-        "title": "NATO’s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
+        "title": "New tactical comms system for US ground troops aims to break network silos",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/29/natos-black-sea-nations-decry-ukraine-war-spillover-endangering-commercial-ship-traffic/",
-        "summary": "The meeting signals a coordinated approach by the three NATO littoral states to the growing risks to commercial shipping and maritime infrastructure arising from the Russia-Ukraine..."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
+        "summary": "\"We've spent the past 50 years building siloed networks, siloed applications and siloed environments to collaborate internally with our own data. We can no longer do that,\" a Penta..."
       },
       {
-        "title": "After Vucic ouster, Serbia’s weapons-buying habits are under the microscope",
+        "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/29/after-vucic-ouster-serbias-weapons-buying-habits-are-under-the-microscope/",
-        "summary": "One of Europe’s key arms purchasers, Serbia, is likely to slow down procurement and investigate the probity of recent buys after a student-led protest movement ousted the country’s..."
+        "url": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
+        "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance work that coul..."
       },
       {
-        "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
+        "title": "Senior US general fired, accused of leaking classified information",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
-        "summary": "The U.S. Navy reported a decade-high number of unplanned catastrophic events involving aircraft and vessels."
+        "url": "https://www.defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information/",
+        "summary": "U.S. Army Lt. Gen. Brett Sylvia, a senior military planner on the Pentagon's Joint Staff, was fired over accusations he leaked classified information to the public."
       },
       {
-        "title": "Cost estimate for Iran war rises to more than $47 billion",
+        "title": "At pivotal summit, Canadian-European security cooperation is a central focus",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/10/28/cost-estimate-for-iran-war-rises-to-more-than-47-billion/",
-        "summary": "The U.S. military has spent about 25% more on the war in Iran than estimates projected in July, according to Pentagon data obtained by Reuters."
+        "url": "https://www.defensenews.com/global/europe/2026/10/29/at-pivotal-summit-canadian-european-security-cooperation-is-a-central-focus/",
+        "summary": "The proposed measures would advance a broader strategic partnership that calls for Canada and Europe to assume greater responsibility for shared security while reinforcing NATO."
       }
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti",
+        "title": "ABD'nin Ankara Büyükelçisi Barrack, Cumhurbaşkanı Erdoğan ile Trump'ın telefon görüşmesini değerlendirdi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-29-ekim-cumhuriyet-bayrami-tebriklerini-kabul-etti/4104829",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti."
+        "url": "https://www.aa.com.tr/tr/gundem/abdnin-ankara-buyukelcisi-barrack-cumhurbaskani-erdogan-ile-trumpin-telefon-gorusmesini-degerlendirdi/4105463",
+        "summary": "ABD'nin Ankara Büyükelçisi Barrack, \"Türk devletleri arasındaki ortaklık, her iki liderin de (ABD Başkanı Donald Trump-Cumhurbaşkanı Recep Tayyip Erdoğan) paylaştığı vizyonun merke..."
       },
       {
-        "title": "Türkiye'deki yabancı misyon temsilcilikleri 29 Ekim Cumhuriyet Bayramı'nı kutladı",
+        "title": "Bakan Yumaklı: Beştepe Millet Ormanı, Türk dünyasının birlik ruhunu yaşatacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyedeki-yabanci-misyon-temsilcilikleri-29-ekim-cumhuriyet-bayramini-kutladi/4104796",
-        "summary": "Türkiye'deki yabancı misyon temsilcilikleri, 29 Ekim Cumhuriyet Bayramı dolayısıyla kutlama mesajları yayımladı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-yumakli-bestepe-millet-ormani-turk-dunyasinin-birlik-ruhunu-yasatacak/4105421",
+        "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Beştepe Millet Ormanı'nın Türk Devletleri Teşkilatı çatısı altında kenetlenen Türk dünyasının birlik ve beraberlik ruhunu başkentin kalbinde ..."
       },
       {
-        "title": "Cumhuriyet’in 103. yılı düzenlenen etkinliklerle kutlanıyor",
+        "title": "Emine Erdoğan'dan Cumhuriyet Bayramı ve TDT Zirvesi kapsamındaki resmi yemeğe ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhuriyet-in-103-yili-duzenlenen-etkinliklerle-kutlaniyor/4104794",
-        "summary": "29 Ekim Cumhuriyet Bayramı ve Cumhuriyet'in 103. yılı yurt genelinde düzenlenen etkinliklerle kutlanıyor."
+        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-cumhuriyet-bayrami-ve-tdt-zirvesi-kapsamindaki-resmi-yemege-iliskin-paylasim/4105405",
+        "summary": "Emine Erdoğan, 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) Zirvesi dolayısıyla konuk devlet ve hükümet başkanları ile heyetleri onuruna verdikleri resmi akşam yem..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan'ın kırmızı KAAN kravatında \"gök vatanda bağımsızlık\" vurgusu",
+        "title": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'a TDT Liderler Zirvesi için başarı dileklerini iletti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdoganin-kirmizi-kaan-kravatinda-gok-vatanda-bagimsizlik-vurgusu/4104802",
-        "summary": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı dolayısıyla Anıtkabir'de düzenlenen törende, milli muharip uçak KAAN figürlerinin yer aldığı kırmızı kravatı tercih etti."
+        "url": "https://www.aa.com.tr/tr/gundem/abd-baskani-trump-cumhurbaskani-erdogana-tdt-liderler-zirvesi-icin-basari-dileklerini-iletti/4105308",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Trump, Cumhurbaşkanı Erdoğan'a Türk Devletleri Teşkilatı (TDT) Liderler Zirvesi için başarı dile..."
       }
     ]
   }
