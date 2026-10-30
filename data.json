@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-10-29 21:29:41",
+  "updated_at": "2026-10-30 11:06:45",
   "markets": {
-    "usd_try_kapalicarsi": "49.86 TL",
-    "eur_try_kapalicarsi": "55.57 TL",
+    "usd_try_kapalicarsi": "49.92 TL",
+    "eur_try_kapalicarsi": "55.72 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: New tactical comms system for US ground troops aims to break network silos",
-    "bullet_1": "New tactical comms system for US ground troops aims to break network silos",
-    "bullet_2": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
-    "bullet_3": "Senior US general fired, accused of leaking classified information",
+    "red_alert": "SON DAKİKA: Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+    "bullet_1": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+    "bullet_2": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+    "bullet_3": "New tactical comms system for US ground troops aims to break network silos",
     "defense_news": [
+      {
+        "title": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/",
+        "summary": "Pentagon officials have in recent weeks asked several NATO countries to tone down their rhetoric regarding the threat posed by Russia, sources told Reuters."
+      },
+      {
+        "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
+        "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found."
+      },
       {
         "title": "New tactical comms system for US ground troops aims to break network silos",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
         "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance work that coul..."
-      },
-      {
-        "title": "Senior US general fired, accused of leaking classified information",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information/",
-        "summary": "U.S. Army Lt. Gen. Brett Sylvia, a senior military planner on the Pentagon's Joint Staff, was fired over accusations he leaked classified information to the public."
-      },
-      {
-        "title": "At pivotal summit, Canadian-European security cooperation is a central focus",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/29/at-pivotal-summit-canadian-european-security-cooperation-is-a-central-focus/",
-        "summary": "The proposed measures would advance a broader strategic partnership that calls for Canada and Europe to assume greater responsibility for shared security while reinforcing NATO."
       }
     ],
     "geo_news": [
       {
-        "title": "ABD'nin Ankara Büyükelçisi Barrack, Cumhurbaşkanı Erdoğan ile Trump'ın telefon görüşmesini değerlendirdi",
+        "title": "Türk Dünyası Diyalog Forumu kapsamında \"Türk Dünyasında Diplomaside Kadın Paneli\" düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/abdnin-ankara-buyukelcisi-barrack-cumhurbaskani-erdogan-ile-trumpin-telefon-gorusmesini-degerlendirdi/4105463",
-        "summary": "ABD'nin Ankara Büyükelçisi Barrack, \"Türk devletleri arasındaki ortaklık, her iki liderin de (ABD Başkanı Donald Trump-Cumhurbaşkanı Recep Tayyip Erdoğan) paylaştığı vizyonun merke..."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-turk-dunyasinda-diplomaside-kadin-paneli-duzenlendi/4106157",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından düzenlenen \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Dünyasında Diplomaside Kadın Paneli: Ortak Vizyon, Güçlü Temsil, Sürdürüle..."
       },
       {
-        "title": "Bakan Yumaklı: Beştepe Millet Ormanı, Türk dünyasının birlik ruhunu yaşatacak",
+        "title": "Sağlık Bakanı Memişoğlu: Türkiye olarak bilgimizi ve tecrübemizi tüm dünyayla paylaşmaya hazırız",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-yumakli-bestepe-millet-ormani-turk-dunyasinin-birlik-ruhunu-yasatacak/4105421",
-        "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Beştepe Millet Ormanı'nın Türk Devletleri Teşkilatı çatısı altında kenetlenen Türk dünyasının birlik ve beraberlik ruhunu başkentin kalbinde ..."
+        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-turkiye-olarak-bilgimizi-ve-tecrubemizi-tum-dunyayla-paylasmaya-haziriz/4106088",
+        "summary": "Sağlık Bakanı Memişoğlu, \"Aşıdan tıbbi cihaza, biyoteknolojiden yapay zekaya kadar pek çok alanda birbirimizi tamamlayan imkanlarımız var. Türkiye olarak bilgimizi, tecrübemizi ve ..."
       },
       {
-        "title": "Emine Erdoğan'dan Cumhuriyet Bayramı ve TDT Zirvesi kapsamındaki resmi yemeğe ilişkin paylaşım",
+        "title": "Türk Dünyası Diyalog Forumu'nda Türk dünyasının geleceğinin inşası ele alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-cumhuriyet-bayrami-ve-tdt-zirvesi-kapsamindaki-resmi-yemege-iliskin-paylasim/4105405",
-        "summary": "Emine Erdoğan, 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) Zirvesi dolayısıyla konuk devlet ve hükümet başkanları ile heyetleri onuruna verdikleri resmi akşam yem..."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumunda-turk-dunyasinin-geleceginin-insasi-ele-alindi/4106166",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Dünyasının Büyük Stratejisi: Geleceği Birlikte İnşa Etmek\" konulu yuvarlak masa toplantısı düze..."
       },
       {
-        "title": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'a TDT Liderler Zirvesi için başarı dileklerini iletti",
+        "title": "Özbekistan Cumhurbaşkanı Mirziyoyev: Stratejik hedeflerimiz etrafında daha da kenetlenmeliyiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/abd-baskani-trump-cumhurbaskani-erdogana-tdt-liderler-zirvesi-icin-basari-dileklerini-iletti/4105308",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Trump, Cumhurbaşkanı Erdoğan'a Türk Devletleri Teşkilatı (TDT) Liderler Zirvesi için başarı dile..."
+        "url": "https://www.aa.com.tr/tr/gundem/ozbekistan-cumhurbaskani-mirziyoyev-stratejik-hedeflerimiz-etrafinda-daha-da-kenetlenmeliyiz/4106165",
+        "summary": "Özbekistan Cumhurbaşkanı Şevket Mirziyoyev, Türk Devletleri Teşkilatının (TDT) stratejik hedefleri etrafında daha da kenetlenmesi gerektiğini belirterek, bütün güçlerini Türk dayan..."
       }
     ]
   }
