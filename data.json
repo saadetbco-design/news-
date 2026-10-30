@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 11:06:45",
+  "updated_at": "2026-10-30 21:16:00",
   "markets": {
     "usd_try_kapalicarsi": "49.92 TL",
     "eur_try_kapalicarsi": "55.72 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
-    "bullet_1": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
-    "bullet_2": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
-    "bullet_3": "New tactical comms system for US ground troops aims to break network silos",
+    "red_alert": "SON DAKİKA: ‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
+    "bullet_1": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
+    "bullet_2": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact",
+    "bullet_3": "Ukraine completes work on new missile defense system, awaits European partner components",
     "defense_news": [
       {
-        "title": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+        "title": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/",
-        "summary": "Pentagon officials have in recent weeks asked several NATO countries to tone down their rhetoric regarding the threat posed by Russia, sources told Reuters."
+        "url": "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/",
+        "summary": "Cpl. Igor started a new job this year, swapping the sights of a 105 mm gun on the French Army's AMX 10 RC reconnaissance vehicle for first-person view goggles and a handheld contro..."
       },
       {
-        "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
+        "title": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
-        "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found."
+        "url": "https://www.defensenews.com/global/europe/2026/10/30/from-tanks-to-space-norway-and-germany-forge-ahead-with-hansa-defense-pact/",
+        "summary": "German tank maker KNDS and Norway’s Ritek have begun producing Leopard 2A8 tanks in Norway, adding a land-based industrial foothold to a security partnership spanning submarines, m..."
       },
       {
-        "title": "New tactical comms system for US ground troops aims to break network silos",
+        "title": "Ukraine completes work on new missile defense system, awaits European partner components",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
-        "summary": "\"We've spent the past 50 years building siloed networks, siloed applications and siloed environments to collaborate internally with our own data. We can no longer do that,\" a Penta..."
+        "url": "https://www.defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components/",
+        "summary": "Ukraine has completed its share of Freyja, the multinational antiballistic shield that Europe and Kyiv are racing to bring together."
       },
       {
-        "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
+        "title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
-        "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance work that coul..."
+        "url": "https://www.defensenews.com/video/2026/10/30/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems/",
+        "summary": "EOS Defense Systems discusses plans for U.S. production of its Slinger counter-drone system, AI-assisted targeting and adjustable levels of autonomy."
       }
     ],
     "geo_news": [
       {
-        "title": "Türk Dünyası Diyalog Forumu kapsamında \"Türk Dünyasında Diplomaside Kadın Paneli\" düzenlendi",
+        "title": "Dışişleri Bakanı Fidan, ABD Dışişleri Bakanı Rubio ile bir araya geldi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-turk-dunyasinda-diplomaside-kadin-paneli-duzenlendi/4106157",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından düzenlenen \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Dünyasında Diplomaside Kadın Paneli: Ortak Vizyon, Güçlü Temsil, Sürdürüle..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-abd-disisleri-bakani-rubio-ile-bir-araya-geldi/4106951",
+        "summary": "Dışişleri Bakanı Hakan Fidan, Atlanta'da G20 Dışişleri Bakanları Toplantısı marjında ABD Dışişleri Bakanı Marco Rubio ile görüştü."
       },
       {
-        "title": "Sağlık Bakanı Memişoğlu: Türkiye olarak bilgimizi ve tecrübemizi tüm dünyayla paylaşmaya hazırız",
+        "title": "AA Genel Müdürü Karagöz: Türk dünyasındaki medya işbirliğini daha da ileriye taşıyacağız",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-turkiye-olarak-bilgimizi-ve-tecrubemizi-tum-dunyayla-paylasmaya-haziriz/4106088",
-        "summary": "Sağlık Bakanı Memişoğlu, \"Aşıdan tıbbi cihaza, biyoteknolojiden yapay zekaya kadar pek çok alanda birbirimizi tamamlayan imkanlarımız var. Türkiye olarak bilgimizi, tecrübemizi ve ..."
+        "url": "https://www.aa.com.tr/tr/gundem/aa-genel-muduru-karagoz-turk-dunyasindaki-medya-isbirligini-daha-da-ileriye-tasiyacagiz/4106934",
+        "summary": "Anadolu Ajansı (AA) Yönetim Kurulu Başkanı ve Genel Müdürü Serdar Karagöz, \"Anadolu Ajansı olarak çalışmaya, tecrübelerimizi paylaşmaya devam edeceğiz. Türk dünyasındaki medya işbi..."
       },
       {
-        "title": "Türk Dünyası Diyalog Forumu'nda Türk dünyasının geleceğinin inşası ele alındı",
+        "title": "İstanbul Maratonu nedeniyle bazı yollar 1 Kasım'da trafiğe kapatılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumunda-turk-dunyasinin-geleceginin-insasi-ele-alindi/4106166",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Dünyasının Büyük Stratejisi: Geleceği Birlikte İnşa Etmek\" konulu yuvarlak masa toplantısı düze..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-maratonu-nedeniyle-bazi-yollar-1-kasimda-trafige-kapatilacak/4106918",
+        "summary": "İstanbul Emniyet Müdürlüğü, 1 Kasım'da düzenlenecek İstanbul Maratonu dolayısıyla trafiğe kapatılacak yolları ve alternatif güzergahları duyurdu."
       },
       {
-        "title": "Özbekistan Cumhurbaşkanı Mirziyoyev: Stratejik hedeflerimiz etrafında daha da kenetlenmeliyiz",
+        "title": "Ordu'da yağış sonucu ırmakta mahsur kalan kişi kurtarıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ozbekistan-cumhurbaskani-mirziyoyev-stratejik-hedeflerimiz-etrafinda-daha-da-kenetlenmeliyiz/4106165",
-        "summary": "Özbekistan Cumhurbaşkanı Şevket Mirziyoyev, Türk Devletleri Teşkilatının (TDT) stratejik hedefleri etrafında daha da kenetlenmesi gerektiğini belirterek, bütün güçlerini Türk dayan..."
+        "url": "https://www.aa.com.tr/tr/gundem/orduda-yagis-sonucu-irmakta-mahsur-kalan-kisi-kurtarildi/4106890",
+        "summary": "Ordu'nun Fatsa ilçesinde etkili olan yağış sonucu su seviyesi yükselen ırmakta mahsur kalan iş makinesi operatörü itfaiye ekiplerince kurtarıldı."
       }
     ]
   }
