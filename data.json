@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-30 21:16:00",
+  "updated_at": "2026-10-31 10:40:28",
   "markets": {
-    "usd_try_kapalicarsi": "49.92 TL",
-    "eur_try_kapalicarsi": "55.72 TL",
+    "usd_try_kapalicarsi": "49.95 TL",
+    "eur_try_kapalicarsi": "55.78 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Dışişleri Bakanı Fidan, ABD Dışişleri Bakanı Rubio ile bir araya geldi",
+        "title": "Bakan Memişoğlu: En geç 2027'nin başında TÜSEB'den robotik cerrahi cihazı için çağrıya çıkacağız",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-abd-disisleri-bakani-rubio-ile-bir-araya-geldi/4106951",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Atlanta'da G20 Dışişleri Bakanları Toplantısı marjında ABD Dışişleri Bakanı Marco Rubio ile görüştü."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-en-gec-2027nin-basinda-tusebden-robotik-cerrahi-cihazi-icin-cagriya-cikacagiz/4107204",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, \"En geç 2027'nin başında TÜSEB'den robotik cerrahi cihazı için çağrıya çıkacağız. Dünyaya 'Gelin beraber üretelim bunu' diyeceğiz.\" dedi."
       },
       {
-        "title": "AA Genel Müdürü Karagöz: Türk dünyasındaki medya işbirliğini daha da ileriye taşıyacağız",
+        "title": "Türkiye ile Kuzey Makedonya arasında sağlık alanında mutabakat zaptı imzalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/aa-genel-muduru-karagoz-turk-dunyasindaki-medya-isbirligini-daha-da-ileriye-tasiyacagiz/4106934",
-        "summary": "Anadolu Ajansı (AA) Yönetim Kurulu Başkanı ve Genel Müdürü Serdar Karagöz, \"Anadolu Ajansı olarak çalışmaya, tecrübelerimizi paylaşmaya devam edeceğiz. Türk dünyasındaki medya işbi..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-ile-kuzey-makedonya-arasinda-saglik-alaninda-mutabakat-zapti-imzalandi/4107122",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, Türkiye ile Kuzey Makedonya arasında sağlık alanındaki işbirliğini geliştirmek amacıyla \"Sağlık ve Tıp Bilimleri Alanında Mutabakat Zaptı\" imzalandığ..."
       },
       {
-        "title": "İstanbul Maratonu nedeniyle bazı yollar 1 Kasım'da trafiğe kapatılacak",
+        "title": "\"Türk Dünyası Diyalog Forumu\" kapsamında yapay zekanın sınamaları tartışıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-maratonu-nedeniyle-bazi-yollar-1-kasimda-trafige-kapatilacak/4106918",
-        "summary": "İstanbul Emniyet Müdürlüğü, 1 Kasım'da düzenlenecek İstanbul Maratonu dolayısıyla trafiğe kapatılacak yolları ve alternatif güzergahları duyurdu."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-yapay-zekanin-sinamalari-tartisildi/4107189",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Devletleri İletişim Perspektifi: Yapay Zeka Sınamaları\" konulu yuvarlak masa toplantısı düzenle..."
       },
       {
-        "title": "Ordu'da yağış sonucu ırmakta mahsur kalan kişi kurtarıldı",
+        "title": "Üniversite öğrencileri iklim değişikliğinin Van ve Erçek göllerine etkisini araştırıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/orduda-yagis-sonucu-irmakta-mahsur-kalan-kisi-kurtarildi/4106890",
-        "summary": "Ordu'nun Fatsa ilçesinde etkili olan yağış sonucu su seviyesi yükselen ırmakta mahsur kalan iş makinesi operatörü itfaiye ekiplerince kurtarıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/universite-ogrencileri-iklim-degisikliginin-van-ve-ercek-gollerine-etkisini-arastiriyor/4107190",
+        "summary": "Van Yüzüncü Yıl Üniversitesi (YYÜ) ile Ardahan Üniversitesi öğrencileri, COP31 Türkiye süreciyle bağlantılı proje kapsamında Van ve Erçek göllerinin iklim değişikliğine karşı diren..."
       }
     ]
   }
