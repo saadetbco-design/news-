@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 11:35:34",
+  "updated_at": "2026-11-01 20:54:49",
   "markets": {
     "usd_try_kapalicarsi": "49.95 TL",
     "eur_try_kapalicarsi": "55.78 TL",
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Yeni haftada yurt genelinde sağanak etkili olacak",
+        "title": "COP31 kapsamında Antalya'da bazı güzergahlarda trafik düzenlemesi yapılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yeni-haftada-yurt-genelinde-saganak-etkili-olacak/4107944",
-        "summary": "Yurt genelinde yeni haftada sağanak ve yer yer gök gürültülü sağanak etkili olacak, hava sıcaklıkları ise perşembe gününden itibaren batı kesimlerden başlayarak hissedilir derecede..."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalyada-bazi-guzergahlarda-trafik-duzenlemesi-yapilacak/4108224",
+        "summary": "Antalya Valiliği, 9-20 Kasım'da düzenlenecek COP31 Türkiye İklim Zirvesi kapsamında, 10,11 ve 12 Kasım'da bazı güzergahlarda geçici trafik düzenlemeleri uygulanacağını bildirdi."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Terzioğlu, partisinin sosyal politikalar alanında öncelikli hedeflerini anlattı",
+        "title": "İçişleri Bakanı Çiftçi başkanlığında İstanbul'da güvenlik toplantısı yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-terzioglu-partisinin-sosyal-politikalar-alaninda-oncelikli-hedeflerini-anlatti/4107941",
-        "summary": "Hülya Terzioğlu, \"Aile ve Sosyal Hizmetler Bakanlığımızın çalışmalarına sonuna kadar destek vereceğiz. Onların konuşan dili olmak için gayret edeceğiz. Sahayı da bütün açıklığıyla ..."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-baskanliginda-istanbulda-guvenlik-toplantisi-yapildi/4108212",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutukla..."
       },
       {
-        "title": "Antalya ile Alanya arasında kara yoluyla ulaşım 36 dakikaya düşecek",
+        "title": "Cumhurbaşkanı Erdoğan, Güney Kore'ye gitti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/antalya-ile-alanya-arasinda-kara-yoluyla-ulasim-36-dakikaya-dusecek/4107940",
-        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Antalya-Alanya Otoyolu'nun tamamlanmasıyla mevcut güzergahta 2,5 saat süren kara yoluyla seyahatin 36 dakikaya düşeceğini ve yıllık..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koreye-gitti/4108183",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle \"TUR\" uçağıyla Seul'e hareket etti."
       },
       {
-        "title": "Dalyan'ın güzellikleri sıcak hava balonuyla  izlenebilecek",
+        "title": "Güney Kore Devlet Başkanı Lee'den Cumhurbaşkanı Erdoğan'ın ziyaretine ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dalyanin-guzellikleri-sicak-hava-balonuyla-izlenebilecek/4107906",
-        "summary": "Doğal güzellikleri, tarihi yapıları ve caretta caretta deniz kaplumbağalarıyla tanınan Muğla'nın Ortaca ilçesindeki Dalyan Mahallesi'nde bölgenin turizm potansiyeline katkı sağlama..."
+        "url": "https://www.aa.com.tr/tr/gundem/guney-kore-devlet-baskani-leeden-cumhurbaskani-erdoganin-ziyaretine-iliskin-paylasim/4108179",
+        "summary": "Güney Kore Devlet Başkanı Lee Jae Myung, Cumhurbaşkanı Recep Tayyip Erdoğan'ı başkent Seul'de ağırlayacak olmaktan büyük memnuniyet duyduğunu bildirdi."
       }
     ]
   }
