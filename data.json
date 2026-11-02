@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-11-01 20:54:49",
+  "updated_at": "2026-11-02 12:58:49",
   "markets": {
-    "usd_try_kapalicarsi": "49.95 TL",
-    "eur_try_kapalicarsi": "55.78 TL",
+    "usd_try_kapalicarsi": "49.94 TL",
+    "eur_try_kapalicarsi": "55.73 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: ‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
-    "bullet_1": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
-    "bullet_2": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact",
-    "bullet_3": "Ukraine completes work on new missile defense system, awaits European partner components",
+    "red_alert": "SON DAKİKA: Australia unveils secretive Ghost Shark underwater drone payloads",
+    "bullet_1": "Australia unveils secretive Ghost Shark underwater drone payloads",
+    "bullet_2": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
+    "bullet_3": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact",
     "defense_news": [
+      {
+        "title": "Australia unveils secretive Ghost Shark underwater drone payloads",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/naval/2026/11/02/australia-unveils-secretive-ghost-shark-underwater-drone-payloads/",
+        "summary": "The Australian Navy recently lifted the veil on some payloads the service is fielding on its Ghost Shark extra-large autonomous underwater vehicles."
+      },
       {
         "title": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components/",
         "summary": "Ukraine has completed its share of Freyja, the multinational antiballistic shield that Europe and Kyiv are racing to bring together."
-      },
-      {
-        "title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/10/30/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems/",
-        "summary": "EOS Defense Systems discusses plans for U.S. production of its Slinger counter-drone system, AI-assisted targeting and adjustable levels of autonomy."
       }
     ],
     "geo_news": [
       {
-        "title": "COP31 kapsamında Antalya'da bazı güzergahlarda trafik düzenlemesi yapılacak",
+        "title": "Talim ve Terbiye Kurulu 100. Yıl Özel Oturumu'nda \"100. Yıl Kararları\" oy birliğiyle kabul edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalyada-bazi-guzergahlarda-trafik-duzenlemesi-yapilacak/4108224",
-        "summary": "Antalya Valiliği, 9-20 Kasım'da düzenlenecek COP31 Türkiye İklim Zirvesi kapsamında, 10,11 ve 12 Kasım'da bazı güzergahlarda geçici trafik düzenlemeleri uygulanacağını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/talim-ve-terbiye-kurulu-100-yil-ozel-oturumunda-100-yil-kararlari-oy-birligiyle-kabul-edildi/4108776",
+        "summary": "Milli Eğitim Bakanı Yusuf Tekin başkanlığında, Milli Eğitim Bakanlığı (MEB) Talim ve Terbiye Kurulu Başkanlığının 100. kuruluş yıl dönümü dolayısıyla gerçekleştirilen özel oturumda..."
       },
       {
-        "title": "İçişleri Bakanı Çiftçi başkanlığında İstanbul'da güvenlik toplantısı yapıldı",
+        "title": "Muşlu besicilerin sıcak bölgelere yolculuğu sürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-baskanliginda-istanbulda-guvenlik-toplantisi-yapildi/4108212",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutukla..."
+        "url": "https://www.aa.com.tr/tr/gundem/muslu-besicilerin-sicak-bolgelere-yolculugu-suruyor/4108741",
+        "summary": "Muş'ta havaların soğumasıyla besicilerin sürüleriyle sıcak bölgelere yolculuğu devam ediyor."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Güney Kore'ye gitti",
+        "title": "COP31 alanına basın gezisi düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koreye-gitti/4108183",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle \"TUR\" uçağıyla Seul'e hareket etti."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31-alanina-basin-gezisi-duzenlendi-/4108694",
+        "summary": "Antalya Valisi Şahin, Çevre, Şehircilik ve İklim Değişikliği Bakan Yardımcısı Demiralp, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) ala..."
       },
       {
-        "title": "Güney Kore Devlet Başkanı Lee'den Cumhurbaşkanı Erdoğan'ın ziyaretine ilişkin paylaşım",
+        "title": "DMM, Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı iddialarını yalanladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/guney-kore-devlet-baskani-leeden-cumhurbaskani-erdoganin-ziyaretine-iliskin-paylasim/4108179",
-        "summary": "Güney Kore Devlet Başkanı Lee Jae Myung, Cumhurbaşkanı Recep Tayyip Erdoğan'ı başkent Seul'de ağırlayacak olmaktan büyük memnuniyet duyduğunu bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/dmm-turkiyenin-orman-varligini-korumadigi-ve-ormansizlasmayi-artirdigi-iddialarini-yalanladi/4108743",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı\" yönündeki iddiaların gerçeği yan..."
       }
     ]
   }
