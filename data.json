@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 12:58:49",
+  "updated_at": "2026-11-02 23:45:01",
   "markets": {
     "usd_try_kapalicarsi": "49.94 TL",
     "eur_try_kapalicarsi": "55.73 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Australia unveils secretive Ghost Shark underwater drone payloads",
-    "bullet_1": "Australia unveils secretive Ghost Shark underwater drone payloads",
-    "bullet_2": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
-    "bullet_3": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact",
+    "red_alert": "SON DAKİKA: Russia is giving its drones bigger antennas to beat Ukrainian jamming",
+    "bullet_1": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
+    "bullet_2": "US approves $2.1 billion Patriot missile sale to Ukraine",
+    "bullet_3": "Tiny Ukrainian receiver intercepts Russian drone feeds in real time",
     "defense_news": [
       {
-        "title": "Australia unveils secretive Ghost Shark underwater drone payloads",
+        "title": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/naval/2026/11/02/australia-unveils-secretive-ghost-shark-underwater-drone-payloads/",
-        "summary": "The Australian Navy recently lifted the veil on some payloads the service is fielding on its Ghost Shark extra-large autonomous underwater vehicles."
+        "url": "https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming/",
+        "summary": "Kyiv now needs roughly twice as many jammers to stop each upgraded Shahed, intel officials and experts said."
       },
       {
-        "title": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
+        "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/",
-        "summary": "Cpl. Igor started a new job this year, swapping the sights of a 105 mm gun on the French Army's AMX 10 RC reconnaissance vehicle for first-person view goggles and a handheld contro..."
+        "url": "https://www.defensenews.com/global/europe/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/",
+        "summary": "The missiles — which are yet to be manufactured — are not expected to be delivered until a couple of years into the 2030s."
       },
       {
-        "title": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact",
+        "title": "Tiny Ukrainian receiver intercepts Russian drone feeds in real time",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/30/from-tanks-to-space-norway-and-germany-forge-ahead-with-hansa-defense-pact/",
-        "summary": "German tank maker KNDS and Norway’s Ritek have begun producing Leopard 2A8 tanks in Norway, adding a land-based industrial foothold to a security partnership spanning submarines, m..."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/02/tiny-ukrainian-receiver-intercepts-russian-drone-feeds-in-real-time/",
+        "summary": "A small new receiver can co-opt video from Russian unmanned systems, allowing Ukrainian drone operators to intercept enemy live feeds in real time, the device's makers said this mo..."
       },
       {
-        "title": "Ukraine completes work on new missile defense system, awaits European partner components",
+        "title": "What could the Humvee of the future look like?",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components/",
-        "summary": "Ukraine has completed its share of Freyja, the multinational antiballistic shield that Europe and Kyiv are racing to bring together."
+        "url": "https://www.defensenews.com/video/2026/11/02/what-could-the-humvee-of-the-future-look-like/",
+        "summary": "From vehicles to wearable drone detection, new soldier systems were on display at AUSA 2026. Check out a roundup of our social coverage."
       }
     ],
     "geo_news": [
       {
-        "title": "Talim ve Terbiye Kurulu 100. Yıl Özel Oturumu'nda \"100. Yıl Kararları\" oy birliğiyle kabul edildi",
+        "title": "Cumhurbaşkanı Erdoğan'dan Serpil Bahçeli için taziye mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/talim-ve-terbiye-kurulu-100-yil-ozel-oturumunda-100-yil-kararlari-oy-birligiyle-kabul-edildi/4108776",
-        "summary": "Milli Eğitim Bakanı Yusuf Tekin başkanlığında, Milli Eğitim Bakanlığı (MEB) Talim ve Terbiye Kurulu Başkanlığının 100. kuruluş yıl dönümü dolayısıyla gerçekleştirilen özel oturumda..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-serpil-bahceli-icin-taziye-mesaji/4109207",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli'nin hayatını kaybeden kardeşi Serpil Bahçeli için taziye mesajı yayımladı."
       },
       {
-        "title": "Muşlu besicilerin sıcak bölgelere yolculuğu sürüyor",
+        "title": "Diyarbakır'da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi öldü, 12 kişi yaralandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/muslu-besicilerin-sicak-bolgelere-yolculugu-suruyor/4108741",
-        "summary": "Muş'ta havaların soğumasıyla besicilerin sürüleriyle sıcak bölgelere yolculuğu devam ediyor."
+        "url": "https://www.aa.com.tr/tr/gundem/diyarbakirda-kamyon-ile-hafif-ticari-aracin-carpistigi-kazada-2-kisi-oldu-12-kisi-yaralandi/4109216",
+        "summary": "Diyarbakır'ın merkez Bağlar ilçesinde kamyon ile hafif ticari aracın çarpışması sonucu 2 kişi hayatını kaybetti, 12 kişi yaralandı."
       },
       {
-        "title": "COP31 alanına basın gezisi düzenlendi",
+        "title": "İstanbul'da sağanak etkili oluyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31-alanina-basin-gezisi-duzenlendi-/4108694",
-        "summary": "Antalya Valisi Şahin, Çevre, Şehircilik ve İklim Değişikliği Bakan Yardımcısı Demiralp, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) ala..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-etkili-oluyor/4109163",
+        "summary": "İstanbul'da gök gürültülü sağanak etkili oluyor."
       },
       {
-        "title": "DMM, Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı iddialarını yalanladı",
+        "title": "İstanbul için kuvvetli sağanak uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dmm-turkiyenin-orman-varligini-korumadigi-ve-ormansizlasmayi-artirdigi-iddialarini-yalanladi/4108743",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Türkiye'nin orman varlığını korumadığı ve ormansızlaşmayı artırdığı\" yönündeki iddiaların gerçeği yan..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-icin-kuvvetli-saganak-uyarisi/4109144",
+        "summary": "İstanbul için kuvvetli sağanak uyarısında bulunuldu."
       }
     ]
   }
