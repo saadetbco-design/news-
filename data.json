@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-11-02 23:45:01",
+  "updated_at": "2026-11-03 12:31:11",
   "markets": {
-    "usd_try_kapalicarsi": "49.94 TL",
-    "eur_try_kapalicarsi": "55.73 TL",
+    "usd_try_kapalicarsi": "49.99 TL",
+    "eur_try_kapalicarsi": "55.97 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Russia is giving its drones bigger antennas to beat Ukrainian jamming",
-    "bullet_1": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
-    "bullet_2": "US approves $2.1 billion Patriot missile sale to Ukraine",
-    "bullet_3": "Tiny Ukrainian receiver intercepts Russian drone feeds in real time",
+    "red_alert": "SON DAKİKA: Australia preps Bluebottle USV for submarine-hunting role",
+    "bullet_1": "Australia preps Bluebottle USV for submarine-hunting role",
+    "bullet_2": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
+    "bullet_3": "US approves $2.1 billion Patriot missile sale to Ukraine",
     "defense_news": [
+      {
+        "title": "Australia preps Bluebottle USV for submarine-hunting role",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/australia-preps-bluebottle-usv-for-submarine-hunting-role/",
+        "summary": "\"I want potential adversaries to understand that, when they see an Ocius Bluebottle USV, it’s a signal to get out of our ocean,” Minister for Defence Industry Pat Conroy said."
+      },
       {
         "title": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/11/02/tiny-ukrainian-receiver-intercepts-russian-drone-feeds-in-real-time/",
         "summary": "A small new receiver can co-opt video from Russian unmanned systems, allowing Ukrainian drone operators to intercept enemy live feeds in real time, the device's makers said this mo..."
-      },
-      {
-        "title": "What could the Humvee of the future look like?",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/02/what-could-the-humvee-of-the-future-look-like/",
-        "summary": "From vehicles to wearable drone detection, new soldier systems were on display at AUSA 2026. Check out a roundup of our social coverage."
       }
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan'dan Serpil Bahçeli için taziye mesajı",
+        "title": "Cumhurbaşkanı Erdoğan'dan AK Parti'nin iktidara gelişinin 24. yıl dönümüne ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-serpil-bahceli-icin-taziye-mesaji/4109207",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, MHP Genel Başkanı Devlet Bahçeli'nin hayatını kaybeden kardeşi Serpil Bahçeli için taziye mesajı yayımladı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-ak-partinin-iktidara-gelisinin-24-yil-donumune-iliskin-paylasim/4109967",
+        "summary": "Cumhurbaşkanı Erdoğan, \"AK Parti olarak biz, çeyrek asır boyunca eserlerimizle aziz milletimizin hizmetkarı olduk. Allah'ın izniyle aşığı olduğumuz bu millete, sevdalısı olduğumuz ..."
       },
       {
-        "title": "Diyarbakır'da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi öldü, 12 kişi yaralandı",
+        "title": "Yurt genelinde sıcaklıklar düşecek, yüksek kesimlerde kar görülecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/diyarbakirda-kamyon-ile-hafif-ticari-aracin-carpistigi-kazada-2-kisi-oldu-12-kisi-yaralandi/4109216",
-        "summary": "Diyarbakır'ın merkez Bağlar ilçesinde kamyon ile hafif ticari aracın çarpışması sonucu 2 kişi hayatını kaybetti, 12 kişi yaralandı."
+        "url": "https://www.aa.com.tr/tr/gundem/yurt-genelinde-sicakliklar-dusecek-yuksek-kesimlerde-kar-gorulecek/4109940",
+        "summary": "Yurt genelinde hafta boyunca etkisini sürdürecek yağışlarla hava sıcaklıkları mevsim normallerinin altına düşecek, hafta sonuna doğru ise yüksek kesimlerde kar görülecek."
       },
       {
-        "title": "İstanbul'da sağanak etkili oluyor",
+        "title": "Cumhurbaşkanı Erdoğan: Güney Kore ile ortak geçmişimizi müreffeh bir gelecek için yeni ufuklara taşımak istiyoruz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-etkili-oluyor/4109163",
-        "summary": "İstanbul'da gök gürültülü sağanak etkili oluyor."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-kore-ile-ortak-gecmisimizi-mureffeh-bir-gelecek-icin-yeni-ufuklara-tasimak-istiyoruz/4109919",
+        "summary": "Cumhurbaşkanı Erdoğan, Güney Kore'de onuruna verilen akşam yemeğindeki konuşmasında, \"Ortak geçmişimizi, vatandaşlarımızın müreffeh geleceğine ve dünyada barışın tesisine katkı ver..."
       },
       {
-        "title": "İstanbul için kuvvetli sağanak uyarısı",
+        "title": "Trakya'da sağanak etkisini sürdürüyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-icin-kuvvetli-saganak-uyarisi/4109144",
-        "summary": "İstanbul için kuvvetli sağanak uyarısında bulunuldu."
+        "url": "https://www.aa.com.tr/tr/gundem/trakyada-saganak-etkisini-surduruyor/4109908",
+        "summary": "Edirne, Kırklareli ve Tekirdağ'da sağanak yaşamı olumsuz etkilemeye devam ediyor."
       }
     ]
   }
