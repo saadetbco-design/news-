@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 12:31:11",
+  "updated_at": "2026-11-03 22:09:24",
   "markets": {
     "usd_try_kapalicarsi": "49.99 TL",
     "eur_try_kapalicarsi": "55.97 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Australia preps Bluebottle USV for submarine-hunting role",
-    "bullet_1": "Australia preps Bluebottle USV for submarine-hunting role",
-    "bullet_2": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
-    "bullet_3": "US approves $2.1 billion Patriot missile sale to Ukraine",
+    "red_alert": "SON DAKİKA: US Air Force asks industry for new cruise missile for Ukraine",
+    "bullet_1": "US Air Force asks industry for new cruise missile for Ukraine",
+    "bullet_2": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+    "bullet_3": "Defense contractors to demo cargo drones for US Marine Corps",
     "defense_news": [
       {
-        "title": "Australia preps Bluebottle USV for submarine-hunting role",
+        "title": "US Air Force asks industry for new cruise missile for Ukraine",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/australia-preps-bluebottle-usv-for-submarine-hunting-role/",
-        "summary": "\"I want potential adversaries to understand that, when they see an Ocius Bluebottle USV, it’s a signal to get out of our ocean,” Minister for Defence Industry Pat Conroy said."
+        "url": "https://www.defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/",
+        "summary": "The U.S. Air Force is looking for contractors to mass produce the Extended Range Attack Munition for Ukraine."
       },
       {
-        "title": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
+        "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming/",
-        "summary": "Kyiv now needs roughly twice as many jammers to stop each upgraded Shahed, intel officials and experts said."
+        "url": "https://www.defensenews.com/video/2026/11/03/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+        "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference."
       },
       {
-        "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
+        "title": "Defense contractors to demo cargo drones for US Marine Corps",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/",
-        "summary": "The missiles — which are yet to be manufactured — are not expected to be delivered until a couple of years into the 2030s."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps/",
+        "summary": "An event early next year in Huntsville, Alabama, will allow contractors to display their solutions for a Marine battlefield cargo drone."
       },
       {
-        "title": "Tiny Ukrainian receiver intercepts Russian drone feeds in real time",
+        "title": "On American destroyers, avoid a self-inflicted wound in Spain",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/02/tiny-ukrainian-receiver-intercepts-russian-drone-feeds-in-real-time/",
-        "summary": "A small new receiver can co-opt video from Russian unmanned systems, allowing Ukrainian drone operators to intercept enemy live feeds in real time, the device's makers said this mo..."
+        "url": "https://www.defensenews.com/opinion/2026/11/03/on-american-destroyers-avoid-a-self-inflicted-wound-in-spain/",
+        "summary": "\"The Trump administration should keep six destroyers stationed at Rota. Any other action would be a gift to America’s adversaries.\""
       }
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan'dan AK Parti'nin iktidara gelişinin 24. yıl dönümüne ilişkin paylaşım",
+        "title": "Türk Kızılay Kanunu Teklifi TBMM Genel Kurulunda",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-ak-partinin-iktidara-gelisinin-24-yil-donumune-iliskin-paylasim/4109967",
-        "summary": "Cumhurbaşkanı Erdoğan, \"AK Parti olarak biz, çeyrek asır boyunca eserlerimizle aziz milletimizin hizmetkarı olduk. Allah'ın izniyle aşığı olduğumuz bu millete, sevdalısı olduğumuz ..."
+        "url": "https://www.aa.com.tr/tr/gundem/turk-kizilay-kanunu-teklifi-tbmm-genel-kurulunda/4110564",
+        "summary": "TBMM Genel Kurulunda, Türk Kızılay Kanunu Teklifi'nin bir maddesi daha kabul edildi."
       },
       {
-        "title": "Yurt genelinde sıcaklıklar düşecek, yüksek kesimlerde kar görülecek",
+        "title": "YÖK Başkanı Özvar: Üzerinde ısrarla durduğumuz temel bir ilke var, daha az ders, daha fazla uygulama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yurt-genelinde-sicakliklar-dusecek-yuksek-kesimlerde-kar-gorulecek/4109940",
-        "summary": "Yurt genelinde hafta boyunca etkisini sürdürecek yağışlarla hava sıcaklıkları mevsim normallerinin altına düşecek, hafta sonuna doğru ise yüksek kesimlerde kar görülecek."
+        "url": "https://www.aa.com.tr/tr/gundem/yok-baskani-ozvar-uzerinde-israrla-durdugumuz-temel-bir-ilke-var-daha-az-ders-daha-fazla-uygulama-/4110372",
+        "summary": "Yükseköğretim Kurulu (YÖK) Başkanı Prof. Dr. Erol Özvar, \"Üzerinde ısrarla durduğumuz temel bir ilke var. Daha az ders, daha fazla uygulama ve yaparak öğrenme.\" dedi."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: Güney Kore ile ortak geçmişimizi müreffeh bir gelecek için yeni ufuklara taşımak istiyoruz",
+        "title": "DMM \"Şişli'deki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı\" iddiasını yalanladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-kore-ile-ortak-gecmisimizi-mureffeh-bir-gelecek-icin-yeni-ufuklara-tasimak-istiyoruz/4109919",
-        "summary": "Cumhurbaşkanı Erdoğan, Güney Kore'de onuruna verilen akşam yemeğindeki konuşmasında, \"Ortak geçmişimizi, vatandaşlarımızın müreffeh geleceğine ve dünyada barışın tesisine katkı ver..."
+        "url": "https://www.aa.com.tr/tr/gundem/dmm-sislideki-haydar-aliyev-parkinda-bulunan-bustun-kaldirilacagi-iddiasini-yalanladi/4110353",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Şişli'deki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı ve alanın yıkılarak yerine kültür mer..."
       },
       {
-        "title": "Trakya'da sağanak etkisini sürdürüyor",
+        "title": "İstanbul'da gök gürültülü sağanak etkili oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/trakyada-saganak-etkisini-surduruyor/4109908",
-        "summary": "Edirne, Kırklareli ve Tekirdağ'da sağanak yaşamı olumsuz etkilemeye devam ediyor."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-gok-gurultulu-saganak-etkili-oldu/4110302",
+        "summary": "İstanbul'da akşam saatlerinde başlayan gök gürültülü sağanak nedeniyle ulaşım olumsuz etkilenirken bazı ilçelerde hasarlı kazalar meydana geldi."
       }
     ]
   }
