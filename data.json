@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-11-03 22:09:24",
+  "updated_at": "2026-11-04 12:41:18",
   "markets": {
-    "usd_try_kapalicarsi": "49.99 TL",
-    "eur_try_kapalicarsi": "55.97 TL",
+    "usd_try_kapalicarsi": "50.04 TL",
+    "eur_try_kapalicarsi": "56.01 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Air Force asks industry for new cruise missile for Ukraine",
-    "bullet_1": "US Air Force asks industry for new cruise missile for Ukraine",
-    "bullet_2": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-    "bullet_3": "Defense contractors to demo cargo drones for US Marine Corps",
+    "red_alert": "SON DAKİKA: Saildrone expands its European market reach with manufacturing partner in Norway",
+    "bullet_1": "Saildrone expands its European market reach with manufacturing partner in Norway",
+    "bullet_2": "Babcock launches digital platform to link warship construction and fleet support",
+    "bullet_3": "France tasks Naval Group to develop large oceangoing underwater drone",
     "defense_news": [
       {
-        "title": "US Air Force asks industry for new cruise missile for Ukraine",
+        "title": "Saildrone expands its European market reach with manufacturing partner in Norway",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/",
-        "summary": "The U.S. Air Force is looking for contractors to mass produce the Extended Range Attack Munition for Ukraine."
+        "url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway/",
+        "summary": "CEO Tom Fidjeland told reporters at the Euronaval trade show here that taking on the work of churning out Surveyors was “technically not difficult,” with a first mold already being..."
       },
       {
-        "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+        "title": "Babcock launches digital platform to link warship construction and fleet support",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/03/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-        "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference."
+        "url": "https://www.defensenews.com/global/europe/2026/11/04/babcock-launches-digital-platform-to-link-warship-construction-and-fleet-support/",
+        "summary": "U.K-based Babcock International has launched Pelorus, a digital platform intended to connect warship construction, operations and maintenance data."
       },
       {
-        "title": "Defense contractors to demo cargo drones for US Marine Corps",
+        "title": "France tasks Naval Group to develop large oceangoing underwater drone",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps/",
-        "summary": "An event early next year in Huntsville, Alabama, will allow contractors to display their solutions for a Marine battlefield cargo drone."
+        "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
+        "summary": "France signed a contract with shipbuilder Naval Group to develop an operational demonstrator of a large-sized oceangoing underwater drone, with sea trials to start in 2028."
       },
       {
-        "title": "On American destroyers, avoid a self-inflicted wound in Spain",
+        "title": "MBDA’s high-speed strike missile to have range ‘far’ exceeding Exocet",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/opinion/2026/11/03/on-american-destroyers-avoid-a-self-inflicted-wound-in-spain/",
-        "summary": "\"The Trump administration should keep six destroyers stationed at Rota. Any other action would be a gift to America’s adversaries.\""
+        "url": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet/",
+        "summary": "Stratus RS, for rapid strike, is being developed for France and the United Kingdom, and MBDA is awaiting a development contract from France’s Directorate General for Armament."
       }
     ],
     "geo_news": [
       {
-        "title": "Türk Kızılay Kanunu Teklifi TBMM Genel Kurulunda",
+        "title": "Sağlık Bakanı Memişoğlu'ndan \"organ bağışı\" çağrısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turk-kizilay-kanunu-teklifi-tbmm-genel-kurulunda/4110564",
-        "summary": "TBMM Genel Kurulunda, Türk Kızılay Kanunu Teklifi'nin bir maddesi daha kabul edildi."
+        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglundan-organ-bagisi-cagrisi/4111513",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, 188 binden fazla vatandaşın dijital organ bağışı vasiyetini oluşturduğunu belirterek, vatandaşları organ bağışında bulunmaya davet etti."
       },
       {
-        "title": "YÖK Başkanı Özvar: Üzerinde ısrarla durduğumuz temel bir ilke var, daha az ders, daha fazla uygulama",
+        "title": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu son yolculuğuna uğurlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yok-baskani-ozvar-uzerinde-israrla-durdugumuz-temel-bir-ilke-var-daha-az-ders-daha-fazla-uygulama-/4110372",
-        "summary": "Yükseköğretim Kurulu (YÖK) Başkanı Prof. Dr. Erol Özvar, \"Üzerinde ısrarla durduğumuz temel bir ilke var. Daha az ders, daha fazla uygulama ve yaparak öğrenme.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-son-yolculuguna-ugurlandi/4111450",
+        "summary": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, İstanbul'da kılınan cenaze namazının ardından son yolculuğuna uğurlandı."
       },
       {
-        "title": "DMM \"Şişli'deki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı\" iddiasını yalanladı",
+        "title": "İstanbul'da sağanak etkili oluyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dmm-sislideki-haydar-aliyev-parkinda-bulunan-bustun-kaldirilacagi-iddiasini-yalanladi/4110353",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Şişli'deki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı ve alanın yıkılarak yerine kültür mer..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-etkili-oluyor/4111501",
+        "summary": "İstanbul'da etkili olan sağanağın ardından bazı yollarda ve caddelerde su birikintileri oluştu, otomobil ve motosiklet sürücüleri ilerlemekte güçlük çekti."
       },
       {
-        "title": "İstanbul'da gök gürültülü sağanak etkili oldu",
+        "title": "İstanbul'da iki metrobüsün çarpıştığı kazada 6 kişi yaralandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-gok-gurultulu-saganak-etkili-oldu/4110302",
-        "summary": "İstanbul'da akşam saatlerinde başlayan gök gürültülü sağanak nedeniyle ulaşım olumsuz etkilenirken bazı ilçelerde hasarlı kazalar meydana geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-iki-metrobusun-carpistigi-kazada-6-kisi-yaralandi/4111484",
+        "summary": "Esenyurt'ta iki metrobüsün çarpışması sonucu 6 kişi yaralandı."
       }
     ]
   }
