@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 12:51:58",
+  "updated_at": "2026-11-05 22:28:12",
   "markets": {
     "usd_try_kapalicarsi": "50.03 TL",
     "eur_try_kapalicarsi": "56.22 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
-    "bullet_1": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
-    "bullet_2": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
-    "bullet_3": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
+    "red_alert": "SON DAKİKA: Popular military air show permanently pulled from RAF Fairford after suspected terror threat",
+    "bullet_1": "Popular military air show permanently pulled from RAF Fairford after suspected terror threat",
+    "bullet_2": "Vector introduces ready-to-go one-way attack drone",
+    "bullet_3": "How General Dynamics Is Modernizing Military Communications Security",
     "defense_news": [
       {
-        "title": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
+        "title": "Popular military air show permanently pulled from RAF Fairford after suspected terror threat",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029/",
-        "summary": "“So it’s a bit fat, but it’s a Formula 1. It’s hypersonic, truly hypersonic, not just Mach 5,\" MBDA executive Lionel Mazenq said of the envisioned Hydis interceptor missile for Eur..."
+        "url": "https://www.defensenews.com/global/europe/2026/11/05/popular-military-air-show-permanently-pulled-from-raf-fairford-after-suspected-terror-threat/",
+        "summary": "Over a month after a suspected Iranian plot on RAF Fairford, organizers of the world's largest military air show announced its permanent departure to MOD Boscombe Down."
       },
       {
-        "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
+        "title": "Vector introduces ready-to-go one-way attack drone",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
-        "summary": "Two U.S. airmen supporting operations against Iran died last week in \"non-hostile\" incidents, raising the death toll to 23 since the war began."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/vector-introduces-ready-to-go-one-way-attack-drone/",
+        "summary": "The company said the Warfighter’s Stack consists of the drone, an HV-ESAD to hold an explosive payload, and a remote control."
       },
       {
-        "title": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
+        "title": "How General Dynamics Is Modernizing Military Communications Security",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing/",
-        "summary": "U.S. Air Force officials conceded that troop housing at Middle East bases was \"never designed for the threat environment now arriving overhead.\""
+        "url": "https://www.defensenews.com/video/2026/11/05/how-general-dynamics-is-modernizing-military-communications-security/",
+        "summary": "General Dynamics Mission Systems discusses high-speed encryption and adaptable security technology designed to protect military networks as cyber threats evolve"
       },
       {
-        "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+        "title": "Germany names Army Chief Freuding as next chief of defense",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-        "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference."
+        "url": "https://www.defensenews.com/global/europe/2026/11/05/germany-names-army-chief-freuding-as-next-chief-of-defense/",
+        "summary": "German Army Chief Christian Freuding will succeed Carsten Breuer to become the country's next chief of defense in February 2027."
       }
     ],
     "geo_news": [
       {
-        "title": "Ülke genelindeki kaçak ve sahte içki operasyonlarında 121 şüpheliye adli işlem yapıldı",
+        "title": "Mekke Anlaşması'nın Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi TBMM Genel Kurulunda kabul edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ulke-genelindeki-kacak-ve-sahte-icki-operasyonlarinda-121-supheliye-adli-islem-yapildi/4112858",
-        "summary": "İçişleri Bakanlığı, ülke genelinde kaçak ve sahte alkollü içki ticaretine yönelik eş zamanlı operasyonlarda 121 şüpheli hakkında adli işlem yapıldığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi/4113475",
+        "summary": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşması'nın Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBM..."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş: Fon soruşturması ihmal edilecek bir konu değil",
+        "title": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya'ya tutuklama talebi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-fon-sorusturmasi-ihmal-edilecek-bir-konu-degil/4112850",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, “Fon soruşturması geçiştirilecek, ihmal edilecek bir konu değil. Kimler bulaşmışsa burunlarından fitil fitil getirilmeli. Milletimizin beklentisi de a..."
+        "url": "https://www.aa.com.tr/tr/gundem/fon-sorusturmasi-kapsaminda-fatma-betul-sayan-kayaya-tutuklama-talebi/4113433",
+        "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"şüpheli\" sıfatıyla ifadesi alınan Fatma Betül Sayan Kaya tutuklama talebiyle hakimli..."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş: Terör bütün unsurlarıyla Türkiye'nin gündeminden kalkacak",
+        "title": "Denizli Devlet Hastanesi'nin açılışı bugün yapılacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-teror-butun-unsurlariyla-turkiyenin-gundeminden-kalkacak/4112834",
-        "summary": "TBMM Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye de hiç mübalağasız söylüyorum, Türkiye'nin ilk asrının en büyük projesidir. İnşallah bunu gerçekleştireceğiz, sonuç alacağız ve artı..."
+        "url": "https://www.aa.com.tr/tr/gundem/denizli-devlet-hastanesinin-acilisi-bugun-yapilacak/4113233",
+        "summary": "Denizli Devlet Hastanesi'nin açılışı, Sağlık Bakanı Kemal Memişoğlu'nun katılımıyla bugün gerçekleştirilecek."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Ayan'dan COP31 değerlendirmesi",
+        "title": "Bakan Memişoğlu: Sağlığın teknolojisini ve malzemesini de üretebilen, geliştirebilen bir insan gücüne sahibiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-ayandan-cop31-degerlendirmesi/4112827",
-        "summary": "AK Parti Genel Başkan Yardımcısı Ayan, Türkiye'nin ev sahipliğinde gerçekleşecek COP31 Zirvesi'nin yeşil alanında açacakları özel pavilyonda, yurt içi ve yurt dışından birçok payda..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-sagligin-teknolojisini-ve-malzemesini-de-uretebilen-gelistirebilen-bir-insan-gucune-sahibiz/4113407",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Sağlığın aynı zamanda teknolojisini, cihazını, malzemesini de üretebilen, bunları geliştirebilen bir insan gücüne sahibiz. Onun için 'Üreten Sağlık'..."
       }
     ]
   }
