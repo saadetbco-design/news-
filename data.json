@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-11-04 22:17:49",
+  "updated_at": "2026-11-05 12:51:58",
   "markets": {
-    "usd_try_kapalicarsi": "50.04 TL",
-    "eur_try_kapalicarsi": "56.01 TL",
+    "usd_try_kapalicarsi": "50.03 TL",
+    "eur_try_kapalicarsi": "56.22 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
-    "bullet_1": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
-    "bullet_2": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-    "bullet_3": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
+    "red_alert": "SON DAKİKA: MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
+    "bullet_1": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
+    "bullet_2": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
+    "bullet_3": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
     "defense_news": [
+      {
+        "title": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029/",
+        "summary": "“So it’s a bit fat, but it’s a Formula 1. It’s hypersonic, truly hypersonic, not just Mach 5,\" MBDA executive Lionel Mazenq said of the envisioned Hydis interceptor missile for Eur..."
+      },
+      {
+        "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
+        "summary": "Two U.S. airmen supporting operations against Iran died last week in \"non-hostile\" incidents, raising the death toll to 23 since the war began."
+      },
       {
         "title": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
         "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference."
-      },
-      {
-        "title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/",
-        "summary": "From polluted waterways to repeated safety violations, the Army’s aging ammunition factories have left a troubling legacy, The War Horse reports."
-      },
-      {
-        "title": "Saildrone expands its European market reach with manufacturing partner in Norway",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway/",
-        "summary": "CEO Tom Fidjeland told reporters at the Euronaval trade show here that taking on the work of churning out Surveyors was “technically not difficult,” with a first mold already being..."
       }
     ],
     "geo_news": [
       {
-        "title": "Mekke Anlaşması'nın Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi'nin birinci maddesi kabul edildi",
+        "title": "Ülke genelindeki kaçak ve sahte içki operasyonlarında 121 şüpheliye adli işlem yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifinin-birinci-maddesi-kabul-edildi/4112089",
-        "summary": "TBMM Genel Kurulunda Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşması'nın Onaylanmasının Uygun Bulunduğuna Da..."
+        "url": "https://www.aa.com.tr/tr/gundem/ulke-genelindeki-kacak-ve-sahte-icki-operasyonlarinda-121-supheliye-adli-islem-yapildi/4112858",
+        "summary": "İçişleri Bakanlığı, ülke genelinde kaçak ve sahte alkollü içki ticaretine yönelik eş zamanlı operasyonlarda 121 şüpheli hakkında adli işlem yapıldığını bildirdi."
       },
       {
-        "title": "NASA'nın Swift Gözlemevi Dünya'ya düşüyor",
+        "title": "TBMM Başkanı Kurtulmuş: Fon soruşturması ihmal edilecek bir konu değil",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/nasanin-swift-gozlemevi-dunyaya-dusuyor/4112068",
-        "summary": "ABD Havacılık ve Uzay Ajansının (NASA) Neil Gehrels Swift Gözlemevi'nin göreve başlamasından 22 yıl sonra kontrolsüz bir şekilde Dünya'ya doğru düşmeye başladığı bildirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-fon-sorusturmasi-ihmal-edilecek-bir-konu-degil/4112850",
+        "summary": "TBMM Başkanı Numan Kurtulmuş, “Fon soruşturması geçiştirilecek, ihmal edilecek bir konu değil. Kimler bulaşmışsa burunlarından fitil fitil getirilmeli. Milletimizin beklentisi de a..."
       },
       {
-        "title": "Palandöken Dağı'nda kar yağışı etkili oldu",
+        "title": "TBMM Başkanı Kurtulmuş: Terör bütün unsurlarıyla Türkiye'nin gündeminden kalkacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/palandoken-daginda-kar-yagisi-etkili-oldu/4112030",
-        "summary": "Erzurum'daki Palandöken Dağı'nda kar yağışı etkili oldu."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-teror-butun-unsurlariyla-turkiyenin-gundeminden-kalkacak/4112834",
+        "summary": "TBMM Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye de hiç mübalağasız söylüyorum, Türkiye'nin ilk asrının en büyük projesidir. İnşallah bunu gerçekleştireceğiz, sonuç alacağız ve artı..."
       },
       {
-        "title": "Olağanüstü tasfiye kapsamında 390 bin 219 yatırımcıya 62,2 milyar lira ödeme yapıldı",
+        "title": "AK Parti Genel Başkan Yardımcısı Ayan'dan COP31 değerlendirmesi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/olaganustu-tasfiye-kapsaminda-390-bin-219-yatirimciya-62-2-milyar-lira-odeme-yapildi/4112038",
-        "summary": "Fonların tasfiye sürecinde olağanüstü tasfiye kapsamında 390 bin 219 yatırımcıya 62,2 milyar lira ödeme yapıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-ayandan-cop31-degerlendirmesi/4112827",
+        "summary": "AK Parti Genel Başkan Yardımcısı Ayan, Türkiye'nin ev sahipliğinde gerçekleşecek COP31 Zirvesi'nin yeşil alanında açacakları özel pavilyonda, yurt içi ve yurt dışından birçok payda..."
       }
     ]
   }
