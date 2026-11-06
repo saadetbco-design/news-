@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-11-05 22:28:12",
+  "updated_at": "2026-11-06 12:37:12",
   "markets": {
-    "usd_try_kapalicarsi": "50.03 TL",
-    "eur_try_kapalicarsi": "56.22 TL",
+    "usd_try_kapalicarsi": "50.08 TL",
+    "eur_try_kapalicarsi": "56.24 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Popular military air show permanently pulled from RAF Fairford after suspected terror threat",
-    "bullet_1": "Popular military air show permanently pulled from RAF Fairford after suspected terror threat",
-    "bullet_2": "Vector introduces ready-to-go one-way attack drone",
-    "bullet_3": "How General Dynamics Is Modernizing Military Communications Security",
+    "red_alert": "SON DAKİKA: How a French frigate’s radical bow design makes for smooth sailing",
+    "bullet_1": "How a French frigate’s radical bow design makes for smooth sailing",
+    "bullet_2": "Shield AI to acquire radar maker Echodyne to bust drones",
+    "bullet_3": "Popular military air show permanently pulled from RAF Fairford after suspected terror threat",
     "defense_news": [
+      {
+        "title": "How a French frigate’s radical bow design makes for smooth sailing",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/06/how-a-french-frigates-radical-bow-design-makes-for-smooth-sailing/",
+        "summary": "The inverted bow on the new FDI frigates makes for better seakeeping, said the former French Navy captain who commanded the lead ship of the class during sea trials."
+      },
+      {
+        "title": "Shield AI to acquire radar maker Echodyne to bust drones",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
+        "summary": "Shield AI's CEO said the purchase of Echodyne supports the company’s aim to branch into different areas of unmanned systems."
+      },
       {
         "title": "Popular military air show permanently pulled from RAF Fairford after suspected terror threat",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/vector-introduces-ready-to-go-one-way-attack-drone/",
         "summary": "The company said the Warfighter’s Stack consists of the drone, an HV-ESAD to hold an explosive payload, and a remote control."
-      },
-      {
-        "title": "How General Dynamics Is Modernizing Military Communications Security",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/05/how-general-dynamics-is-modernizing-military-communications-security/",
-        "summary": "General Dynamics Mission Systems discusses high-speed encryption and adaptable security technology designed to protect military networks as cyber threats evolve"
-      },
-      {
-        "title": "Germany names Army Chief Freuding as next chief of defense",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/05/germany-names-army-chief-freuding-as-next-chief-of-defense/",
-        "summary": "German Army Chief Christian Freuding will succeed Carsten Breuer to become the country's next chief of defense in February 2027."
       }
     ],
     "geo_news": [
       {
-        "title": "Mekke Anlaşması'nın Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi TBMM Genel Kurulunda kabul edildi",
+        "title": "CANLI: Cumhurbaşkanı Erdoğan konuşuyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi/4113475",
-        "summary": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşması'nın Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBM..."
+        "url": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor-/4113841",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul Kongre Merkezi'nde, \"TRT World Forum 2026 Resmi Açılış Töreni\"nde konuşuyor."
       },
       {
-        "title": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya'ya tutuklama talebi",
+        "title": "Tokat'ta \"Yapay Zekada Anadolu Buluşmaları\" programı düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/fon-sorusturmasi-kapsaminda-fatma-betul-sayan-kayaya-tutuklama-talebi/4113433",
-        "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"şüpheli\" sıfatıyla ifadesi alınan Fatma Betül Sayan Kaya tutuklama talebiyle hakimli..."
+        "url": "https://www.aa.com.tr/tr/gundem/tokatta-yapay-zekada-anadolu-bulusmalari-programi-duzenlendi/4113043",
+        "summary": "Tokat Gaziosmanpaşa Üniversitesinde (TOGÜ) \"Yapay Zekada Anadolu Buluşmaları\" programı düzenlendi."
       },
       {
-        "title": "Denizli Devlet Hastanesi'nin açılışı bugün yapılacak",
+        "title": "TRT World Forum İstanbul'da başladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/denizli-devlet-hastanesinin-acilisi-bugun-yapilacak/4113233",
-        "summary": "Denizli Devlet Hastanesi'nin açılışı, Sağlık Bakanı Kemal Memişoğlu'nun katılımıyla bugün gerçekleştirilecek."
+        "url": "https://www.aa.com.tr/tr/gundem/trt-world-forum-istanbulda-basladi-/4113949",
+        "summary": "TRT World Forum, 10. yılında \"Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?\" temasıyla İstanbul'da başladı."
       },
       {
-        "title": "Bakan Memişoğlu: Sağlığın teknolojisini ve malzemesini de üretebilen, geliştirebilen bir insan gücüne sahibiz",
+        "title": "AK Parti Genel Başkan Yardımcısı Zorlu: Uluslararası El-Farabi Araştırma Merkezi kurulmalı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-sagligin-teknolojisini-ve-malzemesini-de-uretebilen-gelistirebilen-bir-insan-gucune-sahibiz/4113407",
-        "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Sağlığın aynı zamanda teknolojisini, cihazını, malzemesini de üretebilen, bunları geliştirebilen bir insan gücüne sahibiz. Onun için 'Üreten Sağlık'..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-uluslararasi-el-farabi-arastirma-merkezi-kurulmali/4113959",
+        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Türk dünyasının bilimsel ve akademik işbirliğinin güçlendirilmesi amacıyla ortak bir \"Ulusla..."
       }
     ]
   }
