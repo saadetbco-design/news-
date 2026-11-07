@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-06 21:53:45",
+  "updated_at": "2026-11-07 11:25:28",
   "markets": {
-    "usd_try_kapalicarsi": "50.08 TL",
-    "eur_try_kapalicarsi": "56.24 TL",
+    "usd_try_kapalicarsi": "50.18 TL",
+    "eur_try_kapalicarsi": "55.99 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "İçişleri Bakanı Çiftçi: Fon soruşturmasında şu ana kadar toplamda 433 şüpheli şahıstan 112'si tutuklanmış durumda",
+        "title": "COP31'de \"küresel iklim politikası\" Mavi Bölge'de şekillenecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-fon-sorusturmasinda-su-ana-kadar-toplamda-433-supheli-sahistan-112si-tutuklanmis-durumda/4114807",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, fon soruşturmasına ilişkin, \"Şu ana kadar toplamda 433 şüpheli şahıstan 112'si tutuklanmış durumda. Yine 359 gerçek ve 111 tüzel kişinin mal varlıkl..."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31de-kuresel-iklim-politikasi-mavi-bolgede-sekillenecek/4115081",
+        "summary": "Türkiye'nin ev sahipliğinde gerçekleştirilecek BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), dünya liderleri, iklimin geleceğini Mavi Bölge'de mü..."
       },
       {
-        "title": "TRT World Forum 2026'da \"Uluslararası Hukuk ile İnsani Çöküşün Kesişiminde Gazze\" paneli düzenlendi",
+        "title": "Dışişleri Bakanı Fidan: Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemeli",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/trt-world-forum-2026da-uluslararasi-hukuk-ile-insani-cokusun-kesisiminde-gazze-paneli-duzenlendi/4114797",
-        "summary": "TRT World Forum 2026 kapsamında düzenlenen \"Uluslararası Hukuk ile İnsani Çöküşün Kesişiminde Gazze\" başlıklı panelde, İsrail'in Gazze'de sürdürdüğü insan hakları ihlalleri ve ulus..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-politik-anlasmazliklar-global-ekonomileri-surduren-sistemleri-paralize-etmemeli/4115057",
+        "summary": "Bakan Fidan, \"Rotalar korunmalı, çatışmalar kısıtlanmalıdır. Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemelidir. Türkiye sürdürülebilir diplomasi sa..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, 11 üniversiteye rektör atadı",
+        "title": "Gençler COP31'de geleceğin iklim politikalarına katkı sunacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-11-universiteye-rektor-atadi/4114801",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 11 üniversiteye rektör ataması yaptı."
+        "url": "https://www.aa.com.tr/tr/gundem/gencler-cop31de-gelecegin-iklim-politikalarina-katki-sunacak/4114956",
+        "summary": "Türkiye'nin ev sahipliğinde düzenlenecek Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), farklı ülkelerden gençler iklim kriz..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Malezya Başbakan Yardımcısı Hamidi'yi kabul etti",
+        "title": "Aydın'da mobilya deposunda çıkan yangın kontrol altına alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidiyi-kabul-etti/4114762",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi'yi kabul etti."
+        "url": "https://www.aa.com.tr/tr/gundem/aydinda-mobilya-deposunda-cikan-yangin-kontrol-altina-alindi/4115027",
+        "summary": "Aydın'ın Kuşadası ilçesinde mobilya deposunda çıkan yangın kontrol altına alındı."
       }
     ]
   }
