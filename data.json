@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 11:25:28",
+  "updated_at": "2026-11-07 20:37:19",
   "markets": {
     "usd_try_kapalicarsi": "50.18 TL",
     "eur_try_kapalicarsi": "55.99 TL",
@@ -9,11 +9,17 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Army feeds culinary soldiers new job title",
-    "bullet_1": "US Army feeds culinary soldiers new job title",
-    "bullet_2": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
-    "bullet_3": "BCE Consulting outlines the critical elements of layered air defense architecture",
+    "red_alert": "SON DAKİKA: European troops set to train in Poland for postwar Ukraine deployment",
+    "bullet_1": "European troops set to train in Poland for postwar Ukraine deployment",
+    "bullet_2": "US Army feeds culinary soldiers new job title",
+    "bullet_3": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
     "defense_news": [
+      {
+        "title": "European troops set to train in Poland for postwar Ukraine deployment",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/",
+        "summary": "Britain and France will lead 2,800 troops from 11 nations in a two-week exercise testing how to move, protect and supply a force to rebuild Ukraine’s military after the war ends."
+      },
       {
         "title": "US Army feeds culinary soldiers new job title",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
         "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces."
-      },
-      {
-        "title": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/06/russia-using-own-version-of-starlink-for-military-comms-over-ukraine-kyiv-says/",
-        "summary": "Russia is already using its new Rassvet satellite network — billed as a homegrown version of Starlink — for military communications over Ukraine, according to Ukrainian military in..."
       }
     ],
     "geo_news": [
       {
-        "title": "COP31'de \"küresel iklim politikası\" Mavi Bölge'de şekillenecek",
+        "title": "Kastamonu merkezli uyuşturucu operasyonunda 25 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31de-kuresel-iklim-politikasi-mavi-bolgede-sekillenecek/4115081",
-        "summary": "Türkiye'nin ev sahipliğinde gerçekleştirilecek BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), dünya liderleri, iklimin geleceğini Mavi Bölge'de mü..."
+        "url": "https://www.aa.com.tr/tr/gundem/kastamonu-merkezli-uyusturucu-operasyonunda-25-supheli-tutuklandi-/4115387",
+        "summary": "Kastamonu merkezli 3 ilde düzenlenen uyuşturucu operasyonunda gözaltına alınan 35 şüpheliden 25'i tutuklandı."
       },
       {
-        "title": "Dışişleri Bakanı Fidan: Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemeli",
+        "title": "Kars'ta kar yağışıyla ayılar mahalleye indi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-politik-anlasmazliklar-global-ekonomileri-surduren-sistemleri-paralize-etmemeli/4115057",
-        "summary": "Bakan Fidan, \"Rotalar korunmalı, çatışmalar kısıtlanmalıdır. Politik anlaşmazlıklar global ekonomileri sürdüren sistemleri paralize etmemelidir. Türkiye sürdürülebilir diplomasi sa..."
+        "url": "https://www.aa.com.tr/tr/gundem/karsta-kar-yagisiyla-ayilar-mahalleye-indi-/4115511",
+        "summary": "Kars'ın Sarıkamış ilçesinde bozayılar, yavrularıyla geldikleri mahallede çöp konteynerlerinde beslenmeye çalıştı."
       },
       {
-        "title": "Gençler COP31'de geleceğin iklim politikalarına katkı sunacak",
+        "title": "Van'da tır ile minibüsün çarpışması sonucu 9 kişi öldü, 5 kişi yaralandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/gencler-cop31de-gelecegin-iklim-politikalarina-katki-sunacak/4114956",
-        "summary": "Türkiye'nin ev sahipliğinde düzenlenecek Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), farklı ülkelerden gençler iklim kriz..."
+        "url": "https://www.aa.com.tr/tr/gundem/vanda-tir-ile-minibusun-carpismasi-sonucu-9-kisi-oldu-5-kisi-yaralandi/4115488",
+        "summary": "Van'ın Özalp ilçesinde tır ile minibüsün çarpışması sonucu 9 kişi hayatını kaybetti, 5 kişi yaralandı."
       },
       {
-        "title": "Aydın'da mobilya deposunda çıkan yangın kontrol altına alındı",
+        "title": "Cumhurbaşkanı Erdoğan, yarın Azerbaycan'a gidecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/aydinda-mobilya-deposunda-cikan-yangin-kontrol-altina-alindi/4115027",
-        "summary": "Aydın'ın Kuşadası ilçesinde mobilya deposunda çıkan yangın kontrol altına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarin-azerbaycana-gidecek/4115459",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın Azerbaycan'a gidecek."
       }
     ]
   }
