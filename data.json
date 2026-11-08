@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 11:37:30",
+  "updated_at": "2026-11-08 20:54:50",
   "markets": {
     "usd_try_kapalicarsi": "50.17 TL",
     "eur_try_kapalicarsi": "56.01 TL",
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Türkiye'den Polonya'daki terör saldırısında hayatını kaybedenler için taziye mesajı",
+        "title": "15 Temmuz Şehitler Köprüsü Azerbaycan bayrağının renkleriyle ışıklandırıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyeden-polonyadaki-teror-saldirisinda-hayatini-kaybedenler-icin-taziye-mesaji/4115880",
-        "summary": "Dışişleri Bakanlığı, Polonya'nın Krakov şehrinde düzenlenen terör saldırısında hayatını kaybedenler için taziye mesajı yayımladı."
+        "url": "https://www.aa.com.tr/tr/gundem/15-temmuz-sehitler-koprusu-azerbaycan-bayraginin-renkleriyle-isiklandirildi/4116323",
+        "summary": "Azerbaycan'ın Karabağ Zaferi dolayısıyla kutlanan \"8 Kasım Zafer Günü\"nde Galata Kulesi ve 15 Temmuz Şehitler Köprüsü özel ışıklandırmayla bu ülkenin bayrağının renklerine büründü."
       },
       {
-        "title": "Bakan Çiftçi'den Ulus'ta mevzuata aykırı yapıların yıkıldığı alandaki denetimlere ilişkin paylaşım",
+        "title": "Konya Tropikal Kelebek Bahçesi, COP31'de yerini aldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftciden-ulusta-mevzuata-aykiri-yapilarin-yikildigi-alandaki-denetimlere-iliskin-paylasim/4115878",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Hedefimiz, bu müstesna bölgenin manevi iklimini koruyarak tarihi mirasını ihya etmek, hemşehrilerimizin huzurla vakit geçirebileceği güvenli ve nez..."
+        "url": "https://www.aa.com.tr/tr/gundem/konya-tropikal-kelebek-bahcesi-cop31de-yerini-aldi/4116308",
+        "summary": "Konya Tropikal Kelebek Bahçesi'nin birebir aynısı, Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek COP31 İklim Zirvesi'nde dünyanın farklı ülkelerinden ziyaretçi ağırlaya..."
       },
       {
-        "title": "Hezarfen Havaalanı'nda eğitim uçağı iniş sırasında kaza kırıma uğradı",
+        "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'dan yurda döndü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/hezarfen-havaalaninda-egitim-ucagi-inis-sirasinda-kaza-kirima-ugradi/4115877",
-        "summary": "Hezarfen Havaalanı'nda eğitim uçuşu yapan uçak, iniş sırasında pistten çıkarak kaza kırıma uğradı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycandan-yurda-dondu/4116274",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'daki temaslarının ardından yurda döndü."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Karabağ Zaferi'nin 6. yılını kutladı",
+        "title": "İletişim Başkanı Duran'dan COP31'e ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-karabag-zaferinin-6-yilini-kutladi/4115874",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın Karabağ Zaferi dolayısıyla kutlanan 8 Kasım Zafer Günü'nü tebrik etti."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cop31e-iliskin-paylasim/4116217",
+        "summary": "İletişim Başkanı Duran, \"İnanıyorum ki COP31, ülkeler arasındaki işbirliğini güçlendiren, ortak sorumluluk bilincini geliştiren ve iklim eylemini somut sonuçlara taşıyan önemli bir..."
       }
     ]
   }
