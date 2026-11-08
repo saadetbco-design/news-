@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-07 20:37:19",
+  "updated_at": "2026-11-08 11:37:30",
   "markets": {
-    "usd_try_kapalicarsi": "50.18 TL",
-    "eur_try_kapalicarsi": "55.99 TL",
+    "usd_try_kapalicarsi": "50.17 TL",
+    "eur_try_kapalicarsi": "56.01 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Kastamonu merkezli uyuşturucu operasyonunda 25 şüpheli tutuklandı",
+        "title": "Türkiye'den Polonya'daki terör saldırısında hayatını kaybedenler için taziye mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kastamonu-merkezli-uyusturucu-operasyonunda-25-supheli-tutuklandi-/4115387",
-        "summary": "Kastamonu merkezli 3 ilde düzenlenen uyuşturucu operasyonunda gözaltına alınan 35 şüpheliden 25'i tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyeden-polonyadaki-teror-saldirisinda-hayatini-kaybedenler-icin-taziye-mesaji/4115880",
+        "summary": "Dışişleri Bakanlığı, Polonya'nın Krakov şehrinde düzenlenen terör saldırısında hayatını kaybedenler için taziye mesajı yayımladı."
       },
       {
-        "title": "Kars'ta kar yağışıyla ayılar mahalleye indi",
+        "title": "Bakan Çiftçi'den Ulus'ta mevzuata aykırı yapıların yıkıldığı alandaki denetimlere ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/karsta-kar-yagisiyla-ayilar-mahalleye-indi-/4115511",
-        "summary": "Kars'ın Sarıkamış ilçesinde bozayılar, yavrularıyla geldikleri mahallede çöp konteynerlerinde beslenmeye çalıştı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftciden-ulusta-mevzuata-aykiri-yapilarin-yikildigi-alandaki-denetimlere-iliskin-paylasim/4115878",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Hedefimiz, bu müstesna bölgenin manevi iklimini koruyarak tarihi mirasını ihya etmek, hemşehrilerimizin huzurla vakit geçirebileceği güvenli ve nez..."
       },
       {
-        "title": "Van'da tır ile minibüsün çarpışması sonucu 9 kişi öldü, 5 kişi yaralandı",
+        "title": "Hezarfen Havaalanı'nda eğitim uçağı iniş sırasında kaza kırıma uğradı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/vanda-tir-ile-minibusun-carpismasi-sonucu-9-kisi-oldu-5-kisi-yaralandi/4115488",
-        "summary": "Van'ın Özalp ilçesinde tır ile minibüsün çarpışması sonucu 9 kişi hayatını kaybetti, 5 kişi yaralandı."
+        "url": "https://www.aa.com.tr/tr/gundem/hezarfen-havaalaninda-egitim-ucagi-inis-sirasinda-kaza-kirima-ugradi/4115877",
+        "summary": "Hezarfen Havaalanı'nda eğitim uçuşu yapan uçak, iniş sırasında pistten çıkarak kaza kırıma uğradı."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, yarın Azerbaycan'a gidecek",
+        "title": "Cumhurbaşkanı Erdoğan, Karabağ Zaferi'nin 6. yılını kutladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarin-azerbaycana-gidecek/4115459",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın Azerbaycan'a gidecek."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-karabag-zaferinin-6-yilini-kutladi/4115874",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın Karabağ Zaferi dolayısıyla kutlanan 8 Kasım Zafer Günü'nü tebrik etti."
       }
     ]
   }
