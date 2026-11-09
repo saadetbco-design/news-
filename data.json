@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-11-08 20:54:50",
+  "updated_at": "2026-11-09 13:30:01",
   "markets": {
-    "usd_try_kapalicarsi": "50.17 TL",
-    "eur_try_kapalicarsi": "56.01 TL",
+    "usd_try_kapalicarsi": "50.19 TL",
+    "eur_try_kapalicarsi": "55.96 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: European troops set to train in Poland for postwar Ukraine deployment",
-    "bullet_1": "European troops set to train in Poland for postwar Ukraine deployment",
-    "bullet_2": "US Army feeds culinary soldiers new job title",
-    "bullet_3": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
+    "red_alert": "SON DAKİKA: Swiss neutrality proponents challenge arms firms in vote on easing of exports",
+    "bullet_1": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
+    "bullet_2": "European troops set to train in Poland for postwar Ukraine deployment",
+    "bullet_3": "US Army feeds culinary soldiers new job title",
     "defense_news": [
+      {
+        "title": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports/",
+        "summary": "Swiss voters will decide on Nov. 29 whether to block a bill relaxing curbs on weapons exports, in a referendum that touches on Switzerland's evolving neutral tradition."
+      },
       {
         "title": "European troops set to train in Poland for postwar Ukraine deployment",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/the-americas/2026/11/06/us-colombian-troops-kick-off-exercise-amid-the-pentagons-western-hemisphere-pivot/",
         "summary": "Hundreds of American and Colombian troops kicked off a sprawling military exercise in Colombia this week as the U.S. military sharpens its focus on the Western Hemisphere."
-      },
-      {
-        "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
-        "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces."
       }
     ],
     "geo_news": [
       {
-        "title": "15 Temmuz Şehitler Köprüsü Azerbaycan bayrağının renkleriyle ışıklandırıldı",
+        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Rusya'nın Ankara Büyükelçisi Verşinin ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/15-temmuz-sehitler-koprusu-azerbaycan-bayraginin-renkleriyle-isiklandirildi/4116323",
-        "summary": "Azerbaycan'ın Karabağ Zaferi dolayısıyla kutlanan \"8 Kasım Zafer Günü\"nde Galata Kulesi ve 15 Temmuz Şehitler Köprüsü özel ışıklandırmayla bu ülkenin bayrağının renklerine büründü."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-rusyanin-ankara-buyukelcisi-versinin-ile-gorustu/4117348",
+        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Rusya'nın Ankara Büyükelçisi Sergey Verşinin ile görüştü."
       },
       {
-        "title": "Konya Tropikal Kelebek Bahçesi, COP31'de yerini aldı",
+        "title": "Adana'da 4,6 büyüklüğünde deprem",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/konya-tropikal-kelebek-bahcesi-cop31de-yerini-aldi/4116308",
-        "summary": "Konya Tropikal Kelebek Bahçesi'nin birebir aynısı, Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilecek COP31 İklim Zirvesi'nde dünyanın farklı ülkelerinden ziyaretçi ağırlaya..."
+        "url": "https://www.aa.com.tr/tr/gundem/adanada-4-6-buyuklugunde-deprem/4117328",
+        "summary": "Adana'nın Kozan ilçesinde saat 15.28'de 4,6 büyüklüğünde deprem meydana geldi."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'dan yurda döndü",
+        "title": "Anadolu Ajansı, COP31 kapsamında \"İklim Nesli: Gençlik, Eğitim ve Medyanın Gücü\" paneli düzenleyecek",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycandan-yurda-dondu/4116274",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'daki temaslarının ardından yurda döndü."
+        "url": "https://www.aa.com.tr/tr/gundem/anadolu-ajansi-cop31-kapsaminda-iklim-nesli-genclik-egitim-ve-medyanin-gucu-paneli-duzenleyecek/4117187",
+        "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında, \"İklim Nesli: Gençlik, Eğitim ve Medyanın Gücü\" başlıklı panel, 14 Kasım Cu..."
       },
       {
-        "title": "İletişim Başkanı Duran'dan COP31'e ilişkin paylaşım",
+        "title": "Cumhurbaşkanı Erdoğan: İnsanımızın huzuruna kasteden hiçbir yapıya müsamahamız yoktur",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cop31e-iliskin-paylasim/4116217",
-        "summary": "İletişim Başkanı Duran, \"İnanıyorum ki COP31, ülkeler arasındaki işbirliğini güçlendiren, ortak sorumluluk bilincini geliştiren ve iklim eylemini somut sonuçlara taşıyan önemli bir..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-insanimizin-huzuruna-kasteden-hicbir-yapiya-musamahamiz-yoktur/4116605",
+        "summary": "Cumhurbaşkanı Erdoğan, \"İnsanımızın huzuruna kasteden ister terör örgütleri, ister zehir tacirleri, isterse sokak çeteleri olsun hiçbir yapıya müsamahamız yoktur. Bunların hukuk iç..."
       }
     ]
   }
