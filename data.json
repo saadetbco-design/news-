@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 13:09:35",
+  "updated_at": "2026-11-10 22:05:17",
   "markets": {
     "usd_try_kapalicarsi": "50.20 TL",
     "eur_try_kapalicarsi": "56.25 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: France orders military Earth-observation satellites for more than €1.5 billion",
-    "bullet_1": "France orders military Earth-observation satellites for more than €1.5 billion",
-    "bullet_2": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
-    "bullet_3": "Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic",
+    "red_alert": "SON DAKİKA: US soldier arrested in UK for suspected ‘espionage’ for Russia",
+    "bullet_1": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
+    "bullet_2": "Most Americans want new Democratic Congress to end Trump’s Iran war, poll finds",
+    "bullet_3": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
     "defense_news": [
       {
-        "title": "France orders military Earth-observation satellites for more than €1.5 billion",
+        "title": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/10/france-orders-military-earth-observation-satellites-for-more-than-e1-5-billion/",
-        "summary": "France ordered two military Earth-observation satellites from Airbus and Thales Alenia Space for more than €1.5 billion (US$1.7 billion)."
+        "url": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
+        "summary": "A senior U.S. soldier was arrested in Britain on suspicion of assisting Russian ​intelligence, British police said on Tuesday."
       },
       {
-        "title": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
+        "title": "Most Americans want new Democratic Congress to end Trump’s Iran war, poll finds",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/",
-        "summary": "For underwater use, the company’s fiber-optic sensing can detect an oil tanker at 100 kilometers, the CEO said."
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
+        "summary": "A new Reuters/Ipsos poll found that 71% of Americans want Congress to pass legislation ending the conflict with Iran."
       },
       {
-        "title": "Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic",
+        "title": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/09/firm-bets-on-converted-fishing-trawlers-to-tackle-russian-submarines-in-the-arctic/",
-        "summary": "The company’s Arctic Hunter idea involves an industry-standard 56-meter trawler design whose fish-processing innards are ripped out and replaced with autonomy features."
+        "url": "https://www.defensenews.com/global/europe/2026/11/10/ukraine-urges-us-to-speed-up-interceptor-deliveries-as-russia-targets-power-grid/",
+        "summary": "Ukraine's foreign minister urged Secretary of State Marco Rubio to accelerate deliveries of interceptors as Russia attempts to break Ukranian morale ahead of its winter months."
       },
       {
-        "title": "Neros to expand domestic drone production with $450M Pentagon loan",
+        "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
-        "summary": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
+        "summary": "For the first time, Shield’s Hivemind enabled CCAs to fly in a “multi-ship” formation and execute beyond-visual-range counter-air tactics."
       }
     ],
     "geo_news": [
       {
-        "title": "COP31 Yeşil Bölge'deki \"Küresel Çevre Fonu Küçük Destek Programı\" pavilyonu tanıtıldı",
+        "title": "İstanbul genelinde bu yıl 12 bin 500'ü aşkın su ürünleri denetimi gerçekleştirildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31-yesil-bolgedeki-kuresel-cevre-fonu-kucuk-destek-programi-pavilyonu-tanitildi/4118858",
-        "summary": "Antalya'da düzenlenen COP31 kapsamında kurulan Birleşmiş Milletler Kalkınma Programının (UNDP) Küresel Çevre Fonu Küçük Destek Programı (GEF SGP) pavilyonu tanıtıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-genelinde-bu-yil-12-bin-500u-askin-su-urunleri-denetimi-gerceklestirildi/4119552",
+        "summary": "İstanbul İl Tarım ve Orman Müdürü Suat Parıldar, 1 Ocak tarihinden bugüne kadar 12 bin 500'ü aşkın su ürünleri denetim faaliyeti gerçekleştirdiklerini belirtti."
       },
       {
-        "title": "İletişim Başkanlığının \"COP31\" temalı \"Ayın Tarihi\" dergisinin ekim sayısı yayımlandı",
+        "title": "Antalya'da COP31 Dünya Liderler Zirvesi kapsamında trafik tedbirleri uygulanacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanliginin-cop31-temali-ayin-tarihi-dergisinin-ekim-sayisi-yayimlandi/4118869",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca hazırlanan \"Ayın Tarihi\" dergisinin COP31 temalı ekim sayısı okuyucuyla buluştu."
+        "url": "https://www.aa.com.tr/tr/gundem/antalyada-cop31-dunya-liderler-zirvesi-kapsaminda-trafik-tedbirleri-uygulanacak/4119522",
+        "summary": "Antalya'da 11-12 Kasım'da gerçekleştirilecek COP31 Dünya Liderler Zirvesi dolayısıyla kent genelinde üst düzey güvenlik ve ulaşım tedbirleri alınacak."
       },
       {
-        "title": "FETÖ'nün kamu mahrem yapılanmasına yönelik soruşturmada 6 şüpheli yakalandı",
+        "title": "Silivri Başsavcılığı Kozinoğlu'nun ölümüne ilişkin Adli Tıp raporuna itiraz etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/fetonun-kamu-mahrem-yapilanmasina-yonelik-sorusturmada-6-supheli-yakalandi/4118847",
-        "summary": "Ankara merkezli 3 ilde Fetullahçı Terör Örgütü'nün (FETÖ) kamu mahrem yapılanmasında faaliyet gösterdikleri belirlenen 6 şüpheli gözaltına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/silivri-bassavciligi-kozinoglunun-olumune-iliskin-adli-tip-raporuna-itiraz-etti/4119512",
+        "summary": "Silivri Cumhuriyet Başsavcılığı, eski MİT görevlisi Kaşif Kozinoğlu'nun ölüm nedenine ilişkin hazırlanan Adli Tıp raporuna itirazda bulundu."
       },
       {
-        "title": "Malezyalı Bakan Nga, Türkiye ile aralarında güçlü ve sağlam ortaklık bulunduğunu söyledi",
+        "title": "AK Parti Grup Başkanvekili Yenişehirlioğlu: Filistin özgür oluncaya kadar mazlumların sesi olmaya devam edeceğiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/malezyali-bakan-nga-turkiye-ile-aralarinda-guclu-ve-saglam-ortaklik-bulundugunu-soyledi/4118817",
-        "summary": "Malezya Konut ve Yerel Yönetim Bakanı ve Birleşmiş Milletler İnsan Yerleşimleri Programı (UN-Habitat) Asamblesi Başkanı Nga Kor Ming, Türkiye ile Malezya arasındaki ilişkilerin dos..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-grup-baskanvekili-yenisehirlioglu-filistin-ozgur-oluncaya-kadar-mazlumlarin-sesi-olmaya-devam-edecegiz/4119452",
+        "summary": "AK Parti Grup Başkanvekili Yenişehirlioğlu, \"Gazze, insanlığın vicdan imtihanıdır. Filistin özgür oluncaya, Kudüs adaletle buluşuncaya, Gazze çocukların kahkahalarıyla yeniden haya..."
       }
     ]
   }
