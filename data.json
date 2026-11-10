@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-11-10 00:30:47",
+  "updated_at": "2026-11-10 13:09:35",
   "markets": {
-    "usd_try_kapalicarsi": "50.19 TL",
-    "eur_try_kapalicarsi": "55.96 TL",
+    "usd_try_kapalicarsi": "50.20 TL",
+    "eur_try_kapalicarsi": "56.25 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
-    "bullet_1": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
-    "bullet_2": "Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic",
-    "bullet_3": "Neros to expand domestic drone production with $450M Pentagon loan",
+    "red_alert": "SON DAKİKA: France orders military Earth-observation satellites for more than €1.5 billion",
+    "bullet_1": "France orders military Earth-observation satellites for more than €1.5 billion",
+    "bullet_2": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
+    "bullet_3": "Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic",
     "defense_news": [
+      {
+        "title": "France orders military Earth-observation satellites for more than €1.5 billion",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/10/france-orders-military-earth-observation-satellites-for-more-than-e1-5-billion/",
+        "summary": "France ordered two military Earth-observation satellites from Airbus and Thales Alenia Space for more than €1.5 billion (US$1.7 billion)."
+      },
       {
         "title": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
         "summary": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat."
-      },
-      {
-        "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/",
-        "summary": "New drone innovations are highlighted in Part 2 of our Business of Defense series. Plus, a sneak peek into a new Smithsonian military aviation exhibit, and tips to avoid scams."
       }
     ],
     "geo_news": [
       {
-        "title": "\"Dinamik ve Dayanıklı Sağlık Sistemleri: Ülke Tecrübeleri\" paneli düzenlendi",
+        "title": "COP31 Yeşil Bölge'deki \"Küresel Çevre Fonu Küçük Destek Programı\" pavilyonu tanıtıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/dinamik-ve-dayanikli-saglik-sistemleri-ulke-tecrubeleri-paneli-duzenlendi/4118026",
-        "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Sağlıkta adalet, insanın en çaresiz anında da hakkını korumayı gerektirir. Gazze'de bir çocuğun temiz suya, bir yaralının ilaca ve tedaviye erişmesi..."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31-yesil-bolgedeki-kuresel-cevre-fonu-kucuk-destek-programi-pavilyonu-tanitildi/4118858",
+        "summary": "Antalya'da düzenlenen COP31 kapsamında kurulan Birleşmiş Milletler Kalkınma Programının (UNDP) Küresel Çevre Fonu Küçük Destek Programı (GEF SGP) pavilyonu tanıtıldı."
       },
       {
-        "title": "İçişleri Bakanı Çiftçi'den \"İyi ki Erdoğan var\" paylaşımı",
+        "title": "İletişim Başkanlığının \"COP31\" temalı \"Ayın Tarihi\" dergisinin ekim sayısı yayımlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-iyi-ki-erdogan-var-paylasimi/4117949",
-        "summary": "Bakan Çiftçi, \"Dünyanın savaşlar ve krizlerle sınandığı bir dönemde, muhterem Cumhurbaşkanımız Recep Tayyip Erdoğan'ın liderliğinde Türkiye'miz, milli birlik ve kardeşliğini güçlen..."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanliginin-cop31-temali-ayin-tarihi-dergisinin-ekim-sayisi-yayimlandi/4118869",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca hazırlanan \"Ayın Tarihi\" dergisinin COP31 temalı ekim sayısı okuyucuyla buluştu."
       },
       {
-        "title": "Sağlık Bakanı Memişoğlu, COP31'de \"Üst Düzey Yuvarlak Masa Toplantısı\"na katıldı",
+        "title": "FETÖ'nün kamu mahrem yapılanmasına yönelik soruşturmada 6 şüpheli yakalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-cop31de-ust-duzey-yuvarlak-masa-toplantisina-katildi/4117540",
-        "summary": "Sağlık Bakanı Kemal Memişoğlu, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında düzenlenen Üst Düzey Yuvarlak Masa Toplantısı..."
+        "url": "https://www.aa.com.tr/tr/gundem/fetonun-kamu-mahrem-yapilanmasina-yonelik-sorusturmada-6-supheli-yakalandi/4118847",
+        "summary": "Ankara merkezli 3 ilde Fetullahçı Terör Örgütü'nün (FETÖ) kamu mahrem yapılanmasında faaliyet gösterdikleri belirlenen 6 şüpheli gözaltına alındı."
       },
       {
-        "title": "İletişim Başkanı Duran'dan \"COP31\" paylaşımı",
+        "title": "Malezyalı Bakan Nga, Türkiye ile aralarında güçlü ve sağlam ortaklık bulunduğunu söyledi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cop31-paylasimi/4117971",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, NSosyal hesabından COP31'e ilişkin paylaşımda bulundu."
+        "url": "https://www.aa.com.tr/tr/gundem/malezyali-bakan-nga-turkiye-ile-aralarinda-guclu-ve-saglam-ortaklik-bulundugunu-soyledi/4118817",
+        "summary": "Malezya Konut ve Yerel Yönetim Bakanı ve Birleşmiş Milletler İnsan Yerleşimleri Programı (UN-Habitat) Asamblesi Başkanı Nga Kor Ming, Türkiye ile Malezya arasındaki ilişkilerin dos..."
       }
     ]
   }
