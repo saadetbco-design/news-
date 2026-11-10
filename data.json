@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 13:30:01",
+  "updated_at": "2026-11-10 00:30:47",
   "markets": {
     "usd_try_kapalicarsi": "50.19 TL",
     "eur_try_kapalicarsi": "55.96 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Swiss neutrality proponents challenge arms firms in vote on easing of exports",
-    "bullet_1": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
-    "bullet_2": "European troops set to train in Poland for postwar Ukraine deployment",
-    "bullet_3": "US Army feeds culinary soldiers new job title",
+    "red_alert": "SON DAKİKA: Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
+    "bullet_1": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
+    "bullet_2": "Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic",
+    "bullet_3": "Neros to expand domestic drone production with $450M Pentagon loan",
     "defense_news": [
       {
-        "title": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
+        "title": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports/",
-        "summary": "Swiss voters will decide on Nov. 29 whether to block a bill relaxing curbs on weapons exports, in a referendum that touches on Switzerland's evolving neutral tradition."
+        "url": "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/",
+        "summary": "For underwater use, the company’s fiber-optic sensing can detect an oil tanker at 100 kilometers, the CEO said."
       },
       {
-        "title": "European troops set to train in Poland for postwar Ukraine deployment",
+        "title": "Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/",
-        "summary": "Britain and France will lead 2,800 troops from 11 nations in a two-week exercise testing how to move, protect and supply a force to rebuild Ukraine’s military after the war ends."
+        "url": "https://www.defensenews.com/global/europe/2026/11/09/firm-bets-on-converted-fishing-trawlers-to-tackle-russian-submarines-in-the-arctic/",
+        "summary": "The company’s Arctic Hunter idea involves an industry-standard 56-meter trawler design whose fish-processing innards are ripped out and replaced with autonomy features."
       },
       {
-        "title": "US Army feeds culinary soldiers new job title",
+        "title": "Neros to expand domestic drone production with $450M Pentagon loan",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/land/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title/",
-        "summary": "Formerly known as culinary specialists, a soldier with the 92G occupation identifier will henceforth be known as a “tactical field feeding specialist.”"
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
+        "summary": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat."
       },
       {
-        "title": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
+        "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/the-americas/2026/11/06/us-colombian-troops-kick-off-exercise-amid-the-pentagons-western-hemisphere-pivot/",
-        "summary": "Hundreds of American and Colombian troops kicked off a sprawling military exercise in Colombia this week as the U.S. military sharpens its focus on the Western Hemisphere."
+        "url": "https://www.defensenews.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/",
+        "summary": "New drone innovations are highlighted in Part 2 of our Business of Defense series. Plus, a sneak peek into a new Smithsonian military aviation exhibit, and tips to avoid scams."
       }
     ],
     "geo_news": [
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Rusya'nın Ankara Büyükelçisi Verşinin ile görüştü",
+        "title": "\"Dinamik ve Dayanıklı Sağlık Sistemleri: Ülke Tecrübeleri\" paneli düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-rusyanin-ankara-buyukelcisi-versinin-ile-gorustu/4117348",
-        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Rusya'nın Ankara Büyükelçisi Sergey Verşinin ile görüştü."
+        "url": "https://www.aa.com.tr/tr/gundem/dinamik-ve-dayanikli-saglik-sistemleri-ulke-tecrubeleri-paneli-duzenlendi/4118026",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Sağlıkta adalet, insanın en çaresiz anında da hakkını korumayı gerektirir. Gazze'de bir çocuğun temiz suya, bir yaralının ilaca ve tedaviye erişmesi..."
       },
       {
-        "title": "Adana'da 4,6 büyüklüğünde deprem",
+        "title": "İçişleri Bakanı Çiftçi'den \"İyi ki Erdoğan var\" paylaşımı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adanada-4-6-buyuklugunde-deprem/4117328",
-        "summary": "Adana'nın Kozan ilçesinde saat 15.28'de 4,6 büyüklüğünde deprem meydana geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-iyi-ki-erdogan-var-paylasimi/4117949",
+        "summary": "Bakan Çiftçi, \"Dünyanın savaşlar ve krizlerle sınandığı bir dönemde, muhterem Cumhurbaşkanımız Recep Tayyip Erdoğan'ın liderliğinde Türkiye'miz, milli birlik ve kardeşliğini güçlen..."
       },
       {
-        "title": "Anadolu Ajansı, COP31 kapsamında \"İklim Nesli: Gençlik, Eğitim ve Medyanın Gücü\" paneli düzenleyecek",
+        "title": "Sağlık Bakanı Memişoğlu, COP31'de \"Üst Düzey Yuvarlak Masa Toplantısı\"na katıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/anadolu-ajansi-cop31-kapsaminda-iklim-nesli-genclik-egitim-ve-medyanin-gucu-paneli-duzenleyecek/4117187",
-        "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında, \"İklim Nesli: Gençlik, Eğitim ve Medyanın Gücü\" başlıklı panel, 14 Kasım Cu..."
+        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-cop31de-ust-duzey-yuvarlak-masa-toplantisina-katildi/4117540",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında düzenlenen Üst Düzey Yuvarlak Masa Toplantısı..."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan: İnsanımızın huzuruna kasteden hiçbir yapıya müsamahamız yoktur",
+        "title": "İletişim Başkanı Duran'dan \"COP31\" paylaşımı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-insanimizin-huzuruna-kasteden-hicbir-yapiya-musamahamiz-yoktur/4116605",
-        "summary": "Cumhurbaşkanı Erdoğan, \"İnsanımızın huzuruna kasteden ister terör örgütleri, ister zehir tacirleri, isterse sokak çeteleri olsun hiçbir yapıya müsamahamız yoktur. Bunların hukuk iç..."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cop31-paylasimi/4117971",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, NSosyal hesabından COP31'e ilişkin paylaşımda bulundu."
       }
     ]
   }
