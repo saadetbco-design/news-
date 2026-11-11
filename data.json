@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 12:18:52",
+  "updated_at": "2026-11-11 23:14:20",
   "markets": {
     "usd_try_kapalicarsi": "50.24 TL",
     "eur_try_kapalicarsi": "56.20 TL",
@@ -9,11 +9,17 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
-    "bullet_1": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
-    "bullet_2": "House Republicans sidestep effort to impeach Hegseth",
-    "bullet_3": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
+    "red_alert": "SON DAKİKA: Inside Warhound’s plan to engineer a better military working dog",
+    "bullet_1": "Inside Warhound’s plan to engineer a better military working dog",
+    "bullet_2": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
+    "bullet_3": "House Republicans sidestep effort to impeach Hegseth",
     "defense_news": [
+      {
+        "title": "Inside Warhound’s plan to engineer a better military working dog",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog/",
+        "summary": "The company plans to clone top-performing dogs, edit genes associated with health problems and introduce standardized training to puppies as young as two weeks old."
+      },
       {
         "title": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
         "summary": "A senior U.S. soldier was arrested in Britain on suspicion of assisting Russian ​intelligence, British police said on Tuesday."
-      },
-      {
-        "title": "Most Americans want new Democratic Congress to end Trump’s Iran war, poll finds",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
-        "summary": "A new Reuters/Ipsos poll found that 71% of Americans want Congress to pass legislation ending the conflict with Iran."
       }
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Erdoğan'dan 11 Kasım Milli Ağaçlandırma Günü paylaşımı",
+        "title": "Ünlü isimlerden iklim değişikliğiyle mücadele için ortak sorumluluk ve somut adım vurgusu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-11-kasim-milli-agaclandirma-gunu-paylasimi/4120594",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"11 Kasım Milli Ağaçlandırma Günü'müzün ülkemiz, milletimiz ve çevremiz için hayırlara vesile olmasını diliyorum.\" ifadesini kullandı."
+        "url": "https://www.aa.com.tr/tr/gundem/unlu-isimlerden-iklim-degisikligiyle-mucadele-icin-ortak-sorumluluk-ve-somut-adim-vurgusu/4121463",
+        "summary": "COP31 kapsamındaki Bakanlar Yemeği'ne katılan oyuncular Hatice Şendil, Hande Erçel ve Ekin Koç ile sunucu Saba Tümer, iklim değişikliğiyle mücadelede ortak hareket edilmesi, farkın..."
       },
       {
-        "title": "Emine Erdoğan'dan 11 Kasım Milli Ağaçlandırma Günü paylaşımı",
+        "title": "Londra Belediye Başkanı Khan, iklim krizinin yıkıcı etkilerine dikkati çekti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogandan-11-kasim-milli-agaclandirma-gunu-paylasimi/4120547",
-        "summary": "Emine Erdoğan, 11 Kasım Milli Ağaçlandırma Günü'nü kutladı."
+        "url": "https://www.aa.com.tr/tr/gundem/londra-belediye-baskani-khan-iklim-krizinin-yikici-etkilerine-dikkati-cekti/4121470",
+        "summary": "Londra Belediye Başkanı Sadık Khan, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), ..."
       },
       {
-        "title": "BM Genel Sekreteri Guterres: Hayatlarımız ve çocuklarımızın geleceği için mücadele ediyoruz",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Herkes İçin Erken Uyarı Sistemleri\" Oturumu'nda konuştu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-hayatlarimiz-ve-cocuklarimizin-gelecegi-icin-mucadele-ediyoruz/4120449",
-        "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"İklim eylemi, termometredeki rakamlar üzerine bir mücadeleden daha fazlasıdır. Hayatlarımız ve çocuklarımızın geleceği i..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-herkes-icin-erken-uyari-sistemleri-oturumunda-konustu/4121147",
+        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Türkiye'nin meteoroloji, afet yönetimi ve erken uyarı alanlarındaki tecrübesini eğitim, teknik işbirliği ve veri paylaşımı yoluyla kırılgan ..."
       },
       {
-        "title": "Adana merkezli silahlı suç örgütü operasyonunda 61 şüpheli gözaltına alındı",
+        "title": "BM Genel Sekreteri Guterres: Doğal afetlerde ve iklim değişikliklerinde erken uyarı hayat kurtarır",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/adana-merkezli-silahli-suc-orgutu-operasyonunda-61-supheli-gozaltina-alindi/4120136",
-        "summary": "Adana merkezli 4 ilde silahlı suç örgütüne yönelik düzenlenen operasyonda 61 şüpheli gözaltına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-dogal-afetlerde-ve-iklim-degisikliklerinde-erken-uyari-hayat-kurtarir/4121480",
+        "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Doğal afetlerde ve iklim değişikliklerinde erken uyarı hayat kurtarır. Kapsamlı erken uyarı sistemlerine sahip ülkelerde..."
       }
     ]
   }
