@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 13:28:13",
+  "updated_at": "2026-11-12 22:30:33",
   "markets": {
     "usd_try_kapalicarsi": "50.28 TL",
     "eur_try_kapalicarsi": "55.87 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
-    "bullet_1": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
-    "bullet_2": "Inside Warhound’s plan to engineer a better military working dog",
-    "bullet_3": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
+    "red_alert": "SON DAKİKA: Democrats push to remove US-Israel tech measure from defense bill",
+    "bullet_1": "Democrats push to remove US-Israel tech measure from defense bill",
+    "bullet_2": "House passes bill to expand benefits for combat-injured veterans",
+    "bullet_3": "Pentagon ‘greenlit’ permanent presence of US troops in Poland, official says",
     "defense_news": [
       {
-        "title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+        "title": "Democrats push to remove US-Israel tech measure from defense bill",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
-        "summary": "The U.S. Army sentinel moved toward the group and, from a distance, shouted toward them: \"All visitors will maintain an atmosphere of silence and respect at all times.\""
+        "url": "https://www.defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
+        "summary": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development."
       },
       {
-        "title": "Inside Warhound’s plan to engineer a better military working dog",
+        "title": "House passes bill to expand benefits for combat-injured veterans",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog/",
-        "summary": "The company plans to clone top-performing dogs, edit genes associated with health problems and introduce standardized training to puppies as young as two weeks old."
+        "url": "https://www.defensenews.com/news/2026/11/12/house-passes-bill-to-expand-benefits-for-combat-injured-veterans/",
+        "summary": "The House approved legislation Thursday that would allow combat-injured military retirees with less than 20 years of service to collect their full military retirement pay and Depar..."
       },
       {
-        "title": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
+        "title": "Pentagon ‘greenlit’ permanent presence of US troops in Poland, official says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/11/romanian-servers-targeted-by-russian-hackers-to-scoop-up-emails-about-nato-eu/",
-        "summary": "Hackers linked to Russia's FSB quietly compromised a Romanian government organization’s servers to collect emails related to NATO and the EU in December 2025, a Slovak cybersecurit..."
+        "url": "https://www.defensenews.com/global/europe/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/",
+        "summary": "The Pentagon “greenlit” the permanent presence of U.S. troops in Poland, with the final decision to be made by the White House in early December, Poland's defense minister said."
       },
       {
-        "title": "House Republicans sidestep effort to impeach Hegseth",
+        "title": "Putin lets Europe join Ukraine peace talks, as Kyiv says Starshield disrupted again",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
-        "summary": "In a 211 to 204 vote, House Republicans sent proposed impeachment articles against Hegseth to the Judiciary Committee, quashing the effort."
+        "url": "https://www.defensenews.com/global/2026/11/12/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again/",
+        "summary": "President Vladimir Putin agreed on Thursday to let European representatives join the next round of Ukraine peace talks, a U.S. envoy said."
       }
     ],
     "geo_news": [
       {
-        "title": "Bakan Çiftçi: Türkiye Yüzyılı'nda hizmetin kalitesini verimlilik ve sürdürülebilirlikle de ölçmeliyiz",
+        "title": "Milli Eğitim Bakanı Tekin, TBMM Plan ve Bütçe Komisyonunda soruları yanıtladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-turkiye-yuzyilinda-hizmetin-kalitesini-verimlilik-ve-surdurulebilirlikle-de-olcmeliyiz/4122606",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Türkiye Yüzyılı'nda hizmetin kalitesini, o hizmeti ne kadar verimli ürettiğimiz ve ne kadar sürdürebildiğimizle de ölçmeliyiz.\" ifadesini kullandı."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-tbmm-plan-ve-butce-komisyonunda-sorulari-yanitladi/4123534",
+        "summary": "Milli Eğitim Bakanı Yusuf Tekin, Yeni Parti İstanbul Milletvekili Suat Özçağdaş'ın \"Sayıştay'ın Milli Eğitim Bakanlığının mal alımında yolsuzluk tespit etmesine rağmen gereğini yap..."
       },
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz, Burundi Başbakanı Ntahontuye ile görüştü",
+        "title": "Dışişleri Bakanlığı, İsrail'in Gazze'deki hastaneye saldırısını kınadı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-burundi-basbakani-ntahontuye-ile-gorustu/4122604",
-        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Burundi Başbakanı ..."
+        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-israilin-gazzedeki-hastaneye-saldirisini-kinadi/4123537",
+        "summary": "Dışişleri Bakanlığı, İsrail'in Gazze Şeridi'nin güneyindeki Han Yunus kentinde yer alan Nasır Hastanesi'ne düzenlediği saldırıyı kınadı."
       },
       {
-        "title": "Enerjiye ve sosyal güvenliğe ilişkin düzenlemeleri de içeren kanun teklifi TBMM'de",
+        "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Beyrut'ta Lübnanlı siyasilerle görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-tbmmde/4122582",
-        "summary": "AK Parti milletvekillerinin imzasını taşıyan Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasın..."
+        "url": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrutta-lubnanli-siyasilerle-gorustu/4123348",
+        "summary": "Bilal Erdoğan ve beraberindeki Türk heyeti, başkent Beyrut'ta Lübnan Meclis Başkanı Nebih Berri, Müstakbel Hareketi Başkan Yardımcısı Behiye el-Hariri ve Dürzi lider, eski İlerici ..."
       },
       {
-        "title": "İstanbul'da lodos etkili oluyor",
+        "title": "AK Parti Genel Başkanvekili Ala'dan Cumhurbaşkanı Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşım",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-lodos-etkili-oluyor/4122563",
-        "summary": "İstanbul'da etkili olan lodos nedeniyle sahil kesimlerinde yüksek dalgalar oluşurken, bazı vapur seferleri iptal edildi, metro seferlerinde ise aksama yaşandı."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-aladan-cumhurbaskani-erdoganin-cop31-liderler-zirvesindeki-gorusmelerine-iliskin-paylasim/4123462",
+        "summary": "AK Parti Genel Başkanvekili Efkan Ala, Cumhurbaşkanı Recep Tayyip Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşımda bulundu."
       }
     ]
   }
