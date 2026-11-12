@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-11-11 23:14:20",
+  "updated_at": "2026-11-12 13:28:13",
   "markets": {
-    "usd_try_kapalicarsi": "50.24 TL",
-    "eur_try_kapalicarsi": "56.20 TL",
+    "usd_try_kapalicarsi": "50.28 TL",
+    "eur_try_kapalicarsi": "55.87 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Inside Warhound’s plan to engineer a better military working dog",
-    "bullet_1": "Inside Warhound’s plan to engineer a better military working dog",
-    "bullet_2": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
-    "bullet_3": "House Republicans sidestep effort to impeach Hegseth",
+    "red_alert": "SON DAKİKA: Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+    "bullet_1": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+    "bullet_2": "Inside Warhound’s plan to engineer a better military working dog",
+    "bullet_3": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
     "defense_news": [
+      {
+        "title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
+        "summary": "The U.S. Army sentinel moved toward the group and, from a distance, shouted toward them: \"All visitors will maintain an atmosphere of silence and respect at all times.\""
+      },
       {
         "title": "Inside Warhound’s plan to engineer a better military working dog",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
         "summary": "In a 211 to 204 vote, House Republicans sent proposed impeachment articles against Hegseth to the Judiciary Committee, quashing the effort."
-      },
-      {
-        "title": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
-        "summary": "A senior U.S. soldier was arrested in Britain on suspicion of assisting Russian ​intelligence, British police said on Tuesday."
       }
     ],
     "geo_news": [
       {
-        "title": "Ünlü isimlerden iklim değişikliğiyle mücadele için ortak sorumluluk ve somut adım vurgusu",
+        "title": "Bakan Çiftçi: Türkiye Yüzyılı'nda hizmetin kalitesini verimlilik ve sürdürülebilirlikle de ölçmeliyiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/unlu-isimlerden-iklim-degisikligiyle-mucadele-icin-ortak-sorumluluk-ve-somut-adim-vurgusu/4121463",
-        "summary": "COP31 kapsamındaki Bakanlar Yemeği'ne katılan oyuncular Hatice Şendil, Hande Erçel ve Ekin Koç ile sunucu Saba Tümer, iklim değişikliğiyle mücadelede ortak hareket edilmesi, farkın..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-turkiye-yuzyilinda-hizmetin-kalitesini-verimlilik-ve-surdurulebilirlikle-de-olcmeliyiz/4122606",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Türkiye Yüzyılı'nda hizmetin kalitesini, o hizmeti ne kadar verimli ürettiğimiz ve ne kadar sürdürebildiğimizle de ölçmeliyiz.\" ifadesini kullandı."
       },
       {
-        "title": "Londra Belediye Başkanı Khan, iklim krizinin yıkıcı etkilerine dikkati çekti",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz, Burundi Başbakanı Ntahontuye ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/londra-belediye-baskani-khan-iklim-krizinin-yikici-etkilerine-dikkati-cekti/4121470",
-        "summary": "Londra Belediye Başkanı Sadık Khan, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), ..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-burundi-basbakani-ntahontuye-ile-gorustu/4122604",
+        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Burundi Başbakanı ..."
       },
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Herkes İçin Erken Uyarı Sistemleri\" Oturumu'nda konuştu",
+        "title": "Enerjiye ve sosyal güvenliğe ilişkin düzenlemeleri de içeren kanun teklifi TBMM'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-herkes-icin-erken-uyari-sistemleri-oturumunda-konustu/4121147",
-        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Türkiye'nin meteoroloji, afet yönetimi ve erken uyarı alanlarındaki tecrübesini eğitim, teknik işbirliği ve veri paylaşımı yoluyla kırılgan ..."
+        "url": "https://www.aa.com.tr/tr/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-tbmmde/4122582",
+        "summary": "AK Parti milletvekillerinin imzasını taşıyan Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasın..."
       },
       {
-        "title": "BM Genel Sekreteri Guterres: Doğal afetlerde ve iklim değişikliklerinde erken uyarı hayat kurtarır",
+        "title": "İstanbul'da lodos etkili oluyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-dogal-afetlerde-ve-iklim-degisikliklerinde-erken-uyari-hayat-kurtarir/4121480",
-        "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Doğal afetlerde ve iklim değişikliklerinde erken uyarı hayat kurtarır. Kapsamlı erken uyarı sistemlerine sahip ülkelerde..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-lodos-etkili-oluyor/4122563",
+        "summary": "İstanbul'da etkili olan lodos nedeniyle sahil kesimlerinde yüksek dalgalar oluşurken, bazı vapur seferleri iptal edildi, metro seferlerinde ise aksama yaşandı."
       }
     ]
   }
