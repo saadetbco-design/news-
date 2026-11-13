@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-12 22:30:33",
+  "updated_at": "2026-11-13 12:43:54",
   "markets": {
-    "usd_try_kapalicarsi": "50.28 TL",
-    "eur_try_kapalicarsi": "55.87 TL",
+    "usd_try_kapalicarsi": "50.31 TL",
+    "eur_try_kapalicarsi": "55.69 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Milli Eğitim Bakanı Tekin, TBMM Plan ve Bütçe Komisyonunda soruları yanıtladı",
+        "title": "YÖK'ten TDT 13. Zirvesi'nde kabul edilen Ankara Bildirisi'ne ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-tbmm-plan-ve-butce-komisyonunda-sorulari-yanitladi/4123534",
-        "summary": "Milli Eğitim Bakanı Yusuf Tekin, Yeni Parti İstanbul Milletvekili Suat Özçağdaş'ın \"Sayıştay'ın Milli Eğitim Bakanlığının mal alımında yolsuzluk tespit etmesine rağmen gereğini yap..."
+        "url": "https://www.aa.com.tr/tr/gundem/yokten-tdt-13-zirvesinde-kabul-edilen-ankara-bildirisine-iliskin-aciklama/4124066",
+        "summary": "Yükseköğretim Kurulu (YÖK) Başkanı Prof. Dr. Erol Özvar, Türkiye'nin, Türk dünyasıyla ilişkilerini eğitim, bilim ve teknoloji alanlarında geliştirilecek güçlü işbirlikleriyle daha ..."
       },
       {
-        "title": "Dışişleri Bakanlığı, İsrail'in Gazze'deki hastaneye saldırısını kınadı",
+        "title": "Türkiye'ye getirilen \"yeni nesil suç örgütü\" elebaşı Sercan Sayal adliyede",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-israilin-gazzedeki-hastaneye-saldirisini-kinadi/4123537",
-        "summary": "Dışişleri Bakanlığı, İsrail'in Gazze Şeridi'nin güneyindeki Han Yunus kentinde yer alan Nasır Hastanesi'ne düzenlediği saldırıyı kınadı."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyeye-getirilen-yeni-nesil-suc-orgutu-elebasi-sercan-sayal-adliyede/4124076",
+        "summary": "Yunanistan'da yakalanarak dün İzmir'e getirilen \"yeni nesil organize suç örgütü\" elebaşı Sercan Sayal, adliyeye sevk edildi."
       },
       {
-        "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Beyrut'ta Lübnanlı siyasilerle görüştü",
+        "title": "Brezilyalı bakan siyasi çatışma yerine Amazonların korunmasına odaklandıklarını söyledi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrutta-lubnanli-siyasilerle-gorustu/4123348",
-        "summary": "Bilal Erdoğan ve beraberindeki Türk heyeti, başkent Beyrut'ta Lübnan Meclis Başkanı Nebih Berri, Müstakbel Hareketi Başkan Yardımcısı Behiye el-Hariri ve Dürzi lider, eski İlerici ..."
+        "url": "https://www.aa.com.tr/tr/gundem/brezilyali-bakan-siyasi-catisma-yerine-amazonlarin-korunmasina-odaklandiklarini-soyledi/4123851",
+        "summary": "Brezilya Çevre ve İklim Değişikliği Bakanı Joao Paulo Ribeiro Capobianco, ülkesinin eski Devlet Başkanı Jair Bolsonaro ile siyasi çatışmadan ziyade Amazon ormanlarının korunmasını ..."
       },
       {
-        "title": "AK Parti Genel Başkanvekili Ala'dan Cumhurbaşkanı Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşım",
+        "title": "Meteorolojiden Marmara Bölgesi'ndeki bazı iller için gök gürültülü sağanak uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-aladan-cumhurbaskani-erdoganin-cop31-liderler-zirvesindeki-gorusmelerine-iliskin-paylasim/4123462",
-        "summary": "AK Parti Genel Başkanvekili Efkan Ala, Cumhurbaşkanı Recep Tayyip Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşımda bulundu."
+        "url": "https://www.aa.com.tr/tr/gundem/meteorolojiden-marmara-bolgesindeki-bazi-iller-icin-gok-gurultulu-saganak-uyarisi/4124034",
+        "summary": "Marmara Bölgesi'ndeki bazı iller için gök gürültülü sağanak beklendiğini bildirdi."
       }
     ]
   }
