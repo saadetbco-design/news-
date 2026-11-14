@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-13 22:18:13",
+  "updated_at": "2026-11-14 11:52:43",
   "markets": {
-    "usd_try_kapalicarsi": "50.31 TL",
-    "eur_try_kapalicarsi": "55.69 TL",
+    "usd_try_kapalicarsi": "50.37 TL",
+    "eur_try_kapalicarsi": "55.60 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "\"Ulusal Adil Geçiş Stratejisi ve Eylem Planı\" konulu genelge Resmi Gazete’de",
+        "title": "Cumhurbaşkanı Erdoğan'dan Malatya'da şehit olan askerler için taziye mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazete-de/4124787",
-        "summary": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) konulu Cumhurbaşkanlığı Genelgesi, Resmi Gazete'de yayımlandı."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-malatyada-sehit-olan-askerler-icin-taziye-mesaji/4125071",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, şehit Kara Pilot Binbaşı Erdem Çimen, Kara Pilot Binbaşı Orhun Pınar, Astsubay Kıdemli Üstçavuş Hüseyin Zehir ve Astsubay Kıdemli Çavuş Serkan Ö..."
       },
       {
-        "title": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
+        "title": "COP31'de 2 bin 700 gönüllü görev alıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4124786",
-        "summary": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31de-2-bin-700-gonullu-gorev-aliyor/4125055",
+        "summary": "Türkiye'nin ilk kez ev sahipliği yaptığı, iklim değişikliği ile mücadelede dünyanın en önemli organizasyonu olan Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. T..."
       },
       {
-        "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun Resmi Gazete'de",
+        "title": "Türkiye'de 2026 yılında 9,6 milyon diyabet taraması yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-resmi-gazetede/4124780",
-        "summary": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı arasında ortak savunmaya ilişkin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun, Resmi ..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyede-2026-yilinda-9-6-milyon-diyabet-taramasi-yapildi/4125065",
+        "summary": "Sağlık Bakanlığınca, diyabetin erken tanısı ve hastaların düzenli takibi amacıyla yürütülen çalışmalar kapsamında 2026'da aile hekimliklerinde 9,6 milyon tarama gerçekleştirildi, 3..."
       },
       {
-        "title": "İş insanı Cafer Mahiroğlu'na yönelik soruşturmada gözaltına alınan 5 şüpheli tutuklandı",
+        "title": "Milli Eğitim Bakanı Tekin: Bilgiyi değerden ayırmayan Türkiye Yüzyılı Maarif Modeli'mizi kurguladık",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/is-insani-cafer-mahirogluna-yonelik-sorusturmada-gozaltina-alinan-5-supheli-tutuklandi/4124735",
-        "summary": "İş insanı Mahiroğlu hakkında \"rüşvet\", \"ihaleye fesat karıştırma\" ve \"suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından yürütülen soruşturma kapsamında düzenlenen ikin..."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-bilgiyi-degerden-ayirmayan-turkiye-yuzyili-maarif-modelimizi-kurguladik/4125019",
+        "summary": "Milli Eğitim Bakanı Yusuf Tekin, \"Bilgiyi değerden, beceriyi şahsiyetten ayırmayan Türkiye Yüzyılı Maarif Modeli'mizi kurguladık ve modelle yaşanabilir çevreyi odağımıza aldık.\" de..."
       }
     ]
   }
