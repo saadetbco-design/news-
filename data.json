@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-14 21:01:27",
+  "updated_at": "2026-11-15 12:23:27",
   "markets": {
-    "usd_try_kapalicarsi": "50.37 TL",
-    "eur_try_kapalicarsi": "55.60 TL",
+    "usd_try_kapalicarsi": "50.38 TL",
+    "eur_try_kapalicarsi": "55.61 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Adli ve yargı kurumlarımız, fon soruşturması sürecinde üzerlerine düşeni yapıyorlar",
+        "title": "TBMM Başkanı Kurtulmuş: Filistin davasına sahip çıkmak, tarihi bir sorumluluktur",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-adli-ve-yargi-kurumlarimiz-fon-sorusturmasi-surecinde-uzerlerine-duseni-yapiyorlar/4125421",
-        "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon soruşturması hakkında, \"İstanbul Cumhuriyet Başsavcılığımız başta olmak üzere adli ve yargı kurumlarımız bu süreçte çok etkin bir şekild..."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-filistin-davasina-sahip-cikmak-tarihi-bir-sorumluluktur/4125758",
+        "summary": "TBMM Başkanı Kurtulmuş, \"'İnsanlık Cephesi'nin ortak vicdanında kök salan Filistin davasına sahip çıkmak, yalnızca Filistin halkına karşı değil, adalete ve insanlık onuruna karşı d..."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Uygur: İklim krizi aynı zamanda bir sosyal krizdir",
+        "title": "Fırat Nehri'nin Karababa Köprüsü çevresindeki yatağı kurudu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-uygur-iklim-krizi-ayni-zamanda-bir-sosyal-krizdir/4125181",
-        "summary": "AK Parti Genel Başkan Yardımcısı Uygur, Sıfır Atık Hareketi'nin bireyleri iklim mücadelesinde pasif gözlemci olmaktan çıkararak çözümün bir parçası haline getirdiğini belirterek \"İ..."
+        "url": "https://www.aa.com.tr/tr/gundem/firat-nehrinin-karababa-koprusu-cevresindeki-yatagi-kurudu/4125674",
+        "summary": "Atatürk ve Birecik barajlarında yürütülen sızıntı kontrolü çalışmaları nedeniyle su seviyesi düşürülen Fırat Nehri'nin Karababa Köprüsü çevresindeki yatağı kurudu."
       },
       {
-        "title": "İzmir merkezli uyuşturucu operasyonunda 16 şüpheli tutuklandı",
+        "title": "Sigara bırakma polikliniklerinden bu yıl 356 bin kişi yararlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/izmir-merkezli-uyusturucu-operasyonunda-16-supheli-tutuklandi/4125377",
-        "summary": "İzmir merkezli 2 ilde düzenlenen uyuşturucu operasyonunda örgüt elebaşı olduğu belirtilen şüphelinin de aralarında bulunduğu 16 şüpheli tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/sigara-birakma-polikliniklerinden-bu-yil-356-bin-kisi-yararlandi/4125697",
+        "summary": "Sağlık Bakanlığı, bu yıl sigara bırakma polikliniklerinde 356 bin kişiye hizmet sunulduğunu ve hizmet alan kişi sayısında tüm zamanların en yüksek seviyesine ulaşıldığını bildirdi."
       },
       {
-        "title": "AK Parti'den Cumhurbaşkanı Erdoğan paylaşımı",
+        "title": "Antalya'da COP31 kapsamında deniz dibi ve kıyı temizliği yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-partiden-cumhurbaskani-erdogan-paylasimi/4125321",
-        "summary": "AK Parti'den, Cumhurbaşkanı Recep Tayyip Erdoğan'a ilişkin \"Milletine adanmış bir ömrün, yıllara sığmayan hikayesi\" başlıklı paylaşım yapıldı."
+        "url": "https://www.aa.com.tr/tr/gundem/antalyada-cop31-kapsaminda-deniz-dibi-ve-kiyi-temizligi-yapildi/4125747",
+        "summary": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında kentte deniz dibi ve kıyı temizliği yapıldı."
       }
     ]
   }
