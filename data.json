@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-15 21:25:27",
+  "updated_at": "2026-11-16 13:15:53",
   "markets": {
-    "usd_try_kapalicarsi": "50.38 TL",
-    "eur_try_kapalicarsi": "55.61 TL",
+    "usd_try_kapalicarsi": "50.37 TL",
+    "eur_try_kapalicarsi": "55.56 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Sağlık Bakanı Memişoğlu, KKTC'nin kuruluşunun 43. yıl dönümünü kutladı",
+        "title": "Türkiye, Uluslararası Telekomünikasyon Birliği konsey üyeliğine yeniden seçildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-kktcnin-kurulusunun-43-yil-donumunu-kutladi/4126016",
-        "summary": "Sağlık Bakanı Kemal Memişoğlu, Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) 43. kuruluş yıl dönümünü kutladı."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-uluslararasi-telekomunikasyon-birligi-konsey-uyeligine-yeniden-secildi/4126716",
+        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"2002'den bu yana sürdürdüğümüz ITU konsey üyeliğimize 2027-2030 döneminde de devam edeceğiz.\" ifadesini kullandı."
       },
       {
-        "title": "Türkiye İklim Okulu \"gastronomi\" ve \"sıfır atık\" etkinlikleriyle ziyaretçilerin ilgisini çekti",
+        "title": "Türkiye'nin COP31'de başlattığı Küresel Jeotermal 2050 Hedefi'ne 50'den fazla ülke destek verdi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulu-gastronomi-ve-sifir-atik-etkinlikleriyle-ziyaretcilerin-ilgisini-cekti/4125989",
-        "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 kapsamında Milli Eğitim Bakanlığınca hazırlanan Türkiye İklim Okulu, \"gastronomi\" ve \"sıfır atık\" etkinlikleriyle ziyaretçil..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyenin-cop31de-baslattigi-kuresel-jeotermal-2050-hedefine-50den-fazla-ulke-destek-verdi/4126544",
+        "summary": "COP31 Başkanlığı tarafından başlatılan Küresel Jeotermal 2050 Hedefi (Global Geothermal Ambition 2050), etkinliğin ilk haftasında 50'den fazla ülkenin desteğini aldı."
       },
       {
-        "title": "Rize'de heyelan meydana geldi",
+        "title": "Bakan Göktaş, Singapurlu mevkidaşı Zulkifli ile 2027-2029 faaliyet planı imzaladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/rizede-heyelan-meydana-geldi/4125845",
-        "summary": "Rize'nin Çayeli ilçesinde sağanağın ardından bazı noktalarda heyelan meydana geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-singapurlu-mevkidasi-zulkifli-ile-2027-2029-faaliyet-plani-imzaladi/4126636",
+        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Singapur Toplumsal ve Aile Gelişim Bakanı Masagos Zulkifli ile 2027-2029 dönemini kapsayan faaliyet planı imzaladı."
       },
       {
-        "title": "Bakan Bak: Önümüzdeki temmuz ayında Türk Dünyası Üniversite Spor Oyunları Erzurum ve Bayburt'ta yapılacak",
+        "title": "Beşiktaş'taki silahlı saldırıya ilişkin adliyeye sevk edilen 30 zanlıdan 14'ü tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-bak-onumuzdeki-temmuz-ayinda-turk-dunyasi-universite-spor-oyunlari-erzurum-ve-bayburtta-yapilacak/4125927",
-        "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, Türk Dünyası Üniversite Spor Oyunları'nın Temmuz 2027'de Erzurum ve Bayburt'ta yapılacağını söyledi."
+        "url": "https://www.aa.com.tr/tr/gundem/besiktastaki-silahli-saldiriya-iliskin-adliyeye-sevk-edilen-30-zanlidan-14u-tutuklandi/4126645",
+        "summary": "Beşiktaş'ta 1 kişinin hayatını kaybettiği silahlı saldırıya ilişkin soruşturma kapsamında gözaltına alınan 30 şüpheliden 14'ü tutuklandı."
       }
     ]
   }
