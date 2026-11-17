@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 00:34:46",
+  "updated_at": "2026-11-17 14:00:33",
   "markets": {
     "usd_try_kapalicarsi": "50.42 TL",
     "eur_try_kapalicarsi": "55.49 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: First permanently assigned F-15EXs touch down at Kadena Air Base",
-    "bullet_1": "First permanently assigned F-15EXs touch down at Kadena Air Base",
-    "bullet_2": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
-    "bullet_3": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
+    "red_alert": "SON DAKİKA: New pact positions the Philippines as a defense hub for Australian troops",
+    "bullet_1": "New pact positions the Philippines as a defense hub for Australian troops",
+    "bullet_2": "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
+    "bullet_3": "First permanently assigned F-15EXs touch down at Kadena Air Base",
     "defense_news": [
+      {
+        "title": "New pact positions the Philippines as a defense hub for Australian troops",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops/",
+        "summary": "Top officials from Australia and the Philippines have inked a defense pact to accelerate military coordination, paving the way for rotational troop deployment and Australian invest..."
+      },
+      {
+        "title": "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/17/french-troops-operating-in-non-combat-roles-in-ukraine-broadcaster-rfi-reports/",
+        "summary": "The troops are part of a structure called Volia, after a Ukrainian word that can be translated as “will” or “freedom,” the French state-owned international news radio said on Monda..."
+      },
       {
         "title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
         "summary": "The Army acknowledged in a notice Friday that U.S. soldiers in the Middle East are \"currently at risk\" using personnel shelters made of converted shipping containers."
-      },
-      {
-        "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
-        "summary": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipie..."
-      },
-      {
-        "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
-        "summary": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies."
       }
     ],
     "geo_news": [
       {
-        "title": "Sağlık Bakanı Memişoğlu: Aşı reddini engellemek için 8 aşımızı yerli üreteceğiz",
+        "title": "COP31'de ziyaretçiler 1926 ve 2100'ün havasını soluyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-asi-reddini-engellemek-icin-8-asimizi-yerli-uretecegiz/4127100",
-        "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Aşı reddini engellemek ve aşı reddini azaltmak için 8 aşımızı yerli üreteceğiz, kısa sürede sözleşmelerini yapıp kendi aşısını üreten ve dünyaya ula..."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31de-ziyaretciler-1926-ve-2100un-havasini-soluyor/4127887",
+        "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), kurulan Karbon Deneyim Alanında..."
       },
       {
-        "title": "Bakan Fidan, Türkiye'nin Kafkaslar, Avrupa ve Orta Asya bağlantısallığındaki merkezi rolünü vurguladı",
+        "title": "Hafta boyunca yurdun büyük bölümünde yağış etkili olacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiyenin-kafkaslar-avrupa-ve-orta-asya-baglantisalligindaki-merkezi-rolunu-vurguladi/4127062",
-        "summary": "Bakan Fidan, bağlantısallık konusunda Türkiye'nin Avrupa, Karadeniz, Kafkaslar ve Orta Asya için ortak bir konum olarak ön plana çıktığına işaret ederek, \"Türkiye'nin buradaki merk..."
+        "url": "https://www.aa.com.tr/tr/gundem/hafta-boyunca-yurdun-buyuk-bolumunde-yagis-etkili-olacak/4127877",
+        "summary": "Yağışların yarın ve perşembe günü yurdun büyük bölümünde, cuma günü ise Marmara, Karadeniz, Doğu Anadolu ve Güneydoğu Anadolu'da etkili olması bekleniyor."
       },
       {
-        "title": "Başkentte bazı mahallelerde su kesintisi uygulanacak",
+        "title": "\"Antalya Okyanus ve Denizler Mutabakatı\" yayımlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/baskentte-bazi-mahallelerde-su-kesintisi-uygulanacak/4127017",
-        "summary": "Ankara Su ve Kanalizasyon İdaresi (ASKİ) Genel Müdürlüğü, Keçiören ve Yenimahalle ilçelerinin bazı mahallelerinde perşembe günü su kesintisi uygulanacağını bildirdi."
+        "url": "https://www.aa.com.tr/tr/cop31/antalya-okyanus-ve-denizler-mutabakati-yayimlandi/4127889",
+        "summary": "COP31'de okyanus ve denizlerin korunması, iklim değişikliğine karşı kıyı bölgelerinin dirençliliğinin artırılması ve okyanus temelli iklim eylemlerine finansman sağlanması amacıyla..."
       },
       {
-        "title": "COP31'de \"5 Problem, 5 Teknoloji, 5 Kadın\" söyleşisi düzenlendi",
+        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: 75 bin masum insan ile Gazze'nin kültür mirası da katliama uğradı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31de-5-problem-5-teknoloji-5-kadin-soylesisi-duzenlendi/4126901",
-        "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, AK Parti Kadın Kolları Başkanlığınca \"5 Proble..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-75-bin-masum-insan-ile-gazzenin-kultur-mirasi-da-katliama-ugradi/4127787",
+        "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Çoğu çocuk ve kadın 75 bin masum insanla birlikte Gazze'nin kültür mirası da büyük bir kıyıma, katliama uğradı.\" dedi."
       }
     ]
   }
