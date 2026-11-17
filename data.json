@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 14:00:33",
+  "updated_at": "2026-11-17 23:41:53",
   "markets": {
     "usd_try_kapalicarsi": "50.42 TL",
     "eur_try_kapalicarsi": "55.49 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: New pact positions the Philippines as a defense hub for Australian troops",
-    "bullet_1": "New pact positions the Philippines as a defense hub for Australian troops",
-    "bullet_2": "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
-    "bullet_3": "First permanently assigned F-15EXs touch down at Kadena Air Base",
+    "red_alert": "SON DAKİKA: Hanwha transforms ship into floating multi-rocket launcher",
+    "bullet_1": "Hanwha transforms ship into floating multi-rocket launcher",
+    "bullet_2": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
+    "bullet_3": "LaNeve formally nominated for Army chief of staff role",
     "defense_news": [
       {
-        "title": "New pact positions the Philippines as a defense hub for Australian troops",
+        "title": "Hanwha transforms ship into floating multi-rocket launcher",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops/",
-        "summary": "Top officials from Australia and the Philippines have inked a defense pact to accelerate military coordination, paving the way for rotational troop deployment and Australian invest..."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
+        "summary": "South Korean defense giant Hanwha said it successfully launched missiles from a palletizable multi-pod launcher system at sea."
       },
       {
-        "title": "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
+        "title": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/17/french-troops-operating-in-non-combat-roles-in-ukraine-broadcaster-rfi-reports/",
-        "summary": "The troops are part of a structure called Volia, after a Ukrainian word that can be translated as “will” or “freedom,” the French state-owned international news radio said on Monda..."
+        "url": "https://www.defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line/",
+        "summary": "Ukraine is expanding its use of large drones for battlefield medical evacuations. Watch as a Ukrainian team uses an aerial drone to transport a wounded soldier from a forward posit..."
       },
       {
-        "title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
+        "title": "LaNeve formally nominated for Army chief of staff role",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base/",
-        "summary": "Kadena Air Base received their first permanently assigned F-15EX Eagle IIs, becoming the first installation abroad and second Air Force location to field the jet."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role/",
+        "summary": "The Trump administration nominated Gen. Christopher LaNeve as chief of staff of the Army."
       },
       {
-        "title": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
+        "title": "Finland’s Iceye bids €2 billion for Italian rocket maker Avio",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
-        "summary": "The Army acknowledged in a notice Friday that U.S. soldiers in the Middle East are \"currently at risk\" using personnel shelters made of converted shipping containers."
+        "url": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/",
+        "summary": "Finnish satellite operator Iceye made a €2 billion ($2.2 billion) cash offer for Italian rocket maker Avio on Tuesday, with the goal of creating an integrated European space and de..."
       }
     ],
     "geo_news": [
       {
-        "title": "COP31'de ziyaretçiler 1926 ve 2100'ün havasını soluyor",
+        "title": "Erzurum'da yaban ve çengel boynuzlu dağ keçisi sayısı 3 bini aştı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31de-ziyaretciler-1926-ve-2100un-havasini-soluyor/4127887",
-        "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), kurulan Karbon Deneyim Alanında..."
+        "url": "https://www.aa.com.tr/tr/gundem/erzurumda-yaban-ve-cengel-boynuzlu-dag-kecisi-sayisi-3-bini-asti/4128414",
+        "summary": "Erzurum'da yürütülen koruma, denetim ve izleme çalışmaları sonucunda yaban ve çengel boynuzlu dağ keçisi sayısının 3 bini aştığı belirlendi."
       },
       {
-        "title": "Hafta boyunca yurdun büyük bölümünde yağış etkili olacak",
+        "title": "Çift tırnak tek başına Kangal köpeğinde saflığı kanıtlamıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/hafta-boyunca-yurdun-buyuk-bolumunde-yagis-etkili-olacak/4127877",
-        "summary": "Yağışların yarın ve perşembe günü yurdun büyük bölümünde, cuma günü ise Marmara, Karadeniz, Doğu Anadolu ve Güneydoğu Anadolu'da etkili olması bekleniyor."
+        "url": "https://www.aa.com.tr/tr/gundem/cift-tirnak-tek-basina-kangal-kopeginde-safligi-kanitlamiyor/4128411",
+        "summary": "Sivas Cumhuriyet Üniversitesi (SCÜ) Kangal Köpeği Uygulama ve Araştırma Merkezi Müdürü Prof. Dr. Nazlı Ercan, çift tırnağın tek başına Kangal köpeğinde saflığı kanıtlamadığını söyl..."
       },
       {
-        "title": "\"Antalya Okyanus ve Denizler Mutabakatı\" yayımlandı",
+        "title": "İçişleri Bakanı Çiftçi: (POLSAN'a yönelik iddialar) Bu işlemlerden kaynaklanan herhangi bir zarar bulunmamaktadır",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/cop31/antalya-okyanus-ve-denizler-mutabakati-yayimlandi/4127889",
-        "summary": "COP31'de okyanus ve denizlerin korunması, iklim değişikliğine karşı kıyı bölgelerinin dirençliliğinin artırılması ve okyanus temelli iklim eylemlerine finansman sağlanması amacıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-polsana-yonelik-iddialar-bu-islemlerden-kaynaklanan-herhangi-bir-zarar-bulunmamaktadir/4128399",
+        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"POLSAN'daki birikimin, fon soruşturması kapsamında tasfiyesine karar verilen bazı fonlarda kullanıldığı\" iddialarına ilişkin, \"Bu işlemlerden kayna..."
       },
       {
-        "title": "Cumhurbaşkanı Yardımcısı Yılmaz: 75 bin masum insan ile Gazze'nin kültür mirası da katliama uğradı",
+        "title": "COP31'de su verimliliği ve atık suyun yeniden kullanımı ele alındı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-75-bin-masum-insan-ile-gazzenin-kultur-mirasi-da-katliama-ugradi/4127787",
-        "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Çoğu çocuk ve kadın 75 bin masum insanla birlikte Gazze'nin kültür mirası da büyük bir kıyıma, katliama uğradı.\" dedi."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31de-su-verimliligi-ve-atik-suyun-yeniden-kullanimi-ele-alindi-/4127820",
+        "summary": "Su Yönetimi Genel Müdürü Afire Sever:,  \"Su miktarını nüfusa böldüğün zaman 1000'in üzerindeysen su stresi altındasın. 1000'in altına düştüğün zaman da su fakiri, hele 500'ün altın..."
       }
     ]
   }
