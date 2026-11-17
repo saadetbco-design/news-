@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-11-16 13:15:53",
+  "updated_at": "2026-11-17 00:34:46",
   "markets": {
-    "usd_try_kapalicarsi": "50.37 TL",
-    "eur_try_kapalicarsi": "55.56 TL",
+    "usd_try_kapalicarsi": "50.42 TL",
+    "eur_try_kapalicarsi": "55.49 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Inside MSI’s Next Generation of Counter-Drone Defense",
-    "bullet_1": "Inside MSI’s Next Generation of Counter-Drone Defense",
-    "bullet_2": "US Air Force adopts new Force Design focusing on sensors and autonomy",
-    "bullet_3": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
+    "red_alert": "SON DAKİKA: First permanently assigned F-15EXs touch down at Kadena Air Base",
+    "bullet_1": "First permanently assigned F-15EXs touch down at Kadena Air Base",
+    "bullet_2": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
+    "bullet_3": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
     "defense_news": [
       {
-        "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
+        "title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense/",
-        "summary": "MSI discusses its EAGLS air defense platform, development of EAGLS X and new approaches to modular, cost-effective counter-drone capabilities."
+        "url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base/",
+        "summary": "Kadena Air Base received their first permanently assigned F-15EX Eagle IIs, becoming the first installation abroad and second Air Force location to field the jet."
       },
       {
-        "title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
+        "title": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy/",
-        "summary": "The Air Force's new Force Design 2026 outlines a shift toward artificial intelligence, autonomy and integrated sensors to counter emerging threats."
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
+        "summary": "The Army acknowledged in a notice Friday that U.S. soldiers in the Middle East are \"currently at risk\" using personnel shelters made of converted shipping containers."
       },
       {
-        "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
+        "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/13/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/",
-        "summary": "New drone innovations are highlighted in Part 2 of our Business of Defense series. Plus, a sneak peek into a new Smithsonian military aviation exhibit, and tips to avoid scams."
+        "url": "https://www.defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
+        "summary": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipie..."
       },
       {
-        "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
+        "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
-        "summary": "The International Criminal Court will close investigations into Afghanistan that previously looked at alleged crimes by U.S. troops and focus only on actions of the Taliban."
+        "url": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
+        "summary": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies."
       }
     ],
     "geo_news": [
       {
-        "title": "Türkiye, Uluslararası Telekomünikasyon Birliği konsey üyeliğine yeniden seçildi",
+        "title": "Sağlık Bakanı Memişoğlu: Aşı reddini engellemek için 8 aşımızı yerli üreteceğiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-uluslararasi-telekomunikasyon-birligi-konsey-uyeligine-yeniden-secildi/4126716",
-        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"2002'den bu yana sürdürdüğümüz ITU konsey üyeliğimize 2027-2030 döneminde de devam edeceğiz.\" ifadesini kullandı."
+        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-asi-reddini-engellemek-icin-8-asimizi-yerli-uretecegiz/4127100",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Aşı reddini engellemek ve aşı reddini azaltmak için 8 aşımızı yerli üreteceğiz, kısa sürede sözleşmelerini yapıp kendi aşısını üreten ve dünyaya ula..."
       },
       {
-        "title": "Türkiye'nin COP31'de başlattığı Küresel Jeotermal 2050 Hedefi'ne 50'den fazla ülke destek verdi",
+        "title": "Bakan Fidan, Türkiye'nin Kafkaslar, Avrupa ve Orta Asya bağlantısallığındaki merkezi rolünü vurguladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyenin-cop31de-baslattigi-kuresel-jeotermal-2050-hedefine-50den-fazla-ulke-destek-verdi/4126544",
-        "summary": "COP31 Başkanlığı tarafından başlatılan Küresel Jeotermal 2050 Hedefi (Global Geothermal Ambition 2050), etkinliğin ilk haftasında 50'den fazla ülkenin desteğini aldı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiyenin-kafkaslar-avrupa-ve-orta-asya-baglantisalligindaki-merkezi-rolunu-vurguladi/4127062",
+        "summary": "Bakan Fidan, bağlantısallık konusunda Türkiye'nin Avrupa, Karadeniz, Kafkaslar ve Orta Asya için ortak bir konum olarak ön plana çıktığına işaret ederek, \"Türkiye'nin buradaki merk..."
       },
       {
-        "title": "Bakan Göktaş, Singapurlu mevkidaşı Zulkifli ile 2027-2029 faaliyet planı imzaladı",
+        "title": "Başkentte bazı mahallelerde su kesintisi uygulanacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-goktas-singapurlu-mevkidasi-zulkifli-ile-2027-2029-faaliyet-plani-imzaladi/4126636",
-        "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Singapur Toplumsal ve Aile Gelişim Bakanı Masagos Zulkifli ile 2027-2029 dönemini kapsayan faaliyet planı imzaladı."
+        "url": "https://www.aa.com.tr/tr/gundem/baskentte-bazi-mahallelerde-su-kesintisi-uygulanacak/4127017",
+        "summary": "Ankara Su ve Kanalizasyon İdaresi (ASKİ) Genel Müdürlüğü, Keçiören ve Yenimahalle ilçelerinin bazı mahallelerinde perşembe günü su kesintisi uygulanacağını bildirdi."
       },
       {
-        "title": "Beşiktaş'taki silahlı saldırıya ilişkin adliyeye sevk edilen 30 zanlıdan 14'ü tutuklandı",
+        "title": "COP31'de \"5 Problem, 5 Teknoloji, 5 Kadın\" söyleşisi düzenlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/besiktastaki-silahli-saldiriya-iliskin-adliyeye-sevk-edilen-30-zanlidan-14u-tutuklandi/4126645",
-        "summary": "Beşiktaş'ta 1 kişinin hayatını kaybettiği silahlı saldırıya ilişkin soruşturma kapsamında gözaltına alınan 30 şüpheliden 14'ü tutuklandı."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31de-5-problem-5-teknoloji-5-kadin-soylesisi-duzenlendi/4126901",
+        "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, AK Parti Kadın Kolları Başkanlığınca \"5 Proble..."
       }
     ]
   }
