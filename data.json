@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17 23:41:53",
+  "updated_at": "2026-11-18 13:35:21",
   "markets": {
-    "usd_try_kapalicarsi": "50.42 TL",
+    "usd_try_kapalicarsi": "50.45 TL",
     "eur_try_kapalicarsi": "55.49 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Hanwha transforms ship into floating multi-rocket launcher",
-    "bullet_1": "Hanwha transforms ship into floating multi-rocket launcher",
-    "bullet_2": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
-    "bullet_3": "LaNeve formally nominated for Army chief of staff role",
+    "red_alert": "SON DAKİKA: EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+    "bullet_1": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+    "bullet_2": "Acting Navy Secretary Hung Cao faces transparency questions in Senate confirmation hearing",
+    "bullet_3": "Hanwha transforms ship into floating multi-rocket launcher",
     "defense_news": [
+      {
+        "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/18/eu-proposes-e45-billion-ukraine-loan-to-be-repaid-after-russia-pays-reparations/",
+        "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine to help fill a funding gap of €70 billion for next year as Kyiv continues its fight ..."
+      },
+      {
+        "title": "Acting Navy Secretary Hung Cao faces transparency questions in Senate confirmation hearing",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/video/2026/11/17/acting-navy-secretary-hung-cao-faces-transparency-questions-in-senate-confirmation-hearing/",
+        "summary": "Hung Cao, the acting Navy secretary, fielded questions about his handling of updates to Congress and got into a verbal scuffle about suicide “mitigations” during his Senate confirm..."
+      },
       {
         "title": "Hanwha transforms ship into floating multi-rocket launcher",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line/",
         "summary": "Ukraine is expanding its use of large drones for battlefield medical evacuations. Watch as a Ukrainian team uses an aerial drone to transport a wounded soldier from a forward posit..."
-      },
-      {
-        "title": "LaNeve formally nominated for Army chief of staff role",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role/",
-        "summary": "The Trump administration nominated Gen. Christopher LaNeve as chief of staff of the Army."
-      },
-      {
-        "title": "Finland’s Iceye bids €2 billion for Italian rocket maker Avio",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/",
-        "summary": "Finnish satellite operator Iceye made a €2 billion ($2.2 billion) cash offer for Italian rocket maker Avio on Tuesday, with the goal of creating an integrated European space and de..."
       }
     ],
     "geo_news": [
       {
-        "title": "Erzurum'da yaban ve çengel boynuzlu dağ keçisi sayısı 3 bini aştı",
+        "title": "Bursa'da kadın emeği yöresel lezzetlerle ekonomiye kazandırılıyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/erzurumda-yaban-ve-cengel-boynuzlu-dag-kecisi-sayisi-3-bini-asti/4128414",
-        "summary": "Erzurum'da yürütülen koruma, denetim ve izleme çalışmaları sonucunda yaban ve çengel boynuzlu dağ keçisi sayısının 3 bini aştığı belirlendi."
+        "url": "https://www.aa.com.tr/tr/gundem/bursada-kadin-emegi-yoresel-lezzetlerle-ekonomiye-kazandiriliyor/4129384",
+        "summary": "Bursa'nın Orhaneli ilçesinde bir araya gelerek kooperatif kuran kadınlar, açtıkları kahvaltı evinde el emeği ürünlerini satarak aile bütçesine katkıda bulunuyor."
       },
       {
-        "title": "Çift tırnak tek başına Kangal köpeğinde saflığı kanıtlamıyor",
+        "title": "Aralarında suç örgütü elebaşının da bulunduğu 6 firarinin Türkiye'ye iadesi sağlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cift-tirnak-tek-basina-kangal-kopeginde-safligi-kanitlamiyor/4128411",
-        "summary": "Sivas Cumhuriyet Üniversitesi (SCÜ) Kangal Köpeği Uygulama ve Araştırma Merkezi Müdürü Prof. Dr. Nazlı Ercan, çift tırnağın tek başına Kangal köpeğinde saflığı kanıtlamadığını söyl..."
+        "url": "https://www.aa.com.tr/tr/gundem/aralarinda-suc-orgutu-elebasinin-da-bulundugu-6-firarinin-turkiyeye-iadesi-saglandi/4129339",
+        "summary": "Adalet Bakanı Akın Gürlek, Gürcistan makamlarıyla yürüttükleri uluslararası adli işbirliği sonucunda, aralarında kırmızı bültenle aranan suç örgütü elebaşı Ahmet Dinç ile Yusuf Nam..."
       },
       {
-        "title": "İçişleri Bakanı Çiftçi: (POLSAN'a yönelik iddialar) Bu işlemlerden kaynaklanan herhangi bir zarar bulunmamaktadır",
+        "title": "COP31'in kahvesi de \"adil üretim\" sertifikalı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-polsana-yonelik-iddialar-bu-islemlerden-kaynaklanan-herhangi-bir-zarar-bulunmamaktadir/4128399",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, \"POLSAN'daki birikimin, fon soruşturması kapsamında tasfiyesine karar verilen bazı fonlarda kullanıldığı\" iddialarına ilişkin, \"Bu işlemlerden kayna..."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31in-kahvesi-de-adil-uretim-sertifikali/4129211",
+        "summary": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında tüketilen kahve de sürdürülebilirlik mesajı taşıyor."
       },
       {
-        "title": "COP31'de su verimliliği ve atık suyun yeniden kullanımı ele alındı",
+        "title": "TÜRGEV, Erasmus+ projelerini COP31'de anlattı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31de-su-verimliligi-ve-atik-suyun-yeniden-kullanimi-ele-alindi-/4127820",
-        "summary": "Su Yönetimi Genel Müdürü Afire Sever:,  \"Su miktarını nüfusa böldüğün zaman 1000'in üzerindeysen su stresi altındasın. 1000'in altına düştüğün zaman da su fakiri, hele 500'ün altın..."
+        "url": "https://www.aa.com.tr/tr/gundem/turgev-erasmus-projelerini-cop31de-anlatti/4129222",
+        "summary": "Türkiye Gençlik ve Eğitime Hizmet Vakfı (TÜRGEV), Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında düzenlenen panelde, Erasmus+ projelerini..."
       }
     ]
   }
