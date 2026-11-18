@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:35:21",
+  "updated_at": "2026-11-18 23:13:29",
   "markets": {
     "usd_try_kapalicarsi": "50.45 TL",
     "eur_try_kapalicarsi": "55.49 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-    "bullet_1": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-    "bullet_2": "Acting Navy Secretary Hung Cao faces transparency questions in Senate confirmation hearing",
-    "bullet_3": "Hanwha transforms ship into floating multi-rocket launcher",
+    "red_alert": "SON DAKİKA: US surges power projection to westernmost island chain as Russia, China loom",
+    "bullet_1": "US surges power projection to westernmost island chain as Russia, China loom",
+    "bullet_2": "US Navy used expired munitions during Iran war, Cao says",
+    "bullet_3": "Watchdog flags fraud, failed Pentagon audit as defense priorities",
     "defense_news": [
       {
-        "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+        "title": "US surges power projection to westernmost island chain as Russia, China loom",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/18/eu-proposes-e45-billion-ukraine-loan-to-be-repaid-after-russia-pays-reparations/",
-        "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine to help fill a funding gap of €70 billion for next year as Kyiv continues its fight ..."
+        "url": "https://www.defensenews.com/global/the-americas/2026/11/18/us-surges-power-projection-to-westernmost-island-chain-as-russia-china-loom/",
+        "summary": "The U.S. Air Force is expanding its training on America's westernmost islands, where it can project power and monitor adversaries across the Pacific and the Arctic."
       },
       {
-        "title": "Acting Navy Secretary Hung Cao faces transparency questions in Senate confirmation hearing",
+        "title": "US Navy used expired munitions during Iran war, Cao says",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/17/acting-navy-secretary-hung-cao-faces-transparency-questions-in-senate-confirmation-hearing/",
-        "summary": "Hung Cao, the acting Navy secretary, fielded questions about his handling of updates to Congress and got into a verbal scuffle about suicide “mitigations” during his Senate confirm..."
+        "url": "https://www.defensenews.com/newsletters/daily-news-roundup/2026/11/18/us-navy-used-expired-munitions-during-iran-war-cao-says/",
+        "summary": "Acting Navy Secretary told lawmakers during a Senate confirmation hearing that the service is recoding expired munitions and firing them off."
       },
       {
-        "title": "Hanwha transforms ship into floating multi-rocket launcher",
+        "title": "Watchdog flags fraud, failed Pentagon audit as defense priorities",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
-        "summary": "South Korean defense giant Hanwha said it successfully launched missiles from a palletizable multi-pod launcher system at sea."
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/18/watchdog-flags-fraud-failed-pentagon-audit-as-defense-priorities/",
+        "summary": "Days after the Pentagon failed its ninth consecutive audit, its oversight office ranked eliminating fraud and achieving a clean financial audit among the Defense Department’s most ..."
       },
       {
-        "title": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
+        "title": "As UNIFIL winds down, Israeli presence in Lebanon complicates handover process",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line/",
-        "summary": "Ukraine is expanding its use of large drones for battlefield medical evacuations. Watch as a Ukrainian team uses an aerial drone to transport a wounded soldier from a forward posit..."
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/18/as-unifil-winds-down-israeli-presence-in-lebanon-complicates-handover-process/",
+        "summary": "If the Lebanese authorities are unable to take physical possession of the positions, the handover could take place on paper only, sources said."
       }
     ],
     "geo_news": [
       {
-        "title": "Bursa'da kadın emeği yöresel lezzetlerle ekonomiye kazandırılıyor",
+        "title": "Çocukların tatilde ekran yerine oyun ve sosyal etkinliklere yönlendirilmesi öneriliyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bursada-kadin-emegi-yoresel-lezzetlerle-ekonomiye-kazandiriliyor/4129384",
-        "summary": "Bursa'nın Orhaneli ilçesinde bir araya gelerek kooperatif kuran kadınlar, açtıkları kahvaltı evinde el emeği ürünlerini satarak aile bütçesine katkıda bulunuyor."
+        "url": "https://www.aa.com.tr/tr/gundem/cocuklarin-tatilde-ekran-yerine-oyun-ve-sosyal-etkinliklere-yonlendirilmesi-oneriliyor/4129857",
+        "summary": "Uzmanlar, tatilde çocukların ekran başında geçirdiği süreyi azaltmak için ailelere spor faaliyetleri, müze ve kütüphane gezileri gibi sosyal aktivitelerin yanı sıra evde yapboz, sa..."
       },
       {
-        "title": "Aralarında suç örgütü elebaşının da bulunduğu 6 firarinin Türkiye'ye iadesi sağlandı",
+        "title": "Enerjiye ve sosyal güvenliğe ilişkin düzenlemeleri de içeren kanun teklifi, Komisyonda kabul edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/aralarinda-suc-orgutu-elebasinin-da-bulundugu-6-firarinin-turkiyeye-iadesi-saglandi/4129339",
-        "summary": "Adalet Bakanı Akın Gürlek, Gürcistan makamlarıyla yürüttükleri uluslararası adli işbirliği sonucunda, aralarında kırmızı bültenle aranan suç örgütü elebaşı Ahmet Dinç ile Yusuf Nam..."
+        "url": "https://www.aa.com.tr/tr/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-komisyonda-kabul-edildi/4129887",
+        "summary": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Sanayi, Ticaret, E..."
       },
       {
-        "title": "COP31'in kahvesi de \"adil üretim\" sertifikalı",
+        "title": "Türkiye Acil Tıp Derneği, işlek noktalara otomatik şok cihazlarının konulmasından memnun",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31in-kahvesi-de-adil-uretim-sertifikali/4129211",
-        "summary": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında tüketilen kahve de sürdürülebilirlik mesajı taşıyor."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-acil-tip-dernegi-islek-noktalara-otomatik-sok-cihazlarinin-konulmasindan-memnun/4129858",
+        "summary": "Türkiye Acil Tıp Derneği Başkanı Prof. Dr. Bülent Erbil, halkın yoğun olarak bulunduğu alanlara yerleştirilen otomatik eksternal defibrilatörün (otomatik şok cihazı) kalbi durmuş h..."
       },
       {
-        "title": "TÜRGEV, Erasmus+ projelerini COP31'de anlattı",
+        "title": "Çocukluk çağı lösemilerinde gelişen tedavi yöntemleri umut veriyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turgev-erasmus-projelerini-cop31de-anlatti/4129222",
-        "summary": "Türkiye Gençlik ve Eğitime Hizmet Vakfı (TÜRGEV), Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında düzenlenen panelde, Erasmus+ projelerini..."
+        "url": "https://www.aa.com.tr/tr/gundem/cocukluk-cagi-losemilerinde-gelisen-tedavi-yontemleri-umut-veriyor/4129856",
+        "summary": "Türk Hematoloji Derneği İkinci Başkanı Prof. Dr. Ayşegül Ünüvar, yeni ilaçlar ve farklı tedavi yaklaşımlarının lösemiyle mücadeleye önemli katkı sağladığını belirtti."
       }
     ]
   }
