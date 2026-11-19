@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 14:01:49",
+  "updated_at": "2026-11-19 23:21:19",
   "markets": {
     "usd_try_kapalicarsi": "50.48 TL",
     "eur_try_kapalicarsi": "55.39 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Ukraine plans to double drone supplies, triple deep strikes",
-    "bullet_1": "Ukraine plans to double drone supplies, triple deep strikes",
-    "bullet_2": "MBDA and German startup Atmos team up to study space-based strike weapons",
-    "bullet_3": "Japanese nuclear submarines are a bad idea for East China Sea security — for now",
+    "red_alert": "SON DAKİKA: US missile shortages create a range problem, report shows",
+    "bullet_1": "US missile shortages create a range problem, report shows",
+    "bullet_2": "Denmark ratifies Trump deal over Greenland, hoping to end conflict",
+    "bullet_3": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
     "defense_news": [
       {
-        "title": "Ukraine plans to double drone supplies, triple deep strikes",
+        "title": "US missile shortages create a range problem, report shows",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/19/ukraine-plans-to-double-drone-supplies-triple-deep-strikes/",
-        "summary": "Ukraine is forging ahead with its long-range strike campaign with support from European partners, despite Washington’s request to prioritize front-line defense and associated midra..."
+        "url": "https://www.defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows/",
+        "summary": "A new CSIS report warns that the Iran war has strained US missile stockpiles, raising concerns about America's readiness for a potential conflict with China."
       },
       {
-        "title": "MBDA and German startup Atmos team up to study space-based strike weapons",
+        "title": "Denmark ratifies Trump deal over Greenland, hoping to end conflict",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/",
-        "summary": "Pan-European missile maker MBDA and German startup Atmos Space Cargo are teaming up to study deploying deep-strike weapons from Earth orbit using reentry vehicles."
+        "url": "https://www.defensenews.com/global/europe/2026/11/19/denmark-ratifies-trump-deal-over-greenland-hoping-to-end-conflict/",
+        "summary": "Denmark's parliament unanimously ratified a security agreement with the United States on Greenland on Thursday, hoping to end a standoff over the Arctic island's future."
       },
       {
-        "title": "Japanese nuclear submarines are a bad idea for East China Sea security — for now",
+        "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now/",
-        "summary": "Washington must rein in Tokyo’s ambitions for nuclear submarines, even as it encourages Japan to further develop defensive capabilities, writes analyst Lyle Goldstein."
+        "url": "https://www.defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
+        "summary": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipie..."
       },
       {
-        "title": "US surges power projection to westernmost island chain as Russia, China loom",
+        "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/the-americas/2026/11/18/us-surges-power-projection-to-westernmost-island-chain-as-russia-china-loom/",
-        "summary": "The U.S. Air Force is expanding its training on America's westernmost islands, where it can project power and monitor adversaries across the Pacific and the Arctic."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
+        "summary": "“DoD does not have an overarching plan that links munitions production and funding to requirements,” warned the Government Accountability Office study."
       }
     ],
     "geo_news": [
       {
-        "title": "Kabatepe-Gökçeada hattındaki iki feribot seferi yarın yapılamayacak",
+        "title": "Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/kabatepe-gokceada-hattindaki-iki-feribot-seferi-yarin-yapilamayacak/4131071",
-        "summary": "GESTAŞ, Ege Denizi'nin kuzeyindeki olumsuz hava koşulları nedeniyle Kabatepe-Gökçeada hattında yarın yapılacak iki feribot seferini iptal etti."
+        "url": "https://www.aa.com.tr/tr/gundem/belediye-meclisi-calisma-yonetmeliginde-degisiklik-yapilmasina-dair-yonetmelik-resmi-gazetede/4131620",
+        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik Resmi Gazete'de yayımlandı."
       },
       {
-        "title": "Emine Erdoğan, Türkiye Çocuk Hakları Danışma Kurulu'nu kabul etti",
+        "title": "BUDO'nun bugünkü 10 seferi iptal edildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogan-turkiye-cocuk-haklari-danisma-kurulunu-kabul-etti/4131009",
-        "summary": "Emine Erdoğan, 20 Kasım Dünya Çocuk Hakları Günü kapsamında çocuklarla bir araya geldi. Çocuklar, Emine Erdoğan'a \"27. Uluslararası Çocuk Forumu Bildirgesi\"ni takdim etti."
+        "url": "https://www.aa.com.tr/tr/gundem/budonun-bugunku-10-seferi-iptal-edildi/4131613",
+        "summary": "Bursa Deniz Otobüslerinin (BUDO) bugünkü 10 seferi olumsuz hava şartları nedeniyle iptal edildi."
       },
       {
-        "title": "TBMM Başkanı Kurtulmuş, TESK Genel Başkanı Yiğiner'i kabul etti",
+        "title": "Türkiye, UAD'nin Myanmar kararını memnuniyetle karşıladı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-tesk-genel-baskani-yigineri-kabul-etti/4131042",
-        "summary": ""
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-uadnin-myanmar-kararini-memnuniyetle-karsiladi/4131618",
+        "summary": "Türkiye, UAD'ın, Myanmar'ın 2017'de Arakan Eyaleti'nin kuzeyinde Arakanlı Müslümanlara (Rohingya) karşı soykırım işlediğine ve soykırımı önleme ile cezalandırma yükümlülüklerini ih..."
       },
       {
-        "title": "Ankara merkezli uyuşturucu gelirini aklama soruşturmasında 7 şüpheli tutuklandı",
+        "title": "Cumhurbaşkanlığı İletişim Başkanlığı heyeti Pakistan'da temaslarda bulundu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ankara-merkezli-uyusturucu-gelirini-aklama-sorusturmasinda-7-supheli-tutuklandi/4131019",
-        "summary": "Suçtan kaynaklanan malvarlığı değerlerini aklama soruşturması kapsamında \"Çobanlar Grubu\" olarak bilinen yapılanmada yer aldıkları tespit edilen 13 şüpheliden aralarında örgüt eleb..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskanligi-heyeti-pakistanda-temaslarda-bulundu/4131051",
+        "summary": "İletişim Başkan Yardımcısı Pirinççi başkanlığında heyetin görüşmelerinde, Türkiye-Pakistan stratejik ortaklığı ile iletişim alanında işbirliği ve dezenformasyonla mücadele konuları..."
       }
     ]
   }
