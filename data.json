@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-11-18 23:13:29",
+  "updated_at": "2026-11-19 14:01:49",
   "markets": {
-    "usd_try_kapalicarsi": "50.45 TL",
-    "eur_try_kapalicarsi": "55.49 TL",
+    "usd_try_kapalicarsi": "50.48 TL",
+    "eur_try_kapalicarsi": "55.39 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US surges power projection to westernmost island chain as Russia, China loom",
-    "bullet_1": "US surges power projection to westernmost island chain as Russia, China loom",
-    "bullet_2": "US Navy used expired munitions during Iran war, Cao says",
-    "bullet_3": "Watchdog flags fraud, failed Pentagon audit as defense priorities",
+    "red_alert": "SON DAKİKA: Ukraine plans to double drone supplies, triple deep strikes",
+    "bullet_1": "Ukraine plans to double drone supplies, triple deep strikes",
+    "bullet_2": "MBDA and German startup Atmos team up to study space-based strike weapons",
+    "bullet_3": "Japanese nuclear submarines are a bad idea for East China Sea security — for now",
     "defense_news": [
+      {
+        "title": "Ukraine plans to double drone supplies, triple deep strikes",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/19/ukraine-plans-to-double-drone-supplies-triple-deep-strikes/",
+        "summary": "Ukraine is forging ahead with its long-range strike campaign with support from European partners, despite Washington’s request to prioritize front-line defense and associated midra..."
+      },
+      {
+        "title": "MBDA and German startup Atmos team up to study space-based strike weapons",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/",
+        "summary": "Pan-European missile maker MBDA and German startup Atmos Space Cargo are teaming up to study deploying deep-strike weapons from Earth orbit using reentry vehicles."
+      },
+      {
+        "title": "Japanese nuclear submarines are a bad idea for East China Sea security — for now",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now/",
+        "summary": "Washington must rein in Tokyo’s ambitions for nuclear submarines, even as it encourages Japan to further develop defensive capabilities, writes analyst Lyle Goldstein."
+      },
       {
         "title": "US surges power projection to westernmost island chain as Russia, China loom",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/the-americas/2026/11/18/us-surges-power-projection-to-westernmost-island-chain-as-russia-china-loom/",
         "summary": "The U.S. Air Force is expanding its training on America's westernmost islands, where it can project power and monitor adversaries across the Pacific and the Arctic."
-      },
-      {
-        "title": "US Navy used expired munitions during Iran war, Cao says",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/newsletters/daily-news-roundup/2026/11/18/us-navy-used-expired-munitions-during-iran-war-cao-says/",
-        "summary": "Acting Navy Secretary told lawmakers during a Senate confirmation hearing that the service is recoding expired munitions and firing them off."
-      },
-      {
-        "title": "Watchdog flags fraud, failed Pentagon audit as defense priorities",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/18/watchdog-flags-fraud-failed-pentagon-audit-as-defense-priorities/",
-        "summary": "Days after the Pentagon failed its ninth consecutive audit, its oversight office ranked eliminating fraud and achieving a clean financial audit among the Defense Department’s most ..."
-      },
-      {
-        "title": "As UNIFIL winds down, Israeli presence in Lebanon complicates handover process",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/18/as-unifil-winds-down-israeli-presence-in-lebanon-complicates-handover-process/",
-        "summary": "If the Lebanese authorities are unable to take physical possession of the positions, the handover could take place on paper only, sources said."
       }
     ],
     "geo_news": [
       {
-        "title": "Çocukların tatilde ekran yerine oyun ve sosyal etkinliklere yönlendirilmesi öneriliyor",
+        "title": "Kabatepe-Gökçeada hattındaki iki feribot seferi yarın yapılamayacak",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cocuklarin-tatilde-ekran-yerine-oyun-ve-sosyal-etkinliklere-yonlendirilmesi-oneriliyor/4129857",
-        "summary": "Uzmanlar, tatilde çocukların ekran başında geçirdiği süreyi azaltmak için ailelere spor faaliyetleri, müze ve kütüphane gezileri gibi sosyal aktivitelerin yanı sıra evde yapboz, sa..."
+        "url": "https://www.aa.com.tr/tr/gundem/kabatepe-gokceada-hattindaki-iki-feribot-seferi-yarin-yapilamayacak/4131071",
+        "summary": "GESTAŞ, Ege Denizi'nin kuzeyindeki olumsuz hava koşulları nedeniyle Kabatepe-Gökçeada hattında yarın yapılacak iki feribot seferini iptal etti."
       },
       {
-        "title": "Enerjiye ve sosyal güvenliğe ilişkin düzenlemeleri de içeren kanun teklifi, Komisyonda kabul edildi",
+        "title": "Emine Erdoğan, Türkiye Çocuk Hakları Danışma Kurulu'nu kabul etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-komisyonda-kabul-edildi/4129887",
-        "summary": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Sanayi, Ticaret, E..."
+        "url": "https://www.aa.com.tr/tr/gundem/emine-erdogan-turkiye-cocuk-haklari-danisma-kurulunu-kabul-etti/4131009",
+        "summary": "Emine Erdoğan, 20 Kasım Dünya Çocuk Hakları Günü kapsamında çocuklarla bir araya geldi. Çocuklar, Emine Erdoğan'a \"27. Uluslararası Çocuk Forumu Bildirgesi\"ni takdim etti."
       },
       {
-        "title": "Türkiye Acil Tıp Derneği, işlek noktalara otomatik şok cihazlarının konulmasından memnun",
+        "title": "TBMM Başkanı Kurtulmuş, TESK Genel Başkanı Yiğiner'i kabul etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiye-acil-tip-dernegi-islek-noktalara-otomatik-sok-cihazlarinin-konulmasindan-memnun/4129858",
-        "summary": "Türkiye Acil Tıp Derneği Başkanı Prof. Dr. Bülent Erbil, halkın yoğun olarak bulunduğu alanlara yerleştirilen otomatik eksternal defibrilatörün (otomatik şok cihazı) kalbi durmuş h..."
+        "url": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-tesk-genel-baskani-yigineri-kabul-etti/4131042",
+        "summary": ""
       },
       {
-        "title": "Çocukluk çağı lösemilerinde gelişen tedavi yöntemleri umut veriyor",
+        "title": "Ankara merkezli uyuşturucu gelirini aklama soruşturmasında 7 şüpheli tutuklandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cocukluk-cagi-losemilerinde-gelisen-tedavi-yontemleri-umut-veriyor/4129856",
-        "summary": "Türk Hematoloji Derneği İkinci Başkanı Prof. Dr. Ayşegül Ünüvar, yeni ilaçlar ve farklı tedavi yaklaşımlarının lösemiyle mücadeleye önemli katkı sağladığını belirtti."
+        "url": "https://www.aa.com.tr/tr/gundem/ankara-merkezli-uyusturucu-gelirini-aklama-sorusturmasinda-7-supheli-tutuklandi/4131019",
+        "summary": "Suçtan kaynaklanan malvarlığı değerlerini aklama soruşturması kapsamında \"Çobanlar Grubu\" olarak bilinen yapılanmada yer aldıkları tespit edilen 13 şüpheliden aralarında örgüt eleb..."
       }
     ]
   }
