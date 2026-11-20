@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 13:44:44",
+  "updated_at": "2026-11-20 22:52:36",
   "markets": {
     "usd_try_kapalicarsi": "50.53 TL",
     "eur_try_kapalicarsi": "55.49 TL",
@@ -9,11 +9,23 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
-    "bullet_1": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
-    "bullet_2": "US missile shortages create a range problem, report shows",
-    "bullet_3": "Denmark ratifies Trump deal over Greenland, hoping to end conflict",
+    "red_alert": "SON DAKİKA: Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+    "bullet_1": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+    "bullet_2": "German attack drones pass live-fire tests, with first deliveries planned this year",
+    "bullet_3": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
     "defense_news": [
+      {
+        "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/20/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says/",
+        "summary": "The agreement was among the major achievements of Trump's trip to Asia, Treasury Secretary Scott Bessent said."
+      },
+      {
+        "title": "German attack drones pass live-fire tests, with first deliveries planned this year",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year/",
+        "summary": "Two German one-way attack drone variants passed live-fire trials this month, clearing a step toward initial deliveries and troop training before the end of the year, Germany’s mili..."
+      },
       {
         "title": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
         "source": "DEFENSE NEWS",
@@ -25,44 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows/",
         "summary": "A new CSIS report warns that the Iran war has strained US missile stockpiles, raising concerns about America's readiness for a potential conflict with China."
-      },
-      {
-        "title": "Denmark ratifies Trump deal over Greenland, hoping to end conflict",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/19/denmark-ratifies-trump-deal-over-greenland-hoping-to-end-conflict/",
-        "summary": "Denmark's parliament unanimously ratified a security agreement with the United States on Greenland on Thursday, hoping to end a standoff over the Arctic island's future."
-      },
-      {
-        "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
-        "summary": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipie..."
       }
     ],
     "geo_news": [
       {
-        "title": "COP31 Gençlik Forumu'nda iklim değişikliği konusunda gençlerin beklentileri konuşuldu",
+        "title": "Türkiye, Uluslararası Sivil Havacılık Örgütü Konsey üyeliğine seçildi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31-genclik-forumunda-iklim-degisikligi-konusunda-genclerin-beklentileri-konusuldu/4132210",
-        "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31) teknoloji çağı gençliğinin i..."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiye-uluslararasi-sivil-havacilik-orgutu-konsey-uyeligine-secildi/4132606",
+        "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye'nin, Uluslararası Sivil Havacılık Örgütü (ICAO) Konseyi için yapılan seçimlerde 158 oyun 133'ünü alarak konsey üyeliğine se..."
       },
       {
-        "title": "COP31'de 10 günde 2 bin 751 kişiye sağlık hizmeti sunuldu",
+        "title": "Atama ve görevden alma kararları Resmi Gazete'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cop31de-10-gunde-2-bin-751-kisiye-saglik-hizmeti-sunuldu/4132203",
-        "summary": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) sağlık ekipleri, 10 günde 2 bin 751 kişiye kesintisiz sağlık hizm..."
+        "url": "https://www.aa.com.tr/tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede/4132601",
+        "summary": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları, Resmi Gazete'de yayımlandı."
       },
       {
-        "title": "Bakan Fidan, Avrupa Komisyonu Başkan Yardımcısı Fitto ile Ankara'da görüştü",
+        "title": "COP31 Başkanı Kurum: Dünyanın umudu bu salonda, uzlaşıp burada bir şeyleri değiştirebiliriz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-fidan-avrupa-komisyonu-baskan-yardimcisi-fitto-ile-ankarada-gorustu/4132128",
-        "summary": "Dışişleri Bakanı Hakan Fidan, Avrupa Komisyonunun Uyum ve Reformlardan Sorumlu Başkan Yardımcısı Raffaele Fitto ile görüştü."
+        "url": "https://www.aa.com.tr/tr/gundem/cop31-baskani-kurum-dunyanin-umudu-bu-salonda-uzlasip-burada-bir-seyleri-degistirebiliriz/4132540",
+        "summary": "Bakan Kurum, COP31 Genel Kurul Kapanış Oturumu'nda yaptığı konuşmada, \"Dünyanın umudu bu salonda. Hala bu salondan çok güzel mesajlar verebiliriz. Uzlaşıp burada bir şeyleri değişt..."
       },
       {
-        "title": "114 kişilik ekip, 521 engelli delegenin erişimini kolaylaştırıyor",
+        "title": "Uluslararası seviyede aranan Serdar Altınbaş, Çekya'da yakalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/114-kisilik-ekip-521-engelli-delegenin-erisimini-kolaylastiriyor/4132031",
-        "summary": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) 102'si gönüllü 114 kişilik erişilebilirlik ekibi, akreditasyon sistemine kayıtlı 5..."
+        "url": "https://www.aa.com.tr/tr/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakalandi/4132536",
+        "summary": "İçişleri Bakanlığı, \"Sermaye Piyasası Kanuna muhalefet ve suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından difüzyonla, uluslararası seviyede aranan Serdar Altınbaş'ın..."
       }
     ]
   }
