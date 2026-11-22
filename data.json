@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-21 21:57:38",
+  "updated_at": "2026-11-22 12:56:58",
   "markets": {
-    "usd_try_kapalicarsi": "50.53 TL",
-    "eur_try_kapalicarsi": "55.49 TL",
+    "usd_try_kapalicarsi": "50.60 TL",
+    "eur_try_kapalicarsi": "55.53 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Şırnak'ta silah kazası sonucu bir asker şehit oldu",
+        "title": "İletişim Başkanlığından \"Türkiye'nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi\" belgeseli",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/sirnakta-silah-kazasi-sonucu-bir-asker-sehit-oldu/4133272",
-        "summary": "Milli Savunma Bakanlığı (MSB), Şırnak Şenoba'da silah kazası sonucu İstihbarat Astsubay Çavuş Yalın Gergün'ün şehit olduğunu bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-turkiyenin-diplomasi-rotasi-dort-zirvede-lider-diplomasisi-belgeseli/4133475",
+        "summary": "İletişim Başkanlığı, Cumhurbaşkanı Erdoğan'ın NATO, BM, TDT ve COP31 zirvelerindeki yoğun diplomasi trafiğini, liderlerle kritik görüşmelerini içeren \"Türkiye'nin Diplomasi Rotası:..."
       },
       {
-        "title": "Cumhurbaşkanlığı İletişim Başkanı Duran'dan COP31 paylaşımı",
+        "title": "Bakan Kurum: Geldiğimiz noktada tarihi bir fırsatın eşiğindeyiz",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskani-durandan-cop31-paylasimi/4133223",
-        "summary": "İletişim Başkanı Duran, \"Zirve boyunca yürüttüğümüz stratejik iletişim ve kamu diplomasisi faaliyetleri ile Türkiye'nin iklim vizyonunu uluslararası kamuoyuna aktarmaya, küresel fa..."
+        "url": "https://www.aa.com.tr/tr/gundem/bakan-kurum-geldigimiz-noktada-tarihi-bir-firsatin-esigindeyiz/4133513",
+        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, COP31 Genel Kurul Kapanış Oturumu'nda yaptığı konuşmada, \"Son ana kadar uzlaşının imkanlarını aradık, arıyoruz. Geldiğimiz nokt..."
       },
       {
-        "title": "AK Parti Genel Sekreteri İnan, partisinin Karşıyaka Genişletilmiş İlçe Danışma Meclisi Toplantısı'nda konuştu",
+        "title": "Genelkurmay Başkanı Orgeneral Bayraktaroğlu, Somali'de bazı temaslarda bulundu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-sekreteri-inan-partisinin-karsiyaka-genisletilmis-ilce-danisma-meclisi-toplantisinda-konustu/4133105",
-        "summary": "AK Parti Genel Sekreteri İnan, \"Özgür Özel ve yakın ekibi, milletin alın teriyle ve belediye kaynaklarıyla anılan bu ağır rüşvet ve usulsüzlük iddialarına karşısında hesap vermek y..."
+        "url": "https://www.aa.com.tr/tr/gundem/genelkurmay-baskani-orgeneral-bayraktaroglu-somalide-bazi-temaslarda-bulundu/4133507",
+        "summary": "Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Somali'de bazı temaslarda bulundu."
       },
       {
-        "title": "Bakan Memişoğlu: Türkiye'nin sağlık geleceği sizlerin ellerinde yükselecek",
+        "title": "Yabancı Dil Bilgisi Seviye Tespit Sınavı yapıldı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-turkiyenin-saglik-gelecegi-sizlerin-ellerinde-yukselecek/4133183",
-        "summary": "Sağlık Bakanı Memişoğlu, \"Hayal edin, araştırın, çalışın ve üretin. Biz sizin önünüzü açmaya, her zaman yanınızda olmaya devam edeceğiz. Türkiye'nin sağlık geleceği sizlerin elleri..."
+        "url": "https://www.aa.com.tr/tr/gundem/yabanci-dil-bilgisi-seviye-tespit-sinavi-yapildi/4133478",
+        "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca Yabancı Dil Bilgisi Seviye Tespit Sınavı (2026-YDS/2) yapıldı. Sınavın sonuçları 10 Aralık'ta duyurulacak."
       }
     ]
   }
