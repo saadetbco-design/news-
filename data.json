@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-11-22 22:15:25",
+  "updated_at": "2026-11-23 15:33:41",
   "markets": {
-    "usd_try_kapalicarsi": "50.60 TL",
-    "eur_try_kapalicarsi": "55.53 TL",
+    "usd_try_kapalicarsi": "50.58 TL",
+    "eur_try_kapalicarsi": "55.52 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
-    "bullet_1": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
-    "bullet_2": "German attack drones pass live-fire tests, with first deliveries planned this year",
-    "bullet_3": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
+    "red_alert": "SON DAKİKA: Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
+    "bullet_1": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
+    "bullet_2": "China’s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
+    "bullet_3": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
     "defense_news": [
       {
-        "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+        "title": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/20/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says/",
-        "summary": "The agreement was among the major achievements of Trump's trip to Asia, Treasury Secretary Scott Bessent said."
+        "url": "https://www.defensenews.com/video/2026/11/23/ukraine-strikes-russian-warship-and-cargo-vessel-with-naval-drones-in-libya/",
+        "summary": "Ukrainian president Volodymyr Zelenskyy said seven naval drones were used in the attack, which sank the Russian corvette Merkury."
       },
       {
-        "title": "German attack drones pass live-fire tests, with first deliveries planned this year",
+        "title": "China’s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year/",
-        "summary": "Two German one-way attack drone variants passed live-fire trials this month, clearing a step toward initial deliveries and troop training before the end of the year, Germany’s mili..."
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/23/chinas-fourth-aircraft-carrier-bigger-than-others-and-nuclear-powered-nears-completion/",
+        "summary": "China’s fourth aircraft carrier, a gigantic vessel known so far as just Type 004, will come out as early as next year bigger than its predecessors and with nuclear power that can l..."
       },
       {
-        "title": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
+        "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030/",
-        "summary": "The nation of 18 million punches above its weight in several key defense technology areas."
+        "url": "https://www.defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
+        "summary": "While Ukrainian innovators pioneer frontline aerial drone evacuation, DARPA develops AI-assisted robots to find and assess injured troops and civilians. The race to save lives is o..."
       },
       {
-        "title": "US missile shortages create a range problem, report shows",
+        "title": "Acting Navy Secretary Hung Cao heads to the Hill and the Pentagon fails an audit | Headlines",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows/",
-        "summary": "A new CSIS report warns that the Iran war has strained US missile stockpiles, raising concerns about America's readiness for a potential conflict with China."
+        "url": "https://www.defensenews.com/video/2026/11/23/acting-navy-secretary-hung-cao-heads-to-the-hill-and-the-pentagon-fails-an-audit-headlines/",
+        "summary": "The acting secretary of the Navy faced tough questions from Senators during his confirmation hearing, while the Pentagon must target fraud following an internal report."
       }
     ],
     "geo_news": [
       {
-        "title": "Bakan Kurum'dan, \"COP31\" paylaşımı",
+        "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-cop31-paylasimi/4133878",
-        "summary": "Bakan Kurum, \"Her müzakere aynı noktada sonuçlanmayabilir. Her beklenti karşılık bulmayabilir. Ancak ortak evimiz dünya için konuşmaktan, dinlemekten ve çözüm aramaktan vazgeçmeyec..."
+        "url": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4134700",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kabine Toplantısı'nın ardından açıklamalarda bulunuyor."
       },
       {
-        "title": "Japonya, yıllık 2 milyon tona kadar karbondioksit depolamayı hedefliyor",
+        "title": "İstanbul Valiliğinden soğuk hava uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/japonya-yillik-2-milyon-tona-kadar-karbondioksit-depolamayi-hedefliyor/4133390",
-        "summary": "Japan CCS Uluslararası İlişkiler Genel Müdürü ve Kurumsal Danışmanı Sawada Yoshihiro, \"Hedef, 2050'ye kadar yıllık 120 ila 240 milyon metrik ton karbondioksit depolayarak emisyonla..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-valiliginden-soguk-hava-uyarisi/4134809",
+        "summary": "İstanbul Valiliği, kentte hava sıcaklıklarının yarından itibaren hissedilir derecede azalarak mevsim normallerinin 6 ila 8 derece altında seyretmesinin beklendiğini bildirdi."
       },
       {
-        "title": "Van'ın 4 ilçesinde kar yağışı nedeniyle eğitime yarın ara verildi",
+        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Irak Devlet Bakanı Ağa ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/vanin-4-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi/4133858",
-        "summary": "Van'ın Çaldıran, Muradiye, Özalp ve Saray ilçelerinde olumsuz hava koşulları nedeniyle eğitime bir gün ara verildi."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-irak-devlet-bakani-aga-ile-gorustu/4134747",
+        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Irak Devlet Bakanı ve Irak Türkmen Cephesi Başkanı Muhammed Seman Ağa ile bir araya geldi."
       },
       {
-        "title": "Bakan Çiftçi: Gazze'ye 111 bin 904 ton insani yardım malzemesi ulaştırdık",
+        "title": "60 saniyede bugün (23 Kasım 2026)",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-gazzeye-111-bin-904-ton-insani-yardim-malzemesi-ulastirdik/4133802",
-        "summary": "İçişleri Bakanı Mustafa Çiftçi, 7 Ekim 2023'ten bugüne kadar toplam 111 bin 904 ton insani yardım malzemesinin Gazze'ye ulaştırıldığını bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-23-kasim-2026/4134622",
+        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla..."
       }
     ]
   }
