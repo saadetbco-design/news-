@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-11-23 15:33:41",
+  "updated_at": "2026-11-24 03:06:48",
   "markets": {
-    "usd_try_kapalicarsi": "50.58 TL",
-    "eur_try_kapalicarsi": "55.52 TL",
+    "usd_try_kapalicarsi": "50.62 TL",
+    "eur_try_kapalicarsi": "55.29 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
-    "bullet_1": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
-    "bullet_2": "China’s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
-    "bullet_3": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+    "red_alert": "SON DAKİKA: A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+    "bullet_1": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+    "bullet_2": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
+    "bullet_3": "China’s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
     "defense_news": [
+      {
+        "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
+        "summary": "While Ukrainian innovators pioneer frontline aerial drone evacuation, DARPA develops AI-assisted robots to find and assess injured troops and civilians. The race to save lives is o..."
+      },
       {
         "title": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
         "source": "DEFENSE NEWS",
@@ -27,12 +33,6 @@
         "summary": "China’s fourth aircraft carrier, a gigantic vessel known so far as just Type 004, will come out as early as next year bigger than its predecessors and with nuclear power that can l..."
       },
       {
-        "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
-        "summary": "While Ukrainian innovators pioneer frontline aerial drone evacuation, DARPA develops AI-assisted robots to find and assess injured troops and civilians. The race to save lives is o..."
-      },
-      {
         "title": "Acting Navy Secretary Hung Cao heads to the Hill and the Pentagon fails an audit | Headlines",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/video/2026/11/23/acting-navy-secretary-hung-cao-heads-to-the-hill-and-the-pentagon-fails-an-audit-headlines/",
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+        "title": "407 internet sitesine erişim engellendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4134700",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kabine Toplantısı'nın ardından açıklamalarda bulunuyor."
+        "url": "https://www.aa.com.tr/tr/gundem/407-internet-sitesine-erisim-engellendi/4135201",
+        "summary": "Ankara İl Jandarma Komutanlığınca yürütülen sanal devriye faaliyetlerinde yasa dışı bahis, dolandırıcılık ve müstehcen içerikli paylaşım yaptığı belirlenen 407 internet sitesine er..."
       },
       {
-        "title": "İstanbul Valiliğinden soğuk hava uyarısı",
+        "title": "Başkentte çeşitli suçlardan aranan 161 hükümlü yakalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-valiliginden-soguk-hava-uyarisi/4134809",
-        "summary": "İstanbul Valiliği, kentte hava sıcaklıklarının yarından itibaren hissedilir derecede azalarak mevsim normallerinin 6 ila 8 derece altında seyretmesinin beklendiğini bildirdi."
+        "url": "https://www.aa.com.tr/tr/gundem/baskentte-cesitli-suclardan-aranan-161-hukumlu-yakalandi/4135200",
+        "summary": "Ankara'da jandarmanın operasyonlarında çeşitli suçlardan aranan 161 hükümlü yakalandı."
       },
       {
-        "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Irak Devlet Bakanı Ağa ile görüştü",
+        "title": "Türkiye'nin BM Daimi Temsilcisi'nden Karadeniz'deki saldırıların bölgesel istikrarı tehlikeye attığı uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-irak-devlet-bakani-aga-ile-gorustu/4134747",
-        "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Irak Devlet Bakanı ve Irak Türkmen Cephesi Başkanı Muhammed Seman Ağa ile bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/turkiyenin-bm-daimi-temsilcisinden-karadenizdeki-saldirilarin-bolgesel-istikrari-tehlikeye-attigi-uyarisi/4135154",
+        "summary": "Türkiye'nin BM Daimi Temsilcisi Büyükelçi Ahmet Yıldız, Ukrayna-Rusya Savaşı'nda Karadeniz'in tırmanma alanı haline geldiği uyarısında bulunarak bölgedeki saldırıların uluslararası..."
       },
       {
-        "title": "60 saniyede bugün (23 Kasım 2026)",
+        "title": "AK Parti'den 24 Kasım Öğretmenler Günü'ne özel video paylaşımı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-23-kasim-2026/4134622",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/ak-partiden-24-kasim-ogretmenler-gunune-ozel-video-paylasimi/4135147",
+        "summary": "AK Parti, 24 Kasım Öğretmenler Günü'nü hazırladığı video ile kutladı."
       }
     ]
   }
