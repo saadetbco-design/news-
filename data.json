@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 03:06:48",
+  "updated_at": "2026-11-24 15:26:20",
   "markets": {
     "usd_try_kapalicarsi": "50.62 TL",
     "eur_try_kapalicarsi": "55.29 TL",
@@ -9,11 +9,17 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
-    "bullet_1": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
-    "bullet_2": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
-    "bullet_3": "China’s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
+    "red_alert": "SON DAKİKA: Russia may launch nuke-laden satellite by year’s end, German report warns",
+    "bullet_1": "Russia may launch nuke-laden satellite by year’s end, German report warns",
+    "bullet_2": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+    "bullet_3": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
     "defense_news": [
+      {
+        "title": "Russia may launch nuke-laden satellite by year’s end, German report warns",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/24/russia-may-launch-nuke-laden-satellite-by-years-end-german-report-warns/",
+        "summary": "Russia may place a satellite loaded with a nuclear weapon into orbit by the end of the year, German public media reported, citing intelligence sources."
+      },
       {
         "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
         "source": "DEFENSE NEWS",
@@ -31,38 +37,32 @@
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/11/23/chinas-fourth-aircraft-carrier-bigger-than-others-and-nuclear-powered-nears-completion/",
         "summary": "China’s fourth aircraft carrier, a gigantic vessel known so far as just Type 004, will come out as early as next year bigger than its predecessors and with nuclear power that can l..."
-      },
-      {
-        "title": "Acting Navy Secretary Hung Cao heads to the Hill and the Pentagon fails an audit | Headlines",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/23/acting-navy-secretary-hung-cao-heads-to-the-hill-and-the-pentagon-fails-an-audit-headlines/",
-        "summary": "The acting secretary of the Navy faced tough questions from Senators during his confirmation hearing, while the Pentagon must target fraud following an internal report."
       }
     ],
     "geo_news": [
       {
-        "title": "407 internet sitesine erişim engellendi",
+        "title": "YÖK'ten uluslararası öğrencilere kayıt kolaylığı sağlayacak düzenleme",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/407-internet-sitesine-erisim-engellendi/4135201",
-        "summary": "Ankara İl Jandarma Komutanlığınca yürütülen sanal devriye faaliyetlerinde yasa dışı bahis, dolandırıcılık ve müstehcen içerikli paylaşım yaptığı belirlenen 407 internet sitesine er..."
+        "url": "https://www.aa.com.tr/tr/gundem/yokten-uluslararasi-ogrencilere-kayit-kolayligi-saglayacak-duzenleme/4136021",
+        "summary": "Türkiye'ye giriş amacıyla 30 Kasım'dan önce vize başvurusunda bulunan uluslararası öğrenciler, 30 Aralık'a kadar üniversitelerin lisans programlarına kayıt yaptırabilecek."
       },
       {
-        "title": "Başkentte çeşitli suçlardan aranan 161 hükümlü yakalandı",
+        "title": "60 saniyede bugün (24 Kasım 2026)",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/baskentte-cesitli-suclardan-aranan-161-hukumlu-yakalandi/4135200",
-        "summary": "Ankara'da jandarmanın operasyonlarında çeşitli suçlardan aranan 161 hükümlü yakalandı."
+        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-24-kasim-2026/4135940",
+        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla..."
       },
       {
-        "title": "Türkiye'nin BM Daimi Temsilcisi'nden Karadeniz'deki saldırıların bölgesel istikrarı tehlikeye attığı uyarısı",
+        "title": "Cumhurbaşkanı Erdoğan'dan \"Uluslararası Kafkasya Kongresi\" mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/turkiyenin-bm-daimi-temsilcisinden-karadenizdeki-saldirilarin-bolgesel-istikrari-tehlikeye-attigi-uyarisi/4135154",
-        "summary": "Türkiye'nin BM Daimi Temsilcisi Büyükelçi Ahmet Yıldız, Ukrayna-Rusya Savaşı'nda Karadeniz'in tırmanma alanı haline geldiği uyarısında bulunarak bölgedeki saldırıların uluslararası..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-uluslararasi-kafkasya-kongresi-mesaji/4135948",
+        "summary": "Cumhurbaşkanı Erdoğan, Kafkasya'nın tarihinin Türkiye'nin de tarihi olduğunu belirterek, ortak geçmişten alınan güçle gelecek nesillere barış ve güven içinde yaşayacakları bir bölg..."
       },
       {
-        "title": "AK Parti'den 24 Kasım Öğretmenler Günü'ne özel video paylaşımı",
+        "title": "Ankara'da çöken yolun oluşturduğu çukura hafriyat kamyonu düştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ak-partiden-24-kasim-ogretmenler-gunune-ozel-video-paylasimi/4135147",
-        "summary": "AK Parti, 24 Kasım Öğretmenler Günü'nü hazırladığı video ile kutladı."
+        "url": "https://www.aa.com.tr/tr/gundem/ankarada-coken-yolun-olusturdugu-cukura-hafriyat-kamyonu-dustu/4135879",
+        "summary": "Ankara'da bir alışveriş merkezinin açık otoparkında yolun çökmesi sonucu oluşan çukura hafriyat taşıyan kamyon düştü."
       }
     ]
   }
