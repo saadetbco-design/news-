@@ -1,68 +1,68 @@
 {
-  "updated_at": "2026-11-24 15:26:20",
+  "updated_at": "2026-11-25 01:12:21",
   "markets": {
-    "usd_try_kapalicarsi": "50.62 TL",
-    "eur_try_kapalicarsi": "55.29 TL",
+    "usd_try_kapalicarsi": "50.67 TL",
+    "eur_try_kapalicarsi": "55.53 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Russia may launch nuke-laden satellite by year’s end, German report warns",
-    "bullet_1": "Russia may launch nuke-laden satellite by year’s end, German report warns",
-    "bullet_2": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
-    "bullet_3": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
+    "red_alert": "SON DAKİKA: Ford in talks with the Pentagon to supply military vehicles",
+    "bullet_1": "Ford in talks with the Pentagon to supply military vehicles",
+    "bullet_2": "Coast Guard tests capabilities of new icebreaker with 5-month Arctic mission",
+    "bullet_3": "‘A new competition space’: US Coast Guard takes icebreaker on maiden voyage to the Arctic",
     "defense_news": [
       {
-        "title": "Russia may launch nuke-laden satellite by year’s end, German report warns",
+        "title": "Ford in talks with the Pentagon to supply military vehicles",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/24/russia-may-launch-nuke-laden-satellite-by-years-end-german-report-warns/",
-        "summary": "Russia may place a satellite loaded with a nuclear weapon into orbit by the end of the year, German public media reported, citing intelligence sources."
+        "url": "https://www.defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles/",
+        "summary": "Ford said on Tuesday it has held talks with the Pentagon about supplying military vehicles and other defense products to the U.S. military."
       },
       {
-        "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+        "title": "Coast Guard tests capabilities of new icebreaker with 5-month Arctic mission",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
-        "summary": "While Ukrainian innovators pioneer frontline aerial drone evacuation, DARPA develops AI-assisted robots to find and assess injured troops and civilians. The race to save lives is o..."
+        "url": "https://www.defensenews.com/video/2026/11/24/coast-guard-tests-capabilities-of-new-icebreaker-with-5-month-arctic-mission/",
+        "summary": "U.S. Coast Guard Cutter Storis, the first new American icebreaker in decades, returned from its maiden voyage recently with a list of lessons learned for future missions."
       },
       {
-        "title": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
+        "title": "‘A new competition space’: US Coast Guard takes icebreaker on maiden voyage to the Arctic",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/23/ukraine-strikes-russian-warship-and-cargo-vessel-with-naval-drones-in-libya/",
-        "summary": "Ukrainian president Volodymyr Zelenskyy said seven naval drones were used in the attack, which sank the Russian corvette Merkury."
+        "url": "https://www.defensenews.com/naval/2026/11/24/a-new-competition-space-us-coast-guard-takes-icebreaker-on-maiden-voyage-to-the-arctic/",
+        "summary": "Having a more capable icebreaking ship represents a mission paradigm shift for the U.S. Coast Guard, said the captain of the new cutter."
       },
       {
-        "title": "China’s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
+        "title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/23/chinas-fourth-aircraft-carrier-bigger-than-others-and-nuclear-powered-nears-completion/",
-        "summary": "China’s fourth aircraft carrier, a gigantic vessel known so far as just Type 004, will come out as early as next year bigger than its predecessors and with nuclear power that can l..."
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/24/from-horsepower-to-firepower-japan-draws-auto-suppliers-into-major-arms-buildup/",
+        "summary": "\"Drones are a much better business,” chief executive Takenobu Hongo said of Aster’s embrace of defense contracting, which has long been viewed warily by citizens of a country shape..."
       }
     ],
     "geo_news": [
       {
-        "title": "YÖK'ten uluslararası öğrencilere kayıt kolaylığı sağlayacak düzenleme",
+        "title": "Valiler Kararnamesi Resmi Gazete'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yokten-uluslararasi-ogrencilere-kayit-kolayligi-saglayacak-duzenleme/4136021",
-        "summary": "Türkiye'ye giriş amacıyla 30 Kasım'dan önce vize başvurusunda bulunan uluslararası öğrenciler, 30 Aralık'a kadar üniversitelerin lisans programlarına kayıt yaptırabilecek."
+        "url": "https://www.aa.com.tr/tr/gundem/valiler-kararnamesi-resmi-gazetede/4136485",
+        "summary": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile 14 ilin valisi merkeze çekildi, 41 ilin valisi değişti."
       },
       {
-        "title": "60 saniyede bugün (24 Kasım 2026)",
+        "title": "İstanbul'da ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında 23 zanlı yakalandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-24-kasim-2026/4135940",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasinda-23-zanli-yakalandi/4136467",
+        "summary": "İstanbul'da ünlülere yönelik yürütülen uyuşturucu ve fuhuş soruşturmasında haklarında gözaltı kararı verilen 35 şüpheliden 23'ü gözaltına alındı."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan'dan \"Uluslararası Kafkasya Kongresi\" mesajı",
+        "title": "Bazı illerde kar yağışı etkili oluyor",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogandan-uluslararasi-kafkasya-kongresi-mesaji/4135948",
-        "summary": "Cumhurbaşkanı Erdoğan, Kafkasya'nın tarihinin Türkiye'nin de tarihi olduğunu belirterek, ortak geçmişten alınan güçle gelecek nesillere barış ve güven içinde yaşayacakları bir bölg..."
+        "url": "https://www.aa.com.tr/tr/gundem/bazi-illerde-kar-yagisi-etkili-oluyor/4136461",
+        "summary": "Bazı illerde kar yağışı etkili olurken, ekipler buzla mücadele çalışması yaparak yolları açık tutmaya çalışıyor."
       },
       {
-        "title": "Ankara'da çöken yolun oluşturduğu çukura hafriyat kamyonu düştü",
+        "title": "İletişim Başkanlığından 11. Fon Koordinasyon Kurulu Toplantısı'na ilişkin açıklama",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/ankarada-coken-yolun-olusturdugu-cukura-hafriyat-kamyonu-dustu/4135879",
-        "summary": "Ankara'da bir alışveriş merkezinin açık otoparkında yolun çökmesi sonucu oluşan çukura hafriyat taşıyan kamyon düştü."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-11-fon-koordinasyon-kurulu-toplantisina-iliskin-aciklama/4136403",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, fon tasfiyesinde 1 milyon liraya kadar ara ödeme süreçlerinin son kısım ödemelerinin 27 Kasım Cuma günü tamamlanmasının hedeflendiğini duyurdu..."
       }
     ]
   }
