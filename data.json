@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 01:12:21",
+  "updated_at": "2026-11-25 15:12:31",
   "markets": {
     "usd_try_kapalicarsi": "50.67 TL",
     "eur_try_kapalicarsi": "55.53 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Ford in talks with the Pentagon to supply military vehicles",
-    "bullet_1": "Ford in talks with the Pentagon to supply military vehicles",
-    "bullet_2": "Coast Guard tests capabilities of new icebreaker with 5-month Arctic mission",
-    "bullet_3": "‘A new competition space’: US Coast Guard takes icebreaker on maiden voyage to the Arctic",
+    "red_alert": "SON DAKİKA: US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
+    "bullet_1": "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
+    "bullet_2": "Japan to use Indian ranges for long-range missile training under new pact",
+    "bullet_3": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
     "defense_news": [
       {
-        "title": "Ford in talks with the Pentagon to supply military vehicles",
+        "title": "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles/",
-        "summary": "Ford said on Tuesday it has held talks with the Pentagon about supplying military vehicles and other defense products to the U.S. military."
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/25/us-air-force-buys-final-kc-46-lot-under-boeings-original-tanker-deal/",
+        "summary": "The Pentagon announced a $2.82 billion Boeing contract for 15 more KC-46A Pegasus tankers, the final production lot under the program's original 2011 contract."
       },
       {
-        "title": "Coast Guard tests capabilities of new icebreaker with 5-month Arctic mission",
+        "title": "Japan to use Indian ranges for long-range missile training under new pact",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/24/coast-guard-tests-capabilities-of-new-icebreaker-with-5-month-arctic-mission/",
-        "summary": "U.S. Coast Guard Cutter Storis, the first new American icebreaker in decades, returned from its maiden voyage recently with a list of lessons learned for future missions."
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/25/japan-to-use-indian-ranges-for-long-range-missile-training-under-new-pact/",
+        "summary": "Japanese officials visited India in October to assess whether its missile ranges could accommodate training with anti-ship missiles and smaller attack drones."
       },
       {
-        "title": "‘A new competition space’: US Coast Guard takes icebreaker on maiden voyage to the Arctic",
+        "title": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/naval/2026/11/24/a-new-competition-space-us-coast-guard-takes-icebreaker-on-maiden-voyage-to-the-arctic/",
-        "summary": "Having a more capable icebreaking ship represents a mission paradigm shift for the U.S. Coast Guard, said the captain of the new cutter."
+        "url": "https://www.defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target/",
+        "summary": "The numbers cannot be found in this year’s Italian defense budget, but the country has achieved a promised spending total on defense and domestic security equal to 2.8% of GDP in 2..."
       },
       {
-        "title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
+        "title": "Czech jet engine maker eyes growing role as US supplier in drones, missiles",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/24/from-horsepower-to-firepower-japan-draws-auto-suppliers-into-major-arms-buildup/",
-        "summary": "\"Drones are a much better business,” chief executive Takenobu Hongo said of Aster’s embrace of defense contracting, which has long been viewed warily by citizens of a country shape..."
+        "url": "https://www.defensenews.com/global/europe/2026/11/25/czech-jet-engine-maker-eyes-growing-role-as-us-supplier-in-drones-missiles/",
+        "summary": "Czech jet engine producer PBS Aerospace aims to expand its manufacturing capacity in the United States, targeting at least a twofold increase in its production capacity there."
       }
     ],
     "geo_news": [
       {
-        "title": "Valiler Kararnamesi Resmi Gazete'de",
+        "title": "MEB'in yapay zeka çalışmalarına \"Gartner Eye on Innovation\" ödülü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/valiler-kararnamesi-resmi-gazetede/4136485",
-        "summary": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile 14 ilin valisi merkeze çekildi, 41 ilin valisi değişti."
+        "url": "https://www.aa.com.tr/tr/gundem/mebin-yapay-zeka-calismalarina-gartner-eye-on-innovation-odulu/4137675",
+        "summary": "Milli Eğitim Bakanlığı (MEB), yapay zekanın eğitim süreçlerinde etkili ve güvenli biçimde kullanılmasına yönelik çalışmalarıyla 2026 Gartner Eye on Innovation Awards for Education'..."
       },
       {
-        "title": "İstanbul'da ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında 23 zanlı yakalandı",
+        "title": "60 saniyede bugün (25 Kasım 2026)",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbulda-unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasinda-23-zanli-yakalandi/4136467",
-        "summary": "İstanbul'da ünlülere yönelik yürütülen uyuşturucu ve fuhuş soruşturmasında haklarında gözaltı kararı verilen 35 şüpheliden 23'ü gözaltına alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-25-kasim-2026/4137524",
+        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla..."
       },
       {
-        "title": "Bazı illerde kar yağışı etkili oluyor",
+        "title": "MHP'de izleme komisyonu üyeleri belli oldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bazi-illerde-kar-yagisi-etkili-oluyor/4136461",
-        "summary": "Bazı illerde kar yağışı etkili olurken, ekipler buzla mücadele çalışması yaparak yolları açık tutmaya çalışıyor."
+        "url": "https://www.aa.com.tr/tr/gundem/mhpde-izleme-komisyonu-uyeleri-belli-oldu/4137653",
+        "summary": "MHP, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun kapsamında TBMM'de kurulacak \"izleme komisyonu\"na, Genel Başkan Yardımcısı Feti Yıldız ile Sakarya Mill..."
       },
       {
-        "title": "İletişim Başkanlığından 11. Fon Koordinasyon Kurulu Toplantısı'na ilişkin açıklama",
+        "title": "Cumhurbaşkanı Erdoğan, Libya Ulusal Ordusu Genel Komutanı Hafter'i kabul etti",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-11-fon-koordinasyon-kurulu-toplantisina-iliskin-aciklama/4136403",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, fon tasfiyesinde 1 milyon liraya kadar ara ödeme süreçlerinin son kısım ödemelerinin 27 Kasım Cuma günü tamamlanmasının hedeflendiğini duyurdu..."
+        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-libya-ulusal-ordusu-genel-komutani-hafteri-kabul-etti/4137618",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Libya Ulusal Ordusu Genel Komutanı Mareşal Halife Hafter ve beraberindeki heyeti kabul etti."
       }
     ]
   }
