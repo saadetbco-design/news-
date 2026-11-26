@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-26 00:47:08",
+  "updated_at": "2026-11-26 14:37:06",
   "markets": {
-    "usd_try_kapalicarsi": "50.67 TL",
-    "eur_try_kapalicarsi": "55.53 TL",
+    "usd_try_kapalicarsi": "50.72 TL",
+    "eur_try_kapalicarsi": "55.61 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "İstanbul Valisi Gül'den sokakta kalan vatandaşların 112'ye bildirilmesi çağrısı",
+        "title": "Milli Eğitim Bakanı Tekin, UNESCO Genel Direktörü El-Enany ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gulden-sokakta-kalan-vatandaslarin-112ye-bildirilmesi-cagrisi/4138067",
-        "summary": "İstanbul Valisi Davut Gül, kentte hava sıcaklığının gece 2 dereceye kadar düşmesinin beklendiğine işaret ederek, sokakta kalan ve barınmaya ihtiyaç duyan vatandaşların 112 Acil Çağ..."
+        "url": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-unesco-genel-direktoru-el-enany-ile-gorustu/4138890",
+        "summary": "Görüşmede, Türkiye ile UNESCO arasındaki mevcut işbirliğinin güçlendirilmesi, eğitim alanında yürütülen ortak çalışmalar ve geleceğe yönelik işbirliği imkanları ele alındı."
       },
       {
-        "title": "Sağlık Bakanı Memişoğlu Çin'in Ankara Büyükelçisi Xuebin ile görüştü",
+        "title": "60 saniyede bugün (26 Kasım 2026)",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-cinin-ankara-buyukelcisi-xuebin-ile-gorustu/4138063",
-        "summary": "Sağlık Bakanı Kemal Memişoğlu, Çin'in Ankara Büyükelçisi Jiang Xuebin ile bir araya geldi."
+        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-26-kasim-2026/4138726",
+        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla..."
       },
       {
-        "title": "Muhabirler Derneği'nin 2026 ödülleri sahiplerini buldu",
+        "title": "YÖK'ten öğrenci affına ilişkin yeni karar",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/muhabirler-derneginin-2026-odulleri-sahiplerini-buldu/4137910",
-        "summary": "Muhabirler Derneğinin 2026 ödülleri, İçişleri Bakanı Mustafa Çiftçi'nin katılımıyla Ankara'da düzenlenen törenle sahiplerini buldu."
+        "url": "https://www.aa.com.tr/tr/gundem/yokten-ogrenci-affina-iliskin-yeni-karar/4138891",
+        "summary": "Karara göre, 2026 DGS, Teknik Öğretmenler İçin Mühendislik Tamamlama ve Sağlık Lisans Tamamlama kapsamında kayıt hakkı elde eden ancak normal ve mazeret kayıt süreleri içerisinde k..."
       },
       {
-        "title": "ANTRAY, COP31'de günde 130 bin yolcu taşıdı",
+        "title": "Karabağ Zafer Günü Ankara'da kutlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/antray-cop31de-gunde-130-bin-yolcu-tasidi/4137869",
-        "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) süresinde, hafif raylı sistem ANTRAY günlük ortalama 130 bin yol..."
+        "url": "https://www.aa.com.tr/tr/gundem/karabag-zafer-gunu-ankarada-kutlandi/4138804",
+        "summary": "Karabağ Zaferi'nin 6. yıl dönümü, başkent Ankara'da düzenlenen etkinlikle kutlandı."
       }
     ]
   }
