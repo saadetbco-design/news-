@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 15:12:31",
+  "updated_at": "2026-11-26 00:47:08",
   "markets": {
     "usd_try_kapalicarsi": "50.67 TL",
     "eur_try_kapalicarsi": "55.53 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
-    "bullet_1": "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
-    "bullet_2": "Japan to use Indian ranges for long-range missile training under new pact",
-    "bullet_3": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
+    "red_alert": "SON DAKİKA: Carla Babb Named Head of Content for Military Times and Defense News",
+    "bullet_1": "Carla Babb Named Head of Content for Military Times and Defense News",
+    "bullet_2": "Estimates of Russians killed in Ukraine surpass all combined US war deaths since WWI",
+    "bullet_3": "Blast heard, smoke seen rising over farmland near Iowa Army lead azide detonation site",
     "defense_news": [
+      {
+        "title": "Carla Babb Named Head of Content for Military Times and Defense News",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news/",
+        "summary": "Carla Babb is joining Military Times and Defense News as our new Head of Content. In nearly two decades covering national security and international affairs, Babb has earned a repu..."
+      },
+      {
+        "title": "Estimates of Russians killed in Ukraine surpass all combined US war deaths since WWI",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi/",
+        "summary": "More than 700,000 Russian soldiers have been killed in the war in Ukraine since Russia launched its full-scale war against the nation nearly five years ago."
+      },
+      {
+        "title": "Blast heard, smoke seen rising over farmland near Iowa Army lead azide detonation site",
+        "source": "DEFENSE NEWS",
+        "url": "https://www.defensenews.com/video/2026/11/25/blast-heard-smoke-seen-rising-over-farmland-near-iowa-army-lead-azide-detonation-site/",
+        "summary": "The Army went ahead with its planned detonation of volatile lead azide reserves Wednesday morning, according to the service."
+      },
       {
         "title": "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
         "source": "DEFENSE NEWS",
         "url": "https://www.defensenews.com/industry/techwatch/2026/11/25/us-air-force-buys-final-kc-46-lot-under-boeings-original-tanker-deal/",
         "summary": "The Pentagon announced a $2.82 billion Boeing contract for 15 more KC-46A Pegasus tankers, the final production lot under the program's original 2011 contract."
-      },
-      {
-        "title": "Japan to use Indian ranges for long-range missile training under new pact",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/25/japan-to-use-indian-ranges-for-long-range-missile-training-under-new-pact/",
-        "summary": "Japanese officials visited India in October to assess whether its missile ranges could accommodate training with anti-ship missiles and smaller attack drones."
-      },
-      {
-        "title": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target/",
-        "summary": "The numbers cannot be found in this year’s Italian defense budget, but the country has achieved a promised spending total on defense and domestic security equal to 2.8% of GDP in 2..."
-      },
-      {
-        "title": "Czech jet engine maker eyes growing role as US supplier in drones, missiles",
-        "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/25/czech-jet-engine-maker-eyes-growing-role-as-us-supplier-in-drones-missiles/",
-        "summary": "Czech jet engine producer PBS Aerospace aims to expand its manufacturing capacity in the United States, targeting at least a twofold increase in its production capacity there."
       }
     ],
     "geo_news": [
       {
-        "title": "MEB'in yapay zeka çalışmalarına \"Gartner Eye on Innovation\" ödülü",
+        "title": "İstanbul Valisi Gül'den sokakta kalan vatandaşların 112'ye bildirilmesi çağrısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mebin-yapay-zeka-calismalarina-gartner-eye-on-innovation-odulu/4137675",
-        "summary": "Milli Eğitim Bakanlığı (MEB), yapay zekanın eğitim süreçlerinde etkili ve güvenli biçimde kullanılmasına yönelik çalışmalarıyla 2026 Gartner Eye on Innovation Awards for Education'..."
+        "url": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gulden-sokakta-kalan-vatandaslarin-112ye-bildirilmesi-cagrisi/4138067",
+        "summary": "İstanbul Valisi Davut Gül, kentte hava sıcaklığının gece 2 dereceye kadar düşmesinin beklendiğine işaret ederek, sokakta kalan ve barınmaya ihtiyaç duyan vatandaşların 112 Acil Çağ..."
       },
       {
-        "title": "60 saniyede bugün (25 Kasım 2026)",
+        "title": "Sağlık Bakanı Memişoğlu Çin'in Ankara Büyükelçisi Xuebin ile görüştü",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-25-kasim-2026/4137524",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-cinin-ankara-buyukelcisi-xuebin-ile-gorustu/4138063",
+        "summary": "Sağlık Bakanı Kemal Memişoğlu, Çin'in Ankara Büyükelçisi Jiang Xuebin ile bir araya geldi."
       },
       {
-        "title": "MHP'de izleme komisyonu üyeleri belli oldu",
+        "title": "Muhabirler Derneği'nin 2026 ödülleri sahiplerini buldu",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/mhpde-izleme-komisyonu-uyeleri-belli-oldu/4137653",
-        "summary": "MHP, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun kapsamında TBMM'de kurulacak \"izleme komisyonu\"na, Genel Başkan Yardımcısı Feti Yıldız ile Sakarya Mill..."
+        "url": "https://www.aa.com.tr/tr/gundem/muhabirler-derneginin-2026-odulleri-sahiplerini-buldu/4137910",
+        "summary": "Muhabirler Derneğinin 2026 ödülleri, İçişleri Bakanı Mustafa Çiftçi'nin katılımıyla Ankara'da düzenlenen törenle sahiplerini buldu."
       },
       {
-        "title": "Cumhurbaşkanı Erdoğan, Libya Ulusal Ordusu Genel Komutanı Hafter'i kabul etti",
+        "title": "ANTRAY, COP31'de günde 130 bin yolcu taşıdı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-libya-ulusal-ordusu-genel-komutani-hafteri-kabul-etti/4137618",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Libya Ulusal Ordusu Genel Komutanı Mareşal Halife Hafter ve beraberindeki heyeti kabul etti."
+        "url": "https://www.aa.com.tr/tr/gundem/antray-cop31de-gunde-130-bin-yolcu-tasidi/4137869",
+        "summary": "Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) süresinde, hafif raylı sistem ANTRAY günlük ortalama 130 bin yol..."
       }
     ]
   }
