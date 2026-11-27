@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-26 14:37:06",
+  "updated_at": "2026-11-27 00:54:12",
   "markets": {
-    "usd_try_kapalicarsi": "50.72 TL",
-    "eur_try_kapalicarsi": "55.61 TL",
+    "usd_try_kapalicarsi": "50.74 TL",
+    "eur_try_kapalicarsi": "55.68 TL",
     "gram_altin_kapalicarsi": "6,150 TL",
     "bist100": "13,270.00",
     "aselsan": "338.25 TL"
@@ -41,28 +41,28 @@
     ],
     "geo_news": [
       {
-        "title": "Milli Eğitim Bakanı Tekin, UNESCO Genel Direktörü El-Enany ile görüştü",
+        "title": "Bakanlık ve kamu kurumlarına ilişkin atama ile Yargıtay üyeliği kararları Resmi Gazete'de",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-unesco-genel-direktoru-el-enany-ile-gorustu/4138890",
-        "summary": "Görüşmede, Türkiye ile UNESCO arasındaki mevcut işbirliğinin güçlendirilmesi, eğitim alanında yürütülen ortak çalışmalar ve geleceğe yönelik işbirliği imkanları ele alındı."
+        "url": "https://www.aa.com.tr/tr/gundem/bakanlik-ve-kamu-kurumlarina-iliskin-atama-ile-yargitay-uyeligi-kararlari-resmi-gazetede/4139867",
+        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla bazı bakanlık ve kamu kurumlarına ilişkin atama kararları Resmi Gazete'de yayımlanırken, Hakimler ve Savcılar Kurulu (HSK) Genel Kur..."
       },
       {
-        "title": "60 saniyede bugün (26 Kasım 2026)",
+        "title": "Bankacılık Düzenleme ve Denetleme Kurumunun Başkanlığına Yusuf Kenan Bağır atandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-26-kasim-2026/4138726",
-        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla..."
+        "url": "https://www.aa.com.tr/tr/gundem/bankacilik-duzenleme-ve-denetleme-kurumunun-baskanligina-yusuf-kenan-bagir-atandi/4139858",
+        "summary": "Bankacılık Düzenleme ve Denetleme Kurumunun (BDDK) Başkanlığına Yusuf Kenan Bağır getirildi."
       },
       {
-        "title": "YÖK'ten öğrenci affına ilişkin yeni karar",
+        "title": "İletişim Başkanı Duran'dan Avrupa Parlamentosu'nun Türkiye-Libya mutabakatına ilişkin kararına tepki",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/yokten-ogrenci-affina-iliskin-yeni-karar/4138891",
-        "summary": "Karara göre, 2026 DGS, Teknik Öğretmenler İçin Mühendislik Tamamlama ve Sağlık Lisans Tamamlama kapsamında kayıt hakkı elde eden ancak normal ve mazeret kayıt süreleri içerisinde k..."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-avrupa-parlamentosunun-turkiye-libya-mutabakatina-iliskin-kararina-tepki/4139616",
+        "summary": "İletişim Başkanı Duran, Avrupa Parlamentosu'nun Türkiye ile Libya arasında 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkında kabul ..."
       },
       {
-        "title": "Karabağ Zafer Günü Ankara'da kutlandı",
+        "title": "İletişim Başkanı Duran'dan Kurra Hafız Ali Kemal Hut için taziye mesajı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/karabag-zafer-gunu-ankarada-kutlandi/4138804",
-        "summary": "Karabağ Zaferi'nin 6. yıl dönümü, başkent Ankara'da düzenlenen etkinlikle kutlandı."
+        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-kurra-hafiz-ali-kemal-hut-icin-taziye-mesaji/4139590",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, vefat eden Kurra Hafız Ali Kemal Hut için taziye mesajı yayımladı."
       }
     ]
   }
