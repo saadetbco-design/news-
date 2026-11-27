@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 00:54:12",
+  "updated_at": "2026-11-27 14:31:13",
   "markets": {
     "usd_try_kapalicarsi": "50.74 TL",
     "eur_try_kapalicarsi": "55.68 TL",
@@ -9,60 +9,60 @@
   },
   "briefing": {
     "greeting": "Günaydın Saadet. Canlı Akış Aktif.",
-    "red_alert": "SON DAKİKA: Carla Babb Named Head of Content for Military Times and Defense News",
-    "bullet_1": "Carla Babb Named Head of Content for Military Times and Defense News",
-    "bullet_2": "Estimates of Russians killed in Ukraine surpass all combined US war deaths since WWI",
-    "bullet_3": "Blast heard, smoke seen rising over farmland near Iowa Army lead azide detonation site",
+    "red_alert": "SON DAKİKA: Hackers breach US Air Force flagship Cloud One computing platform",
+    "bullet_1": "Hackers breach US Air Force flagship Cloud One computing platform",
+    "bullet_2": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+    "bullet_3": "Leonardo rolls out first M-346 jet for Italy’s Air Force stunt flying unit",
     "defense_news": [
       {
-        "title": "Carla Babb Named Head of Content for Military Times and Defense News",
+        "title": "Hackers breach US Air Force flagship Cloud One computing platform",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news/",
-        "summary": "Carla Babb is joining Military Times and Defense News as our new Head of Content. In nearly two decades covering national security and international affairs, Babb has earned a repu..."
+        "url": "https://www.defensenews.com/pentagon/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/",
+        "summary": "Hackers have reportedly breached the service's flagship cloud computing platform, in a development that could jeopardize a vast swathe of tactical, personnel and logistics data."
       },
       {
-        "title": "Estimates of Russians killed in Ukraine surpass all combined US war deaths since WWI",
+        "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi/",
-        "summary": "More than 700,000 Russian soldiers have been killed in the war in Ukraine since Russia launched its full-scale war against the nation nearly five years ago."
+        "url": "https://www.defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
+        "summary": "While Ukrainian innovators pioneer frontline aerial drone evacuation, DARPA develops AI-assisted robots to find and assess injured troops and civilians. The race to save lives is o..."
       },
       {
-        "title": "Blast heard, smoke seen rising over farmland near Iowa Army lead azide detonation site",
+        "title": "Leonardo rolls out first M-346 jet for Italy’s Air Force stunt flying unit",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/video/2026/11/25/blast-heard-smoke-seen-rising-over-farmland-near-iowa-army-lead-azide-detonation-site/",
-        "summary": "The Army went ahead with its planned detonation of volatile lead azide reserves Wednesday morning, according to the service."
+        "url": "https://www.defensenews.com/global/europe/2026/11/27/leonardo-rolls-out-first-m-346-jet-for-italys-air-force-stunt-flying-unit/",
+        "summary": "The M-346 jets configured for display team flying will be delivered to the Frecce Tricolori team between 2027 and 2028, Leonardo said in a statement."
       },
       {
-        "title": "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
+        "title": "France kicks off defense-industry pact to build up counter-drone efforts",
         "source": "DEFENSE NEWS",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/25/us-air-force-buys-final-kc-46-lot-under-boeings-original-tanker-deal/",
-        "summary": "The Pentagon announced a $2.82 billion Boeing contract for 15 more KC-46A Pegasus tankers, the final production lot under the program's original 2011 contract."
+        "url": "https://www.defensenews.com/global/europe/2026/11/27/france-kicks-off-defense-industry-pact-to-build-up-counter-drone-efforts/",
+        "summary": "The wars in Ukraine and the Middle East have been a “quite brutal reality check,” and French forces have an urgent need for counter-drone capabilities, said Alice Rufo, France’s ju..."
       }
     ],
     "geo_news": [
       {
-        "title": "Bakanlık ve kamu kurumlarına ilişkin atama ile Yargıtay üyeliği kararları Resmi Gazete'de",
+        "title": "Trabzon'da taşkın ve heyelan meydana gelen yol için alternatif güzergahlar belirlendi",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bakanlik-ve-kamu-kurumlarina-iliskin-atama-ile-yargitay-uyeligi-kararlari-resmi-gazetede/4139867",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla bazı bakanlık ve kamu kurumlarına ilişkin atama kararları Resmi Gazete'de yayımlanırken, Hakimler ve Savcılar Kurulu (HSK) Genel Kur..."
+        "url": "https://www.aa.com.tr/tr/gundem/trabzonda-taskin-ve-heyelan-meydana-gelen-yol-icin-alternatif-guzergahlar-belirlendi/4140571",
+        "summary": "Trabzon'un Beşikdüzü ilçesine bağlı Yeşilköy Mahallesi'nde meydana gelen heyelan ve taşkın nedeniyle Şalpazarı ilçesine alternatif güzergahlardan ulaşım sağlanacak."
       },
       {
-        "title": "Bankacılık Düzenleme ve Denetleme Kurumunun Başkanlığına Yusuf Kenan Bağır atandı",
+        "title": "60 saniyede bugün (27 Kasım 2026)",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/bankacilik-duzenleme-ve-denetleme-kurumunun-baskanligina-yusuf-kenan-bagir-atandi/4139858",
-        "summary": "Bankacılık Düzenleme ve Denetleme Kurumunun (BDDK) Başkanlığına Yusuf Kenan Bağır getirildi."
+        "url": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-27-kasim-2026-/4140468",
+        "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla..."
       },
       {
-        "title": "İletişim Başkanı Duran'dan Avrupa Parlamentosu'nun Türkiye-Libya mutabakatına ilişkin kararına tepki",
+        "title": "Bina Yangın Yönetmeliği Resmi Gazete'de yayımlandı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-avrupa-parlamentosunun-turkiye-libya-mutabakatina-iliskin-kararina-tepki/4139616",
-        "summary": "İletişim Başkanı Duran, Avrupa Parlamentosu'nun Türkiye ile Libya arasında 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkında kabul ..."
+        "url": "https://www.aa.com.tr/tr/gundem/bina-yangin-yonetmeligi-resmi-gazetede-yayimlandi/4140511",
+        "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca hazırlanan Bina Yangın Yönetmeliği Resmi Gazete'de yayımlandı."
       },
       {
-        "title": "İletişim Başkanı Duran'dan Kurra Hafız Ali Kemal Hut için taziye mesajı",
+        "title": "AKOM'dan İstanbul için soğuk hava uyarısı",
         "source": "AA GÜNDEM",
-        "url": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-kurra-hafiz-ali-kemal-hut-icin-taziye-mesaji/4139590",
-        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, vefat eden Kurra Hafız Ali Kemal Hut için taziye mesajı yayımladı."
+        "url": "https://www.aa.com.tr/tr/gundem/akomdan-istanbul-icin-soguk-hava-uyarisi/4140472",
+        "summary": "İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM), kentte cumartesi gece saatlerinden itibaren Sibirya kökenli soğuk hava dalgasının etkili olacağını bildirdi."
       }
     ]
   }
